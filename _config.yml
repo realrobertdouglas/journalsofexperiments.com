@@ -1,0 +1,39 @@
+# Site settings — edit these to make it yours
+title: Journals of Experiments
+description: A personal journal. Notes from the lab.
+author: Robert Douglas
+url: "https://journalsofexperiments.com"
+baseurl: ""
+timezone: America/Chicago
+lang: en
+
+# Theme (built into GitHub Pages, no build setup needed)
+theme: minima
+show_excerpts: true
+header_pages:
+  - about.md
+  - archive.md
+
+# Plugins (all supported natively by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Entries live in _posts/ as YYYY-MM-DD-title.md
+permalink: /:year/:month/:day/:title/
+excerpt_separator: "<!--more-->"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - new-entry.sh
+  - vendor/
