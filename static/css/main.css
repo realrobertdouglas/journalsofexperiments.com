@@ -88,6 +88,7 @@ html[data-theme="dark"] a.site-wordmark:hover {
   margin: 4px 0 14px;
   font-size: 13px;
   font-style: italic;
+  text-wrap: balance; /* even lines, so a long tagline never strands one word on the last line */
 }
 /* Sister sites (default.html): a hairline under the search box, then two quiet links */
 .sidebar-sites {
