@@ -1,0 +1,82 @@
+/* The compass over the continents, in the sidebar ring (markup in _layouts/default.html).
+   The globe's world map, drawn at twice its size, slides east without stopping while its latitude
+   swings up to the arctic and back down like a satellite's ground track; the map stays north-up.
+   The needle holds north with a faint tremor and spins only while the arctic fills the top of the
+   ring. The ring and everything in it take one colour; main.css sets the dark-mode shade on .globe. */
+.globe {
+  color: #2d7f43;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  height: 140px;
+  overflow: hidden;
+  position: relative;
+  width: 140px;
+  margin: 0 auto 16px; /* centred over the wordmark, in the same block */
+}
+.globe .track {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1094px;
+  height: 280px;
+  opacity: 0.5;
+  animation: east 48s linear infinite; /* one world per pass; the strip holds the world twice, so the loop is seamless */
+}
+.globe .lat {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1094px;
+  height: 280px;
+  animation: lat 24s ease-in-out infinite alternate; /* north to the arctic, then south, over one pass */
+}
+.globe .map {
+  display: block;
+  width: 1094px;
+  height: 280px;
+}
+.globe .dial {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.globe .needle {
+  transform-origin: 70px 70px;
+  animation: needle 48s linear infinite; /* the spin sits at the middle of the pass, when the arctic is at the top */
+}
+.globe .wobble {
+  transform-origin: 70px 70px;
+  animation: wobble 2.6s ease-in-out infinite alternate;
+}
+.globe .pivot-hole {
+  fill: #fafaf8;
+}
+html[data-theme="dark"] .globe .pivot-hole {
+  fill: #16181a;
+}
+
+@keyframes east {
+  from { transform: translateX(-547px); }
+  to { transform: translateX(0); }
+}
+@keyframes lat {
+  from { transform: translateY(-100px); }
+  to { transform: translateY(0); }
+}
+@keyframes needle {
+  0%, 40% { transform: rotate(0deg); }
+  44% { transform: rotate(-25deg); }
+  48% { transform: rotate(130deg); }
+  52% { transform: rotate(600deg); }
+  56% { transform: rotate(1040deg); }
+  60%, 100% { transform: rotate(1080deg); } /* three full turns, so it ends on north */
+}
+@keyframes wobble {
+  from { transform: rotate(-2deg); }
+  to { transform: rotate(2deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .globe .track, .globe .lat, .globe .needle, .globe .wobble { animation: none; }
+}
