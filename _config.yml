@@ -1,8 +1,8 @@
-title: Journal of Experiments
-description: Recounts of other people's experiments and the lessons they learned from them.
+title: "Journal of Experiments"
+description: "Recounts of other people's experiments and the lessons they learned from them."
 author: Robert Douglas
 github: https://github.com/realrobertdouglas
-tagline: Other people's experiments, and what they taught.
+tagline: "Other people's experiments, and what they taught."
 
 enableTags: true
 tagarray: []
