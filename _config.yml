@@ -1,39 +1,47 @@
-# Site settings — edit these to make it yours
-title: Journals of Experiments
-description: A personal journal. Notes from the lab.
+title: Journal of Experiments
+description: Recounts of other people's experiments and the lessons they learned from them.
 author: Robert Douglas
+github: https://github.com/realrobertdouglas
+tagline: Other people's experiments, and what they taught.
+
+enableTags: true
+tagarray: []
+
+# Every file in _posts is an entry; the post layout shows its date and categories
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post, comments: false }
+
+social: []
+
+share:
+  twitter_username:
+  fb_appid: ""
+
 url: "https://journalsofexperiments.com"
 baseurl: ""
-timezone: America/Chicago
-lang: en
 
-# Theme (built into GitHub Pages, no build setup needed)
-theme: minima
-show_excerpts: true
-header_pages:
-  - about.md
-  - archive.md
+markdown: kramdown
 
-# Plugins (all supported natively by GitHub Pages)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Entries live in _posts/ as YYYY-MM-DD-title.md
-permalink: /:year/:month/:day/:title/
-excerpt_separator: "<!--more-->"
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-
+# Files kept in the repo but not published. Setting this replaces Jekyll's own list,
+# so its defaults (Gemfile ... vendor, and CNAME from GitHub Pages) are repeated here.
 exclude:
+  - new-entry.sh
+  - README.md
+  - CNAME
   - Gemfile
   - Gemfile.lock
-  - README.md
-  - new-entry.sh
-  - vendor/
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
+# UTC matches the GitHub Pages build, so post dates and URLs are the same locally and live
+timezone: UTC

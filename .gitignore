@@ -1,7 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+_site*
+.sass-cache
 .jekyll-metadata
-vendor/
-Gemfile.lock
-.DS_Store
+*backup/
+.obsidian/config
+.obsidian/workspace
