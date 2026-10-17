@@ -53,8 +53,11 @@ a:hover {
   margin: 18px 0 0;
   line-height: 1;
 }
-.site-wordmark,
-.site-wordmark:hover {
+/* Selectors carry a:link's weight so the wordmark keeps the text color, not the link green */
+a.site-wordmark,
+a.site-wordmark:link,
+a.site-wordmark:visited,
+a.site-wordmark:hover {
   display: block;
   color: #333;
   text-decoration: none;
@@ -75,8 +78,10 @@ a:hover {
   letter-spacing: 0.32em;
   text-transform: uppercase;
 }
-html[data-theme="dark"] .site-wordmark,
-html[data-theme="dark"] .site-wordmark:hover {
+html[data-theme="dark"] a.site-wordmark,
+html[data-theme="dark"] a.site-wordmark:link,
+html[data-theme="dark"] a.site-wordmark:visited,
+html[data-theme="dark"] a.site-wordmark:hover {
   color: #e0e0e0;
 }
 .sidebar-intro .tagline {
