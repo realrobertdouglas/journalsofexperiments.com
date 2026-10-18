@@ -495,3 +495,8 @@ html[data-theme="dark"] div.post-content .btn-tags.active:hover {
 html[data-theme="dark"] div.post-content .btn-tags:focus-visible {
   outline-color: #5cc474;
 }
+
+/* Figures in entries: a full-width image with a small caption under it */
+.content figure { margin: 1.6em 0; }
+.content figure img { display: block; width: 100%; height: auto; }
+.content figcaption { margin-top: .5em; font-size: .85em; line-height: 1.4; opacity: .75; }
