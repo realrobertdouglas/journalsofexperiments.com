@@ -7,10 +7,20 @@ tagline: "Other people's experiments, and what they taught."
 enableTags: true
 tagarray: []
 
-# Every file in _posts is an entry; the post layout shows its date and categories
+# Every file in _posts is an entry; the post layout shows its date and categories.
+# _deeper/<entry slug>/<piece>.md is a companion piece that goes deeper on one part of that entry:
+# the entry lists its companions under "Go deeper" and each companion links back (layout: deeper.html).
+# They are not in the front-page list or the feed; search and the sitemap include them.
+collections:
+  deeper:
+    output: true
+    permalink: "/deeper/:path/"
+
 defaults:
   - scope: { path: "", type: posts }
     values: { layout: post, comments: false }
+  - scope: { path: "", type: deeper }
+    values: { layout: deeper, comments: false }
 
 social: []
 

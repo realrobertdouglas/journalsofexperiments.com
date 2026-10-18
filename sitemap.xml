@@ -15,6 +15,11 @@ layout: null
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   </url>
   {% endfor %}
+  {% for piece in site.deeper %}
+  <url>
+    <loc>{{ site.url }}{{ piece.url }}</loc>
+  </url>
+  {% endfor %}
   {% for page in site.pages %}{% if page.layout == "posts_by_category" %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>

@@ -1,0 +1,50 @@
+---
+title:  "Healthy starvation"
+subtitle: "Roy Walford, forty years of underfed mice, eight underfed people, and what the trials that followed made of it."
+parent: two-years-under-glass
+order: 3
+date:   2026-10-18 00:00:00 +0000
+---
+
+Of the eight people who went into Biosphere 2, one went in with an experiment of his own already designed. Roy Walford was sixty-seven, a professor of pathology at UCLA, and for most of his career he had been feeding mice less than they wanted and watching them live longer than they should. The effect had been known since the 1930s, when Clive McCay at Cornell found that rats kept on a restricted diet lived far past the normal span; Walford had spent the decades since showing that it held in mice, that it delayed the diseases of age as well as death, and that the immune system aged more slowly on less food. He had written two books urging people to try it, *Maximum Life Span* in 1983 and *The 120-Year Diet* in 1986. What he had never had was eight healthy humans, locked in a room for two years, eating only what could be weighed.
+
+He had expected a modest trial: a nutrient-dense diet somewhat lower in calories than the crew would have chosen. The farm decided otherwise. Behind glass that took half the light, in two of the cloudiest winters Arizona had seen, with broad mites destroying the white potatoes and nematodes in the roots, the quarter-hectare of crops produced about 83 percent of what eight working adults needed. The rest came from seed stock and from a reserve of grain and beans put inside before closure. Walford's experiment became severe because there was no alternative, and that is the first thing to know about it: the one study in Biosphere 2 that ran exactly as a scientist would have wished was the one nobody chose to run so hard.
+
+## The ration
+
+Sally Silverstone, the food systems manager, weighed out each day's food for whoever's turn it was to cook, and everyone got the same amount regardless of size. In the first six months the average was about 1,780 calories a day, ten percent of them from fat. Over the two years, as the eight became better farmers and planted every spare square metre, intake rose to an average near 2,200, with about 73 grams of protein and 32 grams of fat per person per day; fat crept from 12 percent of calories toward 20 by the end.
+
+Eighty-six crops went into it. The staples were sweet potatoes, which replaced the potatoes the mites took, lablab beans for the same reason, rice, wheat, sorghum and taro; peanuts were the main source of fat; there were beets, chilli, tomatoes, squash, greens, bananas and papaya. African pygmy goats gave milk that became cheese and yoghurt, the chickens gave eggs, and the goats, chickens, Ossabaw pigs and tilapia from the rice paddies gave about a quarter of a pound of meat per person per week.
+
+Cooking rotated, each person doing all three meals every eighth day, and the standard of that day's cooking, Silverstone and Nelson wrote, set the mood of the crew. Food took about 45 percent of all working hours. Holidays were feasts. Between them, everyone was hungry.
+
+## The numbers
+
+Walford drew blood and published from inside, in the *Proceedings of the National Academy of Sciences* in December 1992, after six months. The men had gone from an average of 74 kilograms to 62, the women from 61 to 54. Blood pressure had fallen from 109 over 74 to 89 over 58. Total cholesterol had dropped from 191 to 123 milligrams per decilitre, a 36 percent fall; fasting glucose from 92 to 74; the white cell count from 6.7 to 4.7 billion per litre.
+
+The two-year accounts filled the picture in. Body mass index fell 19 percent in the men and 13 percent in the women, stabilised in the second year, and rose slightly toward the end. Triglycerides fell 42 percent and reached their lowest point just before exit. LDL cholesterol fell from 105 to a low of 58. HDL, the fraction doctors like to see high, fell too, from 60 to 26, which alarms anyone who reads that number alone; Walford judged by the ratio of the two, which improved, and by the whole pattern, which he said matched the restricted animals point for point. Insulin fell by about 42 percent. Walford's judgement in the final paper was that the changes resembled, point for point, those seen in calorie-restricted rodents and monkeys. He called the regimen "healthy starvation", and he meant both words.
+
+Then they walked out. Within six months of exit, eating freely, the crew had regained their weight to pre-entry levels and their cholesterol and triglycerides had returned to where they started. What did not return was their energy expenditure: a study of the eight six months after the mission found that they burned fewer calories and moved less than matched controls, their bodies still set to famine. The diet had done in two years what the mice do in a lifetime, and undid itself in half a year of ordinary eating.
+
+## What it could not show
+
+Walford knew the study's limits and wrote them down: eight subjects, no proper baseline measured before they went in, a design that had arisen by accident. There were confounders a laboratory would never allow. The crew worked 66-hour weeks of physical labour, which no sedentary calorie-restricted animal does. For the second half of the mission they were breathing air with a third less oxygen than normal. They were under a psychological strain that split them into two camps by the sixth month. And the thing the mice never report, the hunger itself, was by every account relentless. Jane Poynter has said it was the constant companion of the two years. None of that invalidates the blood work. It means the blood work tells you what severe restriction does to the body of a hungry, hard-working, oxygen-starved human, which is not quite the question Walford had set out to ask.
+
+## What came after
+
+The question was asked properly a decade later. CALERIE, a trial funded by the National Institute on Aging, randomised 218 healthy, non-obese adults to two years of calorie restriction or their usual diet, with a target of 25 percent less. The participants, free to live their lives, managed about 12 percent, nearly 20 in the first six months and 9 thereafter. Even at that, the 2015 results showed lower blood pressure, cholesterol and insulin resistance and no harm to mood, bone or quality of life beyond what weight loss alone would predict; a later analysis of the same participants' blood found a small slowing in one measure of the pace of ageing and no change in others. Walford's direction was right. His dose was one no free person sustains.
+
+Walford himself kept to his diet for the rest of his life, and died in April 2004, at seventy-nine, of motor neurone disease. The eight biospherians regained their weight. The experiment that was never meant to be so harsh remains the longest closely measured calorie restriction in healthy humans, and the lesson it left is a double one. The physiology is real, and it holds in a sealed building precisely as it holds in a cage. And a result that depends on the door being locked is a result about the door.
+
+## Sources
+
+- Roy L. Walford, Steven B. Harris and Mark W. Gunion, "The calorically restricted low-fat nutrient-dense diet in Biosphere 2 significantly lowers blood glucose, total leukocyte count, cholesterol, and blood pressure in humans," *Proceedings of the National Academy of Sciences* 89 (23), 11533–11537, December 1992. The six-month figures. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC50586)
+- Roy B. Verdery and Roy L. Walford, "Changes in plasma lipids and lipoproteins in humans during a 2-year period of dietary restriction in Biosphere 2," *Archives of Internal Medicine* 158 (8), 900–906, April 1998. The two-year lipids, the body mass index, the same ration for every size, and the return to baseline after exit. [jamanetwork.com](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/191892)
+- Roy L. Walford, Dennis Mock, Roy Verdery and Taber MacCallum, "Calorie restriction in Biosphere 2: alterations in physiologic, hematologic, hormonal, and biochemical parameters in humans restricted for a 2-year period," *Journal of Gerontology: Biological Sciences* 57A (6), B211–B224, 2002. The insulin figure and the comparison with rodents and monkeys.
+- Christian Weyer, Roy L. Walford and colleagues, "Energy metabolism after 2 y of energy restriction: the Biosphere 2 experiment," *American Journal of Clinical Nutrition* 72 (4), 946–953, 2000. Weight regained and energy expenditure still lowered six months after exit.
+- Mark Nelson and William F. Dempster, "Living in space: results from Biosphere 2's initial closure," in *Strategies for Mars*, 1996. The two-year average of 2,200 calories, 73 grams of protein and 32 of fat, the 86 crops, the mites and the sweet potatoes, the 45 percent of work hours, and the cooking rotation.
+- Mark Nelson, "Biosphere 2: What Really Happened?", *Dartmouth Alumni Magazine*, May–June 2018. The rise from 1,800 toward 2,200 calories, the quarter pound of meat, and the phrase "healthy starvation" as Walford's. [dartmouthalumnimagazine.com](https://dartmouthalumnimagazine.com/articles/biosphere-2-what-really-happened)
+- Sally Silverstone, *Eating In: From the Field to the Kitchen in Biosphere 2*, Biosphere Press, 1993. The recipes and the rationing, written inside.
+- R. Waziry and colleagues, "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial," *Nature Aging* 3, 248–257, 2023.
+- Eric Ravussin and colleagues, "A 2-year randomized controlled trial of human caloric restriction: feasibility and effects on predictors of health span and longevity," *Journal of Gerontology: Medical Sciences* 70 (9), 1097–1104, 2015. The CALERIE trial.
+- Clive M. McCay, Mary F. Crowell and L. A. Maynard, "The effect of retarded growth upon the length of life span and upon the ultimate body size," *Journal of Nutrition* 10, 63–79, 1935.

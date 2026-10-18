@@ -17,6 +17,18 @@ layout: default
 
 <div class="content">
   <div class="post">{{ content }}</div>
+  {% comment %}Companions: _deeper/<this entry's slug>/*.md, in their `order`, each with its subtitle (layout: deeper.html; styles: main.css .go-deeper){% endcomment %}
+  {% assign deeper = site.deeper | where: "parent", page.slug | sort: "order" %}
+  {% if deeper.size > 0 %}
+  <section class="go-deeper">
+    <h2 class="go-deeper__title">Go deeper</h2>
+    <ol class="go-deeper__list">
+      {% for piece in deeper %}
+      <li><a href="{{ piece.url }}">{{ piece.title }}</a>{% if piece.subtitle %}<span class="go-deeper__dek">{{ piece.subtitle }}</span>{% endif %}</li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
   {% include share-page.html %}
 </div>
 

@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% comment %}A companion piece (see _config.yml `deeper`): names its parent entry at the top, shows the entry's date, lists its siblings and links back at the bottom.{% endcomment %}
+{% assign parent = site.posts | where: "slug", page.parent | first %}
+<header class="post-header">
+  {% if parent %}<p class="deeper-kicker">Going deeper on <a href="{{ parent.url }}">{{ parent.title }}</a></p>{% endif %}
+  <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.subtitle %}
+    <p class="post-subtitle">{{ page.subtitle }}</p>
+  {% endif %}
+</header>
+
+{% assign shown_date = page.date | default: parent.date %}
+<span class="time">{{ shown_date | date: '%B %Y' }}</span>
+{% if parent.categories %}
+  <span class="categories">
+    &raquo; {% for category in parent.categories %}<a href="/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
+  </span>
+{% endif %}
+
+<div class="content">
+  <div class="post">{{ content }}</div>
+  {% include share-page.html %}
+</div>
+
+{% assign siblings = site.deeper | where: "parent", page.parent | sort: "order" %}
+{% assign others = 0 %}
+{% for piece in siblings %}{% if piece.url != page.url %}{% assign others = others | plus: 1 %}{% endif %}{% endfor %}
+{% if others > 0 %}
+<div class="more-in"><div class="more-in__label">Also going deeper on {{ parent.title }}</div><ul>
+  {% for piece in siblings %}{% if piece.url != page.url %}<li><a href="{{ piece.url }}">{{ piece.title }}</a></li>{% endif %}{% endfor %}
+</ul></div>
+{% endif %}
+
+<div class="PageNavigation">
+  {% if parent %}<a class="prev" href="{{ parent.url }}">&laquo; Back to {{ parent.title }}</a>{% endif %}
+</div>
+
+<style>
+.more-in{padding:12px 10px 14px;border-bottom:1px solid #f0f0f0}
+.more-in__label{font-size:14px;color:#888;margin-bottom:4px}
+.more-in ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;align-items:baseline;row-gap:2px}
+.more-in li{font-size:15px}
+.more-in li+li::before{content:"•";color:#aaa;margin:0 10px}
+.PageNavigation{padding-top:4px}
+html[data-theme="dark"] .more-in{border-color:#2e3236}
+html[data-theme="dark"] .more-in__label{color:#7d7d7d}
+html[data-theme="dark"] .more-in li+li::before{color:#5a5f64}
+</style>

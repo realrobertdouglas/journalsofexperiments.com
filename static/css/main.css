@@ -121,6 +121,51 @@ html[data-theme="dark"] .post-subtitle {
   color: #9a9a9a;
 }
 
+/* Companion pieces (_deeper): the line above a companion's title, and the "Go deeper" list at the foot of an entry (layouts: post.html, deeper.html) */
+.deeper-kicker {
+  margin: 0 0 4px;
+  font-size: 13px;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: #8c8c8c;
+}
+.deeper-kicker a {
+  color: #2d7f43;
+  text-decoration: none;
+}
+.deeper-kicker a:hover {
+  text-decoration: underline;
+}
+.go-deeper {
+  margin-top: 30px;
+  padding-top: 14px;
+  border-top: 1px solid #e6e6e6;
+}
+.go-deeper__title {
+  margin: 0 0 8px;
+  font-size: 21px;
+}
+.go-deeper__list {
+  margin: 0;
+  padding-left: 1.3em;
+}
+.go-deeper__list li {
+  margin-bottom: 8px;
+}
+.go-deeper__list a {
+  font-weight: 400;
+}
+.go-deeper__dek {
+  display: block;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #8c8c8c;
+}
+html[data-theme="dark"] .deeper-kicker { color: #7d7d7d; }
+html[data-theme="dark"] .deeper-kicker a { color: #5cc474; }
+html[data-theme="dark"] .go-deeper { border-color: #2e3236; }
+html[data-theme="dark"] .go-deeper__dek { color: #7d7d7d; }
+
 /* Content */
 /* Entry text: 18px on 1.6 lines, capped at about 72 characters a line (the same rule as Captain's Notes);
    the body's 16px/1.5 stays for the sidebar and the rest of the page. In Roboto Condensed 28em is about

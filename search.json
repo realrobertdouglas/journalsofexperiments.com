@@ -1,7 +1,8 @@
 ---
 layout: null
 ---
-[{% for post in site.posts %}
+{% assign docs = site.posts | concat: site.deeper %}
+[{% for post in docs %}
   {
     "title": {{ post.title | jsonify }},
     "url": {{ post.url | jsonify }},
