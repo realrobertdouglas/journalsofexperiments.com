@@ -1,6 +1,6 @@
 ---
 title:  "The audit"
-subtitle: "Where the oxygen went, how two geochemists found it by counting carbon, and why a leakier building would never have told them."
+subtitle: "Six and a half percent of the air was gone and the system was sealed. Where it went, and how counting carbon found it."
 parent: two-years-under-glass
 order: 2
 date:   2026-10-18 00:00:00 +0000

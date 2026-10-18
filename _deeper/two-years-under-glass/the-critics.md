@@ -1,6 +1,6 @@
 ---
 title:  "The critics"
-subtitle: "A theatre troupe, a quiet scrubber, eleven scientists who quit, two who passed judgement, and the defence the crew has mounted ever since."
+subtitle: "A reporter, a columnist and a committee were making three different complaints. Only one was ever answered."
 parent: two-years-under-glass
 order: 6
 date:   2026-10-18 00:00:00 +0000

@@ -1,6 +1,6 @@
 ---
 title:  "What lived and what died"
-subtitle: "The pollinators, the ant, the vine, the desert that went green, the reef that lived, and the finding that came out of that reef."
+subtitle: "The bees died, an ant took over, the desert went green, and the reef that lived became the project's real discovery."
 parent: two-years-under-glass
 order: 5
 date:   2026-10-18 00:00:00 +0000

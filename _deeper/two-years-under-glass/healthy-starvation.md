@@ -1,6 +1,6 @@
 ---
 title:  "Healthy starvation"
-subtitle: "Roy Walford, forty years of underfed mice, eight underfed people, and what the trials that followed made of it."
+subtitle: "Eight hungry people, the best blood work of their lives, and a result that undid itself in six months."
 parent: two-years-under-glass
 order: 3
 date:   2026-10-18 00:00:00 +0000

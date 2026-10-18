@@ -22,6 +22,7 @@ layout: default
   {% if deeper.size > 0 %}
   <section class="go-deeper">
     <h2 class="go-deeper__title">Go deeper</h2>
+    <p class="go-deeper__lede">These pieces take this entry's turns further. Read them in order, or go to the one that caught you.</p>
     <ol class="go-deeper__list">
       {% for piece in deeper %}
       <li><a href="{{ piece.url }}">{{ piece.title }}</a>{% if piece.subtitle %}<span class="go-deeper__dek">{{ piece.subtitle }}</span>{% endif %}</li>

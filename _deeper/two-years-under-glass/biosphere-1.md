@@ -1,6 +1,6 @@
 ---
 title:  "Biosphere 1"
-subtitle: "The word, the Russian who made it an idea, the flasks in Hawaii, the Siberian basement, and why eight people believed the Earth could be copied."
+subtitle: "A word from 1875, a Russian idea, flasks in Hawaii, a Siberian basement, and the claim that the Earth could have a second instance."
 parent: two-years-under-glass
 order: 8
 date:   2026-10-18 00:00:00 +0000

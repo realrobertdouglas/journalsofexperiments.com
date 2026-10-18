@@ -145,6 +145,11 @@ html[data-theme="dark"] .post-subtitle {
   margin: 0 0 8px;
   font-size: 21px;
 }
+.go-deeper__lede {
+  margin: 0 0 12px;
+  font-size: 16px;
+  color: #8c8c8c;
+}
 .go-deeper__list {
   margin: 0;
   padding-left: 1.3em;
@@ -165,6 +170,7 @@ html[data-theme="dark"] .deeper-kicker { color: #7d7d7d; }
 html[data-theme="dark"] .deeper-kicker a { color: #5cc474; }
 html[data-theme="dark"] .go-deeper { border-color: #2e3236; }
 html[data-theme="dark"] .go-deeper__dek { color: #7d7d7d; }
+html[data-theme="dark"] .go-deeper__lede { color: #7d7d7d; }
 
 /* Content */
 /* Entry text: 18px on 1.6 lines, capped at about 72 characters a line (the same rule as Captain's Notes);

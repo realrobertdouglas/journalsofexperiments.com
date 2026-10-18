@@ -1,6 +1,6 @@
 ---
 title:  "The year it fell apart"
-subtitle: "Marshals at the gate, two biospherians at the airlock, a banker in the office, and the data that never left the building."
+subtitle: "Marshals on April 1, two biospherians at the airlock four nights later, and an archive nobody owns."
 parent: two-years-under-glass
 order: 7
 date:   2026-10-18 00:00:00 +0000

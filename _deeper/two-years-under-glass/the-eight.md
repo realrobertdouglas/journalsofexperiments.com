@@ -1,6 +1,6 @@
 ---
 title:  "The eight"
-subtitle: "Who went in, how they were chosen, what two years did to them, and where they went afterwards."
+subtitle: "Starved, short of breath, mocked on the way out, and at war with each other by month six. Five of them never left the field."
 parent: two-years-under-glass
 order: 4
 date:   2026-10-18 00:00:00 +0000
