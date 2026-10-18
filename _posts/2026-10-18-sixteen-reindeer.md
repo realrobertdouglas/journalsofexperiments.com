@@ -37,6 +37,11 @@ By 1890 he had an idea, and he put it in writing: the introduction of reindeer "
 
 So Jackson wrote to the newspapers. "I made an appeal in the Mail and Express, of New York City, the Boston Transcript, the Philadelphia Ledger, the Chicago Inter-Ocean, and Washington Star, as well as in a number of the leading religious newspapers of the country," he reported later. "The response was prompt and generous; $2,156 were received." The money was turned into trade goods and put aboard the *Bear*.
 
+<figure>
+  <img src="/static/img/sixteen-reindeer/christmas-1909.jpg" alt="Sailors at a decorated table on the Bear's berth deck at Christmas dinner, 1909">
+  <figcaption>Christmas dinner on the berth deck, 1909. R. J. Levsen collection, UAF-2004-93-22, Archives, University of Alaska Fairbanks.</figcaption>
+</figure>
+
 ## What they were trying to find out
 
 Jackson wrote down the hypothesis in his report to the Senate in 1894, and it is worth reading slowly, because it is two claims wearing one coat. "To stock Alaska with reindeer, to reclaim and make valuable millions of acres of moss-covered tundra, to introduce a large, permanent, and wealth-producing industry where none previously existed, to take a barbarian people, on the verge of starvation, and lift them up to comfortable self-support and civilization, is certainly a work of national importance."
@@ -90,6 +95,11 @@ On July 28 the *Bear* worked through the ice to Point Barrow, the first ship of 
 </figure>
 
 Then the government paid its debt. It took two fawning seasons to do it, which raised what was owed from 425 reindeer to 1,042, and Congress made a special appropriation of $20,000. Jarvis, who had the *Bear* now, bought 116 deer in Kamchatka in July 1899 to help cover it. On August 19, 1899, Lopp signed for 714 reindeer "being payment in full for the 292 reindeer borrowed by Lieut. D. H. Jarvis." On December 2, 1899, at Point Rodney, Charlie Antisarlook signed for 328.
+
+<figure>
+  <img src="/static/img/sixteen-reindeer/wardroom-1899.jpg" alt="Officers and guests around a table under a hanging lamp in the Bear's wardroom, 1899">
+  <figcaption>Luncheon in the <em>Bear</em>'s wardroom at Seattle, 14 May 1899, the summer the government paid its reindeer debt. The note on the back of the print identifies the officer seated beside the woman in the foreground as Dr. Call. University of Washington Libraries, Special Collections.</figcaption>
+</figure>
 
 He died of measles the next summer. Mary kept the herd. There were about five hundred head in it, and she held them, against relatives and traders and officials who told her she could not, for the rest of her life.
 
