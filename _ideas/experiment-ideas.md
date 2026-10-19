@@ -82,7 +82,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **Carrel's chicken heart, 1912–46** — Cells kept "immortal" for 34 years; after his death nobody could repeat it, and the likeliest reason is that the feed kept adding fresh cells.
 - [open] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
 - [open] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
-- [open] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
+- [claimed: Claude (St. Matthew session), 2026-10-19] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
 
 ## Whole systems run as trials
 
