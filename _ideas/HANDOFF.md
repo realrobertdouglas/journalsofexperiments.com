@@ -1,4 +1,4 @@
-# Handoff: Journal of Experiments, 19 October 2026
+# Handoff: Journal of Experiments, 19 October 2026, evening
 
 For whoever picks this up next, person or agent. Read `AGENTS.md` first: it is the house guide, and everything
 below assumes it. This note covers only where the work stopped and what to do next. When you have finished the
@@ -6,78 +6,74 @@ below assumes it. This note covers only where the work stopped and what to do ne
 
 ## Where things stand
 
-- **Seventeen entries are live.** Five earlier ones, and twelve merged on 19 October from pull requests #1 to #12:
-  The Demon Core, Eighteen Hundred Boxes, Four Thousand Pads, Seven Miles, Nine Days, Two Oranges and a Lemon,
-  Forty-Two, Thirty Strings, Two Crews, Thirty-Six Seconds, Three Menus and Six Hundred Feet. Every one has a
-  younger-readers version, and five have companion pieces (22 companion pages on the site in all).
-- **The five earlier entries are finished**, including narrations of the entry, its younger version and every
-  companion piece, all on the R2 bucket behind audio.journalsofexperiments.com and in `/podcast.xml`.
-- **The twelve new entries have no narration yet.** Their 37 renders (12 entries, 12 younger texts, 13 companions)
-  were started on the owner's Mac at 12:37 on 19 October, five at a time, from the session that merged them. That
-  session may have finished the job; check before you start (see below).
-- **Pronunciation work for the twelve is done** and pushed to the journal-audio repo: a `say-as/<slug>.txt` for
-  each, and new general rules in `make-audio.py` for Roman numerals, "No. 8", "Mk", "m.p.h.", "h.p.", CO2,
-  Glaisher's "1h 52m" times, and abbreviations spelled letter by letter. These do not change any older narration.
-- **The backlog** (`_ideas/experiment-ideas.md`) still shows the twelve as `[claimed]`. Eighteen ideas are `[open]`.
+- **Seventeen entries are live**, five earlier ones and the twelve merged on 19 October from pull requests #1 to
+  #12. Every one has a younger-readers version, and five have companion pieces (22 companion pages in all).
+- **The twelve now have narrations, in pull request #16** (branch `audio/twelve-narrations`): all 37 files (12
+  entries, 12 younger texts, 13 companions) rendered on the owner's Mac on the afternoon of 19 October, uploaded to
+  the R2 bucket behind audio.journalsofexperiments.com, and their `audio` lines written into the front matter.
+  14 hours 1 minute of audio, 404 MB. Every served file's length matches its front matter, and
+  `_tools/check-entry.py` reports no FAIL and no WARN on the twelve. The same pull request marks the twelve
+  `[published: <path>]` in the backlog. **It is not merged**, so the live site still shows no player on them and
+  `/podcast.xml` still lists 20 episodes.
+- **Nobody has listened to any of the 37 narrations yet.**
+- **Three more entries are written and waiting in pull requests**, one session each, from the brief below:
+  #13 *Thirty Inches* (Camp Century, `date` 16:00), #14 *Four Billion Gallons* (Hatfield and San Diego, 17:00 was
+  handed out as the Groundnut hour and 18:00 as Hatfield's; check the `date:` lines before merging), #15 *Three
+  Million Acres* (the Groundnut Scheme). Each reports no checker FAIL; #15 flags its two figures' licence basis for
+  the owner's judgment; #14 has a 403 from sandiegohistory.org in its link check. Their pronunciation files are
+  already pushed to journal-audio. None is merged, none narrated.
+- **The backlog** (`_ideas/experiment-ideas.md`, as of #16): twelve `[published]`, three `[claimed]` (the three
+  above), fifteen `[open]`, of which Universe 25 and Pettenkofer are marked `suggested next` (the previous note's
+  two, Camp Century and the Groundnut Scheme, are the ones now in pull requests).
 
-## Finish first: the twelve narrations
+## Finish first
 
-1. See whether they are done. In the journal-audio repo, beside this one:
+1. **Merge #16**, then wait for the Pages build and check the live site as `AGENTS.md` says. When it is built:
+
+   ```bash
+   curl -s https://journalsofexperiments.com/podcast.xml | grep -c '<item>'     # expect 57 (20 before)
+   grep -L '^audio_young:' ~/Documents/GitHub/journalsofexperiments.com/_posts/2026-10-19-*.md   # expect nothing
+   ```
+
+2. **Review and merge #13, #14 and #15**, in `date` order, with squash, without deleting the branches. Before
+   each merge run `_tools/check-entry.py` on its post and read every figure's credit (see "Things learned").
+
+3. **Narrate the three new entries after they are merged**, since every text change means a re-render. In
+   journal-audio, make a list file like `lists/2026-10-19-twelve-entries.txt` with the three posts, their younger
+   texts and their companions, then:
 
    ```bash
    cd ~/Documents/GitHub/journal-audio
-   ls out/*.json | wc -l
+   xargs ./render-many.sh < lists/<your list>.txt            # about 40 minutes per entry on this Mac (see below)
+   xargs /usr/bin/python3 ./wire-audio.py < lists/<your list>.txt   # the arm64 Python, not .venv's (see below)
    ```
 
-   and on the site, whether the new entries have `audio:` lines:
+   Commit the audio lines to the site (`git pull --rebase` first), push, check the build, and mark the three
+   `[published: <path>]` in the backlog.
 
-   ```bash
-   grep -L '^audio:' ~/Documents/GitHub/journalsofexperiments.com/_posts/2026-10-19-*.md
-   ```
-
-   If every 2026-10-19 post has `audio:` and `audio_young:` lines and `/podcast.xml` lists 57 episodes (20 before), the
-   narration is finished: skip to step 4.
-
-2. Render whatever is missing. This skips anything already finished or already rendering, so it is safe to run
-   while the first batch is still going, or after it was interrupted. Expect about an hour for all 37.
-
-   ```bash
-   cd ~/Documents/GitHub/journal-audio
-   xargs ./render-many.sh < lists/2026-10-19-twelve-entries.txt
-   ```
-
-   Every log, `out/render-<slug>.log`, should end with `exit 0 <slug>`.
-
-3. Upload them and write their lines into the front matter, then publish:
-
-   ```bash
-   cd ~/Documents/GitHub/journal-audio
-   xargs ./wire-audio.py < lists/2026-10-19-twelve-entries.txt
-   ```
-
-   Then, in the site repo, `git pull --rebase`, commit, push to `main`, and wait for the build as `AGENTS.md` says.
-   `_tools/check-entry.py` on each of the twelve should then report no audio WARNs.
-
-4. Mark the twelve `[published: <path>]` in the backlog, each on its own line, with the path of its post. Pick two
-   `[open]` ideas and mark them `suggested next`; Camp Century and the Groundnut Scheme have the strongest
-   public-domain sources.
-
-5. The owner has not yet listened to any of the twelve narrations. Ask them to, and fix what they report in the
-   entry's `say-as/<slug>.txt`, then re-render that file with `FORCE=1 ./render-many.sh <file>` and re-run
-   `wire-audio.py` on it.
+4. **Ask the owner to listen** to the narrations, starting with the twelve. Fix what they report in the entry's
+   `say-as/<slug>.txt`, then `FORCE=1 ./render-many.sh <file>` and `/usr/bin/python3 ./wire-audio.py <file>` for
+   that one file, and commit the new `audio_length` and `audio_duration` lines.
 
 ## Then: the rest of the backlog
 
-Eighteen ideas are open: the Italia, Michel Siffre, Byrd at Advance Base, BIOS-3, Camp Century, Alain Bombard,
-Pettenkofer, MacDougall, Hatfield, the dolphin house, Cambridge-Somerville, Carrel's chicken heart, Kon-Tiki,
-Universe 25, Fordlandia, the Groundnut Scheme, Project Cybersyn and Wörgl. The owner wants all of them written.
+Fifteen ideas are open: the Italia, Michel Siffre, Byrd at Advance Base, BIOS-3, Alain Bombard, Pettenkofer,
+MacDougall, the dolphin house, Cambridge-Somerville, Carrel's chicken heart, Kon-Tiki, Universe 25, Fordlandia,
+Project Cybersyn and Wörgl. The owner wants all of them written.
 
-Two waves of six ran in parallel on 19 October, one session per entry, each in its own worktree under the
-"Several entries at once" workflow in `AGENTS.md`, each opening a pull request. Six at a time worked. Each brief
-should name the entry's primary sources, its exact `date:` hour (the next free hours after 15:00 on 19 October,
-or the next day's), and the owner's constraints (no shared files, public-domain figures only, verbatim quotations,
-British spelling, no narration before the merge). The brief used for the twelve, with the parts in angle brackets
-filled in:
+By the strength of their public-domain sources: Pettenkofer (his 1892 papers and the BMJ and Lancet coverage are
+pre-1930), MacDougall (his 1907 papers), Universe 25 (Calhoun was a US government employee at NIMH, so his work is
+public domain), Carrel (his early Journal of Experimental Medicine papers) and the Italia (1928 newspapers and the
+Italian inquiry) come next. Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only briefly;
+Siffre, Bombard, Kon-Tiki, Cybersyn, Cambridge-Somerville, BIOS-3, Fordlandia, the dolphin house and Wörgl lean on
+copyrighted books and need the same care.
+
+The waves so far ran one session per entry, each in its own worktree under "Several entries at once" in
+`AGENTS.md`, each opening a pull request; six at a time worked, and three at a time on 19 October finished in
+under two hours. Each brief names the entry's primary sources, its exact `date:` hour (the next free hour after
+18:00 on 19 October, or the next day's), and the owner's constraints (no shared files, public-domain figures only,
+verbatim quotations, British spelling, no narration before the merge, nothing run in journal-audio but
+`check-names.py` and the entry's own `say-as` file). The brief, with the parts in angle brackets filled in:
 
 > Write the Journal of Experiments entry on <the experiment: who, where, the dates, the hypothesis, the turn, and
 > the instrument nobody read, in four or five sentences>.
@@ -98,10 +94,21 @@ filled in:
 >    lines you are leaving, and anything in the workflow that was unclear. Do not merge it, do not render audio,
 >    and do not touch the shared files named in AGENTS.md.
 
-Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only briefly.
-
 ## Things learned the hard way
 
+- **The narration toolchain on this Mac runs under Rosetta.** The only Python 3.13 is the Intel Homebrew build
+  (`/usr/local/bin/python3`), so `.venv` and the voice model are Intel too: a full entry takes about 40 minutes to
+  render, not the ten the README promises, and the 37 files took three and a half hours at five at a time. An
+  Apple-silicon Python (python.org's installer, or `uv`) would make `setup.sh` build an arm64 `.venv` and fix it.
+- **Run `wire-audio.py` with `/usr/bin/python3`** (the arm64 system Python; the script needs only the standard
+  library). Under the Intel Python the universal `node` binary runs as Intel and cannot load the arm64 `workerd`
+  that `npm install` put in `node_modules`, so every upload fails with "You installed workerd on another
+  platform". `publish-audio.sh` run from an ordinary shell works either way. The script's output is buffered when
+  it is redirected to a file, so a log that looks empty may be fine: check `git status` in the site instead.
+- **The repos were not on this Mac on the afternoon of 19 October.** Neither `~/Documents/GitHub/
+  journalsofexperiments.com` nor `journal-audio` existed, and no `out/` folder from the first render attempt was
+  anywhere on the disk; both were cloned afresh, `setup.sh` run (it needs `python3` and `lame`; it downloads the
+  350 MB model), and everything rendered again. The wrangler login survived in `~/Library/Preferences/.wrangler/`.
 - **Review before merging.** The owner chose to have all twelve merged without reading them first. Before
   merging, run the checker on each pull request and read every figure's credit. One photograph was removed from
   Forty-Two because it came from a 2004 journal article credited "courtesy of" its photographer, which is not
@@ -110,10 +117,10 @@ Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only bri
 - **A cancelled build looks like a failure.** Merging several pull requests in a row cancels each build in favour
   of the next, and the Pages API reports those as `errored`. Check `gh run list` and wait for the run on the last
   commit before looking for a real error.
-- **Never remove `.claude/worktrees/` folders by hand.** They belong to the app's sessions. Ten from the second
-  wave are still there; archive those sessions from the app when they are no longer needed.
-- **Usage limits.** Three of the second wave's sessions stopped on the Fable usage limit and were resumed on Opus
-  5.5. A stopped session keeps its uncommitted work in its worktree, so resuming it loses nothing.
+- **Never remove `.claude/worktrees/` folders by hand.** They belong to the app's sessions; archive those sessions
+  from the app when they are no longer needed.
+- **Usage limits.** Sessions that stop on a usage limit keep their uncommitted work in their worktree, so resuming
+  them loses nothing.
 - **Narrate only after the text is final.** Every edit means a re-render, and the Reindeer younger version was
   rendered eight times in one day.
 - **The letter A.** The voice reads a lone "A" as the article, so spelled abbreviations write it "Eh"
@@ -123,4 +130,5 @@ Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only bri
 
 - Sixteen Reindeer's expedition chart is 2,000 px wide and 859 KB; the house size is about 1,600 px.
 - Two Years Under Glass is 3,983 words before Sources, 17 under the house minimum.
+- Sixty-Five Hours' younger version is 3,379 words, 56% of the entry; the house range is 2,000 to 2,800.
 - The feed's companion episodes are named "<piece>, going deeper on <entry>".
