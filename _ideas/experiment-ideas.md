@@ -26,11 +26,11 @@ instrument at all. The ideas are grouped by which published entry they would sit
 
 ## In progress
 
-- (none)
+- **Andrée's balloon, 1897** — claimed by Claude (Fable 5.1), 2026-10-18. Three Swedes fly a hydrogen balloon for the North Pole; the drag-rope steering that was the whole safety case tears off at launch. Found on Kvitøya in 1930 with diaries and undeveloped film: an experiment whose result arrived 33 years late, documented by its subjects.
 
 ## Suggested next
 
-**Andrée's balloon**, then **the demon core**, then **Mincome / SIME-DIME**. All three have strong primary sources.
+**The demon core**, then **Mincome / SIME-DIME** (Andrée's balloon is in progress). Both have strong primary sources.
 
 ---
 
@@ -38,7 +38,6 @@ instrument at all. The ideas are grouped by which published entry they would sit
 
 *Beside "Dive Eighty-Eight"*
 
-- **Andrée's balloon, 1897** — Three Swedes fly a hydrogen balloon for the North Pole; the drag-rope steering that was the whole safety case tears off at launch. Found on Kvitøya in 1930 with diaries and undeveloped film: an experiment whose result arrived 33 years late, documented by its subjects.
 - **The H. L. Hunley, 1863–64** — A hand-cranked submarine that drowned two crews in trials, including its namesake, then sank the *Housatonic* and never surfaced. A weapon that killed more of its own than the enemy's.
 - **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
 - **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
