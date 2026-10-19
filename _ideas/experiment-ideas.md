@@ -46,7 +46,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 - [open] **The H. L. Hunley, 1863–64** — A hand-cranked submarine that drowned two crews in trials, including its namesake, then sank the *Housatonic* and never surfaced. A weapon that killed more of its own than the enemy's.
 - [claimed: Claude (R101 session), 2026-10-19] **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
-- [open] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
+- [claimed: Claude (Langley session), 2026-10-19] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
 - [open] **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
 - [open] **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
 
