@@ -24,7 +24,7 @@
     return parts.reduce(function (total, part) { return total * 60 + part; }, 0);
   }
   function format(seconds) {               // seconds -> "26:26" or "1:02:03"
-    seconds = Math.max(0, Math.round(seconds));
+    seconds = Math.max(0, Math.floor(seconds));   // floor, like the duration lines in the front matter
     var h = Math.floor(seconds / 3600), m = Math.floor(seconds % 3600 / 60), s = seconds % 60;
     var mm = (h ? String(m).padStart(2, '0') : String(m)), ss = String(s).padStart(2, '0');
     return h ? h + ':' + mm + ':' + ss : mm + ':' + ss;
@@ -75,7 +75,7 @@
     audio.setAttribute('src', v.src);
     audio.load();                           // preload="none": nothing is fetched until play
     fallback = parseDuration(v.duration);
-    if (label) label.textContent = 'Listen' + (v.duration ? ' · ' + v.duration : '') + (next === 'young' ? ' · for younger readers' : '');
+    if (label) label.textContent = (next === 'young' ? 'Younger version' : 'Listen') + (v.duration ? ' · ' + v.duration : '');
     audio.playbackRate = audio.defaultPlaybackRate;
     update();
   }
