@@ -4,6 +4,9 @@ subtitle: "Marshals on April 1, two biospherians at the airlock four nights late
 parent: two-years-under-glass
 order: 7
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-the-year-it-fell-apart.mp3
+audio_length: 3467367
+audio_duration: "7:13"
 ---
 
 The second mission began on March 6, 1994, with a crew of seven under Norberto Alvarez-Romo. It was planned for ten months. The transition had been used well: artificial lights had gone in over the farm to make up for the winter sun, two years of respiration had worked off the worst of the soil's excess, and the second crew would go on to grow all of their own food, which the first never had. In another year the story might have been one of a system settling down. It lasted six months, and the reason had nothing to do with oxygen.

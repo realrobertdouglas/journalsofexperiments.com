@@ -5,6 +5,12 @@ parent: sixteen-reindeer
 order: 1
 young: young/sixteen-reindeer/the-ship.md
 date:   2026-10-18 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixteen-reindeer-the-ship.mp3
+audio_length: 7992577
+audio_duration: "16:38"
+audio_young: https://audio.journalsofexperiments.com/sixteen-reindeer-the-ship-young.mp3
+audio_young_length: 4500871
+audio_young_duration: "9:22"
 ---
 
 The entry leaves the *Bear* in 1932, sold to Admiral Byrd for $1,050, and finds her again on the seabed. She had thirty-one more years afloat and fifty-eight under water, and most of what happened in them is on record, in her logbooks, in a trade paper, and in the report of the team that identified her. This is that record, in order.

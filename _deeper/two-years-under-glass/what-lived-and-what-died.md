@@ -4,6 +4,9 @@ subtitle: "The bees died, an ant took over, the desert went green, and the reef 
 parent: two-years-under-glass
 order: 5
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-what-lived-and-what-died.mp3
+audio_length: 3754987
+audio_duration: "7:49"
 ---
 
 The designers of Biosphere 2 knew they would lose species. They stocked the building with something over three thousand on purpose, more than any of its small ecosystems could hold, on the theory the project called species-packing: that when a species died out, as some would, another would be there to take its place in the food web. What they could not predict was which. The two years were, among other things, the first large experiment in what happens when pieces of five biomes are cut out, shrunk to the size of a garden each, put under one roof, and left to sort themselves out.

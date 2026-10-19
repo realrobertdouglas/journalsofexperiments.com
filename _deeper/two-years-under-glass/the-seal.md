@@ -4,6 +4,9 @@ subtitle: "How a building with eighty kilometres of joints was made to leak less
 parent: two-years-under-glass
 order: 1
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-the-seal.mp3
+audio_length: 4329611
+audio_duration: "9:01"
 ---
 
 The hardest thing about Biosphere 2 was not the rainforest or the ocean. It was keeping the air in. Every rigid building breathes with the weather: as the air inside warms it expands, as the barometer outside falls the air inside pushes out, as humidity rises there is simply more gas in the room. William Dempster, the project's director of systems engineering, calculated that if the structure had been sealed rigid, the pressure difference across its glass would have swung by about 5,000 pascals in a day, roughly a hundred pounds on every square foot. The frame would have burst or buckled, and long before that the breathing would have pumped air through every flaw in it. A sealed building that does not solve this problem is not sealed; it is a bellows.

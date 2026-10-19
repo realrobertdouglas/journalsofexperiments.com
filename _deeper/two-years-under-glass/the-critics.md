@@ -4,6 +4,9 @@ subtitle: "A reporter, a columnist and a committee were making three different c
 parent: two-years-under-glass
 order: 6
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-the-critics.mp3
+audio_length: 3729041
+audio_duration: "7:45"
 ---
 
 Before the doors closed, Biosphere 2 was "The Project that Will Save the World." After they opened, it was a "pseudo-science stunt." Both phrases are from the press, and the distance between them is the story of how the project was judged. The judgement had three sources, and they are worth separating, because they were not making the same complaint.

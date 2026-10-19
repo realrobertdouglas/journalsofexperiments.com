@@ -4,6 +4,9 @@ subtitle: "A word from 1875, a Russian idea, flasks in Hawaii, a Siberian baseme
 parent: two-years-under-glass
 order: 8
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-biosphere-1.mp3
+audio_length: 3954449
+audio_duration: "8:14"
 ---
 
 Biosphere 1 is the Earth. The founders chose the name, Mark Nelson and William Dempster wrote, "to emphasize that the Earth's biosphere (Biosphere 1) is the only biosphere known to science," and that theirs would be the second. It was a claim and a confession in one: to copy a thing, you have to believe you understand it, and the concept of a biosphere, as they also noted, was then scarcely a hundred years old.

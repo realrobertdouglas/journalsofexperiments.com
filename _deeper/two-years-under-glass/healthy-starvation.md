@@ -4,6 +4,9 @@ subtitle: "Eight hungry people, the best blood work of their lives, and a result
 parent: two-years-under-glass
 order: 3
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-healthy-starvation.mp3
+audio_length: 4112671
+audio_duration: "8:33"
 ---
 
 Of the eight people who went into Biosphere 2, one went in with an experiment of his own already designed. Roy Walford was sixty-seven, a professor of pathology at UCLA, and for most of his career he had been feeding mice less than they wanted and watching them live longer than they should. The effect had been known since the 1930s, when Clive McCay at Cornell found that rats kept on a restricted diet lived far past the normal span; Walford had spent the decades since showing that it held in mice, that it delayed the diseases of age as well as death, and that the immune system aged more slowly on less food. He had written two books urging people to try it, *Maximum Life Span* in 1983 and *The 120-Year Diet* in 1986. What he had never had was eight healthy humans, locked in a room for two years, eating only what could be weighed.

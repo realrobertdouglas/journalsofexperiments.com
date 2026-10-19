@@ -4,6 +4,9 @@ subtitle: "Starved, short of breath, mocked on the way out, and at war with each
 parent: two-years-under-glass
 order: 4
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-the-eight.mp3
+audio_length: 3891469
+audio_duration: "8:06"
 ---
 
 The crew of Biosphere 2 were not selected the way astronauts are. They were, with one exception, people who had spent years inside John Allen's Institute of Ecotechnics, the group that had grown out of Synergia Ranch and the Theater of All Possibilities, and who had worked on its projects around the world before the building existed. They had trained at the Oracle site for years, running the farm, the ocean and the machinery as they were built, and they had rehearsed closure itself in the Test Module next door: Allen shut himself in for seventy-two hours in 1988, and in November 1989 Linda Leigh spent three weeks inside it, the longest human closure before the mission. The exception was the doctor. Everyone else was there because they had already given a decade to the idea.

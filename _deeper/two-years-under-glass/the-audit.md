@@ -4,6 +4,9 @@ subtitle: "Six and a half percent of the air was gone and the system was sealed.
 parent: two-years-under-glass
 order: 2
 date:   2026-10-18 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-years-under-glass-the-audit.mp3
+audio_length: 4778125
+audio_duration: "9:57"
 ---
 
 The oxygen in Biosphere 2 fell from 20.9 percent at closure to 14.4 on day 475, at an average of about 140 parts per million a day, faster in the dark months. The crew had decided early not to add any until they understood the loss, and held to that for sixteen months, through headaches and altitude sickness, until the doctor could not add a column of figures in January 1993 and liquid oxygen was trucked up from Tucson. That is the symptom, and the main entry tells it. This piece is about the diagnosis, which is the one unambiguous scientific result the building produced.
