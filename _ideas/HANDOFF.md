@@ -22,9 +22,11 @@ below assumes it. This note covers only where the work stopped and what to do ne
   checker FAIL; #15 flags its two figures' licence basis for the owner's judgment; #14 has a 403 from
   sandiegohistory.org in its link check. Their pronunciation files are already pushed to journal-audio. None is
   merged, none narrated.
-- **The backlog** (`_ideas/experiment-ideas.md`, as of #16): twelve `[published]`, three `[claimed]` (the three
-  above), fifteen `[open]`, of which Universe 25 and Pettenkofer are marked `suggested next` (the previous note's
-  two, Camp Century and the Groundnut Scheme, are the ones now in pull requests).
+- **Two more entries are being written**, Universe 25 (`date` 19:00) and Pettenkofer (20:00), one session each
+  from the brief below; each will open a pull request.
+- **The backlog** (`_ideas/experiment-ideas.md`, as of #16): twelve `[published]`, four `[claimed]` (the three
+  above and Pettenkofer; Universe 25's claim lands when its session pushes), thirteen `[open]`, of which MacDougall
+  and Carrel's chicken heart are marked `suggested next`.
 
 ## Finish first
 
@@ -38,9 +40,13 @@ below assumes it. This note covers only where the work stopped and what to do ne
 2. **Review and merge #13, #14 and #15**, in `date` order, with squash, without deleting the branches. Before
    each merge run `_tools/check-entry.py` on its post and read every figure's credit (see "Things learned").
 
-3. **Narrate the three new entries after they are merged**, since every text change means a re-render. In
-   journal-audio, make a list file like `lists/2026-10-19-twelve-entries.txt` with the three posts, their younger
-   texts and their companions, then:
+3. **Narration is part of the review.** The narrations of #13, #14 and #15 (entries, younger texts and companions,
+   ten files) were rendered from their branches on the evening of 19 October into journal-audio's `out/` for the
+   owner to listen to before merging; they are not uploaded and have no audio lines yet. Do the same for Universe
+   25 and Pettenkofer when their pull requests open: their files are in the session's worktree under the site's
+   `.claude/worktrees/`, and `./render-many.sh <files>` renders them. After each merge, once the text is final,
+   re-render only what changed (`render-many.sh` skips files whose text is unchanged; `FORCE=1` redoes one), then
+   wire the lines from a list of the merged files:
 
    ```bash
    cd ~/Documents/GitHub/journal-audio
@@ -57,14 +63,12 @@ below assumes it. This note covers only where the work stopped and what to do ne
 
 ## Then: the rest of the backlog
 
-Fifteen ideas are open: the Italia, Michel Siffre, Byrd at Advance Base, BIOS-3, Alain Bombard, Pettenkofer,
-MacDougall, the dolphin house, Cambridge-Somerville, Carrel's chicken heart, Kon-Tiki, Universe 25, Fordlandia,
-Project Cybersyn and Wörgl. The owner wants all of them written.
+Thirteen ideas are open: the Italia, Michel Siffre, Byrd at Advance Base, BIOS-3, Alain Bombard, MacDougall, the
+dolphin house, Cambridge-Somerville, Carrel's chicken heart, Kon-Tiki, Fordlandia, Project Cybersyn and Wörgl. The
+owner wants all of them written.
 
-By the strength of their public-domain sources: Pettenkofer (his 1892 papers and the BMJ and Lancet coverage are
-pre-1930), MacDougall (his 1907 papers), Universe 25 (Calhoun was a US government employee at NIMH, so his work is
-public domain), Carrel (his early Journal of Experimental Medicine papers) and the Italia (1928 newspapers and the
-Italian inquiry) come next. Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only briefly;
+By the strength of their public-domain sources: MacDougall (his 1907 papers), Carrel (his early Journal of
+Experimental Medicine papers) and the Italia (1928 newspapers and the Italian inquiry) come next. Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only briefly;
 Siffre, Bombard, Kon-Tiki, Cybersyn, Cambridge-Somerville, BIOS-3, Fordlandia, the dolphin house and Wörgl lean on
 copyrighted books and need the same care.
 
@@ -72,7 +76,7 @@ The waves so far ran one session per entry, each in its own worktree under "Seve
 `AGENTS.md`, each opening a pull request; six at a time worked, and three at a time on 19 October finished in
 under two hours. Each brief names the entry's primary sources, its exact `date:` hour (the next free hour after
 18:00 on 19 October, or the next day's), and the owner's constraints (no shared files, public-domain figures only,
-verbatim quotations, British spelling, no narration before the merge, nothing run in journal-audio but
+verbatim quotations, British spelling, no rendering by the writing session itself, nothing run in journal-audio but
 `check-names.py` and the entry's own `say-as` file). The brief, with the parts in angle brackets filled in:
 
 > Write the Journal of Experiments entry on <the experiment: who, where, the dates, the hypothesis, the turn, and
@@ -96,6 +100,8 @@ verbatim quotations, British spelling, no narration before the merge, nothing ru
 
 ## Things learned the hard way
 
+- **The owner reviews by listening.** Render an entry's narration as soon as its pull request is open and hand
+  over the MP3s; it is part of the review, not something that waits for the merge (said on 19 October).
 - **The narration toolchain on this Mac runs under Rosetta.** The only Python 3.13 is the Intel Homebrew build
   (`/usr/local/bin/python3`), so `.venv` and the voice model are Intel too: a full entry takes about 40 minutes to
   render, not the ten the README promises, and the 37 files took three and a half hours at five at a time. An
