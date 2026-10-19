@@ -510,6 +510,12 @@ html[data-theme="dark"] div.post-content .btn-tags:focus-visible {
 .content figure img { display: block; width: 100%; height: auto; }
 .content figcaption { margin-top: .5em; font-size: .85em; line-height: 1.4; opacity: .75; }
 
+/* Colophon: a closed disclosure after an entry's Sources ("How this entry came about"), in the caption's quiet type */
+.content .colophon { margin: 2.2em 0 0; font-size: .85em; line-height: 1.5; opacity: .75; }
+.content .colophon summary { cursor: pointer; width: max-content; max-width: 100%; }
+.content .colophon summary:hover { opacity: 1; text-decoration: underline; }
+.content .colophon p { margin: .6em 0 0; }
+
 /* Audio card (entries with audio: in their front matter; _includes/audio-player.html, static/js/audio-player.js):
    a round play button, the status line and clock over a seek bar, then Full/Younger and speed pills and the feed */
 .audio-card { margin: 4px 0 4px; max-width: 34em; }

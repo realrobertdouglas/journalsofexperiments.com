@@ -102,6 +102,8 @@ comments: false
 - `date` is UTC. Entries on the same day are ordered by the hour, so give a new one the next free hour.
 - Every category needs a page in `category/`.
 - Companion pieces ("Go deeper") go in `_deeper/<entry slug>/`; see `README.md`.
+- A note on how an entry came about, if there is one, goes after Sources as a closed `<details class="colophon">`
+  with the summary "How this entry came about"; the narration stops at Sources, so it is not read aloud.
 
 ## Optional extras
 

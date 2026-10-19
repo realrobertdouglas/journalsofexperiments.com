@@ -188,3 +188,8 @@ What the drive also showed, in a receipt signed at Point Rodney, was what it loo
 - Dictionary of American Naval Fighting Ships, "Bear," and the Coast Guard's "Bear, 1885," for the ship's purchase, the Greely rescue, the Navy years and the Buskø. [history.navy.mil](https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bear-i.html), [history.uscg.mil](https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2082164/bear-1885/)
 - "The Bear," *Shipbuilding and Shipping Record*, June 1963, on the tow, the caretakers and the sinking. [navalmarinearchive.com](https://navalmarinearchive.com/research/pdf/sb_63_bear.pdf)
 - NOAA, "Wreck of famed Revenue Cutter Bear found," 14 October 2021, and the NOAA Ocean Exploration summaries of the 2019 survey and the 2021 ROV dives, for the bolt patterns, the 1933 photograph and the announcement. [noaa.gov](https://www.noaa.gov/node/8205), [oceanexplorer.noaa.gov](https://oceanexplorer.noaa.gov/expedition-feature/21bear-features-found/)
+
+<details class="colophon">
+  <summary>How this entry came about</summary>
+  <p>On a drive back from Houston, after a private tour of NASA's Neutral Buoyancy Laboratory given by the astronaut Jessica Meir, I shared the car with a man who, I found out later, sits on the board of the Explorers Club. Somewhere on the road he told me about a ship called the <em>Bear</em>, and everything she had done in the ninety years since she was built. He never mentioned a reindeer. When I looked her up afterwards I found this footnote to her story: one voyage with sixteen deer aboard, and what the counting of them did over the next fifty years.</p>
+</details>
