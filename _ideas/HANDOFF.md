@@ -12,9 +12,11 @@ below assumes it. This note covers only where the work stopped and what to do ne
   entries, 12 younger texts, 13 companions) rendered on the owner's Mac on the afternoon of 19 October, uploaded to
   the R2 bucket behind audio.journalsofexperiments.com, and their `audio` lines written into the front matter.
   14 hours 1 minute of audio, 404 MB. Every served file's length matches its front matter, and
-  `_tools/check-entry.py` reports no FAIL and no WARN on the twelve. The same pull request marks the twelve
-  `[published: <path>]` in the backlog. **It is not merged**, so the live site still shows no player on them and
-  `/podcast.xml` still lists 20 episodes.
+  `_tools/check-entry.py` reports no FAIL and no WARN on the twelve. **It is not merged**, so the live site still
+  shows no player on them and `/podcast.xml` still lists 20 episodes. The backlog is not in that pull request:
+  six writing sessions push claim lines into `_ideas/experiment-ideas.md` at the same time, and a pull request
+  that edits neighbouring lines of that file goes stale within minutes, so the twelve are marked `[published]`
+  directly on `main` instead (step 1 below).
 - **Nobody has listened to any of the 37 narrations yet.**
 - **Three more entries are written and waiting in pull requests**, one session each, from the brief below:
   #13 *Thirty Inches* (Camp Century, `date` 16:00), #15 *Three Million Acres* (the Groundnut Scheme, 17:00) and
@@ -22,15 +24,19 @@ below assumes it. This note covers only where the work stopped and what to do ne
   checker FAIL; #15 flags its two figures' licence basis for the owner's judgment; #14 has a 403 from
   sandiegohistory.org in its link check. Their pronunciation files are already pushed to journal-audio. None is
   merged, none narrated.
-- **Two more entries are being written**, Universe 25 (`date` 19:00) and Pettenkofer (20:00), one session each
-  from the brief below; each will open a pull request.
-- **The backlog** (`_ideas/experiment-ideas.md`, as of #16): twelve `[published]`, four `[claimed]` (the three
-  above and Pettenkofer; Universe 25's claim lands when its session pushes), thirteen `[open]`, of which MacDougall
-  and Carrel's chicken heart are marked `suggested next`.
+- **Six more entries are being written**, one session each from the brief below, each to open a pull request:
+  Universe 25 (`date` 19:00 on 19 October), Pettenkofer (20:00), MacDougall (21:00), Carrel's chicken heart
+  (22:00), the Italia (23:00) and Wörgl (00:00 on 20 October).
+- **The backlog** (`_ideas/experiment-ideas.md`): the twelve still read `[claimed]` until step 1 below; the nine
+  in pull requests or being written read `[claimed]` as their sessions push; nine are `[open]`, and none is marked
+  `suggested next` while this wave runs (mark two when it ends).
 
 ## Finish first
 
-1. **Merge #16**, then wait for the Pages build and check the live site as `AGENTS.md` says. When it is built:
+1. **Merge #16**, then wait for the Pages build and check the live site as `AGENTS.md` says. Then, once the
+   six sessions' claim lines are on `main` (`git log origin/main -- _ideas/experiment-ideas.md`), mark the twelve
+   `[published: _posts/2026-10-19-<slug>.md]` in the backlog, each on its own line, and push that directly to
+   `main` (`git pull --rebase` first). When the site is built:
 
    ```bash
    curl -s https://journalsofexperiments.com/podcast.xml | grep -c '<item>'     # expect 57 (20 before)
@@ -63,12 +69,15 @@ below assumes it. This note covers only where the work stopped and what to do ne
 
 ## Then: the rest of the backlog
 
-Thirteen ideas are open: the Italia, Michel Siffre, Byrd at Advance Base, BIOS-3, Alain Bombard, MacDougall, the
-dolphin house, Cambridge-Somerville, Carrel's chicken heart, Kon-Tiki, Fordlandia, Project Cybersyn and Wörgl. The
-owner wants all of them written.
+Nine ideas are open once this wave's claims are in: Michel Siffre, Byrd at Advance Base, BIOS-3, Alain Bombard,
+the dolphin house, Cambridge-Somerville, Kon-Tiki, Fordlandia and Project Cybersyn. The owner wants all of them
+written.
 
-By the strength of their public-domain sources: MacDougall (his 1907 papers), Carrel (his early Journal of
-Experimental Medicine papers) and the Italia (1928 newspapers and the Italian inquiry) come next. Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only briefly;
+All nine lean on copyrighted books (Byrd's *Alone*, Siffre's, Bombard's, Heyerdahl's, Lilly's, Beer's, Grandin's
+on Fordlandia, McCord's papers), so each entry quotes those briefly and builds on what is open: Byrd's expedition
+reports and the newspapers, Kon-Tiki's 1947 press coverage and the museum's documents, the NASA and Navy contracts
+behind the dolphin house, Ford's own archive catalogue for Fordlandia, the Chilean press of 1971 to 1973 for
+Cybersyn, and the Russian institute's publications for BIOS-3. Byrd's *Alone* (1938) is still in copyright, so that entry can quote it only briefly;
 Siffre, Bombard, Kon-Tiki, Cybersyn, Cambridge-Somerville, BIOS-3, Fordlandia, the dolphin house and Wörgl lean on
 copyrighted books and need the same care.
 
