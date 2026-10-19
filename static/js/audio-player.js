@@ -1,6 +1,7 @@
 /*  Audio card (_includes/audio-player.html): a small player over the entry's hidden <audio> element. Play and pause,
-    a seek bar, a status line ("Listen · 26:26 left at 1.5×", or "Younger version · …"), the clock, speed pills, and,
-    for an entry with a narration of its younger-readers text, Full/Younger pills.
+    a seek bar, a status line ("Listen · 26:26 left at 1.5×" or "Younger version · …" before the first play, then
+    "Playing · …", "Paused · …" and "Finished"), the clock, speed pills and, for an entry with a narration of its
+    younger-readers text, Full/Younger pills. The button carries the class is-playing while the audio plays.
     Until the file has loaded (it is not preloaded) the length comes from the entry's audio_duration, carried on the
     card as data-full-duration / data-young-duration. The chosen speed is kept in this browser under the key
     "listening-speed" and applied to the next entry too.
@@ -18,8 +19,6 @@
   var status = document.getElementById('js-audio-status');
   var clock = document.getElementById('js-audio-clock');
   if (!card || !audio || !ui || !play || !seek || !status || !clock) return;
-  var iconPlay = play.querySelector('.audio-card__icon--play');
-  var iconPause = play.querySelector('.audio-card__icon--pause');
   var ratePills = Array.prototype.slice.call(card.querySelectorAll('[data-rate]'));
   var versionPills = Array.prototype.slice.call(card.querySelectorAll('[data-version]'));
 
@@ -61,8 +60,9 @@
     var left = Math.max(0, length - now), started = now > 0;
     pressed(ratePills, function (p) { return Math.abs(parseFloat(p.getAttribute('data-rate')) - rate) < 0.01; });
     pressed(versionPills, function (p) { return p.getAttribute('data-version') === version; });
-    var who = version === 'young' ? 'Younger version' : 'Listen';
-    var when = length ? format(left / rate) + (started ? ' left' : '') + (rate !== 1 ? ' at ' + rateLabel(rate) : '') : '';
+    var ended = audio.ended, playing = !audio.paused && !ended;
+    var who = playing ? 'Playing' : ended ? 'Finished' : started ? 'Paused' : version === 'young' ? 'Younger version' : 'Listen';
+    var when = length && !ended ? format(left / rate) + (started ? ' left' : '') + (rate !== 1 ? ' at ' + rateLabel(rate) : '') : '';
     status.textContent = when ? who + ' · ' + when : who;
     clock.textContent = format(now) + ' / ' + format(length);
     if (!scrubbing) {
@@ -71,8 +71,7 @@
     }
     var pct = length ? Math.min(100, 100 * (scrubbing ? seek.value : now) / length) : 0;
     seek.style.background = 'linear-gradient(90deg, var(--seek-fill) ' + pct + '%, var(--seek-track) ' + pct + '%)';
-    var playing = !audio.paused && !audio.ended;
-    iconPlay.hidden = playing; iconPause.hidden = !playing;
+    play.classList.toggle('is-playing', playing);   // main.css shows the pause icon and a ring while playing
     play.setAttribute('aria-label', playing ? 'Pause the narration' : 'Play the narration');
   }
   function setRate(rate) {
