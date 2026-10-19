@@ -103,10 +103,12 @@ comments: false
 
 - **Younger readers.** `_includes/young/<slug>.md`, named by `young:` in the entry. Same facts, dates and numbers;
   shorter sentences; terms explained as they come. See `_includes/young/sixteen-reindeer.md`.
-- **Narration.** Made with the `journal-audio` folder that sits beside this repo on the author's Mac (free, local,
-  Kokoro voice "George"): `.venv/bin/python make-audio.py <path to post>` writes the MP3 and prints the three
-  `audio` lines. The MP3 goes in `static/audio/<slug>.mp3` for now. Entries with `audio:` get a player and appear in
-  `/podcast.xml`. Re-render whenever the text changes.
+- **Narration.** Made with the private repo `realrobertdouglas/journal-audio` (free, runs locally, Kokoro voice
+  "George"). Clone it beside this repo and run its `./setup.sh` once; its `README.md` has the rest. In short,
+  `.venv/bin/python make-audio.py ../journalsofexperiments.com/_posts/<file>.md` writes `out/<slug>.mp3` and
+  prints the three `audio` lines for the front matter, and the MP3 goes in `static/audio/<slug>.mp3`. Entries with
+  `audio:` get a player and appear in `/podcast.xml`. Re-render whenever the text changes, and listen to it: when a
+  word comes out wrong, fix the rule in the script, not the entry.
 
 ## Publishing and checking
 
