@@ -1,0 +1,10 @@
+{% comment %}Reader toggle (deeper.html; post.html can use it too). A page whose front matter names a `young:` include
+(a Markdown file under _includes) carries two texts, the full one and one for younger readers, and this button swaps
+them. The full text shows by default and without JavaScript, so the button stays hidden until the script runs
+(static/js/reader-toggle.js). Styles: main.css .reader-toggle.{% endcomment %}
+{% if page.young %}
+<p class="reader-toggle" id="js-reader-toggle" hidden>
+  <button type="button" class="reader-toggle__button" aria-pressed="false" aria-controls="reader-full reader-young">Read a version for younger readers</button>
+</p>
+<script src="/static/js/reader-toggle.js" defer></script>
+{% endif %}

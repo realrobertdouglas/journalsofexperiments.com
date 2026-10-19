@@ -172,6 +172,38 @@ html[data-theme="dark"] .go-deeper { border-color: #2e3236; }
 html[data-theme="dark"] .go-deeper__dek { color: #7d7d7d; }
 html[data-theme="dark"] .go-deeper__lede { color: #7d7d7d; }
 
+/* Reader toggle (pages whose front matter names a `young:` include; _includes/reader-toggle.html, static/js/reader-toggle.js):
+   a quiet pill under the subtitle, like the share pills, filled green while the version for younger readers is showing */
+.reader-toggle {
+  margin: 2px 0 10px;
+}
+.reader-toggle__button {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #e3e3e3;
+  background: #f6f6f4;
+  color: inherit;
+  border-radius: 999px;
+  padding: 3px 12px;
+  font: inherit;
+  font-size: 14px;
+  line-height: 1.4;
+  cursor: pointer;
+}
+.reader-toggle__button:hover,
+.reader-toggle__button:focus {
+  border-color: #2f8f4a;
+}
+.reader-toggle__button[aria-pressed="true"] {
+  border-color: #2d7f43;
+  background: #2d7f43;
+  color: #fff;
+}
+html[data-theme="dark"] .reader-toggle__button { border-color: #34383c; background: #26292d; color: #b8b8b8; }
+html[data-theme="dark"] .reader-toggle__button:hover,
+html[data-theme="dark"] .reader-toggle__button:focus { border-color: #5cc474; color: #e0e0e0; }
+html[data-theme="dark"] .reader-toggle__button[aria-pressed="true"] { border-color: #5cc474; background: #5cc474; color: #1b1d1f; }
+
 /* Content */
 /* Entry text: 18px on 1.6 lines, capped at about 72 characters a line (the same rule as Captain's Notes);
    the body's 16px/1.5 stays for the sidebar and the rest of the page. In Roboto Condensed 28em is about

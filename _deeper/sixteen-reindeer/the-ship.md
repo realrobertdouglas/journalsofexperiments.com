@@ -3,6 +3,7 @@ title:  "The ship"
 subtitle: "The Bear after the reindeer, 1926 to 2021: a museum, a film, two Antarctics, a war, a restaurant that never opened, and fifty-eight years on the bottom."
 parent: sixteen-reindeer
 order: 1
+young: young/sixteen-reindeer/the-ship.md
 date:   2026-10-18 02:00:00 +0000
 ---
 
