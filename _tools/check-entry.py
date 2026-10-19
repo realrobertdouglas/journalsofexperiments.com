@@ -144,7 +144,7 @@ def check_entry(post_path, links=True):
             say("ok" if "button" in first.lower() else "WARN", "younger version opens with the line about the button")
             yn = words(ymd)
             ratio = yn / n if n else 0
-            say("ok" if 0.2 <= ratio <= 0.6 else "WARN", f"younger version is {yn:,} words, {ratio:.0%} of the entry (a third to a half)")
+            say("ok" if 0.25 <= ratio <= 0.55 else "WARN", f"younger version is {yn:,} words, {ratio:.0%} of the entry (a third to a half, 2,000 to 2,800 words)")
             teaches = "## What it teaches" in ymd
             say("ok" if teaches else "WARN", 'younger version ends with "What it teaches"')
             if teaches:
@@ -185,7 +185,7 @@ def check_entry(post_path, links=True):
 
     # Source links
     if links and sources:
-        urls = sorted(set(re.findall(r"\((https?://[^)\s]+)\)", sources)))
+        urls = sorted(set(re.findall(r"\((https?://(?:[^()\s]|\([^()\s]*\))+)\)", sources)))   # allows one level of ( ) in the address
         for u in urls:
             st = fetch(u)
             if st is None:

@@ -108,8 +108,8 @@ comments: false
 ## Optional extras
 
 - **Younger readers.** Every entry has one: `_includes/young/<slug>.md`, named by `young:` in the entry, written
-  from the finished entry. It opens with the line about the button, keeps the same facts, and runs about a third of
-  the entry's length (around 2,000 words). Shorter sentences; a term explained the first time it comes ("a revenue
+  from the finished entry. It opens with the line about the button, keeps the same facts, and runs a third to a half
+  of the entry's length (2,000 to 2,800 words). Shorter sentences; a term explained the first time it comes ("a revenue
   cutter: a government ship that patrolled the coast"); counts rounded ("2,800 in 1899", "about twenty thousand");
   dates written "February 3rd 1898"; the entry's figures may be reused; a link to a companion piece carries `#young`
   so it opens in the same version. It ends with "What it teaches" written plainly for children: "What does this story
@@ -142,22 +142,36 @@ each WARN and decide. `--no-links` skips the fetching.
 When more than one person or agent is writing, or when nobody is watching the push, an entry goes through a pull
 request rather than straight to `main`:
 
-1. Claim the idea in `_ideas/experiment-ideas.md` (change its status word, commit, push to `main`). That one-line
-   commit is the only direct push the entry makes until it is merged.
-2. Work on a branch `entry/<slug>`, in your own worktree. Touch only the entry's own files: `_posts/<file>.md`,
-   `_includes/young/<slug>.md`, `static/img/<slug>/`, `_deeper/<slug>/`, and in journal-audio `say-as/<slug>.txt`.
-   Leave `_config.yml`, the layouts, the stylesheet, the includes, the feed and `make-audio.py` alone; if one of them
-   needs a change, say so in the pull request.
-3. Run `_tools/check-entry.py` and fix every FAIL.
-4. Open the pull request with the entry, its younger version and its figures, and a short note: the sources you
+1. Claim the idea in `_ideas/experiment-ideas.md`: change its status word, commit that one line, and push it to
+   `main`. From a worktree, whose branch is not `main`, do this before any other commit on the branch:
+   `git fetch origin && git rebase origin/main`, edit, commit, then `git push origin HEAD:main`. That is the only
+   direct push to `main` in this task until the entry is merged.
+2. Work in your own worktree. The branch's name does not matter (the app names it; `entry/<slug>` if you choose).
+   Touch only the entry's own files: `_posts/<file>.md`, `_includes/young/<slug>.md`, `static/img/<slug>/`,
+   `_deeper/<slug>/`, and in journal-audio `say-as/<slug>.txt`. Leave `_config.yml`, the layouts, the stylesheet,
+   the includes, the feed and `make-audio.py` alone; if one of them needs a change, say so in the pull request.
+   When the material runs past 6,500 words, move the overflow into companion pieces in `_deeper/<slug>/` (see
+   `README.md`) rather than cutting what matters, and say so in the pull request.
+3. The entry's `date` hour. Entries dated the same day are ordered by the hour, and the checker can only see hours
+   already on `main`, not a sibling's unmerged post. When several sessions start together, whoever starts them
+   hands each its hour in the brief; if yours did not, announce the hour you take in the shared notes folder the
+   app gives sibling sessions, and read the others' notes before choosing.
+4. Run `_tools/check-entry.py` and fix every FAIL.
+5. Open the pull request with the entry, its younger version and its figures, and a short note: the sources you
    could not reach, the numbers sources disagree on, the WARN lines you are leaving. The owner reads it and merges,
    and the merge publishes it.
-5. Narration comes after the merge, once the text is final, since every text change means a re-render: render,
+6. Narration comes after the merge, once the text is final, since every text change means a re-render: render,
    upload, add the audio lines and push them to `main` (a few lines; no pull request needed). Then mark the idea
    `[published: <path>]` in the backlog.
 
-Two or three entries in flight at once is comfortable. The reading is the slow part, and all narration renders on
-one machine. Working alone with the owner watching, the direct push to `main` below is still fine.
+Sources that block automated readers, and what to do: the Library of Congress and Chronicling America (use
+archive.org's newspaper scans, or Wikimedia Commons' copies of Library images, which carry the item numbers); the
+Smithsonian's sites when they are down (cite the repository handle); HathiTrust full view (archive.org usually has
+the same volume); publishers' paywalls (read the author's working-paper version and say so). Say in the pull
+request which quotations come at second hand, and from where.
+
+Two or three entries in flight at once is comfortable; six worked. The reading is the slow part, and all narration
+renders on one machine. Working alone with the owner watching, the direct push to `main` below is still fine.
 
 ## Publishing and checking
 
