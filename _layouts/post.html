@@ -6,6 +6,7 @@ layout: default
   {% if page.subtitle %}
     <p class="post-subtitle">{{ page.subtitle }}</p>
   {% endif %}
+  {% include reader-toggle.html %}
 </header>
 
 <span class="time">{{ page.date | date: '%B %Y' }}</span>
@@ -16,7 +17,14 @@ layout: default
 {% endif %}
 
 <div class="content">
+  {% if page.young %}
+  {% comment %}Two texts, swapped by the reader toggle (_includes/reader-toggle.html): the full one shows by default, the one for younger readers comes from the `young:` include.{% endcomment %}
+  <div class="post" id="reader-full">{{ content }}</div>
+  {% capture young %}{% include {{ page.young }} %}{% endcapture %}
+  <div class="post post--young" id="reader-young" hidden>{{ young | markdownify }}</div>
+  {% else %}
   <div class="post">{{ content }}</div>
+  {% endif %}
   {% comment %}Companions: _deeper/<this entry's slug>/*.md, in their `order`, each with its subtitle (layout: deeper.html; styles: main.css .go-deeper){% endcomment %}
   {% assign deeper = site.deeper | where: "parent", page.slug | sort: "order" %}
   {% if deeper.size > 0 %}
