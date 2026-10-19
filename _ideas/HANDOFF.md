@@ -17,11 +17,11 @@ below assumes it. This note covers only where the work stopped and what to do ne
   `/podcast.xml` still lists 20 episodes.
 - **Nobody has listened to any of the 37 narrations yet.**
 - **Three more entries are written and waiting in pull requests**, one session each, from the brief below:
-  #13 *Thirty Inches* (Camp Century, `date` 16:00), #14 *Four Billion Gallons* (Hatfield and San Diego, 17:00 was
-  handed out as the Groundnut hour and 18:00 as Hatfield's; check the `date:` lines before merging), #15 *Three
-  Million Acres* (the Groundnut Scheme). Each reports no checker FAIL; #15 flags its two figures' licence basis for
-  the owner's judgment; #14 has a 403 from sandiegohistory.org in its link check. Their pronunciation files are
-  already pushed to journal-audio. None is merged, none narrated.
+  #13 *Thirty Inches* (Camp Century, `date` 16:00), #15 *Three Million Acres* (the Groundnut Scheme, 17:00) and
+  #14 *Four Billion Gallons* (Hatfield and San Diego, 18:00), so that is their merge order. Each reports no
+  checker FAIL; #15 flags its two figures' licence basis for the owner's judgment; #14 has a 403 from
+  sandiegohistory.org in its link check. Their pronunciation files are already pushed to journal-audio. None is
+  merged, none narrated.
 - **The backlog** (`_ideas/experiment-ideas.md`, as of #16): twelve `[published]`, three `[claimed]` (the three
   above), fifteen `[open]`, of which Universe 25 and Pettenkofer are marked `suggested next` (the previous note's
   two, Camp Century and the Groundnut Scheme, are the ones now in pull requests).
