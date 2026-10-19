@@ -8,7 +8,7 @@ audio: https://audio.journalsofexperiments.com/sixteen-reindeer.mp3
 audio_length: 19042924
 audio_duration: "39:40"
 audio_young: https://audio.journalsofexperiments.com/sixteen-reindeer-young.mp3
-audio_young_length: 6748631
+audio_young_length: 6748247
 audio_young_duration: "14:03"
 categories: [experiments]
 comments: false
