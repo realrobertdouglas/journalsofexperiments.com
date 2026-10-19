@@ -1,7 +1,8 @@
 /*  Reader toggle: a page with a `young:` include in its front matter carries two texts, the full one (#reader-full)
     and one for younger readers (#reader-young), and the button in _includes/reader-toggle.html swaps them.
     The full text shows by default and without JavaScript. "#young" in the address opens the younger version;
-    otherwise the last choice made in this browser, kept under the key "reading", is used.
+    otherwise the last choice made in this browser, kept under the key "reading", is used. Each switch is
+    announced as a "reader:change" event on the document, which the audio player listens for.
 */
 (function () {
   var KEY = 'reading';
@@ -26,6 +27,9 @@
     young.hidden = !isYoung;
     button.setAttribute('aria-pressed', isYoung ? 'true' : 'false');
     button.textContent = isYoung ? 'Read the full piece' : 'Read a version for younger readers';
+    try {                                   // the audio player (static/js/audio-speed.js) follows the text that is showing
+      document.dispatchEvent(new CustomEvent('reader:change', { detail: { mode: mode } }));
+    } catch (e) {}
   }
   function setHash(mode) {
     if (!history.replaceState) return;

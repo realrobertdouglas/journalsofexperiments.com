@@ -36,6 +36,20 @@ layout: null
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    {% if post.audio_young %}
+    <item>
+      <title>{{ post.title | xml_escape }}, for younger readers</title>
+      <description>The same story told more plainly, for younger listeners. {{ post.subtitle | default: post.excerpt | strip_html | strip | xml_escape }}</description>
+      <content:encoded><![CDATA[<p>The same story told more plainly, for younger listeners.</p><p>{{ post.subtitle }}</p><p>The written version: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}#young">{{ post.url | prepend: site.baseurl | prepend: site.url }}#young</a></p>]]></content:encoded>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}#young</link>
+      <guid isPermaLink="false">{{ post.url | prepend: site.baseurl | prepend: site.url }}#audio-young</guid>
+      <enclosure url="{{ post.audio_young }}" length="{{ post.audio_young_length | default: 0 }}" type="audio/mpeg"/>
+      {% if post.audio_young_duration %}<itunes:duration>{{ post.audio_young_duration }}</itunes:duration>{% endif %}
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+    {% endif %}
     {% endif %}{% endfor %}
   </channel>
 </rss>

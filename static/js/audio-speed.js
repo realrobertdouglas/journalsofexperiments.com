@@ -1,17 +1,22 @@
-/*  Audio speed: the row of buttons under the player in _includes/audio-player.html sets the playback rate of the
-    entry's narration and shows how long is left at that speed ("26:26 left at 1.5×"). Until the file has loaded
-    (the player does not preload), the length comes from the entry's audio_duration, carried on the row as
-    data-duration. The chosen speed is kept in this browser under the key "listening-speed" and applied to the
-    next entry too. Without JavaScript the row stays hidden and the native controls work as they are.
+/*  Audio speed and version: the row of buttons under the player in _includes/audio-player.html sets the playback
+    rate of the entry's narration and shows how long is left at that speed ("26:26 left at 1.5×"). Until the file
+    has loaded (the player does not preload), the length comes from the entry's audio_duration, carried on the
+    player as data-full-duration. The chosen speed is kept in this browser under the key "listening-speed" and
+    applied to the next entry too.
+    An entry with a narration of its younger-readers text (data-young-src on the player) plays whichever text is
+    showing: the reader toggle (static/js/reader-toggle.js) announces each switch as a "reader:change" event on the
+    document, and the player changes its file, label and time to match. Without JavaScript the row stays hidden
+    and the native controls play the full narration.
 */
 (function () {
   var KEY = 'listening-speed';
+  var player = document.getElementById('js-audio-player');
   var row = document.getElementById('js-audio-speed');
-  var player = row && row.closest('.audio-player');
   var audio = player && player.querySelector('audio');
+  var label = document.getElementById('js-audio-label');
   var eta = document.getElementById('js-audio-eta');
   var buttons = row ? Array.prototype.slice.call(row.querySelectorAll('.audio-player__rate')) : [];
-  if (!row || !audio || !eta || !buttons.length) return;
+  if (!player || !row || !audio || !eta || !buttons.length) return;
 
   function parseDuration(text) {           // "39:39" or "1:02:03" -> seconds
     var parts = String(text || '').split(':').map(Number);
@@ -24,7 +29,7 @@
     var mm = (h ? String(m).padStart(2, '0') : String(m)), ss = String(s).padStart(2, '0');
     return h ? h + ':' + mm + ':' + ss : mm + ':' + ss;
   }
-  function label(rate) {
+  function rateLabel(rate) {
     return (rate % 1 === 0 ? rate.toFixed(0) : String(rate)) + '×';
   }
   function stored() {
@@ -34,7 +39,12 @@
     try { if (rate === 1) localStorage.removeItem(KEY); else localStorage.setItem(KEY, String(rate)); } catch (e) {}
   }
 
-  var fallback = parseDuration(row.getAttribute('data-duration'));
+  var versions = {
+    full: { src: player.getAttribute('data-full-src'), duration: player.getAttribute('data-full-duration') || '' },
+    young: { src: player.getAttribute('data-young-src'), duration: player.getAttribute('data-young-duration') || '' }
+  };
+  var version = 'full';
+  var fallback = parseDuration(versions.full.duration);
 
   function remaining() {
     var total = isFinite(audio.duration) && audio.duration > 0 ? audio.duration : fallback;
@@ -48,13 +58,30 @@
     var left = remaining();
     if (!left) { eta.textContent = ''; return; }
     var started = audio.currentTime > 0;
-    eta.textContent = format(left / rate) + (started ? ' left' : '') + ' at ' + label(rate);
+    eta.textContent = format(left / rate) + (started ? ' left' : '') + ' at ' + rateLabel(rate);
   }
   function setRate(rate) {
     audio.defaultPlaybackRate = rate;
     audio.playbackRate = rate;
     remember(rate);
     update();
+  }
+  function setVersion(mode) {
+    var next = (mode === 'young' && versions.young.src) ? 'young' : 'full';
+    if (next === version && audio.getAttribute('src') === versions[next].src) return;
+    version = next;
+    var v = versions[next];
+    audio.pause();
+    audio.setAttribute('src', v.src);
+    audio.load();                           // preload="none": nothing is fetched until play
+    fallback = parseDuration(v.duration);
+    if (label) label.textContent = 'Listen' + (v.duration ? ' · ' + v.duration : '') + (next === 'young' ? ' · for younger readers' : '');
+    audio.playbackRate = audio.defaultPlaybackRate;
+    update();
+  }
+  function showingYoung() {
+    var young = document.getElementById('reader-young');
+    return !!(young && !young.hidden);
   }
 
   buttons.forEach(function (b) {
@@ -65,7 +92,9 @@
   });
   // Some browsers reset the rate when the file starts loading; put the chosen one back.
   audio.addEventListener('play', function () { if (audio.playbackRate !== audio.defaultPlaybackRate) audio.playbackRate = audio.defaultPlaybackRate; });
+  document.addEventListener('reader:change', function (e) { setVersion(e.detail && e.detail.mode); });
 
   setRate(stored());
+  setVersion(showingYoung() ? 'young' : 'full');
   row.hidden = false;
 })();

@@ -1,14 +1,16 @@
 {% comment %}Audio player (post.html, under the reader toggle). An entry whose front matter has `audio:` (an MP3 URL),
 `audio_length:` (bytes) and `audio_duration:` ("43:10") shows a native player here and is listed in /podcast.xml.
+An entry with a younger-readers text can carry a narration of it too, in `audio_young:`, `audio_young_length:` and
+`audio_young_duration:`; the player then follows the reader toggle, playing whichever text is showing.
 Under the player, a row of speed buttons (1× to 2×) and a readout of the time left at that speed; the row stays
 hidden until static/js/audio-speed.js runs, and the native controls work without it. The files are made with
 journal-audio/make-audio.py, beside the site repos. Styles: main.css .audio-player.{% endcomment %}
 {% if page.audio %}
-<div class="audio-player">
-  <span class="audio-player__label">Listen{% if page.audio_duration %} · {{ page.audio_duration }}{% endif %}</span>
+<div class="audio-player" id="js-audio-player" data-full-src="{{ page.audio }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
+  <span class="audio-player__label" id="js-audio-label">Listen{% if page.audio_duration %} · {{ page.audio_duration }}{% endif %}</span>
   <audio controls preload="none" src="{{ page.audio }}"><a href="{{ page.audio }}">Download the audio</a></audio>
   <a class="audio-player__feed" href="/podcast.xml" title="The audio entries as a podcast feed, for any podcast app">Podcast feed</a>
-  <div class="audio-player__speed" id="js-audio-speed" data-duration="{{ page.audio_duration }}" hidden>
+  <div class="audio-player__speed" id="js-audio-speed" hidden>
     <span class="audio-player__speed-label" id="audio-speed-label">Speed</span>
     <span role="group" aria-labelledby="audio-speed-label" class="audio-player__rates">
       <button type="button" class="audio-player__rate" data-rate="1" aria-pressed="true">1×</button>
