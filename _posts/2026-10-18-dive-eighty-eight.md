@@ -3,6 +3,10 @@ layout: post
 title:  "Dive Eighty-Eight"
 subtitle: "The story of OceanGate's Titan, 2017 to 2023: the hull that gave its warning on dive 80, and the year nobody read it."
 date:   2026-10-18 01:00:00 +0000
+young: young/dive-eighty-eight.md
+audio: https://audio.journalsofexperiments.com/dive-eighty-eight.mp3
+audio_length: 13329582
+audio_duration: "27:46"
 categories: [experiments]
 comments: false
 ---

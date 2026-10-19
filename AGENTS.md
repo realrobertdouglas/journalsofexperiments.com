@@ -105,16 +105,21 @@ comments: false
 
 ## Optional extras
 
-- **Younger readers.** `_includes/young/<slug>.md`, named by `young:` in the entry. Same facts, dates and numbers;
-  shorter sentences; terms explained as they come. See `_includes/young/sixteen-reindeer.md`.
+- **Younger readers.** Every entry has one: `_includes/young/<slug>.md`, named by `young:` in the entry, written
+  from the finished entry. It opens with the line about the button, keeps the same facts, and runs about a third of
+  the entry's length (around 2,000 words). Shorter sentences; a term explained the first time it comes ("a revenue
+  cutter: a government ship that patrolled the coast"); counts rounded ("2,800 in 1899", "about twenty thousand");
+  dates written "February 3rd 1898"; the entry's figures may be reused; a link to a companion piece carries `#young`
+  so it opens in the same version; it ends with "What it teaches". See `_includes/young/sixteen-reindeer.md`.
 - **Narration.** Made with the private repo `realrobertdouglas/journal-audio` (free, runs locally, Kokoro voice
   "George"). Clone it beside this repo and run its `./setup.sh` once; its `README.md` has the rest. In short,
   `.venv/bin/python make-audio.py ../journalsofexperiments.com/_posts/<file>.md` writes `out/<slug>.mp3` and
-  prints the three `audio` lines for the front matter, and the MP3 goes in `static/audio/<slug>.mp3`. Entries with
-  `audio:` get a player and appear in `/podcast.xml`. Re-render whenever the text changes, and listen to it: when a
-  word comes out wrong, fix the rule in the script, not the entry. The same script narrates a younger-readers text
-  (`make-audio.py _includes/young/<slug>.md`) and prints `audio_young` lines; with those in the front matter the
-  player plays whichever text the reader has showing, and the feed carries the younger version as a bonus episode.
+  prints the three `audio` lines for the front matter; `./publish-audio.sh <slug>` then puts the MP3 on the R2 bucket
+  behind audio.journalsofexperiments.com. Entries with `audio:` get a player and appear in `/podcast.xml`. Re-render
+  whenever the text changes, and listen to it: when a word comes out wrong, fix the rule in the script, not the entry.
+  The same script narrates a younger-readers text (`make-audio.py _includes/young/<slug>.md`) and prints `audio_young`
+  lines; with those in the front matter the player plays whichever text the reader has showing, and the feed carries
+  the younger version as a bonus episode.
 
 ## Publishing and checking
 

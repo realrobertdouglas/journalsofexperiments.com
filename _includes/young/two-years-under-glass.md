@@ -1,0 +1,79 @@
+This is the same story as the full entry, told more plainly. The button at the top switches back to the full version, which gives the sources for everything here.
+
+## The building
+
+Biosphere 2 is a giant greenhouse in the desert north of Tucson, Arizona, at a place called Oracle. It was built between 1987 and 1991 as the largest sealed living world ever attempted. Under its glass were a rainforest, a grassland, a desert, a mangrove swamp, and an ocean with a coral reef and a machine to make waves, holding about 3,800 kinds of plants and animals. There was also a small farm, a marsh for cleaning waste water, and a building with apartments, a kitchen, a laboratory and a library in a tower. The glass covered about 1.3 hectares, roughly two football pitches, and enclosed about 180,000 cubic metres of air.
+
+The name was a claim. The Earth was Biosphere 1, the first world that keeps living things alive. This was to be the second one ever made. The idea was that eight people would be sealed inside for two years, and that the plants, the soil and the sea would recycle their air, water and food the way the planet does, on sunlight alone. Nothing would go in and nothing would come out.
+
+## Who ran it
+
+The project came out of a theatre company. In 1969 John Allen, who had studied business at Harvard and worked as a metallurgist, started a ranch outside Santa Fe, New Mexico, with a group that called itself the Theater of All Possibilities. Over the next fifteen years the group ran projects all over the world, including a research ship, and worked out a philosophy: that people would have to learn to build and run whole living systems, on Earth and one day in space. One of the people drawn to the ranch was Edward Bass, the heir to a Texas oil fortune. Bass paid for Biosphere 2. By the time the doors closed he had put in about $150 million, and some accounts say $200 million.
+
+Seven of the eight who went in came from Allen's group and had trained for years at the site while the building went up around them. The eighth was Roy Walford, a 67-year-old professor of medicine from the University of California, who was the crew's doctor. He had spent decades showing that mice fed less lived longer, and he wanted to try it on people.
+
+The newspapers noticed the theatre company before they noticed the science. Before the doors closed, the *Village Voice* ran a series of articles about the group's commune origins, Allen's control over it, and how little scientific training the crew had, and asked whether the project was an experiment at all. On September 26th 1991, after a party for two thousand people the night before, the airlock closed.
+
+## What they wanted to find out
+
+The question was whether a sealed living system could keep eight people alive, fed and sane for two years. Allen wanted a prototype for a colony on another planet. Walford wanted to test his diet. The company wanted a building that would pay for itself through tourists and research. The crew themselves expected things to go wrong. One of them, Taber MacCallum, said later that most people thought Biosphere 2 "was going to turn to green slime in a matter of weeks." What they did not expect was how the going wrong would be judged.
+
+## How tight it was
+
+The part of the project nobody argues about is the seal. Underground, the whole building sat on a welded liner of stainless steel. Above ground were 16,000 square metres of glass, 80 kilometres of sealed joints and 16 kilometres of welds. The engineer William Dempster later calculated that every tiny flaw in all of that added up to a single hole about 19 millimetres across, the width of a coin.
+
+The trick that made the seal work was a pair of domes the crew called the lungs. Each had a heavy flexible roof that rose and fell as the air inside warmed and cooled, so that the pressure inside never differed much from the pressure outside, and nothing pushed air through the flaws. Dempster measured the leak two ways, and both said that less than ten percent of the air escaped in a year. That was about a hundred times tighter than the best sealed chamber NASA had. It is the figure that turned everything that followed from a story into data.
+
+The glass and its steel frame took away half the sunlight. The water supply was the condensation that dripped off the cooling pipes, tens of thousands of litres a day. And because the designers expected the plants to take in less carbon dioxide in winter than the soil and the people gave off, they installed a scrubber, a machine that pulled carbon dioxide out of the air and stored it as a chalky solid. It was in the engineering plans from the start. It would still become a scandal. The companion piece [*The seal*](/deeper/two-years-under-glass/the-seal/#young) tells how the building was made so tight.
+
+## What happened
+
+**The finger.** Twelve days after the doors closed, Jane Poynter put her hand into the rice threshing machine and cut off the tip of a finger. She went out through the airlock, had surgery in Tucson, and was back inside in under seven hours. She brought a duffel bag in with her. The company did not mention it until asked. Poynter has always said the bag held drawings and a couple of small things. The newspapers said spare parts, then food, then that the experiment was ruined. A small event set the pattern for the big ones: problems were admitted late, and reluctantly.
+
+**Hunger.** The first winter was unusually cloudy, and with half the sun already lost to the glass the farm grew less than planned. Pests the crew could not spray took some of the rest. The eight grew about 83 percent of what they ate and made up the difference from stored seed and from a reserve of grain and beans placed inside before closure. Walford put them on his diet because he had to: about 1,800 calories a day at first, rising to 2,200 as they got better at farming, mostly vegetables, grains and beans, with a little goat milk, eggs and meat.
+
+In six months the men went from an average of 74 kilograms to 62 and the women from 61 to 54. Their blood pressure and cholesterol dropped. Walford published the numbers from inside, in a leading scientific journal. By every measure he could take they were healthier. They were also hungry all the time. He called it "healthy starvation". The companion piece [*Healthy starvation*](/deeper/two-years-under-glass/healthy-starvation/#young) tells what the diet did to them.
+
+**The air.** Outside, the air held about 350 parts per million of carbon dioxide. Inside it rose past 3,000 in the first winter and close to 5,000 in the second. The scrubber ran through both winters and took out about four tonnes. It was not enough. A journalist reported that the company had quietly installed a scrubber, the kind of machine a submarine carries, and said it made the whole experiment worthless. The engineers said it had been designed in from the beginning, which the papers show is true. Both things can be true: it was in the design, and the public had been told a story in which it had no place.
+
+**The animals.** The hummingbirds died, and so did the honeybees, and with them almost every pollinator the designers had brought in. Of twenty-five kinds of small animals with backbones put in at the start, the usual count is that nineteen were gone by the end. What thrived was what thrives anywhere that has been disturbed: one kind of ant that overran all the others, cockroaches by the thousand, and a morning glory vine that climbed over the rainforest faster than the crew could cut it. The coral reef, the most fragile system in the building, survived.
+
+**The crew.** Around the sixth month the eight split into two groups of four. By Poynter's account the groups barely spoke for the rest of the mission. Others say it was not that bad, but one of the eight remembered being spat on twice, and they held group therapy sessions to keep the fight in the open. The split was about how the project was run and how honest it was with the outside, not about the work. The work went on. The farm was planted and harvested, the animals were fed, the machines were kept running, and nobody asked to leave. The companion piece [*The eight*](/deeper/two-years-under-glass/the-eight/#young) tells who they were.
+
+**Oxygen.** The air had been 20.9 percent oxygen when the doors closed, the same as outside. It began falling in the first weeks and kept falling, faster in the dark months. By the second week of January 1993, on day 475, it was 14.4 percent. That is the air at the top of a 4,000-metre mountain pass. Half the crew had altitude sickness, and some of them stopped breathing for moments in their sleep. Walford, the doctor, found he could not add up a column of numbers. The crew asked doctors outside to be ready to overrule their own, because nobody inside trusted a judgement made inside any more.
+
+So the experiment's central rule gave way. Refrigerated trucks of liquid oxygen came up from Tucson, and it was pumped in through the seal. The recovery was immediate. It had to be done again in August.
+
+## The missing oxygen
+
+Nobody knew where the oxygen had gone. The obvious answer was breathing: something in the building was using up oxygen and giving off carbon dioxide faster than the plants could turn it back. But that did not fit. If breathing had used the oxygen, the carbon dioxide should have gone up by the same amount, and it had not gone up nearly enough. Stranger still, the lungs were slowly falling. Gas was vanishing from a sealed building.
+
+A geochemist from Columbia University in New York, Wallace Broecker, took the problem on with his student Jeff Severinghaus. They did what the seal made possible: they audited the building. They counted the carbon in the air, in the plants, in the scrubber's chalk and in the concrete, and they read the different kinds of carbon atoms to tell which carbon had come from where.
+
+The soil was the source. The farm beds had been filled with rich compost, and the microbes in it were breathing far more than anyone had budgeted for. The sink was the walls. Carbon dioxide from the air was reacting with about 16,000 square metres of bare concrete, which was still slowly hardening, and turning into calcium carbonate, which is chalk. About 26 tonnes of it. Every molecule of carbon dioxide that went into the walls took with it the oxygen that breathing had attached to it. The oxygen had not leaked. It was in the basement, as stone.
+
+They published the finding in January 1994. Dempster explained why the audit worked: "It can hardly be overemphasized how powerful is the tool of material closure. It tells you that the atoms you begin with are in there somewhere." The companion piece [*The audit*](/deeper/two-years-under-glass/the-audit/#young) follows the atoms.
+
+## After
+
+The eight came out on the morning of September 26th 1993, two years to the day after they went in, thinner, to flute music and speeches. The press met them with jokes and cruel cartoons. The company had spent two years playing down whatever was wrong, and when the crew walked out alive and the worst that could be said was that they had been hungry and short of breath, nobody was in the mood to count that as a result.
+
+A second crew of seven went in on March 6th 1994. Less than a month later Bass, who had decided the company's money was out of control, got a court order. Federal marshals arrived, the locks and the computer codes were changed, Allen and the senior managers were removed, and a banker named Steve Bannon was put in to run the company. A few nights later two members of the first crew came back, opened an airlock and three emergency doors from outside, and broke five panes of glass. They said the project was in an emergency and that the new crew deserved the choice to stay or go. Both were charged. The second crew stayed, and came out five months early. The company was dissolved that June. The companion piece [*The year it fell apart*](/deeper/two-years-under-glass/the-year-it-fell-apart/#young) tells that spring.
+
+Columbia University ran the building from 1995 to 2003 as a very large greenhouse, with openings cut in the seal. In 2007 the land was sold. The University of Arizona took over the research and now owns the building, with Bass's money behind it again. It has never been sealed since.
+
+In 2019 a reporter went looking for the two years of data, the readings from hundreds of sensors every fifteen minutes, which had been the project's whole claim to science. Only a small part had ever been analysed. The university said it had never been given any archive. One of the eight wrote: "It's shameful to simply accept that these important data are gone." Walford died in 2004, still on his diet. Poynter's book gives the length of the experiment to the minute: *Two Years and Twenty Minutes*.
+
+## What it teaches
+
+Start with what it was not. It was not a failure to keep eight people alive; all eight lived, worked and came out healthier than they went in. It was not a leak; the seal held to a standard nobody has matched since. And it was not, in the end, a mystery; the oxygen was found. Two ecologists asked to review it in 1996 gave the fairest verdict: "No one yet knows how to engineer systems that provide humans with the life-supporting services that natural ecosystems produce for free." Nobody knew before, either. The difference is that now there was a measurement.
+
+**In a closed system the thing you did not measure always finds you.** The designers measured the air every fifteen minutes and lost nearly a third of its oxygen to a surface nobody had put on the list. The soil was chosen for growing and breathed accordingly. The concrete was chosen for strength and absorbed accordingly. Neither was wrong for its job. Closing a system turns every material in it into a participant, and the ones you have not measured are the ones that will surprise you.
+
+**The seal was the instrument.** The same tightness that made the loss frightening made it solvable. Because the atoms could not have left, the missing oxygen was an accounting problem, and accounting problems have answers. A leaky building would have hidden the whole thing. If you want to learn from a system, seal it, and if you cannot seal it, measure what crosses the boundary before you measure anything else.
+
+**Decide before you shut the door whether it is a show or an experiment.** The scrubber was in the plans. The grain reserve was sensible. The duffel bag was trivial. The oxygen was the right call. Each one became a scandal, because the company had sold the public a sealed box in which none of them could exist. An experiment publishes its rules and its exceptions and is judged on what it learned. A show promises a result and is judged on whether it delivered. Biosphere 2 tried to be both, and when the result slipped it had no standing left to claim the learning.
+
+**Eight people are a life-support system too, and the least measured one.** The air was measured every fifteen minutes. The crew's friendship was not measured at all, and it failed at month six. What is remarkable is what held: nobody left, and the group that could not speak to each other still kept each other alive. Whoever plans the next sealed habitat should budget for that split as surely as for the carbon dioxide.
+
+**A failure that is measured is worth more than a success that is not, if the measurements survive.** The leak rate, the oxygen curve, the diet study and the carbon audit are all published and still used. They are the reason anyone writes about this building thirty years on. The rest, two years of readings, was left with a company that dissolved, and nobody can now say where it is. Whatever else you plan for, plan for who keeps the records when the organisation that made them is gone.
