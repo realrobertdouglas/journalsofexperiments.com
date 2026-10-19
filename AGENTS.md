@@ -4,8 +4,8 @@ This is journalsofexperiments.com: recounts of other people's experiments and wh
 site built by GitHub Pages from the root of `main` (repo `realrobertdouglas/journalsofexperiments.com`).
 `README.md` covers the mechanics of the site. This file covers how the work is done, for whoever picks it up next.
 
-**The backlog of entries to write is `_ideas/experiment-ideas.md`.** Start there. Claim an idea by moving it to
-"In progress" and committing that before you begin.
+**The backlog of entries to write is `_ideas/experiment-ideas.md`.** Start there. Claim an idea by changing the
+status word on its own line to `[claimed: <name>, <date>]`, and commit and push that before you begin.
 
 ## The sister sites
 
@@ -120,12 +120,44 @@ comments: false
   `.venv/bin/python make-audio.py ../journalsofexperiments.com/_posts/<file>.md` writes `out/<slug>.mp3` and
   prints the three `audio` lines for the front matter; `./publish-audio.sh <slug>` then puts the MP3 on the R2 bucket
   behind audio.journalsofexperiments.com. Entries with `audio:` get a player and appear in `/podcast.xml`. Re-render
-  whenever the text changes, and listen to it: when a word comes out wrong, fix the rule in the script, not the entry.
+  whenever the text changes, and listen to it: when a name comes out wrong, put a respelling in that repo's
+  `say-as/<entry slug>.txt` (one `wrong => right` per line; it covers the entry, its younger version and its
+  companions), not in the entry's text; `check-names.py <file>` shows beforehand how every new name will be said.
+  General rules (dates, money, clock times, heteronyms) live in `make-audio.py` itself.
   The same script narrates a younger-readers text (`make-audio.py _includes/young/<slug>.md`) and prints `audio_young`
   lines; with those in the front matter the player plays whichever text the reader has showing, and the feed carries
   the younger version as a bonus episode. Companion pieces are narrated the same way (`make-audio.py
   _deeper/<entry>/<piece>.md` writes `<entry>-<piece>.mp3`; the `audio` lines go in the piece's front matter) and
   appear in the feed as bonus episodes named for their entry. Every entry and every companion piece has a narration.
+
+## Checking an entry
+
+`_tools/check-entry.py _posts/<file>.md` reads this file's rules as code: front matter, the subtitle, length,
+sections, figures (present, alt text, caption, size), the younger version (present, the button line, length, plain
+lessons, date form, `#young` links), companion pieces, the audio lines and every source link. Fix every FAIL; read
+each WARN and decide. `--no-links` skips the fetching.
+
+## Several entries at once
+
+When more than one person or agent is writing, or when nobody is watching the push, an entry goes through a pull
+request rather than straight to `main`:
+
+1. Claim the idea in `_ideas/experiment-ideas.md` (change its status word, commit, push to `main`). That one-line
+   commit is the only direct push the entry makes until it is merged.
+2. Work on a branch `entry/<slug>`, in your own worktree. Touch only the entry's own files: `_posts/<file>.md`,
+   `_includes/young/<slug>.md`, `static/img/<slug>/`, `_deeper/<slug>/`, and in journal-audio `say-as/<slug>.txt`.
+   Leave `_config.yml`, the layouts, the stylesheet, the includes, the feed and `make-audio.py` alone; if one of them
+   needs a change, say so in the pull request.
+3. Run `_tools/check-entry.py` and fix every FAIL.
+4. Open the pull request with the entry, its younger version and its figures, and a short note: the sources you
+   could not reach, the numbers sources disagree on, the WARN lines you are leaving. The owner reads it and merges,
+   and the merge publishes it.
+5. Narration comes after the merge, once the text is final, since every text change means a re-render: render,
+   upload, add the audio lines and push them to `main` (a few lines; no pull request needed). Then mark the idea
+   `[published: <path>]` in the backlog.
+
+Two or three entries in flight at once is comfortable. The reading is the slow part, and all narration renders on
+one machine. Working alone with the owner watching, the direct push to `main` below is still fine.
 
 ## Publishing and checking
 
@@ -145,3 +177,5 @@ Nothing builds on the author's Mac (it has only the system Ruby 2.6), so check o
 - **`exclude:` in `_config.yml` replaces Jekyll's defaults**, so a file added there must keep the existing list
   intact. Files in a folder whose name starts with `_` (like `_ideas/`) are never published.
 - **`_includes/young/`** files are Markdown included into the page, so they have no front matter.
+- **Folders starting with `_`** that are not Jekyll's own (`_ideas/`, `_tools/`) are never published, which is why
+  the backlog and the checker live there.

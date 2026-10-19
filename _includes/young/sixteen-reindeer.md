@@ -27,7 +27,7 @@ The Chukchi herders went home, and in 1894 Jackson hired Sámi families from Lap
 
 ## The great drive, 1897 to 1898
 
-In the autumn of 1897 eight whaling ships were trapped by ice near Point Barrow, at the top of Alaska, with about 275 men aboard and not enough food for the winter. The *Bear* was sent north in November, but no ship could get near Barrow in winter. So on 16 December 1897 she landed a small party on the coast 1,500 miles away: Lieutenant David Jarvis, Lieutenant Ellsworth Bertholf and the ship's doctor, Samuel Call. Their orders were to travel overland by dog sled, borrow the reindeer herds, and drive them to the whalers as food on the hoof.
+In the autumn of 1897 eight whaling ships were trapped by ice near Point Barrow, at the top of Alaska, with about 275 men aboard and not enough food for the winter. The *Bear* was sent north in November, but no ship could get near Barrow in winter. So on December 16th 1897 she landed a small party on the coast 1,500 miles away: Lieutenant David Jarvis, Lieutenant Ellsworth Bertholf and the ship's doctor, Samuel Call. Their orders were to travel overland by dog sled, borrow the reindeer herds, and drive them to the whalers as food on the hoof.
 
 <figure>
   <img src="/static/img/sixteen-reindeer/expedition-chart-1899.jpg" alt="The 1899 report's chart of Alaska and the Bering Sea with the expedition's tracks at sea and on land">
