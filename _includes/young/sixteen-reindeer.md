@@ -44,7 +44,9 @@ The *Bear* reached Barrow in July, when the ice opened, and carried the men home
 
 Every year Jackson published a count of the reindeer in Alaska, and every year it was bigger: 2,800 in 1899; 10,200 in 1905; 27,300 in 1910; 70,000 in 1915; 180,000 in 1920; 350,000 in 1925. In Washington the number was read as proof that the experiment was working.
 
-But the count only answered the first question. The second question, who owned the deer, was going wrong. The Sámi teachers were allowed to own deer, and they were not Natives, so the rule against selling to white men did not apply to them. In 1914 a businessman from Nome named Carl Lomen bought a Sámi herder's 1,200 reindeer, and by 1929 his family had bought more than 14,000. They built cold-storage plants and shipped reindeer meat to Seattle. At Christmas 1926 they put real reindeer into Santa Claus parades in Boston, Chicago, San Francisco and Seattle. By the 1930s the Lomens were said to own 250,000 reindeer. An auditor who went through their books in 1935 reported that this figure was "by computation": worked out on paper, not counted.
+But the count only answered the first question. The second question, who owned the deer, was going wrong. The Sámi teachers were allowed to own deer, and they were not Natives, so the rule against selling to white men did not apply to them.
+
+In 1914 a businessman from Nome named Carl Lomen bought a Sámi herder's 1,200 reindeer, and by 1929 his family had bought more than 14,000, paying about seventeen dollars a deer. They built cold-storage plants on the coast and shipped reindeer meat to Seattle by the thousand. To make Americans want to eat it, they went to the cities. At Christmas 1926 they put real reindeer into Santa Claus parades in Boston, Chicago, San Francisco and Seattle, with Santa in a sleigh behind them. The first Santa was a Sámi herder named Mathis Nilluka, and the letters from children that the newspapers printed beforehand had been written by the company. People called Carl Lomen the Reindeer King. The cattle ranchers of the western states noticed, and they got local laws passed against selling reindeer meat. By the 1930s the Lomens were said to own 250,000 reindeer. An auditor who went through their books in 1935 reported that this figure was "by computation": worked out on paper, not counted.
 
 Two other things were happening that the count could not show. Reindeer live on lichen, a slow-growing plant that adds only about five millimetres a year. Where too many deer grazed, the lichen was gone, and it takes decades to come back. And the herds had been turned into companies with shares, and the shares were credited with more fawns each year than were really being born. The number on paper was pulling away from the number on the ground.
 
@@ -62,7 +64,7 @@ In 1944 the Coast Guard put twenty-nine reindeer on St. Matthew Island, an empty
 
 Today about twenty herders keep about twenty thousand reindeer on the Seward Peninsula, where the first 171 came ashore.
 
-Healy was court-martialled in 1896 for drunkenness, lost his command, and died in 1904. Who his mother was did not become known until long after his death. The Coast Guard's largest icebreaker is named for him. The *Bear* went on to the Antarctic and the Second World War, and sank under tow in 1963; her wreck was found in 2019 and identified in 2021. The companion piece, "The ship", tells that story.
+Healy was court-martialled in 1896 for drunkenness, lost his command, and died in 1904. Who his mother was did not become known until long after his death. The Coast Guard's largest icebreaker is named for him. The *Bear* went on to the Antarctic and the Second World War, and sank under tow in 1963; her wreck was found in 2019 and identified in 2021. The companion piece, "[The ship](/deeper/sixteen-reindeer/the-ship/#young)", tells that story.
 
 ## What it teaches
 
