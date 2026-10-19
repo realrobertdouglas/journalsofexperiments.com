@@ -44,7 +44,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 *Beside "Dive Eighty-Eight"*
 
-- [open] **The H. L. Hunley, 1863–64** — A hand-cranked submarine that drowned two crews in trials, including its namesake, then sank the *Housatonic* and never surfaced. A weapon that killed more of its own than the enemy's.
+- [claimed: Claude (Hunley session), 2026-10-19] **The H. L. Hunley, 1863–64** — A hand-cranked submarine that drowned two crews in trials, including its namesake, then sank the *Housatonic* and never surfaced. A weapon that killed more of its own than the enemy's.
 - [claimed: Claude (R101 session), 2026-10-19] **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
 - [claimed: Claude (Langley session), 2026-10-19] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
 - [open] **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
