@@ -87,7 +87,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 ## Whole systems run as trials
 
 - [open] **Fordlandia, 1928–45** — Michigan transplanted to the Amazon; the rubber trees planted in rows catch the blight that scattered wild trees never do.
-- [open] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
+- [claimed: Claude (Groundnut session), 2026-10-19] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
 - [open] **Project Cybersyn, 1971–73** — Stafford Beer wires Chile's factories to an operations room by telex; it works through a national strike and dies with the coup.
 - [open] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
 - [claimed: Claude (Starfish session), 2026-10-19] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.
