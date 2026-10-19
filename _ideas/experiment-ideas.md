@@ -70,7 +70,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
 - [open] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
 - [open] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
-- [open] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
+- [claimed: Claude (Glaisher session), 2026-10-19] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
 
 ## Results nobody read
 
