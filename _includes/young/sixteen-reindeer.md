@@ -68,6 +68,14 @@ Healy was court-martialled in 1896 for drunkenness, lost his command, and died i
 
 ## What it teaches
 
-An experiment can only see what its instrument measures. This one's instrument was a count of reindeer, and the count answered the easy question so well, and for so long, that everyone took it as the answer to the hard question too. For forty years an experiment about whether a people would come to own a living was reported as a number of animals. Because the number went up, nobody looked at who owned the animals until it was too late, and when they looked, the number itself was partly made up.
+What does this story teach? A few plain things.
 
-The people who ran the experiment had written down how it could fail, and then let it fail in exactly that way. The one time anyone measured the right thing was Jarvis's receipt: 133 reindeer borrowed from Charlie Antisarlook, 300 given back. That herd outlived Charlie by half a century in Mary's hands. The idea was true wherever anyone bothered to test it. The count is what everyone remembers.
+**You only find out what you measure.** Every year someone counted the reindeer, and every year the number was bigger. That answered the easy question: can reindeer live in Alaska? Yes, they can. But the hard question was different: would the Native people of Alaska end up owning the herds and making a living from them? Nobody counted that. Nobody wrote down, year by year, how many reindeer belonged to Native herders and how many belonged to businessmen. Because nobody measured it, nobody noticed when it went wrong.
+
+**A number that keeps going up can hide a problem.** Everyone in Washington looked at the count and said the experiment was working. But a bigger number does not tell you who owns the animals, or whether the lichen is running out, or even whether the number is true. By the 1930s the number was partly made up. People trusted it anyway, because it had gone up for forty years.
+
+**If you know how something could fail, keep checking for that.** Sheldon Jackson wrote down at the very start how the experiment could fail: if white men were allowed to own reindeer, the Native people would never end up with the herds. Then the people in charge let exactly that happen. Writing down a danger is not enough. Someone has to keep looking for it.
+
+**The right measurement was a receipt.** The one time someone measured the thing that mattered was when Jarvis borrowed Charlie Antisarlook's reindeer and wrote down how many he took: 133 borrowed, 300 given back. Charlie and Mary owned their herd, and Mary kept it for the rest of her life. Where someone bothered to check who owned the deer, the idea worked. Where nobody checked, it failed.
+
+So the lesson is simple. Before you start an experiment, decide what question you are really asking. Then measure that, and not just the thing that is easiest to count.
