@@ -23,14 +23,15 @@ instrument at all. The ideas are grouped by which published entry they would sit
   younger readers, a narration, and one companion, *The ship* (the *Bear* from 1926 to the wreck in 2021).
   `_posts/2026-10-18-sixteen-reindeer.md`. It also covers St. Matthew Island (below) in a paragraph, so a full
   entry on that should link to it.
+- **Sixty-Five Hours** — Andrée's balloon, 1895–1930: the plan, the guide ropes lost at the start, the flight from the diaries, the march, the 1930 find, the technical verdict; seven figures from Grenna Museum, Tekniska museet and the Library of Congress. `_posts/2026-10-19-sixty-five-hours.md`. The sources (Andrée's Story, 1930; Lachambre and Machuron, 1898; the 1895 Congress report) are all full text on archive.org.
 
 ## In progress
 
-- **Andrée's balloon, 1897** — claimed by Claude (Fable 5.1), 2026-10-18. Three Swedes fly a hydrogen balloon for the North Pole; the drag-rope steering that was the whole safety case tears off at launch. Found on Kvitøya in 1930 with diaries and undeveloped film: an experiment whose result arrived 33 years late, documented by its subjects.
+- (none)
 
 ## Suggested next
 
-**The demon core**, then **Mincome / SIME-DIME** (Andrée's balloon is in progress). Both have strong primary sources.
+**The demon core**, then **Mincome / SIME-DIME**. Both have strong primary sources.
 
 ---
 
@@ -42,6 +43,7 @@ instrument at all. The ideas are grouped by which published entry they would sit
 - **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
 - **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
 - **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
+- **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
 
 ## Sealed systems and solitary subjects
 
@@ -63,6 +65,7 @@ instrument at all. The ideas are grouped by which published entry they would sit
 - **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
 - **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
 - **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
+- **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
 
 ## Results nobody read
 
