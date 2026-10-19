@@ -5,8 +5,8 @@ subtitle: "The cutter Bear and Alaska, 1881 to 1950: the herd that grew to six h
 date:   2026-10-18 02:00:00 +0000
 young: young/sixteen-reindeer.md
 audio: https://journalsofexperiments.com/static/audio/sixteen-reindeer.mp3
-audio_length: 19029676
-audio_duration: "39:38"
+audio_length: 19035436
+audio_duration: "39:39"
 categories: [experiments]
 comments: false
 ---
