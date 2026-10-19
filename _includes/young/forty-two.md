@@ -39,11 +39,6 @@ Klein wrote a report that winter. He said the herd could not be managed. It was 
 
 Nobody could get there for six years.
 
-<figure>
-  <img src="/static/img/forty-two/loran-station-1963.jpg" alt="A black-and-white view across dark tundra to a row of Quonset huts and antenna poles on a bluff above the sea, with a headland behind">
-  <figcaption>The empty Coast Guard station in July 1963, photographed by David Klein from the flats where the reindeer spent the winter.</figcaption>
-</figure>
-
 ## Six thousand
 
 In July 1963 a Coast Guard icebreaker with two helicopters took Klein back. "There were reindeer all over the place," he remembered later. But the island was buried in fog, and from the ridges he could see nothing. On the last day, with the fog lifted, he radioed the captain and asked to borrow the helicopters. He got both. He flew one half of the island and a colleague flew the other, counting, and that night on the ship they added it up.
