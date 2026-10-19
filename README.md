@@ -36,6 +36,7 @@ The entry lists its companions under "Go deeper" at the foot of its text; each c
 
 ## How the site is put together
 
+- `_ideas/experiment-ideas.md` — the backlog of entries to write; `AGENTS.md` — how an entry is researched, written and published (read by Claude Code through `CLAUDE.md`). Neither is published.
 - `_posts/` — the entries. Front matter: `title`, `date` (UTC), `categories: [name]`, optional `subtitle` and `image`.
 - `_deeper/` — companion pieces, one folder per entry (see above). Layout `deeper.html`; styles `.go-deeper` and `.deeper-kicker` in `static/css/main.css`.
 - `category/` — one small page per category; the post header links to `/category/<name>`, so add a page here when you start a new category.

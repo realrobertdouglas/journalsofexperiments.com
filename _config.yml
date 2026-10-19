@@ -38,6 +38,8 @@ markdown: kramdown
 exclude:
   - new-entry.sh
   - README.md
+  - AGENTS.md
+  - CLAUDE.md
   - CNAME
   - Gemfile
   - Gemfile.lock
