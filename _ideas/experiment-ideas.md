@@ -91,4 +91,4 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **Project Cybersyn, 1971–73** — Stafford Beer wires Chile's factories to an operations room by telex; it works through a national strike and dies with the coup.
 - [open] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
 - [open] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.
-- [open] **Chernobyl's rundown test, 1986** — The disaster was itself a safety experiment, run at low power after a grid dispatcher delayed it into the night shift.
+- [claimed: Claude (Chernobyl session), 2026-10-19] **Chernobyl's rundown test, 1986** — The disaster was itself a safety experiment, run at low power after a grid dispatcher delayed it into the night shift.
