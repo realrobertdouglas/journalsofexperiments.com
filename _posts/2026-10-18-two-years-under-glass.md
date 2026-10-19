@@ -4,6 +4,12 @@ title:  "Two Years Under Glass"
 subtitle: "The story of Biosphere 2, Oracle, Arizona, 1991 to 1993, and the oxygen that went into the walls."
 date:   2026-10-18 00:00:00 +0000
 young: young/two-years-under-glass.md
+audio: https://audio.journalsofexperiments.com/two-years-under-glass.mp3
+audio_length: 12369974
+audio_duration: "25:46"
+audio_young: https://audio.journalsofexperiments.com/two-years-under-glass-young.mp3
+audio_young_length: 8303266
+audio_young_duration: "17:17"
 categories: [experiments]
 comments: false
 ---

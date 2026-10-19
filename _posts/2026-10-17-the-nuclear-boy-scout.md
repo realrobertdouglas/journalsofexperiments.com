@@ -4,6 +4,12 @@ title:  "The Nuclear Boy Scout"
 subtitle: "The story of a potting shed in Michigan, 1991 to 1994, and the experiment nobody was watching."
 date:   2026-10-17 03:00:00 +0000
 young: young/the-nuclear-boy-scout.md
+audio: https://audio.journalsofexperiments.com/the-nuclear-boy-scout.mp3
+audio_length: 15816950
+audio_duration: "32:56"
+audio_young: https://audio.journalsofexperiments.com/the-nuclear-boy-scout-young.mp3
+audio_young_length: 8473570
+audio_young_duration: "17:39"
 categories: [experiments]
 comments: false
 ---

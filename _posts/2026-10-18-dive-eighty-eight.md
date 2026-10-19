@@ -7,6 +7,9 @@ young: young/dive-eighty-eight.md
 audio: https://audio.journalsofexperiments.com/dive-eighty-eight.mp3
 audio_length: 13329582
 audio_duration: "27:46"
+audio_young: https://audio.journalsofexperiments.com/dive-eighty-eight-young.mp3
+audio_young_length: 7173529
+audio_young_duration: "14:56"
 categories: [experiments]
 comments: false
 ---
