@@ -1,26 +1,45 @@
-{% comment %}Audio player (post.html, under the reader toggle). An entry whose front matter has `audio:` (an MP3 URL),
-`audio_length:` (bytes) and `audio_duration:` ("43:10") shows a native player here and is listed in /podcast.xml.
-An entry with a younger-readers text can carry a narration of it too, in `audio_young:`, `audio_young_length:` and
-`audio_young_duration:`; the player then follows the reader toggle, playing whichever text is showing.
-Under the player, a row of speed buttons (1× to 2×) and a readout of the time left at that speed; the row stays
-hidden until static/js/audio-speed.js runs, and the native controls work without it. The files are made with
-journal-audio/make-audio.py, beside the site repos. Styles: main.css .audio-player.{% endcomment %}
+{% comment %}Audio player card (post.html, under the subtitle). An entry whose front matter has `audio:` (an MP3 URL),
+`audio_length:` (bytes) and `audio_duration:` ("43:10") gets this card and is listed in /podcast.xml. With
+`audio_young:`, `audio_young_length:` and `audio_young_duration:` as well, the card's Full/Younger pills switch both
+the text and the narration (the reader toggle in _includes/reader-toggle.html follows, and vice versa).
+The card is a custom player over a hidden <audio> element: play/pause, a seek bar, "Listen · 26:26 left at 1.5×",
+the clock, speed pills and the feed. Without JavaScript the native player shows instead and the card stays hidden.
+The files are made with journal-audio/make-audio.py, beside the site repos. Script: static/js/audio-player.js.
+Styles: main.css .audio-card.{% endcomment %}
 {% if page.audio %}
-<div class="audio-player" id="js-audio-player" data-full-src="{{ page.audio }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
-  <span class="audio-player__label" id="js-audio-label">Listen{% if page.audio_duration %} · {{ page.audio_duration }}{% endif %}</span>
-  <audio controls preload="none" src="{{ page.audio }}"><a href="{{ page.audio }}">Download the audio</a></audio>
-  <a class="audio-player__feed" href="/podcast.xml" title="The audio entries as a podcast feed, for any podcast app">Podcast feed</a>
-  <div class="audio-player__speed" id="js-audio-speed" hidden>
-    <span class="audio-player__speed-label" id="audio-speed-label">Speed</span>
-    <span role="group" aria-labelledby="audio-speed-label" class="audio-player__rates">
-      <button type="button" class="audio-player__rate" data-rate="1" aria-pressed="true">1×</button>
-      <button type="button" class="audio-player__rate" data-rate="1.25" aria-pressed="false">1.25×</button>
-      <button type="button" class="audio-player__rate" data-rate="1.5" aria-pressed="false">1.5×</button>
-      <button type="button" class="audio-player__rate" data-rate="1.75" aria-pressed="false">1.75×</button>
-      <button type="button" class="audio-player__rate" data-rate="2" aria-pressed="false">2×</button>
-    </span>
-    <span class="audio-player__eta" id="js-audio-eta" aria-live="polite"></span>
+<div class="audio-card" id="js-audio-player" data-full-src="{{ page.audio }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
+  <audio class="audio-card__native" controls preload="none" src="{{ page.audio }}"><a href="{{ page.audio }}">Download the audio</a></audio>
+  <div class="audio-card__ui" hidden>
+    <div class="audio-card__top">
+      <button type="button" class="audio-card__play" id="js-audio-play" aria-label="Play the narration">
+        <svg class="audio-card__icon audio-card__icon--play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+        <svg class="audio-card__icon audio-card__icon--pause" viewBox="0 0 24 24" aria-hidden="true" hidden><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+      </button>
+      <div class="audio-card__main">
+        <div class="audio-card__line">
+          <span class="audio-card__status" id="js-audio-status" aria-live="polite"></span>
+          <span class="audio-card__clock" id="js-audio-clock"></span>
+        </div>
+        <input type="range" class="audio-card__seek" id="js-audio-seek" min="0" max="100" step="1" value="0" aria-label="Position in the narration">
+      </div>
+    </div>
+    <div class="audio-card__bottom">
+      {% if page.young %}
+      <span class="audio-card__group" role="group" aria-label="Version">
+        <button type="button" class="audio-card__pill" data-version="full" aria-pressed="true">Full</button>
+        <button type="button" class="audio-card__pill" data-version="young" aria-pressed="false">Younger</button>
+      </span>
+      {% endif %}
+      <span class="audio-card__group" role="group" aria-label="Speed">
+        <button type="button" class="audio-card__pill" data-rate="1" aria-pressed="true">1×</button>
+        <button type="button" class="audio-card__pill" data-rate="1.25" aria-pressed="false">1.25×</button>
+        <button type="button" class="audio-card__pill" data-rate="1.5" aria-pressed="false">1.5×</button>
+        <button type="button" class="audio-card__pill" data-rate="1.75" aria-pressed="false">1.75×</button>
+        <button type="button" class="audio-card__pill" data-rate="2" aria-pressed="false">2×</button>
+      </span>
+      <a class="audio-card__feed" href="/podcast.xml" title="Podcast feed" aria-label="Podcast feed"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5.5" cy="18.5" r="2.5"/><path d="M3 10.5v3a7.5 7.5 0 0 1 7.5 7.5h3A10.5 10.5 0 0 0 3 10.5zm0-7.5v3a15 15 0 0 1 15 15h3A18 18 0 0 0 3 3z"/></svg></a>
+    </div>
   </div>
 </div>
-<script src="/static/js/audio-speed.js" defer></script>
+<script src="/static/js/audio-player.js" defer></script>
 {% endif %}

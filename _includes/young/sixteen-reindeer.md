@@ -52,9 +52,9 @@ The Native herders knew. They complained, held meetings and sent telegrams. In 1
 
 ## What went wrong
 
-In 1937 Congress passed the Reindeer Act. It said that only Natives could own reindeer in Alaska, and that the government would buy every deer that anyone else owned. The non-Native owners said they had 500,615 reindeer. The men sent to count them in 1938 could find about 180,000. When the roundups were held in the winter of 1939 and 1940, 84,001 reindeer were actually counted and bought, for less than half a million dollars. For the first time in forty-eight years the count was a real count.
+In 1937 Congress passed the Reindeer Act. It said that only Natives could own reindeer in Alaska, and that the government would buy every deer that anyone else owned. The non-Native owners said they had 500,000 reindeer. The men sent to count them in 1938 could find about 180,000. When the roundups were held in the winter of 1939 and 1940, 84,000 reindeer were actually counted and bought, for less than half a million dollars. For the first time in forty-eight years the count was a real count.
 
-Then the herds collapsed. There were 544,000 reindeer on paper in 1937, 252,550 in 1940, and 25,000 in 1950. Wild caribou, which are the same animal as reindeer, came back through the ranges in huge numbers, and the tame reindeer followed them away. Wolves came with the caribou. The lichen was gone. And there were fewer people herding every year, because the money had gone to Seattle.
+Then the herds collapsed. There were 550,000 reindeer on paper in 1937, 250,000 in 1940, and 25,000 in 1950. Wild caribou, which are the same animal as reindeer, came back through the ranges in huge numbers, and the tame reindeer followed them away. Wolves came with the caribou. The lichen was gone. And there were fewer people herding every year, because the money had gone to Seattle.
 
 ## What was left
 
