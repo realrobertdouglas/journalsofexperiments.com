@@ -5,8 +5,8 @@ subtitle: "The story of the cutter Bear and Alaska, 1881 to 1950: the herd that 
 date:   2026-10-18 02:00:00 +0000
 young: young/sixteen-reindeer.md
 audio: https://audio.journalsofexperiments.com/sixteen-reindeer.mp3
-audio_length: 19036204
-audio_duration: "39:39"
+audio_length: 19042156
+audio_duration: "39:40"
 audio_young: https://audio.journalsofexperiments.com/sixteen-reindeer-young.mp3
 audio_young_length: 6134807
 audio_young_duration: "12:46"
