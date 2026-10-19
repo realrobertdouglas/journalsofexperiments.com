@@ -4,6 +4,12 @@ title:  "Thirty Strings"
 subtitle: "The story of Starfish Prime and Project West Ford, 1958 to 1966: a hydrogen bomb and half a billion copper needles fired into the sky above everyone, and the instruments that answered from other people's roofs."
 date:   2026-10-19 11:00:00 +0000
 young: young/thirty-strings.md
+audio: https://audio.journalsofexperiments.com/thirty-strings.mp3
+audio_length: 21056040
+audio_duration: "43:51"
+audio_young: https://audio.journalsofexperiments.com/thirty-strings-young.mp3
+audio_young_length: 7002067
+audio_young_duration: "14:35"
 categories: [experiments]
 comments: false
 ---

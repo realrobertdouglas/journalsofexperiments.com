@@ -4,6 +4,9 @@ subtitle: "Three weeks in the Palace of Culture at Chernobyl, July 1987: six men
 parent: thirty-six-seconds
 order: 2
 date:   2026-10-19 13:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-six-seconds-the-trial.mp3
+audio_length: 3953095
+audio_duration: "8:14"
 ---
 
 The official account of the accident, once it had been fixed in June 1986 and presented in Vienna in August, needed a court to complete it. This piece follows the people the entry leaves in the control room at 1:23:40 through the year after, to the trial of July 1987 and what became of the two men whose names are attached to the night.

@@ -4,6 +4,12 @@ title:  "Seven Miles"
 subtitle: "The story of the Mammoth balloon and the British Association's ascents, 1862 to 1866: the observer who read his instruments until his eyes gave out, the aeronaut who opened the valve with his teeth, and the height that was never measured."
 date:   2026-10-19 07:00:00 +0000
 young: young/seven-miles.md
+audio: https://audio.journalsofexperiments.com/seven-miles.mp3
+audio_length: 19454562
+audio_duration: "40:31"
+audio_young: https://audio.journalsofexperiments.com/seven-miles-young.mp3
+audio_young_length: 7632781
+audio_young_duration: "15:53"
 categories: [experiments]
 comments: false
 ---

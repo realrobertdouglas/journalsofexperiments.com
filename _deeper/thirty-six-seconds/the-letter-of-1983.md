@@ -4,6 +4,9 @@ subtitle: "The paper trail on the rods, 1975 to 1984: an accident at Leningrad, 
 parent: thirty-six-seconds
 order: 3
 date:   2026-10-19 13:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-six-seconds-the-letter-of-1983.mp3
+audio_length: 6409177
+audio_duration: "13:21"
 ---
 
 The entry says that the thing the stop button did at Chernobyl on 26 April 1986 had been measured in 1983 and described in a letter. This piece sets out what the record shows was known, by whom, and when, as the commission of the Soviet regulator reconstructed it in 1991 from the design documents and the correspondence, and as the IAEA's advisory group summarised it in 1992. It is a short history of a warning that was written down at every stage and acted on at none.

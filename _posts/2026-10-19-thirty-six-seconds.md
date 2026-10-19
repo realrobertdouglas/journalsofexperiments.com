@@ -4,6 +4,12 @@ title:  "Thirty-Six Seconds"
 subtitle: "The story of the rundown test at Chernobyl Unit 4, 1982 to 1986: the forty seconds a coasting turbine was meant to cover, the letter of 1983 that said what the stop button would do, and the night the button was pressed to end the experiment."
 date:   2026-10-19 13:00:00 +0000
 young: young/thirty-six-seconds.md
+audio: https://audio.journalsofexperiments.com/thirty-six-seconds.mp3
+audio_length: 20281136
+audio_duration: "42:15"
+audio_young: https://audio.journalsofexperiments.com/thirty-six-seconds-young.mp3
+audio_young_length: 8302492
+audio_young_duration: "17:17"
 categories: [experiments]
 comments: false
 ---

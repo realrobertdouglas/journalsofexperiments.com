@@ -4,6 +4,9 @@ subtitle: "The documents the inquiry printed, in the order they were written, No
 parent: four-thousand-pads
 order: 2
 date:   2026-10-19 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-thousand-pads-the-papers.mp3
+audio_length: 10320202
+audio_duration: "21:29"
 ---
 
 The Report of the R.101 Inquiry is unusual among accident reports in printing its evidence. The Air Ministry put every file it had before the Court, and Sir John Simon quoted the ones that mattered at length, so that a reader could judge them. This piece sets the chief of them out in the order in which they were written. The words are the documents' own, as the report gives them; the sentences between are only to say who wrote to whom.

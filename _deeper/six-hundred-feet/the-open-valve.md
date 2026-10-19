@@ -4,6 +4,9 @@ subtitle: "John Craven's night on the barge: the winch, the submarine, the valve
 parent: six-hundred-feet
 order: 1
 date:   2026-10-19 15:00:00 +0000
+audio: https://audio.journalsofexperiments.com/six-hundred-feet-the-open-valve.mp3
+audio_length: 5412685
+audio_duration: "11:16"
 ---
 
 John Piña Craven was the chief scientist of the Deep Submergence Systems Project, and Sealab III, since the autumn of 1965, had been his. He told the story of 17 February 1969 in one chapter of his memoir, *The Silent War*, published in 2001. It is the only account by a senior officer of that day, and the only one in which the word sabotage is used by someone who had the standing to use it. This piece follows it, with what the divers and Walter Mazzone have said against it.

@@ -4,6 +4,12 @@ title:  "Four Thousand Pads"
 subtitle: "The story of the airship R101 and the Imperial Airship Scheme, 1924 to 1931: the two ships built to be compared, the trials programme her captain wrote and never flew, and the certificate signed before the report was."
 date:   2026-10-19 06:00:00 +0000
 young: young/four-thousand-pads.md
+audio: https://audio.journalsofexperiments.com/four-thousand-pads.mp3
+audio_length: 19808816
+audio_duration: "41:15"
+audio_young: https://audio.journalsofexperiments.com/four-thousand-pads-young.mp3
+audio_young_length: 8218012
+audio_young_duration: "17:07"
 categories: [experiments]
 comments: false
 ---

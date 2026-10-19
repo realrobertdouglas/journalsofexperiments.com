@@ -4,6 +4,9 @@ subtitle: "Three sentences from 1864 and 1866, a lantern with a clear glass, an 
 parent: two-crews
 order: 4
 date:   2026-10-19 12:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-crews-the-blue-light.mp3
+audio_length: 3043199
+audio_duration: "6:20"
 ---
 
 Everything anyone knows about the *Hunley*'s last signal rests on three statements, and they do not say the same thing.

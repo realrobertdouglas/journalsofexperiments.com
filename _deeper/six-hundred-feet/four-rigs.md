@@ -4,6 +4,9 @@ subtitle: "The Mark IX, the note Blackburn sent up, the half hour the rigs hung 
 parent: six-hundred-feet
 order: 2
 date:   2026-10-19 15:00:00 +0000
+audio: https://audio.journalsofexperiments.com/six-hundred-feet-four-rigs.mp3
+audio_length: 6113859
+audio_duration: "12:44"
 ---
 
 The Navy's finding was that Berry Cannon died because the canister in his breathing rig held no Baralyme, and that the chief who had certified the rig had let it go down empty. Fifty-five years later eleven of the surviving aquanauts put their names to a statement that the chief had done no such thing, and the engineer who gathered their account argues that Cannon was electrocuted. This piece sets out what is known about the four rigs, what the board of investigation heard, and what has been argued since. It does not settle it. Nothing available can.

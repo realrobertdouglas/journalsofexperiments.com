@@ -4,6 +4,9 @@ subtitle: "William Alexander's description of the Hunley from memory in 1902, an
 parent: two-crews
 order: 1
 date:   2026-10-19 12:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-crews-the-boat.mp3
+audio_length: 5194931
+audio_duration: "10:49"
 ---
 
 There are two descriptions of the *H. L. Hunley* that come from people who had their hands on her. One is William Alexander's, written at Mobile in June 1902, thirty-nine years after he helped build her, with the warning that "all dimensions are from memory." The other is the site assessment made by divers of the National Park Service, the Naval Historical Center and the South Carolina Institute of Archaeology and Anthropology in May 1996, with the boat still under a metre of sand four miles off Sullivan's Island. They agree better than a memory and a tape measure usually do.
