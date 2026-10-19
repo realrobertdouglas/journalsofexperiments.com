@@ -8,8 +8,8 @@ audio: https://audio.journalsofexperiments.com/the-nuclear-boy-scout.mp3
 audio_length: 15816950
 audio_duration: "32:56"
 audio_young: https://audio.journalsofexperiments.com/the-nuclear-boy-scout-young.mp3
-audio_young_length: 8473570
-audio_young_duration: "17:39"
+audio_young_length: 8060386
+audio_young_duration: "16:47"
 categories: [experiments]
 comments: false
 ---

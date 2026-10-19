@@ -8,8 +8,8 @@ audio: https://audio.journalsofexperiments.com/sixty-five-hours.mp3
 audio_length: 18088108
 audio_duration: "37:40"
 audio_young: https://audio.journalsofexperiments.com/sixty-five-hours-young.mp3
-audio_young_length: 9516120
-audio_young_duration: "19:49"
+audio_young_length: 9577944
+audio_young_duration: "19:57"
 categories: [experiments]
 comments: false
 ---

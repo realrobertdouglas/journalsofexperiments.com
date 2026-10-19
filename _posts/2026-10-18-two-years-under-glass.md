@@ -8,8 +8,8 @@ audio: https://audio.journalsofexperiments.com/two-years-under-glass.mp3
 audio_length: 12369974
 audio_duration: "25:46"
 audio_young: https://audio.journalsofexperiments.com/two-years-under-glass-young.mp3
-audio_young_length: 8303266
-audio_young_duration: "17:17"
+audio_young_length: 8069986
+audio_young_duration: "16:48"
 categories: [experiments]
 comments: false
 ---
