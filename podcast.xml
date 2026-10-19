@@ -51,5 +51,34 @@ layout: null
     </item>
     {% endif %}
     {% endif %}{% endfor %}
+    {% comment %}Companion pieces (_deeper/<entry>/*.md) with audio: bonus episodes, named for the entry they go deeper on.{% endcomment %}
+    {% for piece in site.deeper %}{% if piece.audio %}{% assign parent = site.posts | where: "slug", piece.parent | first %}{% assign piece_url = piece.url | prepend: site.baseurl | prepend: site.url %}
+    <item>
+      <title>{{ piece.title | xml_escape }}, going deeper on {{ parent.title | xml_escape }}</title>
+      <description>{{ piece.subtitle | default: piece.excerpt | strip_html | strip | xml_escape }}</description>
+      <content:encoded><![CDATA[<p>A companion piece to {{ parent.title }}.</p><p>{{ piece.subtitle }}</p><p>The written piece, with its sources and photographs: <a href="{{ piece_url }}">{{ piece_url }}</a></p>]]></content:encoded>
+      <pubDate>{{ piece.date | default: parent.date | date_to_rfc822 }}</pubDate>
+      <link>{{ piece_url }}</link>
+      <guid isPermaLink="false">{{ piece_url }}#audio</guid>
+      <enclosure url="{{ piece.audio }}" length="{{ piece.audio_length | default: 0 }}" type="audio/mpeg"/>
+      {% if piece.audio_duration %}<itunes:duration>{{ piece.audio_duration }}</itunes:duration>{% endif %}
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+    {% if piece.audio_young %}
+    <item>
+      <title>{{ piece.title | xml_escape }}, going deeper on {{ parent.title | xml_escape }}, for younger readers</title>
+      <description>The same piece told more plainly, for younger listeners. {{ piece.subtitle | default: piece.excerpt | strip_html | strip | xml_escape }}</description>
+      <content:encoded><![CDATA[<p>The same piece told more plainly, for younger listeners. A companion to {{ parent.title }}.</p><p>{{ piece.subtitle }}</p><p>The written version: <a href="{{ piece_url }}#young">{{ piece_url }}#young</a></p>]]></content:encoded>
+      <pubDate>{{ piece.date | default: parent.date | date_to_rfc822 }}</pubDate>
+      <link>{{ piece_url }}#young</link>
+      <guid isPermaLink="false">{{ piece_url }}#audio-young</guid>
+      <enclosure url="{{ piece.audio_young }}" length="{{ piece.audio_young_length | default: 0 }}" type="audio/mpeg"/>
+      {% if piece.audio_young_duration %}<itunes:duration>{{ piece.audio_young_duration }}</itunes:duration>{% endif %}
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+    {% endif %}
+    {% endif %}{% endfor %}
   </channel>
 </rss>

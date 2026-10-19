@@ -123,7 +123,9 @@ comments: false
   whenever the text changes, and listen to it: when a word comes out wrong, fix the rule in the script, not the entry.
   The same script narrates a younger-readers text (`make-audio.py _includes/young/<slug>.md`) and prints `audio_young`
   lines; with those in the front matter the player plays whichever text the reader has showing, and the feed carries
-  the younger version as a bonus episode.
+  the younger version as a bonus episode. Companion pieces are narrated the same way (`make-audio.py
+  _deeper/<entry>/<piece>.md` writes `<entry>-<piece>.mp3`; the `audio` lines go in the piece's front matter) and
+  appear in the feed as bonus episodes named for their entry. Every entry and every companion piece has a narration.
 
 ## Publishing and checking
 
