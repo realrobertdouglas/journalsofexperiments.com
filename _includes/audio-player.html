@@ -2,18 +2,20 @@
 `audio_length:` (bytes) and `audio_duration:` ("43:10") gets this card and is listed in /podcast.xml. With
 `audio_young:`, `audio_young_length:` and `audio_young_duration:` as well, the card's Full/Younger pills switch both
 the text and the narration (the reader toggle in _includes/reader-toggle.html follows, and vice versa).
-The card is a custom player over a hidden <audio> element: play/pause, a seek bar, "Listen · 26:26 left at 1.5×",
-the clock, speed pills and the feed. Without JavaScript the native player shows instead and the card stays hidden.
+The card is a custom player over a hidden <audio> element: a play button that becomes a pause button while playing,
+a seek bar, a status line ("Listen · 26:26 left at 1.5×", then "Playing · …" / "Paused · …"), the clock, speed pills and
+the feed. The file addresses carry ?v=<length> so a browser that cached an earlier render fetches the new one (the
+files are served with a one-year immutable cache header). Without JavaScript the native player shows instead and the card stays hidden.
 The files are made with journal-audio/make-audio.py, beside the site repos. Script: static/js/audio-player.js.
 Styles: main.css .audio-card.{% endcomment %}
 {% if page.audio %}
-<div class="audio-card" id="js-audio-player" data-full-src="{{ page.audio }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
-  <audio class="audio-card__native" controls preload="none" src="{{ page.audio }}"><a href="{{ page.audio }}">Download the audio</a></audio>
+<div class="audio-card" id="js-audio-player" data-full-src="{{ page.audio }}?v={{ page.audio_length }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}?v={{ page.audio_young_length }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
+  <audio class="audio-card__native" controls preload="none" src="{{ page.audio }}?v={{ page.audio_length }}"><a href="{{ page.audio }}">Download the audio</a></audio>
   <div class="audio-card__ui" hidden>
     <div class="audio-card__top">
       <button type="button" class="audio-card__play" id="js-audio-play" aria-label="Play the narration">
         <svg class="audio-card__icon audio-card__icon--play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
-        <svg class="audio-card__icon audio-card__icon--pause" viewBox="0 0 24 24" aria-hidden="true" hidden><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+        <svg class="audio-card__icon audio-card__icon--pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
       </button>
       <div class="audio-card__main">
         <div class="audio-card__line">
