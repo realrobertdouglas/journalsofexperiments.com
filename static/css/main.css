@@ -540,3 +540,18 @@ html[data-theme="dark"] div.post-content .btn-tags:focus-visible {
 .audio-player audio { flex: 1 1 220px; min-width: 0; height: 36px; }
 .audio-player__feed { font-size: 13px; white-space: nowrap; }
 html[data-theme="dark"] .audio-player audio { color-scheme: dark; }
+/* Speed row under the player (static/js/audio-speed.js): pill buttons for the rate and the time left at it */
+.audio-player__speed { flex: 1 1 100%; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; font-size: 13px; }
+.audio-player__rates { display: inline-flex; flex-wrap: wrap; gap: 4px; }
+.audio-player__rate {
+  font: inherit; font-size: 12px; line-height: 1.3; padding: 2px 8px;
+  border: 1px solid #e3e3e3; border-radius: 999px; background: #f6f6f4; color: inherit; cursor: pointer;
+}
+.audio-player__rate:hover,
+.audio-player__rate:focus { border-color: #2f8f4a; }
+.audio-player__rate[aria-pressed="true"] { border-color: #2d7f43; background: #2d7f43; color: #fff; }
+.audio-player__eta { margin-left: 4px; white-space: nowrap; font-variant-numeric: tabular-nums; opacity: .85; }
+html[data-theme="dark"] .audio-player__rate { border-color: #34383c; background: #26292d; color: #b8b8b8; }
+html[data-theme="dark"] .audio-player__rate:hover,
+html[data-theme="dark"] .audio-player__rate:focus { border-color: #5cc474; color: #e0e0e0; }
+html[data-theme="dark"] .audio-player__rate[aria-pressed="true"] { border-color: #5cc474; background: #5cc474; color: #1b1d1f; }

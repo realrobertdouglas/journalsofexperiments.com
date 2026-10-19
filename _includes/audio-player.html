@@ -1,10 +1,24 @@
 {% comment %}Audio player (post.html, under the reader toggle). An entry whose front matter has `audio:` (an MP3 URL),
 `audio_length:` (bytes) and `audio_duration:` ("43:10") shows a native player here and is listed in /podcast.xml.
-The files are made with journal-audio/make-audio.py, beside the site repos. Styles: main.css .audio-player.{% endcomment %}
+Under the player, a row of speed buttons (1× to 2×) and a readout of the time left at that speed; the row stays
+hidden until static/js/audio-speed.js runs, and the native controls work without it. The files are made with
+journal-audio/make-audio.py, beside the site repos. Styles: main.css .audio-player.{% endcomment %}
 {% if page.audio %}
 <div class="audio-player">
   <span class="audio-player__label">Listen{% if page.audio_duration %} · {{ page.audio_duration }}{% endif %}</span>
   <audio controls preload="none" src="{{ page.audio }}"><a href="{{ page.audio }}">Download the audio</a></audio>
   <a class="audio-player__feed" href="/podcast.xml" title="The audio entries as a podcast feed, for any podcast app">Podcast feed</a>
+  <div class="audio-player__speed" id="js-audio-speed" data-duration="{{ page.audio_duration }}" hidden>
+    <span class="audio-player__speed-label" id="audio-speed-label">Speed</span>
+    <span role="group" aria-labelledby="audio-speed-label" class="audio-player__rates">
+      <button type="button" class="audio-player__rate" data-rate="1" aria-pressed="true">1×</button>
+      <button type="button" class="audio-player__rate" data-rate="1.25" aria-pressed="false">1.25×</button>
+      <button type="button" class="audio-player__rate" data-rate="1.5" aria-pressed="false">1.5×</button>
+      <button type="button" class="audio-player__rate" data-rate="1.75" aria-pressed="false">1.75×</button>
+      <button type="button" class="audio-player__rate" data-rate="2" aria-pressed="false">2×</button>
+    </span>
+    <span class="audio-player__eta" id="js-audio-eta" aria-live="polite"></span>
+  </div>
 </div>
+<script src="/static/js/audio-speed.js" defer></script>
 {% endif %}
