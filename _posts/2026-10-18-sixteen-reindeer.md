@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sixteen Reindeer"
-subtitle: "The cutter Bear and Alaska, 1881 to 1950: the herd that grew to six hundred thousand, and the number that was the only thing anyone read."
+subtitle: "The story of the cutter Bear and Alaska, 1881 to 1950: the herd that grew to six hundred thousand, and the number that was the only thing anyone read."
 date:   2026-10-18 02:00:00 +0000
 young: young/sixteen-reindeer.md
 audio: https://audio.journalsofexperiments.com/sixteen-reindeer.mp3

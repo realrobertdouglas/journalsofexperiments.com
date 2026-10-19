@@ -41,7 +41,8 @@ later. Then sections that are always these, in this order, renamed only when the
 8. *Sources*
 
 **Title and subtitle.** The title is a concrete noun or a number ("Sixteen Reindeer", "Dive Eighty-Eight"). The
-subtitle names the thing and the years, then the turn: "The cutter Bear and Alaska, 1881 to 1950: the herd that grew
+subtitle begins "The story of", then names the thing and the years, then the turn: "The story of the cutter Bear and
+Alaska, 1881 to 1950: the herd that grew
 to six hundred thousand, and the number that was the only thing anyone read."
 
 **Voice.** Plain, exact and dated. Short declarative sentences; let numbers and quotations carry the weight. No
@@ -84,12 +85,15 @@ reads the first as a year ("eighteen ninety-eight") and the second as a number, 
 ---
 layout: post
 title:  "Sixteen Reindeer"
-subtitle: "The cutter Bear and Alaska, 1881 to 1950: the herd that grew to six hundred thousand, and the number that was the only thing anyone read."
+subtitle: "The story of the cutter Bear and Alaska, 1881 to 1950: the herd that grew to six hundred thousand, and the number that was the only thing anyone read."
 date:   2026-10-18 02:00:00 +0000
 young: young/sixteen-reindeer.md     # optional: the version for younger readers
 audio: https://...                   # optional: the narration (see below)
 audio_length: 19031020
 audio_duration: "39:38"
+audio_young: https://...             # optional: the narration of the younger-readers text; the player follows the toggle
+audio_young_length: 9000000
+audio_young_duration: "19:00"
 categories: [experiments]
 comments: false
 ---
@@ -108,7 +112,9 @@ comments: false
   `.venv/bin/python make-audio.py ../journalsofexperiments.com/_posts/<file>.md` writes `out/<slug>.mp3` and
   prints the three `audio` lines for the front matter, and the MP3 goes in `static/audio/<slug>.mp3`. Entries with
   `audio:` get a player and appear in `/podcast.xml`. Re-render whenever the text changes, and listen to it: when a
-  word comes out wrong, fix the rule in the script, not the entry.
+  word comes out wrong, fix the rule in the script, not the entry. The same script narrates a younger-readers text
+  (`make-audio.py _includes/young/<slug>.md`) and prints `audio_young` lines; with those in the front matter the
+  player plays whichever text the reader has showing, and the feed carries the younger version as a bonus episode.
 
 ## Publishing and checking
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sixty-Five Hours"
-subtitle: "Andrée's balloon and the Arctic, 1895 to 1930: the ropes that were the whole plan, left on a beach two minutes after the start, and the diaries that came home thirty-three years late."
+subtitle: "The story of Andrée's balloon and the Arctic, 1895 to 1930: the ropes that were the whole plan, left on a beach two minutes after the start, and the diaries that came home thirty-three years late."
 date:   2026-10-19 03:00:00 +0000
 categories: [experiments]
 comments: false

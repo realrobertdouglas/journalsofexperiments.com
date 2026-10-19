@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Years Under Glass"
-subtitle: "Biosphere 2, Oracle, Arizona, 1991 to 1993, and the oxygen that went into the walls."
+subtitle: "The story of Biosphere 2, Oracle, Arizona, 1991 to 1993, and the oxygen that went into the walls."
 date:   2026-10-18 00:00:00 +0000
 categories: [experiments]
 comments: false

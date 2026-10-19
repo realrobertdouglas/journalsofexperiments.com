@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Nuclear Boy Scout"
-subtitle: "A potting shed in Michigan, 1991 to 1994, and the experiment nobody was watching."
+subtitle: "The story of a potting shed in Michigan, 1991 to 1994, and the experiment nobody was watching."
 date:   2026-10-17 03:00:00 +0000
 categories: [experiments]
 comments: false
