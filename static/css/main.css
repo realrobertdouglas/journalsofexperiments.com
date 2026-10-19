@@ -532,3 +532,11 @@ html[data-theme="dark"] div.post-content .btn-tags:focus-visible {
 .content figure { margin: 1.6em 0; }
 .content figure img { display: block; width: 100%; height: auto; }
 .content figcaption { margin-top: .5em; font-size: .85em; line-height: 1.4; opacity: .75; }
+
+/* Audio player (entries with audio: in their front matter; _includes/audio-player.html): a label, the native
+   player and a link to the podcast feed, in one row under the reader toggle */
+.audio-player { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; margin: 2px 0 12px; max-width: 28em; }
+.audio-player__label { font-size: 14px; white-space: nowrap; }
+.audio-player audio { flex: 1 1 220px; min-width: 0; height: 36px; }
+.audio-player__feed { font-size: 13px; white-space: nowrap; }
+html[data-theme="dark"] .audio-player audio { color-scheme: dark; }

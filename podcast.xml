@@ -1,0 +1,41 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }} The entries, read aloud.</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <language>en</language>
+    <atom:link href="{{ "/podcast.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <itunes:author>{{ site.author | xml_escape }}</itunes:author>
+    <itunes:summary>{{ site.description | xml_escape }} The entries, read aloud.</itunes:summary>
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}/static/img/podcast-cover.png"/>
+    <image>
+      <url>{{ site.url }}{{ site.baseurl }}/static/img/podcast-cover.png</url>
+      <title>{{ site.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}/</link>
+    </image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="History"/>
+    <itunes:category text="Science"/>
+    {% for post in site.posts %}{% if post.audio %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.subtitle | default: post.excerpt | strip_html | strip | xml_escape }}</description>
+      <content:encoded><![CDATA[<p>{{ post.subtitle }}</p><p>The written entry, with its sources and photographs: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.url | prepend: site.baseurl | prepend: site.url }}</a></p>]]></content:encoded>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+      <guid isPermaLink="false">{{ post.url | prepend: site.baseurl | prepend: site.url }}#audio</guid>
+      <enclosure url="{{ post.audio }}" length="{{ post.audio_length | default: 0 }}" type="audio/mpeg"/>
+      {% if post.audio_duration %}<itunes:duration>{{ post.audio_duration }}</itunes:duration>{% endif %}
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    {% endif %}{% endfor %}
+  </channel>
+</rss>

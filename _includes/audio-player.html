@@ -1,0 +1,10 @@
+{% comment %}Audio player (post.html, under the reader toggle). An entry whose front matter has `audio:` (an MP3 URL),
+`audio_length:` (bytes) and `audio_duration:` ("43:10") shows a native player here and is listed in /podcast.xml.
+The files are made with journal-audio/make-audio.py, beside the site repos. Styles: main.css .audio-player.{% endcomment %}
+{% if page.audio %}
+<div class="audio-player">
+  <span class="audio-player__label">Listen{% if page.audio_duration %} · {{ page.audio_duration }}{% endif %}</span>
+  <audio controls preload="none" src="{{ page.audio }}"><a href="{{ page.audio }}">Download the audio</a></audio>
+  <a class="audio-player__feed" href="/podcast.xml" title="The audio entries as a podcast feed, for any podcast app">Podcast feed</a>
+</div>
+{% endif %}
