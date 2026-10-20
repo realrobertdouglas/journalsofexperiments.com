@@ -42,7 +42,7 @@ The dummies had shown that the idea worked on dummies. The question the experime
 1. Would the parachute keep a real person from spinning, all the way from the top of the sky?
 2. Could a real person, in an ordinary Air Force pressure suit, survive the climb, the cold and the fall, and do useful work on the way?
 
-A dummy cannot answer the second question. Only a person can. That person was Kittinger.
+A dummy cannot answer the second question. Only a person can.
 
 ## What they built
 
@@ -63,7 +63,7 @@ The first flight, Excelsior I, went up on November 16th 1959. Almost everything 
 
 By then the balloon was at 76,400 feet, more than three miles higher than planned. Standing in the gap, he pulled the cord that started the parachute's clock. It took three pulls to come free. What he did not know was that the first pull had started the clock.
 
-So the tiny parachute came out only two and a half seconds after he stepped off, long before he was falling fast enough for it to work. It flapped about in the thin air and wrapped itself around his neck. Without it, none of the other parachutes could open. He began to spin. The spin reached about 120 turns a minute, and he blacked out, high in the sky, with the parachute round his neck.
+So the tiny parachute came out only two and a half seconds after he stepped off, long before he was falling fast enough for it to work. It flapped about in the thin air and wrapped itself around his neck. Without it, none of the other parachutes could open. He began to spin. Lower down, at about 30,000 feet, the spin became violent and he blacked out, with the parachute round his neck. His instruments recorded a top spin of 87 turns a minute.
 
 What saved him was the reserve parachute. At 10,000 feet it opened by itself. It tangled too, because he was still spinning, but Beaupre had designed it so that a small cord would break and let it clear itself, and at about 6,000 feet it filled. Kittinger woke up hanging under it, a few thousand feet above the desert, with no memory of the fall.
 
@@ -94,11 +94,11 @@ Then he dropped the radio antenna, as the plan required, and from that moment th
 
 ## The fall
 
-He fell first on his right side, then rolled onto his back and looked up. He said afterwards that it was the most beautiful sight he had ever seen: the bright balloon against the black sky, racing away from him. He could not feel himself falling. There was no wind noise, because there was almost no air, and nothing went past him to show how fast he was going.
+He fell first on his right side, then rolled onto his back and looked up. He said afterwards that it was the most beautiful sight: the bright balloon against the black sky, racing away from him. He could not feel himself falling. There was no wind noise, because there was almost no air, and nothing went past him to show how fast he was going.
 
 After about sixteen seconds the tiny parachute sprang out and pulled out the small one, and the small one held him steady, feet down, exactly as Beaupre had said it would. Near 90,000 feet he reached his top speed, about 614 miles an hour, nearly the speed of sound. Then the air began to thicken and he slowed. Hanging under the small parachute he experimented, and found that by pointing one foot out a little he could turn himself to face Texas, and then turn back to face New Mexico.
 
-At 21,000 feet he fell into a solid layer of cloud. He had never fallen through cloud before, and he pulled his feet up, the way you do when you think you are about to hit something. Just below the cloud, four minutes and thirty-eight seconds after he had stepped off, the main parachute opened. He said, "Thank you, Lord." He came out of the cloud with two helicopters circling him, and landed hard on the desert thirteen minutes and forty-five seconds after leaving the basket. "I'm very glad to be back with you all," he told the crew. Then they took off his helmet and his suit, and saw the hand.
+At 21,000 feet he fell into a solid layer of cloud. He had never fallen through cloud before, and he pulled his feet up, the way you do when you think you are about to hit something. Just below the cloud, four minutes and thirty-eight seconds after he had stepped off, the main parachute opened. He said, "Thank you, Lord." He came out of the cloud with two helicopters circling him, and landed hard on the desert thirteen minutes and forty-five seconds after leaving the basket. "I'm very glad to be back with you all," he told the crew. Then they took off his helmet, and saw the hand.
 
 <figure>
   <img src="/static/img/the-right-glove/after-landing-1960.jpg" alt="A man in a pressure suit sits on the desert ground, his helmet off and his face drawn, while three crewmen in fatigues crouch round him unbuckling his harness and equipment">
