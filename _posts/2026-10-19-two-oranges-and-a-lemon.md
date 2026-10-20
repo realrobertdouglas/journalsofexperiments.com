@@ -4,6 +4,12 @@ title:  "Two Oranges and a Lemon"
 subtitle: "The story of the Salisbury and the scurvy, 1747 to 1795: twelve men in the fore-hold, the six days that answered the question, and the forty-eight years before anyone acted on the answer."
 date:   2026-10-19 09:00:00 +0000
 young: young/two-oranges-and-a-lemon.md
+audio: https://audio.journalsofexperiments.com/two-oranges-and-a-lemon.mp3
+audio_length: 19081146
+audio_duration: "39:45"
+audio_young: https://audio.journalsofexperiments.com/two-oranges-and-a-lemon-young.mp3
+audio_young_length: 6654949
+audio_young_duration: "13:51"
 categories: [experiments]
 comments: false
 ---

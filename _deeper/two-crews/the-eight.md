@@ -4,6 +4,9 @@ subtitle: "The third crew, as the muster rolls, a letter of April 1864 and the f
 parent: two-crews
 order: 3
 date:   2026-10-19 12:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-crews-the-eight.mp3
+audio_length: 3671029
+audio_duration: "7:38"
 ---
 
 Two months after the boat was lost, Captain M. M. Gray, in charge of torpedoes at Charleston, answered a question from General Maury at Mobile about Dixon and his men. He had not known what orders Dixon was under, only that he had asked Flag-Officer Tucker for men and been given them: "Arnold Becker, C. Simkins, James A. Wicks, F. Collins, and —— Ridgeway, all of the Navy, and Corporal C. F. Carlsen, of Captain Wagener's company of artillery." Alexander's account adds that two men came from the German Artillery in February to replace him; Gray names one. That is the whole of the contemporary record of who was aboard. The rest comes from the excavation of 2001, the forensic examination led by Douglas Owsley of the Smithsonian Institution, the archaeological work of Maria Jacobsen and the genealogy of Linda Abrams, as the Friends of the Hunley have published it. Everything below that is not in Gray's letter rests on their work.

@@ -4,6 +4,9 @@ subtitle: "August 1966: three men, thirty-two reindeer, a ship that could not co
 parent: forty-two
 order: 2
 date:   2026-10-19 10:00:00 +0000
+audio: https://audio.journalsofexperiments.com/forty-two-the-pick-up.mp3
+audio_length: 4428665
+audio_duration: "9:13"
 ---
 
 The hardest thing about St. Matthew Island was never the island. It was getting on and off. The entry says that nobody could get there for six years after 1957, and for fifteen months after 1963, and that this is why the experiment's result was read from bones. This piece is about the one time the getting off went wrong, as David Klein told it in his house in Fairbanks in April 2014, when he was eighty-six.

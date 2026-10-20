@@ -4,6 +4,12 @@ title:  "The Demon Core"
 subtitle: "The story of the third plutonium core and Los Alamos, 1945 to 1946: the assembly held apart by a screwdriver, the diagram drawn afterwards, and the number that took thirty years to settle."
 date:   2026-10-19 04:00:00 +0000
 young: young/the-demon-core.md
+audio: https://audio.journalsofexperiments.com/the-demon-core.mp3
+audio_length: 19497384
+audio_duration: "40:37"
+audio_young: https://audio.journalsofexperiments.com/the-demon-core-young.mp3
+audio_young_length: 7100179
+audio_young_duration: "14:47"
 categories: [experiments]
 comments: false
 ---

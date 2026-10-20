@@ -129,6 +129,9 @@ comments: false
   the younger version as a bonus episode. Companion pieces are narrated the same way (`make-audio.py
   _deeper/<entry>/<piece>.md` writes `<entry>-<piece>.mp3`; the `audio` lines go in the piece's front matter) and
   appear in the feed as bonus episodes named for their entry. Every entry and every companion piece has a narration.
+  The owner reviews an entry by listening to it as well as reading it, so the narration is rendered as soon as the
+  entry is written, from the pull request's branch, and the MP3s go to the owner before the merge; the upload and
+  the audio lines follow the merge (step 6 under "Several entries at once").
 
 ## Checking an entry
 
@@ -160,9 +163,13 @@ request rather than straight to `main`:
 5. Open the pull request with the entry, its younger version and its figures, and a short note: the sources you
    could not reach, the numbers sources disagree on, the WARN lines you are leaving. The owner reads it and merges,
    and the merge publishes it.
-6. Narration comes after the merge, once the text is final, since every text change means a re-render: render,
-   upload, add the audio lines and push them to `main` (a few lines; no pull request needed). Then mark the idea
-   `[published: <path>]` in the backlog.
+6. Narration is part of the review. As soon as the pull request is open, whoever runs the narration machine
+   renders the entry, its younger version and its companions from the pull request's branch (`./render-many.sh`
+   in journal-audio on the files in the session's worktree) and gives the owner the MP3s from journal-audio's
+   `out/` to listen to; the writing session itself does not render. The owner reviews by listening as well as
+   reading. After the merge, once the text is final, re-render only what changed (`render-many.sh` skips files
+   whose text is unchanged; `FORCE=1` redoes one), upload, add the audio lines and push them to `main` (a few
+   lines; no pull request needed). Then mark the idea `[published: <path>]` in the backlog.
 
 Sources that block automated readers, and what to do: the Library of Congress and Chronicling America (use
 archive.org's newspaper scans, or Wikimedia Commons' copies of Library images, which carry the item numbers); the

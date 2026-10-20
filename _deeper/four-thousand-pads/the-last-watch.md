@@ -4,6 +4,9 @@ subtitle: "The last flight of R101, 4 and 5 October 1930: seven and a half hours
 parent: four-thousand-pads
 order: 1
 date:   2026-10-19 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-thousand-pads-the-last-watch.mp3
+audio_length: 8994642
+audio_duration: "18:44"
 ---
 
 Nobody who was in the control car of R101 survived, and no report of her last trial flight was ever found. What is known of her last night comes from three kinds of record, and the inquiry wove them together: the wireless messages she sent to Cardington and the direction-finding stations, the evidence of the six survivors and the statement of a seventh man who died, and the observations of people on the ground in France. This is that account, kept to what the records say.

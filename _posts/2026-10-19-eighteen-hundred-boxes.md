@@ -4,6 +4,12 @@ title:  "Eighteen Hundred Boxes"
 subtitle: "The story of the guaranteed-income experiments in Seattle, Denver and Dauphin, Manitoba, 1968 to 2011: the divorce rate that ended a policy and then turned out not to exist, and the town whose results sat in a warehouse for thirty years."
 date:   2026-10-19 05:00:00 +0000
 young: young/eighteen-hundred-boxes.md
+audio: https://audio.journalsofexperiments.com/eighteen-hundred-boxes.mp3
+audio_length: 19744312
+audio_duration: "41:07"
+audio_young: https://audio.journalsofexperiments.com/eighteen-hundred-boxes-young.mp3
+audio_young_length: 7863587
+audio_young_duration: "16:22"
 categories: [experiments]
 comments: false
 ---

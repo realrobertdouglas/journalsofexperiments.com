@@ -4,6 +4,9 @@ subtitle: "The Union side of 17 February 1864: what Dahlgren had ordered, what P
 parent: two-crews
 order: 2
 date:   2026-10-19 12:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-crews-the-court-of-inquiry.mp3
+audio_length: 5527883
+audio_duration: "11:30"
 ---
 
 The Union navy knew the submarine was coming. What it did not know was that she would come on the surface, from outside, to the one ship it had not thought to protect with nets.

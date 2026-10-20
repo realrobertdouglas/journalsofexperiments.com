@@ -4,6 +4,12 @@ title:  "Three Menus"
 subtitle: "The story of thirty-six conscientious objectors under the stands of a Minneapolis football stadium, 1944 to 1950: six months of hunger that answered the relief workers' question in full, in a book that came out after they had stopped asking."
 date:   2026-10-19 14:00:00 +0000
 young: young/three-menus.md
+audio: https://audio.journalsofexperiments.com/three-menus.mp3
+audio_length: 19577826
+audio_duration: "40:47"
+audio_young: https://audio.journalsofexperiments.com/three-menus-young.mp3
+audio_young_length: 7569805
+audio_young_duration: "15:46"
 categories: [experiments]
 comments: false
 ---

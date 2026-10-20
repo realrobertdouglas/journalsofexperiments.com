@@ -4,6 +4,9 @@ subtitle: "The radio station on St. Matthew Island, 1942 to 1946, and what it le
 parent: forty-two
 order: 1
 date:   2026-10-19 10:00:00 +0000
+audio: https://audio.journalsofexperiments.com/forty-two-the-station.mp3
+audio_length: 5966969
+audio_duration: "12:25"
 ---
 
 The reindeer were a footnote to the station, and the station was a footnote to a war. This piece is about the footnote: what it took to put twenty men and six metal huts on an island in the Bering Sea in 1943, what the island did to them, and what they left behind when they went.

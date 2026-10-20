@@ -4,6 +4,12 @@ title:  "Six Hundred Feet"
 subtitle: "The story of Sealab III and San Clemente Island, 1957 to 1971: the habitat lowered to 610 feet in one step from 205, the helium that would not stay in, and the breathing rig that no checklist had covered."
 date:   2026-10-19 15:00:00 +0000
 young: young/six-hundred-feet.md
+audio: https://audio.journalsofexperiments.com/six-hundred-feet.mp3
+audio_length: 19142188
+audio_duration: "39:52"
+audio_young: https://audio.journalsofexperiments.com/six-hundred-feet-young.mp3
+audio_young_length: 8238360
+audio_young_duration: "17:09"
 categories: [experiments]
 comments: false
 ---

@@ -4,6 +4,9 @@ subtitle: "How the accident was explained: the version taken to Vienna in August
 parent: thirty-six-seconds
 order: 1
 date:   2026-10-19 13:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-six-seconds-the-two-reports.mp3
+audio_length: 7410067
+audio_duration: "15:26"
 ---
 
 Two official accounts of the night of 26 April 1986 exist, six years apart, and they do not describe the same accident. The first was written in Moscow in the summer of 1986 and presented to the world in Vienna in August. The second was written by a commission of the Soviet nuclear regulator in 1991, after the Soviet Union had begun to come apart, and published by the IAEA in 1992 with the IAEA's own revised judgement on top of it. The entry gives the outline. This piece follows the two reports more closely, because the distance between them is itself a lesson about how an organisation explains a failure of its own.
