@@ -78,7 +78,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 - [published: _posts/2026-10-19-two-oranges-and-a-lemon.md] **James Lind, 1747** — The first controlled trial finds citrus cures scurvy; the Navy acts 48 years later, and Lind himself never quite believed it.
 - [published: _posts/2026-10-19-eighteen-hundred-boxes.md] **Mincome and SIME/DIME, 1970s** — Guaranteed-income trials; the Manitoba data sat boxed for 30 years, and the US one was killed by a divorce finding later shown to be an artefact.
-- [open] **Cambridge-Somerville, 1939–45** — A mentoring programme for at-risk boys; thirty years on, the boys who got the help had done worse. Joan McCord's follow-up is the whole entry.
+- [claimed: Claude (Cambridge-Somerville session), 2026-10-20] **Cambridge-Somerville, 1939–45** — A mentoring programme for at-risk boys; thirty years on, the boys who got the help had done worse. Joan McCord's follow-up is the whole entry.
 - [published: _posts/2026-10-19-chicken-heart.md] **Carrel's chicken heart, 1912–46** — Cells kept "immortal" for 34 years; after his death nobody could repeat it, and the likeliest reason is that the feed kept adding fresh cells.
 - [open, suggested next] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
 - [published: _posts/2026-10-19-a-million-observations.md] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
