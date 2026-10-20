@@ -94,7 +94,7 @@ There was one more thing in the Wednesday data, and the report thought it made t
 
 <figure>
   <img src="/static/img/thirty-one-percent/debbie-radar-20-august-1969.jpg" alt="A circular radar display of a hurricane with a dark eye at the centre, a bright ring of echoes around it and a second, broken ring of echoes farther out">
-  <figcaption>Hurricane Debbie on the radar of a Navy reconnaissance aircraft at 1519 GMT on 20 August 1969, during the second day's seeding, with an inner and an outer eyewall. ESSA, now NOAA; via Wikimedia Commons, where it is credited to <em>Monthly Weather Review</em>, 1970.</figcaption>
+  <figcaption>Hurricane Debbie on the radar of a Navy reconnaissance aircraft at 1519 GMT on 20 August 1969, during the second day's seeding, with an inner and an outer eyewall. A United States Navy reconnaissance aircraft's radar picture, a US government work; via Wikimedia Commons, whose own source note for it (a page of <em>Monthly Weather Review</em>, 1970) could not be confirmed.</figcaption>
 </figure>
 
 ## What it looked like from inside

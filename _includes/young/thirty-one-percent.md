@@ -55,7 +55,7 @@ There was one odd thing on the Wednesday. The radar showed Debbie had two rings 
 
 <figure>
   <img src="/static/img/thirty-one-percent/debbie-radar-20-august-1969.jpg" alt="A circular radar display of a hurricane with a dark eye at the centre, a bright ring of echoes around it and a second, broken ring of echoes farther out">
-  <figcaption>Hurricane Debbie on a Navy aircraft's radar on August 20th 1969, with an inner ring of cloud and a second ring around it. ESSA, now NOAA, via Wikimedia Commons.</figcaption>
+  <figcaption>Hurricane Debbie on a Navy aircraft's radar on August 20th 1969, with an inner ring of cloud and a second ring around it. A US Navy radar picture, via Wikimedia Commons.</figcaption>
 </figure>
 
 ## What the scientists said
