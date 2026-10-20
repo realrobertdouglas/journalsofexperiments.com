@@ -4,6 +4,12 @@ title:  "Twelve Beetles a Night"
 subtitle: "The story of the Bureau of Sugar Experiment Stations and the giant toad, 1932 to 1937: the figure that came from Puerto Rico, the hundred and two toads that came from Honolulu, and the feeding trial that was run only after the toads were out."
 date:   2026-10-20 12:00:00 +0000
 young: young/twelve-beetles-a-night.md
+audio: https://audio.journalsofexperiments.com/twelve-beetles-a-night.mp3
+audio_length: 20225464
+audio_duration: "42:08"
+audio_young: https://audio.journalsofexperiments.com/twelve-beetles-a-night-young.mp3
+audio_young_length: 7968611
+audio_young_duration: "16:35"
 categories: [experiments]
 comments: false
 ---

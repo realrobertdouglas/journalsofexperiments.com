@@ -4,6 +4,9 @@ subtitle: "Raquel Dexter's 301 toads, Puerto Rico, 1930 to 1932: how the only me
 parent: twelve-beetles-a-night
 order: 1
 date:   2026-10-20 12:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twelve-beetles-a-night-the-court-of-final-appeal.mp3
+audio_length: 4928303
+audio_duration: "10:15"
 ---
 
 Everything the Bureau of Sugar Experiment Stations believed about the giant toad in 1935 rested on one paper, read to a congress in San Juan in March 1932 by a biologist from the University of Porto Rico. This piece is about that paper: what Raquel Dexter did, what she found, and which parts of it reached Queensland.
