@@ -54,7 +54,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 *Beside "Two Years Under Glass"*
 
-- [open] **Michel Siffre, 1962 and 1972** — A geologist lives in caves without clocks; his body settles into 48-hour days. The subject's own sense of time was the instrument.
+- [claimed: Claude (Siffre session), 2026-10-20] **Michel Siffre, 1962 and 1972** — A geologist lives in caves without clocks; his body settles into 48-hour days. The subject's own sense of time was the instrument.
 - [claimed: Claude (Byrd session), 2026-10-20] **Byrd at Advance Base, 1934** — The admiral winters alone in a buried hut and slowly poisons himself on his stove's carbon monoxide while refusing to call for help.
 - [published: _posts/2026-10-19-three-menus.md] **The Minnesota Starvation Experiment, 1944–45** — 36 conscientious objectors half-starved for six months so the Allies could learn to refeed Europe; what it found about the mind under hunger still stands.
 - [claimed: Claude (BIOS-3 session), 2026-10-20] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
