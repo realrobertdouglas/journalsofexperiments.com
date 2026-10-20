@@ -63,7 +63,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-20-ninety-one-percent.md] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
 - [published: _posts/2026-10-19-thirty-inches.md] **Camp Century, 1959–67** — A nuclear reactor under the Greenland ice; the tunnels crushed in a decade, and the waste left behind is now expected to melt out.
 - [claimed: Claude (Stapp session), 2026-10-20] **Stapp's rocket sled, 1954** — A colonel rides a sled to 632 miles an hour and stops in 1.4 seconds, 46 g, with his own body as the instrument; his reading of his own data produced the seat belt. Air Force reports, films and photographs from Holloman, all US government works.
-- [open] **Kittinger's Excelsior jumps, 1959–60** — A balloon to 102,800 feet and a fall of four and a half minutes; on the way up his right glove lost pressure and he chose not to report it. Air Force material, public domain.
+- [claimed: Claude (Kittinger session), 2026-10-20] **Kittinger's Excelsior jumps, 1959–60** — A balloon to 102,800 feet and a fall of four and a half minutes; on the way up his right glove lost pressure and he chose not to report it. Air Force material, public domain.
 
 ## One person, one hypothesis, nobody watching
 
