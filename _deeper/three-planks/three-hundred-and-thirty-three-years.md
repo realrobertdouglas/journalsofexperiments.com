@@ -45,7 +45,7 @@ The final lift began on 8 April 1961. On the morning of 24 April, at three minut
 
 <figure>
   <img src="/static/img/three-planks/dock-1961.jpg" alt="The raised hull of the Vasa, dark and encrusted, floating on her own keel between stone quay walls as she is moved into a dry dock, with workers on her deck and spectators along the quay">
-  <figcaption>The Vasa entering the Gustav V dry dock at Beckholmen, May 1961. Press photograph, FelixArchief, Antwerp (CC0).</figcaption>
+  <figcaption>The Vasa entering the Gustav V dry dock at Beckholmen, May 1961. Press photograph; MAS, Collectie Stad Antwerpen, inv. AS.1978.012.368.2-4 (Public Domain Mark).</figcaption>
 </figure>
 
 ## Inside her
@@ -64,4 +64,4 @@ Hein Jacobsson, the builder questioned at the inquest, was on the day of the hea
 - Vasa Museum, audio guide text version "9. The first salvage efforts": Treileben, Peckell, the bell, the Italian priest's diary and the fifty-five guns. [vasamuseet.se](https://www.vasamuseet.se/besok/audioguide/audioguide-english/textversion/9.-the-first-salvage-efforts)
 - Vasa Museum, "The Search for Vasa", "The Salvage", "The Excavation" and "Timeline": Franzén's search, the chart, Fälting, 25 August 1956, the tunnels and pontoons, the eighteen lifts of 1959, 24 April 1961, the dock, Lundström's excavation, the skeletons, the 1920 brothers, the first museum's visitors, the conservation, the bolts. [search](https://www.vasamuseet.se/en/explore/vasa-history/search-for-vasa), [salvage](https://www.vasamuseet.se/en/explore/vasa-history/salvage), [excavation](https://www.vasamuseet.se/en/explore/vasa-history/excavation), [timeline](https://www.vasamuseet.se/en/explore/vasa-history/timeline)
 - Vasa Museum, "Vasa's sister Äpplet found", 25 October 2022; Vrak, Museum of Wrecks, "Äpplet". [vasamuseet.se](https://www.vasamuseet.se/en/about-the-vasa-museum/news/vasas-sister-applet-found/), [vrak.se](https://www.vrak.se/en/explore/dive-deep-among-the-wrecks/1600-talet/applet)
-- Figure: the Vasa entering the dock, 1961, press photograph released CC0 by FelixArchief, Antwerp. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Het_17de_eeuwse_schip_Wasa_wordt_na_333_jaar_te_Stockholm_op_de_bodem_te_hebben_gelegen_naar_de_oppervlakte_gehaald,_asset_O2GgZ6PROmUoZVKZXefLYAjg.tif)
+- Figure: the Vasa entering the dock, a 1961 press photograph in the collection of the MAS, Collectie Stad Antwerpen (inv. AS.1978.012.368.2-4), carrying the Public Domain Mark on the archive's asset page. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Het_17de_eeuwse_schip_Wasa_wordt_na_333_jaar_te_Stockholm_op_de_bodem_te_hebben_gelegen_naar_de_oppervlakte_gehaald,_asset_O2GgZ6PROmUoZVKZXefLYAjg.tif)

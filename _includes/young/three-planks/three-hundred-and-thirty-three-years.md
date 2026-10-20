@@ -34,7 +34,7 @@ On the morning of April 24th 1961, at three minutes past nine, with television c
 
 <figure>
   <img src="/static/img/three-planks/dock-1961.jpg" alt="The raised hull of the Vasa, dark and encrusted, floating on her own keel between stone quay walls as she is moved into a dry dock, with workers on her deck and spectators along the quay">
-  <figcaption>The Vasa entering the dry dock at Beckholmen, May 1961. Press photograph, FelixArchief, Antwerp (CC0).</figcaption>
+  <figcaption>The Vasa entering the dry dock at Beckholmen, May 1961. Press photograph; MAS, Collectie Stad Antwerpen, inv. AS.1978.012.368.2-4 (Public Domain Mark).</figcaption>
 </figure>
 
 ## Inside her

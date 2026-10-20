@@ -70,7 +70,7 @@ Divers spent two years digging tunnels under the hull and threading steel cables
 
 <figure>
   <img src="/static/img/three-planks/raising-1961.jpg" alt="Two lifting pontoons with gantries on either side of a stretch of harbour water, the stumps of the Vasa's timbers just breaking the surface between them, a crowd watching from a quay in the foreground and a passenger steamer beyond">
-  <figcaption>The Vasa's timbers breaking the surface between the two lifting pontoons, 24 April 1961. Press photograph, FelixArchief, Antwerp (CC0).</figcaption>
+  <figcaption>The Vasa's timbers breaking the surface between the two lifting pontoons, 24 April 1961. Press photograph; MAS, Collectie Stad Antwerpen, inv. AS.1978.012.368.1-4 (Public Domain Mark).</figcaption>
 </figure>
 
 Her sister ship, the Äpplet, which the same builder was building in 1628, was found on the sea bed near Stockholm in 2021. He had built her a metre wider. She served the navy for nearly thirty years, and was sunk on purpose in 1659 to block a channel. Now the two ships can be measured side by side, to see what else the builder changed. The companion piece "[Three hundred and thirty-three years](/deeper/three-planks/three-hundred-and-thirty-three-years/#young)" tells the story of the wreck.
