@@ -22,7 +22,7 @@ In July 1971 Flores wrote to Beer. He said he was now in a position to try cyber
 
 ## What they wanted to find out
 
-Beer said a government running factories has two questions. What is going on in all those plants? And how soon will we know about today's results? Government statistics, he said, were six months out of date, so governments were always reacting to a world that had already changed. He wanted a government that knew about today, today.
+Beer said a government running factories has two questions. What is going on in all those plants? And how soon will we know about today's results? Government statistics, he said, were six months out of date. He wanted a government that knew about today, today.
 
 So the idea had two parts.
 
@@ -40,7 +40,7 @@ The network. Chile had fewer than fifty computers in the whole country, and the 
 
 The filter. A London consulting firm wrote the first version of the computer program, called Cyberstride, by March 1972. It used a new statistical method for spotting real changes in a series of numbers. By July 1972 it was checking thirty numbers a day. The government's best computer was so busy that the day's figures could wait two days in the queue, so a Chilean engineer, Isaquino Benadof, rewrote the program to run on a less-used machine.
 
-The model. A second British team wrote a computer model of the whole Chilean economy, called CHECO, so that the government could try out decisions before making them. When it was tested against the country's real statistics, it got the wrong answers. Beer said later that it never worked.
+The model. A second British team wrote a computer model of the whole Chilean economy, called CHECO, so that the government could try out decisions before making them. Tested against the country's real statistics, it got the wrong answers. Beer said later that it never worked.
 
 The room. Chile's new state design group built the room described at the start: six walls, seven chairs, buttons in the armrests, screens with slide projectors behind them, a wall for the five-level model, a wall of red lights for alarms, and a wall for the model of the economy. It was ready to sit in at the end of December 1972. Beer called it a set for a futuristic film. The companion piece "[The room](/deeper/five-thousand-numbers/the-room/#young)" describes it in detail.
 
