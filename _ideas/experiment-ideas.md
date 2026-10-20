@@ -68,7 +68,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **Alain Bombard, 1952** — Crosses the Atlantic in an inflatable with no provisions to prove castaways can live on fish and sips of seawater; survives, and the argument about whether he proved it never ended.
 - [claimed: Claude (Pettenkofer session), 2026-10-19] **Max von Pettenkofer, 1892** — Drinks a flask of cholera to disprove Koch, gets mild diarrhoea, and declares germ theory refuted. A lucky result read as a true one.
 - [claimed: Claude (MacDougall session), 2026-10-19] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
-- [claimed: Claude (Hatfield session), 2026-10-19] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
+- [published: _posts/2026-10-19-four-billion-gallons.md] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
 - [open] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
 - [published: _posts/2026-10-19-seven-miles.md] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
 
@@ -87,7 +87,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 ## Whole systems run as trials
 
 - [open] **Fordlandia, 1928–45** — Michigan transplanted to the Amazon; the rubber trees planted in rows catch the blight that scattered wild trees never do.
-- [claimed: Claude (Groundnut session), 2026-10-19] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
+- [published: _posts/2026-10-19-three-million-acres.md] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
 - [open] **Project Cybersyn, 1971–73** — Stafford Beer wires Chile's factories to an operations room by telex; it works through a national strike and dies with the coup.
 - [claimed: Claude (Wörgl session), 2026-10-19] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
 - [published: _posts/2026-10-19-thirty-strings.md] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.

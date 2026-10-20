@@ -1,4 +1,4 @@
-# Handoff: Journal of Experiments, 19 October 2026, night
+# Handoff: Journal of Experiments, 20 October 2026, morning
 
 For whoever picks this up next, person or agent. Read `AGENTS.md` first: it is the house guide, and everything
 below assumes it. This note covers only where the work stopped and what to do next. When you have finished the
@@ -6,76 +6,59 @@ below assumes it. This note covers only where the work stopped and what to do ne
 
 ## Where things stand
 
-- **Eighteen entries are live, every one with its narration.** Five earlier ones, the twelve merged on 19 October
-  from pull requests #1 to #12, and *Thirty Inches* (Camp Century, #13). The twelve's 37 narrations (12 entries,
-  12 younger texts, 13 companions) went live when #16 was merged at 20:45 on 19 October (commit `4914bb4`, squash,
-  branch kept): every served file answers 200 with a `Content-Length` equal to its `audio_length` line, every page
-  shows the player, and `/podcast.xml` lists **61 episodes** (24 before). The twelve are marked `[published]` in the
-  backlog.
-- **Nobody has listened to the twelve's 37 narrations yet.**
-- **Eight more entries are written and waiting in pull requests**, one session each, all pushed to GitHub, none
-  merged; their narrations are rendered (next bullet) but not uploaded. In `date` order, which is the merge order:
-
-  | PR | entry | `date` hour | companions | for the owner's judgment |
-  |---|---|---|---|---|
-  | #15 | *Three Million Acres* (the Groundnut Scheme) | 19 Oct 17:00 | 1 | both figures rest on Flickr Commons "no known copyright restrictions"; the TNA one (CO 1069/157) is undated 1950s and might post-date 1957 |
-  | #14 | *Four Billion Gallons* (Hatfield and San Diego) | 18:00 | 1 | `hatfield-1916.jpg` rests on its 1916 date alone; the City Clerk's site carries a blanket copyright footer |
-  | #17 | *A Million Observations* (Universe 25) | 19:00 | 1 | the Okamoto photograph, added at the owner's request: Commons' "White House photographer" rationale does not hold (he left in January 1969; the photograph is 1970) |
-  | #18 | *One Cubic Centimetre* (Pettenkofer) | 20:00 | 0 | nothing; all four figures public domain by date |
-  | #19 | *Two Silver Dollars* (MacDougall) | 21:00 | 2 | the "two silver dollars" reading is the writer's own observation; three *New York Times* quotations come second-hand through a Substack post |
-  | #21 | *Chicken Heart* (Carrel) | 22:00 | 3 | nothing; Bain portraits (Library of Congress) and *JEM* plates of 1912 to 1922 |
-  | #22 | *Four Hundred Telegrams* (the Italia) | 23:00 | 3 | nothing; all seven marked public domain by Commons or the national libraries |
-  | #20 | *Twelve Stamps* (Wörgl) | 20 Oct 00:00 | 3 | `inn-valley-1933.jpg` (Mittelholzer, ETH) is URAA-restored in the US until the end of 2028; and the hour puts it on the next day |
-
-  On the night of 19 October `_tools/check-entry.py --no-links` was run on each from its branch: **0 FAIL on all
-  eight**; the only WARNs are the expected "no narration yet" lines and a few source links that refuse robots
-  (sandiegohistory.org, the Wiley and AJE DOIs, nytimes.com, loc.gov). All eight are `MERGEABLE/CLEAN` against
-  `main`. Each pull request's description lists its unreachable sources, second-hand quotations and disputed
-  numbers; read it before merging. Their pronunciation files are already pushed to journal-audio.
-- **The eight are narrated, for the owner to listen to before merging.** All 30 files (8 entries, 8 younger texts,
-  14 companions) were rendered from the pull-request branches on the night of 19 October, natively on Apple
-  silicon (see "Things learned"), into journal-audio's `out/`: 299 MB, about ten hours of audio, every
-  `out/render-<slug>.log` ending `exit 0`. They are **not uploaded and have no audio lines**; that follows the
-  merges. The branches are checked out as detached worktrees at `~/Documents/GitHub/journal-review/pr<N>/`
-  (one per pull request; `files.txt` there lists the 30 files), so a text change on a branch can be re-rendered
-  from there with `FORCE=1 ./render-many.sh <file>`. Remove those worktrees (`git worktree remove`) once the
-  eight are merged.
-- **Nobody has listened to any of the eight's narrations yet**, nor to the twelve's.
-- **The backlog** (`_ideas/experiment-ideas.md`): 13 `[published]`, 8 `[claimed]` (the eight pull requests), 9
-  `[open]`. None is marked `suggested next`; the wave has ended, so mark two.
+- **Twenty-six entries are live.** Five earlier ones; the twelve merged on 19 October from pull requests #1 to
+  #12; *Thirty Inches* (#13); and eight more merged in `date` order on the morning of 20 October, squash, branches
+  kept, figures as their writers left them: *Three Million Acres* (#15), *Four Billion Gallons* (#14), *A Million
+  Observations* (#17), *One Cubic Centimetre* (#18), *Two Silver Dollars* (#19), *Chicken Heart* (#21), *Four Hundred
+  Telegrams* (#22) and *Twelve Stamps* (#20). The last build (`9831364`) is live; every page answers 200 and the
+  home page lists 26. No pull request is open.
+- **Twenty of the twenty-six have their narration live**; `/podcast.xml` lists **67 episodes**. The twelve's 37
+  went live with #16 on the evening of 19 October (`4914bb4`); *Three Million Acres* and *Four Billion Gallons*
+  arrived with their audio lines already wired on their branches (the session of 19 October had uploaded them;
+  every served file's length matches its line).
+- **Six entries are live without narration lines**: A Million Observations, One Cubic Centimetre, Two Silver
+  Dollars, Chicken Heart, Four Hundred Telegrams and Twelve Stamps. Their 24 files (6 entries, 6 younger texts,
+  12 companions) **are rendered**, natively, into journal-audio's `out/` under the `stephen` account on the night of
+  19 October, every `out/render-<slug>.log` ending `exit 0`, and the text on `main` is byte-identical to what was
+  rendered. They are not uploaded, because wrangler is not logged in under `stephen` (step 1 below). The list is
+  journal-audio's `lists/2026-10-20-six-entries.txt`. (`out/` also holds fresh renders of the six files of Three
+  Million Acres and Four Billion Gallons, a few hundred bytes different from the live ones; same text, no need to
+  replace them.)
+- **The owner has listened to none of the narrations** of the twelve or the eight. The figure questions the
+  writers left open were merged as they stood; they are listed in each pull request's description and below.
+- **The backlog** (`_ideas/experiment-ideas.md`): 15 `[published]`, 6 `[claimed]` (the six waiting for their
+  audio lines), 9 `[open]`. None is marked `suggested next`; the wave has ended, so mark two.
 
 ## Finish first
 
-1. **Review and merge the eight**, in the order of the table, with squash, without deleting the branches. Before
-   each merge settle the figure question in its row with the owner, run `_tools/check-entry.py` on its post from
-   `main` after the merge, and read every figure's credit. `gh pr merge` is refused by the app's auto mode
-   ("merge without review"); the owner says "merge it" in chat, or presses Merge on GitHub.
+1. **Log wrangler in**, once, from the owner's own shell: `cd ~/Documents/GitHub/journal-audio &&
+   node_modules/.bin/wrangler login` (it opens a browser). `wrangler whoami` should then name the account.
 
-2. **The owner listens to the eight** from journal-audio's `out/` (the entry first, then its younger version and
-   companions), alongside reading the pull request. A mispronunciation goes in the entry's `say-as/<slug>.txt`;
-   a text change goes on the pull request's branch. Re-render only what changed, from the worktree:
-   `FORCE=1 ./render-many.sh ~/Documents/GitHub/journal-review/pr<N>/<file>`.
-
-3. **Log wrangler in**, once, before any upload: `node_modules/.bin/wrangler login` in journal-audio, from the
-   owner's own shell (it opens a browser). Under the `stephen` account `wrangler whoami` says "Not logged in"; the
-   September token there does not refresh.
-
-4. **After the merges, upload and wire.** The merged text is the branch text, so `render-many.sh` on the paths on
-   `main` reports every file "done already" and nothing re-renders unless its text changed after the render; then
-   `wire-audio.py` uploads each finished MP3 and writes its lines:
+2. **Upload and wire the 24 files.** Nothing re-renders (the text has not changed since the render), so
+   `wire-audio.py` only uploads each finished MP3 and writes its lines:
 
    ```bash
    cd ~/Documents/GitHub/journal-audio
-   xargs ./render-many.sh < lists/2026-10-19-eight-entries.txt    # expect thirty "done already"
-   xargs ./wire-audio.py  < lists/2026-10-19-eight-entries.txt    # uploads, writes the audio lines on main
+   xargs ./wire-audio.py < lists/2026-10-20-six-entries.txt    # expect twenty-four "wired" lines
    ```
 
    Then in the site: `git pull --rebase`, commit the audio lines, push to `main`, wait for the build, and expect
-   `/podcast.xml` to list 91 episodes (61 now). Mark each entry `[published: <path>]` in the backlog.
+   `/podcast.xml` to list 91 episodes (67 now) and `_tools/check-entry.py` to report no audio WARNs on the six.
+   Mark the six `[published: <path>]` in the backlog in the same commit.
 
-5. **The twelve's narrations are still unheard.** Fix what the owner reports in the entry's `say-as/<slug>.txt`,
-   then `FORCE=1 ./render-many.sh <file>` and `./wire-audio.py <file>` for that one file, and commit the new
-   `audio_length` and `audio_duration` lines.
+3. **The owner listens**: the twelve of 19 October and the eight, from the site's player or journal-audio's
+   `out/`. A mispronunciation goes in the entry's `say-as/<slug>.txt`; then `FORCE=1 ./render-many.sh <file>` and
+   `./wire-audio.py <file>` for that one file, and commit its new `audio_length` and `audio_duration` lines. A
+   text change goes straight to `main` now, followed by the same re-render of every file whose text changed.
+
+4. **Figures the writers left to the owner's judgment**, now live: *Three Million Acres* (both figures rest on
+   Flickr Commons "no known copyright restrictions"; the TNA one, CO 1069/157, is undated 1950s and might
+   post-date 1957); *Four Billion Gallons* (`hatfield-1916.jpg` rests on its 1916 date alone); *A Million
+   Observations* (the Okamoto photograph: Commons' "White House photographer" rationale does not hold); *Twelve
+   Stamps* (`inn-valley-1933.jpg`, Mittelholzer/ETH, is URAA-restored in the US until the end of 2028). Also
+   *Two Silver Dollars*' own "two silver dollars" reading and its three second-hand *New York Times* quotations,
+   and *Twelve Stamps*' hour (00:00 on 20 October, the next day). Dropping a figure is a text change: re-render
+   the entry and its younger version afterwards.
 
 ## Then: the rest of the backlog
 
@@ -121,10 +104,12 @@ quotations, British spelling, no rendering by the writing session itself, nothin
   on the afternoon and again on the night of 19 October were almost certainly under another account's home, which
   is closed (mode 700) to the others; so were the earlier worktrees, renders and the wrangler login. Before cloning
   afresh, check `whoami` and `ls -ld /Users/*/`. Whatever account you are in: push every `say-as` file and list as
-  soon as it is written, and treat `out/` as that account's. Tonight's clones, worktrees, `.venv`, model and
-  renders are under `stephen`.
+  soon as it is written, and treat `out/` as that account's. The clones, `.venv`, model and renders of 19 to 20
+  October are under `stephen`.
 - **Auto mode refuses `gh pr merge`** ("merge without review"), even for a pull request the session has just
   checked line by line. The owner's "merge it" in chat lets it through; so does pressing Merge on GitHub.
+- **After each merge GitHub recomputes every open pull request's mergeability**, and for a few seconds
+  `gh pr view` reports `UNKNOWN`; a script that merges several in a row must wait for `MERGEABLE` before each.
 - **The owner reviews by listening.** Render an entry's narration as soon as its pull request is open and hand
   over the MP3s; it is part of the review, not something that waits for the merge (said on 19 October).
 - **Use an Apple-silicon Python.** Homebrew's Python 3.13 here is the Intel build (`/usr/local/bin/python3`), and
@@ -135,16 +120,16 @@ quotations, British spelling, no rendering by the writing session itself, nothin
   native `.venv` the old "run `wire-audio.py` with `/usr/bin/python3`" workaround is unnecessary (it was the Intel
   Python starting `node` as Intel, which could not load the arm64 `workerd`); it still does no harm.
 - **macOS `xargs -I` allows 255 bytes per substituted line**, and `render-many.sh` uses it, so a file path longer
-  than that makes it fail at once with "command line cannot be assembled, too long". Keep the worktrees somewhere
-  short (`~/Documents/GitHub/journal-review/pr<N>` is 107 bytes to the longest file).
+  than that makes it fail at once with "command line cannot be assembled, too long". Keep worktrees somewhere
+  short.
 - **The model download from GitHub releases stalled once** at 268 of 311 MB; `curl -C -` on the same URL resumed
   it. `setup.sh` has `set -e`, so a stalled `curl` has to be killed and the script run again (it skips what exists).
 - **`wire-audio.py`'s output is buffered** when redirected to a file, so a log that looks empty may be fine: check
   `git status` in the site instead.
-- **Review before merging.** The owner chose to have all twelve merged without reading them first. Before
-  merging, run the checker on each pull request and read every figure's credit. One photograph was removed from
-  Forty-Two because it came from a 2004 journal article credited "courtesy of" its photographer, which is not
-  public domain. A "copyright not renewed" claim (Three Menus) was checked against archive.org's record.
+- **Review before merging.** The owner chose to have all twelve, and then all eight, merged without reading them
+  first. Before merging, run the checker on each pull request and read every figure's credit. One photograph was
+  removed from Forty-Two because it came from a 2004 journal article credited "courtesy of" its photographer,
+  which is not public domain. A "copyright not renewed" claim (Three Menus) was checked against archive.org's record.
 - **Merge in date order, with squash, and do not delete the branches.** The app's session worktrees use them.
 - **A cancelled build looks like a failure.** Merging several pull requests in a row cancels each build in favour
   of the next, and the Pages API reports those as `errored`. Check `gh run list` and wait for the run on the last
@@ -165,6 +150,6 @@ quotations, British spelling, no rendering by the writing session itself, nothin
 - Two Years Under Glass is 3,983 words before Sources, 17 under the house minimum.
 - Sixty-Five Hours' younger version is 3,379 words, 56% of the entry; the house range is 2,000 to 2,800.
 - The feed's companion episodes are named "<piece>, going deeper on <entry>".
-- Among the eight waiting entries, several figures are far under the house width because nothing larger exists:
-  MacDougall's portrait (355 px), Unterguggenberger's (300 px), the 1922 *JEM* plate (726 px), both Groundnut
-  figures (about 845 px).
+- Among the eight entries of 20 October, several figures are far under the house width because nothing larger
+  exists: MacDougall's portrait (355 px), Unterguggenberger's (300 px), the 1922 *JEM* plate (726 px), both
+  Groundnut figures (about 845 px).
