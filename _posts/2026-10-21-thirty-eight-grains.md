@@ -4,6 +4,12 @@ title:  "Thirty-Eight Grains"
 subtitle: "The story of two water companies and the south side of London, 1849 to 1856: three hundred thousand people sorted by the pipe that reached their house, the man who went from door to door to read it, and the committee that preferred the air."
 date:   2026-10-21 02:00:00 +0000
 young: young/thirty-eight-grains.md
+audio: https://audio.journalsofexperiments.com/thirty-eight-grains.mp3
+audio_length: 20085682
+audio_duration: "41:50"
+audio_young: https://audio.journalsofexperiments.com/thirty-eight-grains-young.mp3
+audio_young_length: 8089950
+audio_young_duration: "16:51"
 categories: [experiments]
 comments: false
 ---

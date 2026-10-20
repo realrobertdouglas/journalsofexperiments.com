@@ -4,6 +4,9 @@ subtitle: "Broad Street, Golden Square, 31 August to 8 September 1854: the fortn
 parent: thirty-eight-grains
 order: 1
 date:   2026-10-21 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-eight-grains-the-pump.mp3
+audio_length: 5178631
+audio_duration: "10:47"
 ---
 
 The entry keeps the Broad Street pump to one paragraph, because it is not the subject. But it happened in the middle of the south London inquiry, to the same man, and the official reaction to it is the clearest illustration there is of what the entry is about: an inquiry whose numbers were not disputed and whose conclusion was declined. This piece tells it in Snow's words and the committees' words, and nothing else.

@@ -4,6 +4,9 @@ subtitle: "Every count of the two companies' dead, 1854 to 1856, from Snow, Farr
 parent: thirty-eight-grains
 order: 2
 date:   2026-10-21 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-eight-grains-the-numbers.mp3
+audio_length: 6852109
+audio_duration: "14:16"
 ---
 
 The comparison of the two water companies was counted at least five times in two years, by three men, with three sets of denominators. The counts do not quite agree, and the entry uses whichever was the primary figure for the passage in hand. This piece sets them all out, so that a reader who wants to check can see what each number is, where it came from, and why the next one differs.
