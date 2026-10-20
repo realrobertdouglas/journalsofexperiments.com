@@ -57,7 +57,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **Michel Siffre, 1962 and 1972** — A geologist lives in caves without clocks; his body settles into 48-hour days. The subject's own sense of time was the instrument.
 - [open, suggested next] **Byrd at Advance Base, 1934** — The admiral winters alone in a buried hut and slowly poisons himself on his stove's carbon monoxide while refusing to call for help.
 - [published: _posts/2026-10-19-three-menus.md] **The Minnesota Starvation Experiment, 1944–45** — 36 conscientious objectors half-starved for six months so the Allies could learn to refeed Europe; what it found about the mind under hunger still stands.
-- [open] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
+- [claimed: Claude (BIOS-3 session), 2026-10-20] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
 - [published: _posts/2026-10-19-thirty-inches.md] **Camp Century, 1959–67** — A nuclear reactor under the Greenland ice; the tunnels crushed in a decade, and the waste left behind is now expected to melt out.
 
 ## One person, one hypothesis, nobody watching
