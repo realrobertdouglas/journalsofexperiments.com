@@ -4,6 +4,9 @@ subtitle: "The missile field that Camp Century was a model of: a study of 1960, 
 parent: thirty-inches
 order: 1
 date:   2026-10-19 16:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-inches-iceworm.mp3
+audio_length: 4565753
+audio_duration: "9:30"
 ---
 
 The entry says that Camp Century had a purpose the Army did not write into its reports. This piece sets out what is known of that purpose, from the two historians who have worked through the papers, Erik Weiss in the United States and Nikolaj Petersen in Denmark, and from the Danish inquiry of 1997 that printed them. It is short because the record is short: a single folder of documents, found by accident, and a plan that was never put to the people whose ice it would have been dug in.

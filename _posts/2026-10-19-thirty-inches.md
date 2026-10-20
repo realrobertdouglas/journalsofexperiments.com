@@ -4,6 +4,12 @@ title:  "Thirty Inches"
 subtitle: "The story of Camp Century, the US Army's camp inside the Greenland ice sheet, 1959 to 1969: the trenches that closed thirty inches a year, the missiles nobody mentioned, and the jars of frozen mud that waited fifty years in a freezer."
 date:   2026-10-19 16:00:00 +0000
 young: young/thirty-inches.md
+audio: https://audio.journalsofexperiments.com/thirty-inches.mp3
+audio_length: 20658406
+audio_duration: "43:02"
+audio_young: https://audio.journalsofexperiments.com/thirty-inches-young.mp3
+audio_young_length: 8145426
+audio_young_duration: "16:58"
 categories: [experiments]
 comments: false
 ---

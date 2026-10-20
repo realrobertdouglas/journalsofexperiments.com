@@ -4,6 +4,9 @@ subtitle: "The core from Trench 12, 1960 to 2023: six seasons of drilling to the
 parent: thirty-inches
 order: 2
 date:   2026-10-19 16:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-inches-the-jars.mp3
+audio_length: 7729723
+audio_duration: "16:06"
 ---
 
 The entry gives the Camp Century ice core a few paragraphs. It deserves more, because it is the one result of the camp that is still producing results, and because the way it was nearly lost says as much about how science keeps its records as the camp says about how armies keep theirs. This piece follows the core from the first thermal drill to the jars in Copenhagen.
