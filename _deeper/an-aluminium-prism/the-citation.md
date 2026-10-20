@@ -4,6 +4,9 @@ subtitle: "What the Academy's commission said about the rays when it gave Blondl
 parent: an-aluminium-prism
 order: 2
 date:   2026-10-20 20:00:00 +0000
+audio: https://audio.journalsofexperiments.com/an-aluminium-prism-the-citation.mp3
+audio_length: 2759437
+audio_duration: "5:44"
 ---
 
 The Prix Leconte was one of the Academy's prizes for "new and capital discoveries" in mathematics, physics, chemistry, natural history and the medical sciences, awarded as a single prize once in three years without regard to nationality. The programme of prizes for 1904, published in the *Comptes rendus* in December 1903, had said that the Academy would award it that year "if there is occasion". There was. The commission that chose the winner was made up of Mascart, Troost, Darboux, Berthelot, Maurice Lévy, Henri Becquerel, Bouchard, Moissan, Janssen and de Lapparent, with Henri Poincaré as rapporteur, and its report was read at the Academy's annual public session on Monday 19 December 1904, twelve weeks after Wood's letter had appeared in London and seven after the *Revue scientifique* had printed it in French.

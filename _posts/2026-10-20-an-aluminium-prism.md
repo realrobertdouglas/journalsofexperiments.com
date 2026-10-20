@@ -4,6 +4,12 @@ title:  "An Aluminium Prism"
 subtitle: "The story of René Blondlot's N-rays, Nancy, 1903 to 1906: the new light that dozens of papers confirmed, the prism Robert Wood lifted out of the dark, and the one instrument nobody tested, which was the eye that read all the others."
 date:   2026-10-20 20:00:00 +0000
 young: young/an-aluminium-prism.md
+audio: https://audio.journalsofexperiments.com/an-aluminium-prism.mp3
+audio_length: 19505456
+audio_duration: "40:38"
+audio_young: https://audio.journalsofexperiments.com/an-aluminium-prism-young.mp3
+audio_young_length: 5917275
+audio_young_duration: "12:19"
 categories: [experiments]
 comments: false
 ---

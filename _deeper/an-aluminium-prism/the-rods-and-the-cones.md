@@ -4,6 +4,9 @@ subtitle: "What the physiologists said was happening in the dark room, in Nature
 parent: an-aluminium-prism
 order: 3
 date:   2026-10-20 20:00:00 +0000
+audio: https://audio.journalsofexperiments.com/an-aluminium-prism-the-rods-and-the-cones.mp3
+audio_length: 4284513
+audio_duration: "8:55"
 ---
 
 The rays were a year old before Wood went to Nancy, and in that year the people who could not see them had already said why. Their explanation was not that Blondlot was dishonest. It was that an eye in the dark does, by itself, exactly what he was asking it to report.

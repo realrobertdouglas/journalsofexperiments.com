@@ -4,6 +4,9 @@ subtitle: "Wood's letter to Nature of 22 September 1904, in full, and the experi
 parent: an-aluminium-prism
 order: 1
 date:   2026-10-20 20:00:00 +0000
+audio: https://audio.journalsofexperiments.com/an-aluminium-prism-the-letter.mp3
+audio_length: 6312393
+audio_duration: "13:08"
 ---
 
 Robert W. Wood's report on his evening at Nancy was printed in *Nature* on 29 September 1904, under the heading "The *n*-Rays", among the letters to the editor on pages 530 and 531. It is dated from Brussels a week earlier. It names neither the laboratory nor the men in it, and it was translated into French by the *Revue scientifique* within a month. What follows is the whole of it, as *Nature* printed it, with the spelling and punctuation of the original; the only change is that the italic *n* of the journal's house style is kept as Wood's readers saw it. The experiment he proposes at the end, with two sealed screens and an observer who does not know which is in the beam, is the one the entry turns on.
