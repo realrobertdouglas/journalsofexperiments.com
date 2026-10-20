@@ -55,7 +55,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 *Beside "Two Years Under Glass"*
 
 - [open] **Michel Siffre, 1962 and 1972** — A geologist lives in caves without clocks; his body settles into 48-hour days. The subject's own sense of time was the instrument.
-- [open] **Byrd at Advance Base, 1934** — The admiral winters alone in a buried hut and slowly poisons himself on his stove's carbon monoxide while refusing to call for help.
+- [open, suggested next] **Byrd at Advance Base, 1934** — The admiral winters alone in a buried hut and slowly poisons himself on his stove's carbon monoxide while refusing to call for help.
 - [published: _posts/2026-10-19-three-menus.md] **The Minnesota Starvation Experiment, 1944–45** — 36 conscientious objectors half-starved for six months so the Allies could learn to refeed Europe; what it found about the mind under hunger still stands.
 - [open] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
 - [published: _posts/2026-10-19-thirty-inches.md] **Camp Century, 1959–67** — A nuclear reactor under the Greenland ice; the tunnels crushed in a decade, and the waste left behind is now expected to melt out.
@@ -80,7 +80,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-eighteen-hundred-boxes.md] **Mincome and SIME/DIME, 1970s** — Guaranteed-income trials; the Manitoba data sat boxed for 30 years, and the US one was killed by a divorce finding later shown to be an artefact.
 - [open] **Cambridge-Somerville, 1939–45** — A mentoring programme for at-risk boys; thirty years on, the boys who got the help had done worse. Joan McCord's follow-up is the whole entry.
 - [published: _posts/2026-10-19-chicken-heart.md] **Carrel's chicken heart, 1912–46** — Cells kept "immortal" for 34 years; after his death nobody could repeat it, and the likeliest reason is that the feed kept adding fresh cells.
-- [open] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
+- [open, suggested next] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
 - [published: _posts/2026-10-19-a-million-observations.md] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
 - [published: _posts/2026-10-19-forty-two.md] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
 

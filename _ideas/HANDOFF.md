@@ -15,8 +15,8 @@ below assumes it. This note covers only where the work stopped and what to do ne
   build is `b1ff8f4`. No pull request is open.
 - **The owner has listened to none of the twenty entries' narrations** (the twelve of 19 October and the
   eight of 20 October: 67 files, about 24 hours of audio).
-- **The backlog** (`_ideas/experiment-ideas.md`): 21 `[published]`, 9 `[open]`, none `[claimed]`. None is marked
-  `suggested next`.
+- **The backlog** (`_ideas/experiment-ideas.md`): 21 `[published]`, 9 `[open]`, none `[claimed]`. Byrd at
+  Advance Base and Kon-Tiki are marked `[open, suggested next]` (chosen by the owner on 20 October).
 - **The narration machine** is set up under the `stephen` account on this Mac: journal-audio beside the site,
   a native `.venv` (see "Things learned"), the model files, wrangler logged in on 20 October as
   robert@douglasmining.com. `out/` holds the 30 renders of 19 October.
@@ -43,10 +43,6 @@ below assumes it. This note covers only where the work stopped and what to do ne
    *Two Silver Dollars*' own "two silver dollars" reading and its three second-hand *New York Times* quotations,
    and *Twelve Stamps*' hour (00:00 on 20 October, the next day). Dropping a figure is a text change: re-render
    the entry and its younger version afterwards.
-
-3. **Mark two `[open]` ideas `suggested next`** in the backlog. All nine lean on copyrighted books; Byrd at
-   Advance Base (the expedition's reports and the newspapers are open) and Kon-Tiki (the 1947 press and the
-   museum's documents) have the most primary material in the open.
 
 ## Then: the rest of the backlog
 
