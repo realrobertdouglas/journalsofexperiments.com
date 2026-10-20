@@ -1,4 +1,4 @@
-# Handoff: Journal of Experiments, 20 October 2026
+# Handoff: Journal of Experiments, 20 October 2026, midday
 
 For whoever picks this up next, person or agent. Read `AGENTS.md` first: it is the house guide, and everything
 below assumes it. This note covers only where the work stopped and what to do next. When you have finished the
@@ -6,26 +6,29 @@ below assumes it. This note covers only where the work stopped and what to do ne
 
 ## Where things stand
 
-- **Twenty-six entries are live, every one with its narration.** Five earlier ones; the twelve merged on
-  19 October from pull requests #1 to #12; *Thirty Inches* (#13); and the eight merged on the morning of
-  20 October (#14, #15, #17 to #22), in `date` order, squash, branches kept, figures as their writers left them.
-  Every entry has a younger-readers version and 38 companion pieces are published. `/podcast.xml` lists
-  **91 episodes**, every served file answers 200 with `accept-ranges: bytes` and a `Content-Length` equal to its
-  `audio_length` line, and `_tools/check-entry.py` reports no FAIL and no WARN on any of the twenty. The last
-  build is `b1ff8f4`. No pull request is open.
-- **The owner has listened to none of the twenty entries' narrations** (the twelve of 19 October and the
-  eight of 20 October: 67 files, about 24 hours of audio).
-- **The backlog** (`_ideas/experiment-ideas.md`): 21 `[published]`, 9 `[open]`, none `[claimed]`. Byrd at
-  Advance Base and Kon-Tiki are marked `[open, suggested next]` (chosen by the owner on 20 October).
-- **The narration machine** is set up under the `stephen` account on this Mac: journal-audio beside the site,
-  a native `.venv` (see "Things learned"), the model files, wrangler logged in on 20 October as
-  robert@douglasmining.com. `out/` holds the 30 renders of 19 October.
+- **Thirty-five entries are live, every one with its narration.** Five earlier ones; the twelve merged on
+  19 October (#1 to #12); *Thirty Inches* (#13); the eight merged on the morning of 20 October (#14, #15, #17 to
+  #22); and nine more merged at midday on 20 October from pull requests #23 to #31, in `date` order, squash,
+  branches kept, figures and titles as their writers left them: *Seventy-Eight Below* (Byrd at Advance Base),
+  *Seventy-Five Words* (Kon-Tiki), *Twenty-Five Days* (Siffre), *Ninety-One Percent* (BIOS-3), *One Day in
+  Sixty-Five* (Bombard), *One Clear Word* (the dolphin house), *Thirty-Eight Boys* (Cambridge-Somerville), *Two
+  Hundred Feet* (Fordlandia) and *Five Thousand Numbers* (Cybersyn). Every entry has a younger-readers version;
+  57 companion pieces are published. `/podcast.xml` lists **128 episodes**; every served file answers 200 with
+  `accept-ranges: bytes` and a `Content-Length` equal to its `audio_length` line; `_tools/check-entry.py` reports
+  no FAIL and no WARN on the twenty-nine entries of 19 and 20 October. The last build is `33c68f2`. No pull
+  request is open.
+- **The owner has listened to none of the narrations of the twenty-nine** (104 files, about 36 hours).
+- **The backlog** (`_ideas/experiment-ideas.md`): 30 `[published]`, 17 `[open]` (added on 20 October, each with
+  its sources and the published entry it sits beside), none `[claimed]`, none `suggested next`.
+- **The narration machine** is set up under the `stephen` account on this Mac: journal-audio beside the site, a
+  native `.venv` (see "Things learned"), the model files, wrangler logged in on 20 October as
+  robert@douglasmining.com. `out/` holds the renders of 19 and 20 October (67 files).
 
 ## Finish first
 
-1. **Listen.** Start with the eight of 20 October, from the site's player or journal-audio's `out/`. A
-   mispronunciation goes in the entry's `say-as/<slug>.txt` (one `wrong => right` per line; it covers the entry,
-   its younger version and its companions); then, in journal-audio:
+1. **Listen.** The player on each page, or journal-audio's `out/`. A mispronunciation goes in the entry's
+   `say-as/<slug>.txt` (one `wrong => right` per line; it covers the entry, its younger version and its
+   companions; the table matches inside words, so a short respelling can catch other words); then, in journal-audio:
 
    ```bash
    FORCE=1 ./render-many.sh ../journalsofexperiments.com/_posts/<file>.md    # and the younger text or companion, as needed
@@ -33,34 +36,46 @@ below assumes it. This note covers only where the work stopped and what to do ne
    ```
 
    and commit the new `audio_length` and `audio_duration` lines to the site (`git pull --rebase` first). A text
-   change goes straight to `main` now, followed by the same re-render of every file whose text changed.
+   change goes straight to `main` now, followed by the same re-render of every file whose text changed. Figures
+   are not narrated, so dropping or swapping one needs no re-render; a title change does (the title is spoken).
 
-2. **Figures the writers left to the owner's judgment**, now live: *Three Million Acres* (both figures rest on
-   Flickr Commons "no known copyright restrictions"; the TNA one, CO 1069/157, is undated 1950s and might
-   post-date 1957); *Four Billion Gallons* (`hatfield-1916.jpg` rests on its 1916 date alone); *A Million
-   Observations* (the Okamoto photograph: Commons' "White House photographer" rationale does not hold); *Twelve
-   Stamps* (`inn-valley-1933.jpg`, Mittelholzer/ETH, is URAA-restored in the US until the end of 2028). Also
-   *Two Silver Dollars*' own "two silver dollars" reading and its three second-hand *New York Times* quotations,
-   and *Twelve Stamps*' hour (00:00 on 20 October, the next day). Dropping a figure is a text change: re-render
-   the entry and its younger version afterwards.
+2. **Figures and titles the writers left to the owner's judgment**, now live:
+   - *Seventy-Five Words*: the 1947 postcard of the raft under sail rests on the National Library of Norway's
+     CC BY licence on its Flickr copy, photographer unknown, the negative plainly a crew member's. The telegram
+     (Archives New Zealand, CC BY-SA) and the museum photograph (Mittet, before 1957) are clear.
+   - *Ninety-One Percent*: the one figure (wheat on the racks) is cropped from NASA's scan of Conference
+     Publication 10040, which NTRS marks "public use permitted", but the photograph was taken by the Soviet
+     authors and the record says it is not a US government work.
+   - *Two Hundred Feet*: the 1934 aerial from The Henry Ford rests on Commons' statement that it was published
+     without notice in Russell's 1942 article; The Henry Ford's site gives no per-item rights statement. The two
+     USDA plates are clear.
+   - *One Day in Sixty-Five*: the title sits beside the existing *Sixty-Five Hours*; a rename re-renders the
+     entry and its younger version.
+   - Younger versions a little over 2,800 words by the checker's count: *Seventy-Five Words* (80 over),
+     *Twenty-Five Days* (24 over).
+   - From the eight of the morning, still open: *Three Million Acres* (both figures on Flickr Commons "no known
+     copyright restrictions"; the TNA one undated 1950s), *Four Billion Gallons* (`hatfield-1916.jpg` rests on its
+     date alone), *A Million Observations* (the Okamoto photograph), *Twelve Stamps* (`inn-valley-1933.jpg`,
+     URAA-restored in the US to 2028; and its 00:00 hour), *Two Silver Dollars* (the writer's own "two silver
+     dollars" reading; three second-hand *New York Times* quotations).
+
+3. **Mark two `[open]` ideas `suggested next`** when the owner has chosen. The ones richest in public-domain
+   sources: Apollo 1, USS Thresher, Camp Lazear, Goldberger's pellagra, Project Cirrus, Tacoma Narrows, the
+   O-rings, the cane toads, myxomatosis.
 
 ## Then: the rest of the backlog
 
-Nine ideas are open: Michel Siffre, Byrd at Advance Base, BIOS-3, Alain Bombard, the dolphin house,
-Cambridge-Somerville, Kon-Tiki, Fordlandia and Project Cybersyn. The owner wants all of them written.
+Seventeen ideas are open, each line in `_ideas/experiment-ideas.md` giving the pitch, where its primary sources
+are open, and which published entry it sits beside. The next free `date:` hour is 10:00 on 20 October.
 
-All nine lean on copyrighted books (Byrd's *Alone*, Siffre's, Bombard's, Heyerdahl's, Lilly's, Beer's, Grandin's
-on Fordlandia, McCord's papers), so each entry quotes those briefly and builds on what is open: Byrd's expedition
-reports and the newspapers, Kon-Tiki's 1947 press coverage and the museum's documents, the NASA and Navy contracts
-behind the dolphin house, Ford's own archive catalogue for Fordlandia, the Chilean press of 1971 to 1973 for
-Cybersyn, and the Russian institute's publications for BIOS-3.
-
-The waves so far ran one session per entry, each in its own worktree under "Several entries at once" in
-`AGENTS.md`, each opening a pull request; six at a time worked, and three at a time on 19 October finished in
-under two hours. Each brief names the entry's primary sources, its exact `date:` hour (the next free hour after
-00:00 on 20 October), and the owner's constraints (no shared files, public-domain figures only, verbatim
-quotations, British spelling, no rendering by the writing session itself, nothing run in journal-audio but
-`check-names.py` and the entry's own `say-as` file). The brief, with the parts in angle brackets filled in:
+The waves so far ran one writer per entry, each in its own worktree under "Several entries at once" in
+`AGENTS.md`, each opening a pull request: six at a time as app sessions on 19 October, and nine at a time as
+subagents of one session on 20 October (40 to 80 minutes each, about half a million tokens each). Each brief names
+the entry's primary sources and which sites block automated readers, its exact `date:` hour, the two published
+entries to read as models, and the owner's constraints (no shared files, public-domain figures only with "leave it
+out" as the default, verbatim quotations with second-hand ones flagged, British spelling, no rendering by the
+writing session itself, nothing run in journal-audio but `check-names.py` and the entry's own `say-as` file). The
+brief, with the parts in angle brackets filled in:
 
 > Write the Journal of Experiments entry on <the experiment: who, where, the dates, the hypothesis, the turn, and
 > the instrument nobody read, in four or five sentences>.
@@ -81,10 +96,11 @@ quotations, British spelling, no rendering by the writing session itself, nothin
 >    lines you are leaving, and anything in the workflow that was unclear. Do not merge it, do not render audio,
 >    and do not touch the shared files named in AGENTS.md.
 
-When the next wave's pull requests open, whoever runs the narration machine renders each entry from its branch
-for the owner to hear before the merge (`AGENTS.md`, step 6 of "Several entries at once"): check the branch out
-as a worktree somewhere short, run `./render-many.sh` on its files, and hand over `out/`. After the merge the
-text is identical, so `render-many.sh` skips everything and `wire-audio.py` only uploads and writes the lines.
+When the pull requests open, whoever runs the narration machine renders each entry from its branch for the owner
+to hear before the merge (`AGENTS.md`, step 6 of "Several entries at once"): the writers' worktrees (the app's
+under `.claude/worktrees/`, or a detached one somewhere short) hold the files; `./render-many.sh` on them, five
+at a time, took 80 minutes for 37 files. After the merge the text is identical, so `render-many.sh` skips
+everything and `wire-audio.py` on the `main` paths only uploads and writes the lines.
 
 ## Things learned the hard way
 
@@ -95,6 +111,11 @@ text is identical, so `render-many.sh` skips everything and `wire-audio.py` only
   afresh, check `whoami` and `ls -ld /Users/*/`. Whatever account you are in: push every `say-as` file and list as
   soon as it is written, and treat `out/` as that account's. The clones, `.venv`, model, renders and wrangler
   login of 19 to 20 October are under `stephen`.
+- **Nine subagents at once worked.** One session's Agent tool, each with its own worktree
+  (`.claude/worktrees/agent-<id>/`, branch `worktree-agent-<id>`), each claiming, writing and opening a pull
+  request; the reports came back to the session as they finished. They share the session's browser pane and
+  scratchpad, so tabs got navigated away and one draft file was overwritten: tell them to pass a tab id and to
+  name scratch files uniquely. Their worktrees are the app's; leave them.
 - **Auto mode refuses `gh pr merge`** ("merge without review"), even for a pull request the session has just
   checked line by line. The owner's "merge it" in chat lets it through; so does pressing Merge on GitHub.
 - **After each merge GitHub recomputes every open pull request's mergeability**, and for a few seconds
@@ -108,27 +129,37 @@ text is identical, so `render-many.sh` skips everything and `wire-audio.py` only
   a `.venv` made from it renders under Rosetta at about 40 minutes an entry. Under `stephen` there is now a native
   CPython 3.13.16 at `~/.local/opt/cpython-3.13-arm64/` (the `astral-sh/python-build-standalone` tarball, no
   installer); `.venv` was made from it before `setup.sh` ran (`~/.local/opt/cpython-3.13-arm64/bin/python3 -m venv
-  .venv`), and a full entry then takes about ten minutes: the 30 files took 58 minutes at five at a time. Run
-  `wire-audio.py` with that `.venv/bin/python` (or `/usr/bin/python3`): the Intel Python starts `node` as Intel,
-  which cannot load the arm64 `workerd`, and every upload fails. The 24 uploads of 20 October took twenty seconds.
+  .venv`), and a full entry then takes about ten minutes. Run `wire-audio.py` with that `.venv/bin/python` (or
+  `/usr/bin/python3`): the Intel Python starts `node` as Intel, which cannot load the arm64 `workerd`, and every
+  upload fails. Thirty-seven uploads took under a minute.
 - **macOS `xargs -I` allows 255 bytes per substituted line**, and `render-many.sh` uses it, so a file path longer
   than that makes it fail at once with "command line cannot be assembled, too long". Keep worktrees somewhere
-  short.
+  short; the app's `.claude/worktrees/agent-<id>/` paths are fine (150 bytes to the longest file).
 - **The model download from GitHub releases stalled once** at 268 of 311 MB; `curl -C -` on the same URL resumed
   it. `setup.sh` has `set -e`, so a stalled `curl` has to be killed and the script run again (it skips what exists).
 - **`wire-audio.py`'s output is buffered** when redirected to a file, so a log that looks empty may be fine: check
   `git status` in the site instead.
-- **Review before merging.** The owner chose to have all twelve, and then all eight, merged without reading them
-  first. Before merging, run the checker on each pull request and read every figure's credit. One photograph was
-  removed from Forty-Two because it came from a 2004 journal article credited "courtesy of" its photographer,
-  which is not public domain. A "copyright not renewed" claim (Three Menus) was checked against archive.org's record.
+- **Sources, as of 20 October.** The *New York Times* on archive.org stops at 1930 (nothing for 1934 or 1947);
+  the Washington *Evening Star* on Chronicling America, read through loc.gov's JSON and full-text service, and the
+  New Zealand cables through the DigitalNZ API (no key needed) stood in. Papers Past now blocks `curl` (Incapsula)
+  but reads in the built-in browser; Trove's search dies after one query, its article renditions still open in
+  the browser; Gallica wants a human to tick its ALTCHA box; Google Books' API quota is zero; the Boston Public
+  Library's Leslie Jones photographs carry "All rights reserved" on Digital Commonwealth, whatever the Flickr
+  posting says; The Henry Ford's digital collections show no per-item rights statement. The sandbox refuses Bash
+  commands containing the word "digital" (it reads it as `git`), `set --`, shell `for` loops over paths, and `cd`
+  into another repo combined with `git`; one-line commands and `git -C <path>` work.
+- **Review before merging.** The owner chose to have the twelve, the eight and the nine merged without reading
+  them first. Before merging, run the checker on each pull request and read every figure's credit. One
+  photograph was removed from Forty-Two because it came from a 2004 journal article credited "courtesy of" its
+  photographer, which is not public domain. A "copyright not renewed" claim (Three Menus) was checked against
+  archive.org's record.
 - **Merge in date order, with squash, and do not delete the branches.** The app's session worktrees use them.
 - **A cancelled build looks like a failure.** Merging several pull requests in a row cancels each build in favour
   of the next, and the Pages API reports those as `errored`. Check `gh run list` and wait for the run on the last
   commit before looking for a real error. For the same reason, push the backlog and handoff after the build of
   the merge you are checking has finished, not during it.
-- **Never remove `.claude/worktrees/` folders by hand.** They belong to the app's sessions; archive those sessions
-  from the app when they are no longer needed.
+- **Never remove `.claude/worktrees/` folders by hand.** They belong to the app's sessions and agents; archive
+  those sessions from the app when they are no longer needed.
 - **Usage limits.** Sessions that stop on a usage limit keep their uncommitted work in their worktree, so resuming
   them loses nothing.
 - **Narrate only after the text is final.** Every edit means a re-render, and the Reindeer younger version was
@@ -142,8 +173,8 @@ text is identical, so `render-many.sh` skips everything and `wire-audio.py` only
 - Two Years Under Glass is 3,983 words before Sources, 17 under the house minimum.
 - Sixty-Five Hours' younger version is 3,379 words, 56% of the entry; the house range is 2,000 to 2,800.
 - The feed's companion episodes are named "<piece>, going deeper on <entry>".
-- Among the eight entries of 20 October, several figures are far under the house width because nothing larger
-  exists: MacDougall's portrait (355 px), Unterguggenberger's (300 px), the 1922 *JEM* plate (726 px), both
-  Groundnut figures (about 845 px).
+- Several figures are far under the house width because nothing larger exists: MacDougall's portrait (355 px),
+  Unterguggenberger's (300 px), the 1922 *JEM* plate (726 px), both Groundnut figures (about 845 px), the
+  Fordlandia aerial (917 px).
 - journal-audio's wrangler is 3.114.17; the current release is 4.x and prints an out-of-date warning on every call.
   It still uploads. `package.json` pins `^3` because wrangler 4 needs Node 22 and this Mac's `node` is v20.
