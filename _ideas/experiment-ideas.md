@@ -49,6 +49,9 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-nine-days.md] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
 - [published: _posts/2026-10-19-six-hundred-feet.md] **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
 - [published: _posts/2026-10-19-four-hundred-telegrams.md] **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
+- [open] **Apollo 1, 1967** — The "plugs-out" test on the pad, rated non-hazardous, in pure oxygen at 16 pounds per square inch; three men dead in seventeen seconds, in a test that had been run before. NASA's Apollo 204 Review Board report and the Senate hearings are US government works.
+- [open] **USS Thresher, 1963** — A deep-dive test off Cape Cod; 129 dead; the silver-brazed joints that had failed their own ultrasonic tests and the ballast-blow valves that iced. The Navy's court of inquiry was declassified in 2020 to 2021: thousands of pages, public domain.
+- [open] **The Vasa, 1628** — The stability test (thirty men running from side to side on the deck) that the admiral stopped after three runs, and the ship that sailed anyway and went over in her first mile. The inquest's transcripts survive; the Vasa Museum has published them.
 
 ## Sealed systems and solitary subjects
 
@@ -59,6 +62,8 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-three-menus.md] **The Minnesota Starvation Experiment, 1944–45** — 36 conscientious objectors half-starved for six months so the Allies could learn to refeed Europe; what it found about the mind under hunger still stands.
 - [claimed: Claude (BIOS-3 session), 2026-10-20] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
 - [published: _posts/2026-10-19-thirty-inches.md] **Camp Century, 1959–67** — A nuclear reactor under the Greenland ice; the tunnels crushed in a decade, and the waste left behind is now expected to melt out.
+- [open] **Stapp's rocket sled, 1954** — A colonel rides a sled to 632 miles an hour and stops in 1.4 seconds, 46 g, with his own body as the instrument; his reading of his own data produced the seat belt. Air Force reports, films and photographs from Holloman, all US government works.
+- [open] **Kittinger's Excelsior jumps, 1959–60** — A balloon to 102,800 feet and a fall of four and a half minutes; on the way up his right glove lost pressure and he chose not to report it. Air Force material, public domain.
 
 ## One person, one hypothesis, nobody watching
 
@@ -71,6 +76,10 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-four-billion-gallons.md] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
 - [claimed: Claude (Dolphin house session), 2026-10-20] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
 - [published: _posts/2026-10-19-seven-miles.md] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
+- [open] **Camp Lazear, 1900** — Walter Reed's two huts in Cuba, one filled with the soiled bedding of the dead, one with mosquitoes, and volunteers in each; Lazear dead before the result. The Reed commission's reports, the Senate documents of 1911 and the Hench collection at the University of Virginia are open.
+- [open] **Goldberger's pellagra, 1915–16** — Eleven Mississippi convicts fed the Southern diet until they sickened, then the "filth parties" in which Goldberger, his wife and his assistants swallowed the scrapings of the sick to prove it was not infectious; the South refused the result for twenty years. Public Health Service reports, public domain.
+- [open] **N-rays, 1903–04** — Blondlot's new radiation, confirmed in dozens of French papers, until Wood pocketed the prism in the dark and the readings went on as before. The Comptes rendus and Wood's letter to Nature (1904), public domain.
+- [open] **Little Albert, 1920** — Watson and Rayner's one infant, taught to fear a white rat; the famous result never repeated, and the century-long hunt for who the child was. The 1920 paper and the film are public domain.
 
 ## Results nobody read
 
@@ -83,6 +92,11 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [claimed: Claude (Kon-Tiki session), 2026-10-20] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
 - [published: _posts/2026-10-19-a-million-observations.md] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
 - [published: _posts/2026-10-19-forty-two.md] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
+- [open] **Tacoma Narrows, 1940** — A bridge that oscillated from the day it opened, filmed and measured for four months by engineers working on a fix, and fell while they were working. The Federal Works Agency's 1941 report (Ammann, von Kármán, Woodruff) is a US government work; the famous film is not.
+- [open] **The O-rings, 1986** — The temperature data on the table the night before Challenger, and the chart that did not show it. The Rogers Commission report, with the Thiokol memos inside it, is public domain. The American twin of Chernobyl's test.
+- [open] **The Hawthorne lamps, 1924–32** — Output rose whatever they did to the lighting, or so the legend says; the original data, re-analysed in 2011, show something smaller and stranger. Roethlisberger and Dickson (1939): check the renewal record before quoting at length.
+- [open] **Project Cirrus, 1947** — Langmuir and Schaefer seed a hurricane off Georgia with dry ice; it turns and comes ashore at Savannah. The Army Signal Corps' final report and General Electric's records, largely government works. Beside Hatfield.
+- [open] **Mesmer and the Franklin commission, 1784** — The first blinded trial: patients magnetised by a tree that was not, and not by one that was. The commission's report and its 1785 English translation, public domain.
 
 ## Whole systems run as trials
 
@@ -92,3 +106,6 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-20-twelve-stamps.md] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
 - [published: _posts/2026-10-19-thirty-strings.md] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.
 - [published: _posts/2026-10-19-thirty-six-seconds.md] **Chernobyl's rundown test, 1986** — The disaster was itself a safety experiment, run at low power after a grid dispatcher delayed it into the night shift.
+- [open] **One hundred and two toads, 1935** — Cane toads shipped from Hawaii to Queensland against the cane beetle, bred and released before the trial was finished; Mungomery's own reports (Australian Crown copyright, expired) and the press on Trove. Beside Forty-Two.
+- [open] **Myxomatosis, 1950–51** — CSIRO's virus released against the rabbits works past all expectation, and when the public takes it for the encephalitis epidemic, Fenner, Burnet and Clunies Ross inject themselves on the record. Two experiments in one; CSIRO reports of that age are public domain.
+- [open] **Snow's two water companies, 1854** — The "grand experiment": 300,000 Londoners sorted by which company's pipe reached their house, and the death rate read off the pipe. On the Mode of Communication of Cholera (1855), public domain. Beside One Cubic Centimetre.
