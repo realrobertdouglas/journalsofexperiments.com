@@ -1,0 +1,73 @@
+---
+title:  "Three hundred and thirty-three years"
+subtitle: "The wreck from 1628 to 1961: the Englishman who stood her on her keel, the divers in the lead bell, the engineer with the corer, and the morning she came up."
+parent: three-planks
+order: 2
+young: young/three-planks/three-hundred-and-thirty-three-years.md
+audio: https://audio.journalsofexperiments.com/three-planks-three-hundred-and-thirty-three-years.mp3
+audio_length: 6355825
+audio_duration: "13:14"
+audio_young: https://audio.journalsofexperiments.com/three-planks-three-hundred-and-thirty-three-years-young.mp3
+audio_young_length: 4056639
+audio_young_duration: "8:26"
+date:   2026-10-20 17:00:00 +0000
+---
+
+The main entry leaves the Vasa on the bottom off Beckholmen on the afternoon of 10 August 1628 and finds her again in 1961. This is what happened in between, and how the people who raised her knew where to look.
+
+## The first attempts, 1628 to 1629
+
+The Council of the Realm did not wait for the inquest. On 13 August 1628, three days after the sinking, it gave an Englishman named Ian Bulmer, who called himself engineer to the king of England and happened to be in Stockholm, a commission to "take her up again", and ordered every captain, builder and officer at the yard to help him. It is the oldest salvage privilege known in Sweden. Bulmer was promised no fee until he had done what he said he could do. The Council, not wholly convinced, wrote the same day to Willem de Besche, the ironmaster of Finspång, who a few years earlier had raised a fully laden ship from twenty-two fathoms off Nyköping, and asked him to come and approve Bulmer's method.
+
+Bulmer worked fast. By 21 August the Council could tell the king that he was at it daily, that the old warship Gamla Svärdet had been moored over the wreck as a lifting platform, and that the Vasa now stood "right on her keel on the bottom." She had gone down on her side; he had pulled her upright before the clay could take hold of her, and she has stood so since. The men of 1961 were grateful to him.
+
+Then de Besche arrived and took over, because the Council thought Bulmer slow and preferred a method that needed no divers inside the ship. With the help of Captain Söfring, the ship's own commander, he rigged seventeen heavy cables and chains and by 23 September expected to "begin to wind" the next day. On 8 October a councillor wrote to his brother the chancellor that despite "their greatest diligence to take her up with all manner of instruments", she still lay in her bed "and would not even stir."
+
+Admiral Klas Fleming came home from the war that autumn and took charge. On 27 November he reported to the king that when they had wound with their greatest strength, the grapnels and anchors they had fixed in the gunports had let go, and that he saw no way to hold the ship fast without divers, who would have to be sent for from Holland. In January 1629 the king instead ordered the governor of Kexholm, on the Karelian frontier, to find divers "who can go under the water" and send them to Stockholm. Three arrived in the spring, "Russians" in the yard's account book, fishermen by trade, and were paid a hundred daler for June, July and August, with one daler and eight öre in June "for brandy". The yard also paid a coppersmith for a "lead sump", which may have been some kind of diving bell. On 12 June Fleming wrote to the king that they had made fast seventeen heavy cables and chains and would try that week what could be done, and that "there is greater difficulty than I have at any time been able to presume." No further report survives. The Crown gave up.
+
+## The guns, 1663 to 1665
+
+What the lifting gangs could not do, a diving bell could. In the 1660s Albrecht von Treileben, from Värmland, and his German partner Andreas Peckell were licensed to salvage the wreck, and instead of raising the ship they went into her for the guns. The bell was a lead-weighted cylinder, open at the bottom, with a platform hung beneath it; lowered on a rope, it carried a pocket of air down with it, as an upturned glass does, and a diver standing on the platform could work in the air pocket with hooks and tongs. An Italian priest, Francesco Negri, watched them in October 1663 and wrote in his diary that the diver went down "fully clothed in leather and had double-layered animal hide boots", standing on the lead platform. He was told the man could stay down half an hour. It was late October; after about fifteen minutes the bell was raised and the diver came up shivering badly, strong and local as he was.
+
+Working in thirty metres of water in near darkness, the divers broke up most of the upper deck to get at the guns beneath it, and by 1665 had brought up more than fifty of the bronze 24-pounders, each of over a tonne. The guns were sold abroad. When the ship was raised in 1961, only a handful remained aboard.
+
+## Forgotten
+
+After that the Vasa dropped out of the harbour's memory. Her position was known only roughly. A professor who wrote about her in a Stockholm newspaper in 1920 put her on the south side of the channel, at Tegelviken, where the Council's letter said the fatal gust had struck. The same year two brothers asked permission to blow up the wreck for its waterlogged oak, which was then prized for furniture, and were refused. That refusal, the museum notes, is why there is a ship to visit.
+
+## The search, 1953 to 1956
+
+Anders Franzén was a fuel engineer in the Swedish navy with a private interest in the warships lost in Swedish waters, and a theory: the Baltic is too brackish for the shipworm that eats wooden wrecks in salt seas, so an oak ship sunk in Stockholm harbour might still be there. He spent the early 1950s in the National and Military Archives and, from 1954, dragging the harbour bottom from boats lent by the navy, with a grapnel and a coring device of his own design, a weighted tube with a sharp edge that dropped into the mud and came back with whatever it had cut through. The southern shore gave him, in his words, "rusty iron stoves and ladies' bicycles, Christmas trees, dead cats and much else about which to keep silent."
+
+In the autumn of 1955 he went back to the archives and found papers the professor had not read, among them the Council's letter of 12 August 1628, which placed the sinking against Beckholmen on the north side of the channel. He also obtained a harbour chart that showed a lump on the bottom fifty metres long and six metres high in front of the Gustav V dry dock. He was told it was rubble from the dock's construction in the 1920s. That winter he met Per Edvin Fälting, the navy's most experienced salvage diver, who told him the rubble had been dumped elsewhere.
+
+In the summer of 1956 the two of them searched the turbid water off Beckholmen with a lighter grapnel. On 25 August the corer came up with a plug of old, black oak. They moved the boat twenty metres along the lump and dropped it again, and brought up more. In early September the navy sent a dive team. Fälting went down into water in which he could see nothing, felt his way along a vertical wooden wall, found a row of square openings, and then, above it, a second row. Only one warship with two gundecks had been lost near Beckholmen.
+
+## The lift, 1957 to 1961
+
+Raising a ship of twelve hundred tonnes that had lain for three centuries in clay was the navy's job, done with the diving and salvage company Neptun, which gave its engineering free. Navy divers, with Fälting as dive boss, spent eighteen months cutting six tunnels through the clay under the hull with water jets, working at seventeen metres and deeper in the dark, and ran steel cables through them to two lifting pontoons, the Oden and the Frigg. The first gun to come up, on 5 September 1958, was broadcast live on Swedish radio, and Fälting became a public figure. On 20 August 1959 the pontoons took the strain, and in eighteen lifts over the following weeks, each gaining a little under a metre, they walked the ship from thirty-two metres of water to sixteen, into the lee of Kastellholmen. There she lay for a year and a half while divers made her watertight enough to float.
+
+The final lift began on 8 April 1961. On the morning of 24 April, at three minutes past nine, with the press of Europe on the pontoons, four hundred invited guests and thousands of people on the shore, and television carrying it live, the stumps of the Vasa's timbers broke the surface between the pontoons. She was pumped out over ten days, and on 4 May, floating on her own keel for the second time in her life, she was towed into the Gustav V dock at Beckholmen, the dock whose rubble she had been mistaken for.
+
+<figure>
+  <img src="/static/img/three-planks/dock-1961.jpg" alt="The raised hull of the Vasa, dark and encrusted, floating on her own keel between stone quay walls as she is moved into a dry dock, with workers on her deck and spectators along the quay">
+  <figcaption>The Vasa entering the Gustav V dry dock at Beckholmen, May 1961. Press photograph; MAS, Collectie Stad Antwerpen, inv. AS.1978.012.368.2-4 (Public Domain Mark).</figcaption>
+</figure>
+
+## Inside her
+
+Ten archaeologists under Per Lundström, most of them newly graduated, went into the black mud that filled the ship. They washed the decks down with garden hoses, numbered everything, and kept the finds under water in bathtubs bought from Stockholm scrap dealers. Over five months they recovered more than thirty thousand objects from 1628: gun carriages, sailors' chests, the bones of salted meat, hundreds of cannonballs, pewter plates, a gilt table clock, more than four thousand coins, and the sails, folded in a locker on the orlop. The 120 tonnes of ballast stone went out by elevator through the main hatch. Eleven human skeletons lay on the decks. Between 1963 and 1967 divers worked the pit the ship had left on the bottom and brought up the sculptures that had fallen from her, the beakhead, the upper stern, masts, anchors, a twelve-metre longboat with a smaller boat inside it, and four more skeletons from the wreckage of the stern galleries. More than forty thousand objects in all.
+
+The ship went on show in a temporary building in 1962, and 439,300 people paid to see her that year. From 1962 to 1979 she was sprayed with polyethylene glycol, a wax that replaces the water in waterlogged wood, and then dried slowly for a decade. The permanent museum opened in 1990. In 2000 yellow and white spots of sulphuric acid began to appear on her timbers, the product of sulphur absorbed on the harbour bottom, and a new climate system and a research programme followed. Between 2011 and 2018 every rusting iron bolt put into her in 1961 was replaced with stainless steel, which took eight tonnes off her weight. Ninety-eight per cent of the ship is the oak that sank.
+
+## The sister
+
+Hein Jacobsson, the builder questioned at the inquest, was on the day of the hearing building the Vasa's sister, the Äpplet, completed in 1629. Captain Söfring told the court he feared she would go the same way. She did not. The Museum of Wrecks records that Jacobsson had suspected even before the Vasa was launched that she was too narrow, and built the Äpplet a metre wider, 12.6 metres on a hull 47.7 metres long, with a slightly different shape below. She carried about a thousand men towards Germany when Sweden entered the Thirty Years' War, served, mostly idle, until 1658, was then judged not worth repairing, and in 1659 was sunk on purpose in the strait at Vaxholm as part of a barrier across the channel to Stockholm, where at least ten large warships were sunk in the same century. In December 2021 archaeologists from Vrak, the Museum of Wrecks, surveying that strait with the navy, found a large wreck whose fallen sides carried gunports on two levels, with the hull preserved up to the lower gundeck. In 2019 they had found two other wrecks there and thought at first they were the Äpplet; those turned out to be ships of 1648. This time the dimensions, the construction, the archives, and oak felled in 1627 in the same district as the Vasa's timber "all pointed in the same direction", and on 25 October 2022 the museum announced that the Äpplet had been found. For the first time the ship that sank can be measured against the ship that did not.
+
+## Sources
+
+- Georg Hafström, "Bärgningsförsök och dykningar på Wasa", *Tidskrift i Sjöväsendet*, no. 10, 1958: Bulmer's commission of 13 August 1628, the Council's letters of 21 August, de Besche, the letters of 8 October and 27 November 1628, the Kexholm divers and the yard's accounts of 1629, Fleming's report of 12 June 1629. Quotations from those documents are at second hand from Hafström. [koms.se (PDF)](https://www.koms.se/content/uploads/2014/04/TiS-Nr-10-1958.pdf)
+- Vasa Museum, audio guide text version "9. The first salvage efforts": Treileben, Peckell, the bell, the Italian priest's diary and the fifty-five guns. [vasamuseet.se](https://www.vasamuseet.se/besok/audioguide/audioguide-english/textversion/9.-the-first-salvage-efforts)
+- Vasa Museum, "The Search for Vasa", "The Salvage", "The Excavation" and "Timeline": Franzén's search, the chart, Fälting, 25 August 1956, the tunnels and pontoons, the eighteen lifts of 1959, 24 April 1961, the dock, Lundström's excavation, the skeletons, the 1920 brothers, the first museum's visitors, the conservation, the bolts. [search](https://www.vasamuseet.se/en/explore/vasa-history/search-for-vasa), [salvage](https://www.vasamuseet.se/en/explore/vasa-history/salvage), [excavation](https://www.vasamuseet.se/en/explore/vasa-history/excavation), [timeline](https://www.vasamuseet.se/en/explore/vasa-history/timeline)
+- Vasa Museum, "Vasa's sister Äpplet found", 25 October 2022; Vrak, Museum of Wrecks, "Äpplet". [vasamuseet.se](https://www.vasamuseet.se/en/about-the-vasa-museum/news/vasas-sister-applet-found/), [vrak.se](https://www.vrak.se/en/explore/dive-deep-among-the-wrecks/1600-talet/applet)
+- Figure: the Vasa entering the dock, a 1961 press photograph in the collection of the MAS, Collectie Stad Antwerpen (inv. AS.1978.012.368.2-4), carrying the Public Domain Mark on the archive's asset page. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Het_17de_eeuwse_schip_Wasa_wordt_na_333_jaar_te_Stockholm_op_de_bodem_te_hebben_gelegen_naar_de_oppervlakte_gehaald,_asset_O2GgZ6PROmUoZVKZXefLYAjg.tif)
