@@ -4,6 +4,9 @@ subtitle: "The radio between the hut and Little America: the petrol engine and t
 parent: seventy-eight-below
 order: 2
 date:   2026-10-20 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seventy-eight-below-the-schedules.mp3
+audio_length: 5364113
+audio_duration: "11:10"
 ---
 
 The entry calls the radio the hardest instrument at the Advance Base and the only one Little America could read. This piece follows that instrument through the winter: what it was, how often it was used, what went through it to the outside world, and what went through it between the hut and the camp when the man at the key could barely turn the crank.

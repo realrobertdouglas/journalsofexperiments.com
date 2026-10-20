@@ -4,6 +4,9 @@ subtitle: "Language, adzes, radiocarbon, the sweet potato and the genomes: how t
 parent: seventy-five-words
 order: 3
 date:   2026-10-20 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seventy-five-words-the-tests-since.mp3
+audio_length: 6123091
+audio_duration: "12:45"
 ---
 
 The raft could test one claim: that a balsa raft could carry people from Peru to Polynesia. The claim it was built to serve, that Polynesia had been settled from South America, could only be tested by other means, and most of those means were already in use before the raft was built. This piece goes through them in order, with what each found, and ends with the finding of 2020 that is the nearest thing to a confirmation Heyerdahl has had, and is not one.

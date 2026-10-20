@@ -4,6 +4,9 @@ subtitle: "What the free-running clock measured from Mammoth Cave in 1938 to Har
 parent: twenty-five-days
 order: 2
 date:   2026-10-20 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-days-the-length-of-a-day.mp3
+audio_length: 4328663
+audio_duration: "9:00"
 ---
 
 The question Michel Siffre stumbled into on the Scarasson glacier had been asked before, and it would be answered, in the end, with a precision no cave could give. This is the short history of the number.

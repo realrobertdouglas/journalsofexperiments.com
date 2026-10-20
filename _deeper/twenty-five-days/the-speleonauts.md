@@ -4,6 +4,9 @@ subtitle: "The people Michel Siffre sent underground after himself, 1964 to 1989
 parent: twenty-five-days
 order: 1
 date:   2026-10-20 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-days-the-speleonauts.mp3
+audio_length: 5591247
+audio_duration: "11:38"
 ---
 
 After 1962 Michel Siffre did not go underground alone again for ten years. He sent other people. The French army, which wanted to know how long a man could be kept awake, paid for most of it; the caves were in the Audibergue, the limestone country thirty-odd miles north of Nice, where the Institut Français de Spéléologie that he had founded could reach them; and the subjects were cavers, because, as he said in 2008, nobody else was motivated enough to stay. The protocol was his own of 1962. The subject telephoned the surface at every waking, meal and sleep, said what time he thought it was, and was told nothing. The surface wrote down the real time beside the guess. The newspapers called the subjects, following the French, *speleonauts*.

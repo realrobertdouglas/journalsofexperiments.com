@@ -4,8 +4,14 @@ title:  "Two Hundred Feet"
 subtitle: "The story of Fordlandia and the Tapajós, 1927 to 1945: the Michigan town built to grow rubber in rows, the fungus that lived on the leaves, and the government bulletin that had already said what would happen."
 date:   2026-10-20 08:00:00 +0000
 young: young/two-hundred-feet.md
+audio: https://audio.journalsofexperiments.com/two-hundred-feet.mp3
+audio_length: 20920300
+audio_duration: "43:34"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/two-hundred-feet-young.mp3
+audio_young_length: 7568855
+audio_young_duration: "15:45"
 ---
 
 Some time in 1935, at Boa Vista on the east bank of the Tapajós River, about 110 miles above the point where the Tapajós runs into the Amazon, a plant pathologist named James R. Weir wrote a report for the Ford Motor Company in Dearborn, Michigan. He had been the company's adviser on its rubber plantation for two years. The oldest trees on the estate were six years old, and that season their crowns had grown together, so that the rows of rubber, planted as a factory floor is laid out, had become one continuous roof of leaves. Weir told Dearborn that "practically all the branches of the trees throughout the estate" now ended in what he called "naked stems", each new shoot shorter than the last, and that the disease on the leaves had reached "epidemic proportions with every change of humidity". It could not, he wrote, be fought at this place successfully or economically.

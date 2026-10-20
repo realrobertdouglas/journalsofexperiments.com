@@ -4,8 +4,14 @@ title:  "Twenty-Five Days"
 subtitle: "The story of Michel Siffre's two descents, the Scarasson glacier in 1962 and Midnight Cave, Texas, in 1972: the body that kept a clock of its own, and the man who could not read it."
 date:   2026-10-20 03:00:00 +0000
 young: young/twenty-five-days.md
+audio: https://audio.journalsofexperiments.com/twenty-five-days.mp3
+audio_length: 19490860
+audio_duration: "40:36"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/twenty-five-days-young.mp3
+audio_young_length: 8050008
+audio_young_duration: "16:46"
 ---
 
 At half past eight on the morning of Friday, 14 September 1962, a field telephone was cranked in a red tent pitched on a glacier 130 metres under the Marguareis massif, on the border between France and Italy. The man who cranked it was twenty-three. He had just woken, and he did what he had done at every waking for two months: he gave his pulse, counted aloud to 120 at what he believed was one number a second, and told the man on the surface what he thought the date was. He thought it was about 20 August. The man on the surface, a speleologist named Pierre Nicolas, told him it was 14 September, and that the experiment was over.

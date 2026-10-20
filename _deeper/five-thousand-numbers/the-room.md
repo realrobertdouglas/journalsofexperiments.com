@@ -4,6 +4,9 @@ subtitle: "The operations room in Santiago as Beer described it to India in 1974
 parent: five-thousand-numbers
 order: 1
 date:   2026-10-20 09:00:00 +0000
+audio: https://audio.journalsofexperiments.com/five-thousand-numbers-the-room.mp3
+audio_length: 5706251
+audio_duration: "11:53"
 ---
 
 The operations room is the part of Project Cybersyn that everyone has seen, because there is one colour photograph of it, taken in 1972 or 1973 and carried out of Chile after the coup by its chief designer, Gui Bonsiepe. The photograph is the designers' copyright and is not reproduced here. What follows instead is the room in words, from two kinds of witness: Stafford Beer, who conceived it and described it in a lecture in New Delhi in December 1974, fifteen months after it ceased to exist, and the designers and historians who have described the object itself. They do not quite agree, and the differences are worth keeping.

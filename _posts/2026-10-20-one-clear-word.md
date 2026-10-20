@@ -4,8 +4,14 @@ title:  "One Clear Word"
 subtitle: "The story of the Dolphin Point laboratory on St Thomas, 1964 to 1966: a flooded room, a young woman and a young dolphin named Peter, ten weeks of lessons on quarter-inch tape, and the gap between the sounds and the claim that nobody ever measured."
 date:   2026-10-20 06:00:00 +0000
 young: young/one-clear-word.md
+audio: https://audio.journalsofexperiments.com/one-clear-word.mp3
+audio_length: 19215144
+audio_duration: "40:01"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/one-clear-word-young.mp3
+audio_young_length: 8044052
+audio_young_duration: "16:45"
 ---
 
 On Saturday, June 19, 1965, in a dry room beside a flooded one, in a white concrete building on Nazareth Bay at the eastern end of St Thomas in the United States Virgin Islands, a woman of twenty-three sat down with a week of quarter-inch tape and wrote her first weekly report. Her name was Margaret Howe. For five days she had lived, slept, cooked and eaten in twenty-two inches of sea water with a bottlenose dolphin about five years old called Peter, and three times a day, with five pounds of butterfish beside her and a microphone in a plastic bag hanging over the water, she had given him a recorded lesson in English. The report said the first nights had been awful and that walking across the room was tiring. It said that Peter had lost the habit of listening and yelled whenever she opened her mouth. And it said that he had said, for the tape, one clear word: "BALL." The word had come in the middle of one of his ramblings by himself, she wrote, "and it could contain no meaning." Then: "But it is good pronunciation."

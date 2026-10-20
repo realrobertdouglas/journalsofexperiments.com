@@ -4,8 +4,14 @@ title:  "Seventy-Five Words"
 subtitle: "The story of the raft Kon-Tiki and the Pacific, 1947 to 2020: nine balsa logs that showed a crossing could be made, five boards that nobody on board knew how to use, and a demonstration the world read as proof."
 date:   2026-10-20 02:00:00 +0000
 young: young/seventy-five-words.md
+audio: https://audio.journalsofexperiments.com/seventy-five-words.mp3
+audio_length: 19677104
+audio_duration: "40:59"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/seventy-five-words-young.mp3
+audio_young_length: 8457820
+audio_young_duration: "17:37"
 ---
 
 <figure>

@@ -4,6 +4,9 @@ subtitle: "How 1,953 names became 325 pairs, 1935 to 1939: the home visitor, the
 parent: thirty-eight-boys
 order: 2
 date:   2026-10-20 07:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-eight-boys-diagnostic-twins.mp3
+audio_length: 7920211
+audio_duration: "16:29"
 ---
 
 The counselling in the Cambridge-Somerville Youth Study lasted six and a half years. The selection that came before it lasted four, and almost everything that makes the study readable eighty years later was built in those four years. This piece follows the machinery, from the study's own account of it, written by its director in 1940 for the journal *Child Development*; from a Boston University thesis of 1947 whose author worked in the files with Edwin Powers's unpublished manuscript beside him; and from the counts in the final report of 1951, as the study's present directors have reproduced them.

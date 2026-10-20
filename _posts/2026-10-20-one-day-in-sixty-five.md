@@ -4,8 +4,14 @@ title:  "One Day in Sixty-Five"
 subtitle: "The story of Alain Bombard and L'Hérétique, 1951 to 1958: sixty-five days from Las Palmas to Barbados on raw fish, plankton and sea water, the hot meal aboard the Arakaka, and the medical log that was the experiment's only control."
 date:   2026-10-20 05:00:00 +0000
 young: young/one-day-in-sixty-five.md
+audio: https://audio.journalsofexperiments.com/one-day-in-sixty-five.mp3
+audio_length: 18938102
+audio_duration: "39:27"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/one-day-in-sixty-five-young.mp3
+audio_young_length: 7539297
+audio_young_duration: "15:42"
 ---
 
 At about ten o'clock on the morning of Wednesday 10 December 1952, a man who had not spoken to another human being for fifty-two days looked out from under the tent of a rubber dinghy and saw a cargo steamer two and a half miles off on the starboard quarter. He flashed a heliograph at her bridge until someone saw it. She altered course, ran up a Union Jack and dipped it three times, the salute for a warship met at sea, and when the two were abeam her captain switched on his loud hailer and asked whether he needed any assistance.

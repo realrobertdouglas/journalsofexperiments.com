@@ -4,8 +4,14 @@ title:  "Five Thousand Numbers"
 subtitle: "The story of Project Cybersyn and Chile's nationalised factories, 1971 to 1973: the telex network that carried a government through a strike, the daily indices that were built to be read and mostly were not, and the room the army took apart."
 date:   2026-10-20 09:00:00 +0000
 young: young/five-thousand-numbers.md
+audio: https://audio.journalsofexperiments.com/five-thousand-numbers.mp3
+audio_length: 20213750
+audio_duration: "42:06"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/five-thousand-numbers-young.mp3
+audio_young_length: 8584738
+audio_young_duration: "17:52"
 ---
 
 On Saturday 30 December 1972, in Santiago, the President of Chile sat down in a white fibreglass chair with an orange cushion and pressed a button on its arm. The chair was one of seven, arranged in a ring in a six-sided room panelled in wood, with no table and no paper anywhere. On the wall in front of him were four screens in fibreglass housings, one large above three small; behind the wall, slide projectors were supposed to answer the button by throwing a chart of the nation's industrial production onto the glass. It was high summer, the electronics in the space behind the panels had been baking for days, and they did not answer properly. "The projectors went crazy," one of the designers, Rodrigo Walker, said afterwards: you pressed for one thing and got another. Salvador Allende, a physician by training, sat in the chair with his minister of economy, Fernando Flores, and his minister of the interior, General Carlos Prats, and said, by Flores's account, that it would be good to have it working, and to keep at it.

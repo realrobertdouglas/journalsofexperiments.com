@@ -4,6 +4,9 @@ subtitle: "The fungus and the tree, 1900 to 2014: four names for one organism, w
 parent: two-hundred-feet
 order: 2
 date:   2026-10-20 08:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-hundred-feet-the-leaf.mp3
+audio_length: 5471617
+audio_duration: "11:23"
 ---
 
 The entry says that the leaves spoke every season. This piece is about what they said, in the words of the pathologists who learned to read them, from the first collection on the Juruá in 1900 to the paper of 2014 that gave the fungus its fourth name.

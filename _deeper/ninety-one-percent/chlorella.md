@@ -4,6 +4,9 @@ subtitle: "Bios-1 and Bios-2, 1964 to 1968: a man in a twelve-cubic-metre cabin 
 parent: ninety-one-percent
 order: 1
 date:   2026-10-20 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ninety-one-percent-chlorella.mp3
+audio_length: 4721095
+audio_duration: "9:50"
 ---
 
 The entry begins in 1972 with the door of Bios-3 closing. This piece is about the eight years before that, when the Krasnoyarsk group learned, in two smaller systems, what a single-celled alga could do for a sealed human and what it could not. It is short because the published record in English is short: a few paragraphs in the 1997 and 2008 papers, a chart, and the institute's own summary pages.

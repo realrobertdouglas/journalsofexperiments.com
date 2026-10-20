@@ -4,8 +4,14 @@ title:  "Seventy-Eight Below"
 subtitle: "The story of Bolling Advance Weather Base and the Ross Ice Shelf, 1934: the weather station a man kept alone through the polar night, the stove that poisoned him while he kept the readings, and the base that read his messages for what they said rather than for how they were sent."
 date:   2026-10-20 01:00:00 +0000
 young: young/seventy-eight-below.md
+audio: https://audio.journalsofexperiments.com/seventy-eight-below.mp3
+audio_length: 18814258
+audio_duration: "39:11"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/seventy-eight-below-young.mp3
+audio_young_length: 6894941
+audio_young_duration: "14:21"
 ---
 
 At four in the morning of 21 July 1934, by the time of the 180th meridian, the pen of a recording thermograph in a buried hut on the Ross Ice Shelf, 123 miles south of Little America, reached the lowest point it would reach all winter. It drew 83 degrees below zero Fahrenheit, 64 below zero Celsius. The hut's routine called for the thermometers in the shelter on the roof to be read at eight in the morning and eight at night, and the reading at eight that morning was never made. At eight that night the minimum thermometer was read, and it said 78 below. Five years later, in Washington, a Weather Bureau meteorologist compiling the station's record set the two figures side by side and wrote a footnote: since there was no reading at eight in the morning, and since the thermometer at eight at night gave 78, "following the customary procedure, the recorded value of −83° F. has therefore been corrected to −78° F." The lowest temperature the station ever recorded was, by the rules, the one a man had read with his own eyes.

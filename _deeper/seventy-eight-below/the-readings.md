@@ -4,6 +4,9 @@ subtitle: "What the Weather Bureau made of five months of one man's observations
 parent: seventy-eight-below
 order: 1
 date:   2026-10-20 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seventy-eight-below-the-readings.mp3
+audio_length: 6253263
+audio_duration: "13:01"
 ---
 
 The entry says that the Advance Base worked as a weather station, and that the record is still in print. This piece goes through that record: what instruments the station had, what the single observer was asked to do with them, what the Weather Bureau's compilers did with the sheets when they came home, and what the two volumes say the winter of 1934 was like a hundred geographical miles from the sea.

@@ -4,6 +4,9 @@ subtitle: "What Juan and Ulloa wrote about the guaras in 1748, what the Kon-Tiki
 parent: seventy-five-words
 order: 1
 date:   2026-10-20 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seventy-five-words-the-five-boards.mp3
+audio_length: 5222803
+audio_duration: "10:52"
 ---
 
 The *Kon-Tiki* carried five planks of fir, an inch thick, two feet wide and six feet long, pushed down on edge into the chinks between her logs and held with wedges and ropes. Heyerdahl's book calls them centreboards and says they were "scattered about without system". The Spanish chroniclers of Peru had called them guaras, and the fullest account of what they were for had been in print, in English, since 1758. This piece sets that account beside what the crew of 1947 discovered, and what they did with the discovery.

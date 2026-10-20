@@ -4,6 +4,9 @@ subtitle: "How Britain read Cybersyn in the ten weeks after the Observer: the le
 parent: five-thousand-numbers
 order: 2
 date:   2026-10-20 09:00:00 +0000
+audio: https://audio.journalsofexperiments.com/five-thousand-numbers-fifteen-february.mp3
+audio_length: 7443675
+audio_duration: "15:30"
 ---
 
 Project Cybersyn was meant to be announced to the world on Wednesday 14 February 1973, when Stafford Beer gave the Richard Goodman Memorial Lecture at Brighton Polytechnic under the title "Fanfare for Effective Freedom: Cybernetic Praxis in Government", and in Santiago the same day. The *Observer* got there five weeks early, on Sunday 7 January, with a headline, "Chile run by computer", and a story by its science correspondent Nigel Hawkes which said that "the first computer system designed to control an entire economy has been secretly brought into operation in Chile" and had been "assembled in some secrecy so as to avoid opposition charges of 'Big Brother' tactics." Those two sentences are quoted here from Eden Medina's book, which cites the article; the *Observer* of 1973 is not open to automated readers, and the piece was not read for this entry. Beer believed he had been betrayed by someone he had briefed on condition of silence until the lecture.

@@ -4,6 +4,9 @@ subtitle: "LSD at the Communication Research Institute, 1964 to 1966: what Lilly
 parent: one-clear-word
 order: 2
 date:   2026-10-20 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-clear-word-the-other-track.mp3
+audio_length: 4701323
+audio_duration: "9:47"
 ---
 
 While Margaret Howe was sealing the upstairs rooms at Dolphin Point in the spring of 1965, John Lilly was running a second experiment on the same animals, and talking about it in public. This piece sets out what he said and when, from his own transcript, and how the two experiments ended together.

@@ -4,6 +4,9 @@ subtitle: "Cabot's presidential address to the social workers, Minneapolis, June
 parent: thirty-eight-boys
 order: 1
 date:   2026-10-20 07:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-eight-boys-the-pea-shooter.mp3
+audio_length: 5848145
+audio_duration: "12:10"
 ---
 
 The Cambridge-Somerville Youth Study was built on a speech. In 1940 its director wrote that "many of the ideas expressed by him in his presidential address in 1931 at the National Conference of Social Work have been incorporated in the basic philosophy of the Study," and the speech survives in the conference's printed proceedings, twenty-two pages under the title "Treatment in Social Case Work and the Need of Criteria and of Tests of Its Success or Failure." Richard Cabot gave it at the fifty-eighth annual session, held in Minneapolis from June 14 to 20, 1931, as the conference's president. What follows is what he said, in his order and largely in his words.

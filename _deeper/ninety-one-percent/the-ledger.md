@@ -4,6 +4,9 @@ subtitle: "The tables behind the percentages: what one person needs a day, what 
 parent: ninety-one-percent
 order: 2
 date:   2026-10-20 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ninety-one-percent-the-ledger.mp3
+audio_length: 7400649
+audio_duration: "15:24"
 ---
 
 The entry says that the institute published its result as six different percentages and that all of them are true. This piece sets the tables out so that the reader can do the arithmetic. Everything here is from the Krasnoyarsk group's own papers: the 1989 paper on the last run, printed by NASA; the 1997 paper written with Frank Salisbury; and the 2008 retrospective by Gitelson and Lisovsky. Where two versions of the same table differ, both are given.

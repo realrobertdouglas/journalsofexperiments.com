@@ -4,6 +4,9 @@ subtitle: "The voyage as the world read it in 1947, from the first delayed repor
 parent: seventy-five-words
 order: 2
 date:   2026-10-20 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seventy-five-words-what-the-wires-said.mp3
+audio_length: 5663067
+audio_duration: "11:47"
 ---
 
 Nobody outside the raft saw the *Kon-Tiki* between the morning of 29 April 1947, when the tug cast her off, and 3 August, when canoes came out from Angatau. What the world knew of her it knew from Haugland's and Raaby's wireless, picked up by amateurs in the United States and relayed to the agencies in New York, and from there to every newspaper that took the service. The Australian and New Zealand papers of 1947 are open in Trove and Papers Past, and they printed the New York copy almost unchanged. Read in order, they are the record of how a demonstration became a proof.

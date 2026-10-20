@@ -4,8 +4,14 @@ title:  "Ninety-One Percent"
 subtitle: "The story of BIOS-3, the sealed steel rooms under the Institute of Biophysics in Krasnoyarsk, 1972 to 1984: three winters, a wheat field under xenon lamps, a balance sheet that closed the air and the water to the gram, and the nine percent that was decided in advance."
 date:   2026-10-20 04:00:00 +0000
 young: young/ninety-one-percent.md
+audio: https://audio.journalsofexperiments.com/ninety-one-percent.mp3
+audio_length: 21236912
+audio_duration: "44:14"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/ninety-one-percent-young.mp3
+audio_young_length: 6606171
+audio_young_duration: "13:45"
 ---
 
 On 24 December 1972, in the basement of the Institute of Physics in the Akademgorodok of Krasnoyarsk, on the Yenisei in central Siberia, three people walked through a steel door with a rubber gasket round its edge and had it sealed behind them. They were two men and a woman, an agronomist, an engineer and a doctor, and the engineer, Nikolai Bugreev, would later be the one who had spent longest inside: thirteen months in all, over three winters, by his own institute's count. The room they had entered was one of four, each about seven metres by four and a half and two and a half high, welded from stainless steel plate, 315 cubic metres in all. Two of the others were full of wheat under xenon lamps that were never switched off. The third held tanks of the green alga *Chlorella*. They were to stay 180 days, and they came out on 22 June 1973.

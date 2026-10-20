@@ -4,6 +4,9 @@ subtitle: "What was recorded in the flooded room, how it was written down, what 
 parent: one-clear-word
 order: 1
 date:   2026-10-20 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-clear-word-the-tapes.mp3
+audio_length: 5744255
+audio_duration: "11:57"
 ---
 
 Everything the Dolphin Point laboratory claimed about Peter rests on quarter-inch tape. The tapes were the instrument; the weekly reports, the transcripts, the photographs and the book were readings taken from them or beside them. This piece is about the instrument: what it recorded, how its output was turned into marks on paper, what the one measure that could be checked by a stranger measured, and what became of the reels.

@@ -4,6 +4,9 @@ subtitle: "The argument over drinking sea water, 1943 to 1958: Ladell's wards, H
 parent: one-day-in-sixty-five
 order: 2
 date:   2026-10-20 05:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-day-in-sixty-five-a-pint-and-a-half.mp3
+audio_length: 6268061
+audio_duration: "13:03"
 ---
 
 Bombard's physiological claim was a number: about a pint and a half of sea water a day, for about five days, taken early, before the body has run short of water. He got it by dividing the salt a healthy body can pass in a day by the salt in a litre of the sea, and he tested it, by his own account, on fourteen days out of the hundred and thirteen between Monaco and Barbados, in sips he did not measure. This piece sets out what the people who did measure it found, before and after him, and why the two sides have never quite met.

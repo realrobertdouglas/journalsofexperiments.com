@@ -4,6 +4,9 @@ subtitle: "Monaco to Tangier with Jack Palmer, 25 May to July 1952: the sealed j
 parent: one-day-in-sixty-five
 order: 1
 date:   2026-10-20 05:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-day-in-sixty-five-the-rehearsal.mp3
+audio_length: 5611797
+audio_duration: "11:41"
 ---
 
 The entry tells the Atlantic. The Mediterranean came first, and Bombard called it what it was: "our preliminary canter," a dress rehearsal for crew and equipment in a sea "so deceptively like a lake." It was also the only part of the experiment that had two subjects, and the only part in which the sealed stores were ever put to a test by hunger. This piece follows it from the quay at Monaco to the yacht club at Tangier, as *The Bombard Story* tells it, with the medical summary Bombard wrote at the end of it.

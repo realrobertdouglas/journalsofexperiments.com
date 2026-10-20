@@ -4,8 +4,14 @@ title:  "Thirty-Eight Boys"
 subtitle: "The story of the Cambridge-Somerville Youth Study, 1935 to 1981: three hundred and twenty-five pairs of boys divided by a coin, five years of friendly guidance that most of the men said had helped them, and the control group that heard what they could not."
 date:   2026-10-20 07:00:00 +0000
 young: young/thirty-eight-boys.md
+audio: https://audio.journalsofexperiments.com/thirty-eight-boys.mp3
+audio_length: 20493102
+audio_duration: "42:41"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/thirty-eight-boys-young.mp3
+audio_young_length: 6929689
+audio_young_duration: "14:26"
 ---
 
 In Minneapolis, in the week of June 14, 1931, the president of the National Conference of Social Work gave the presidential address and told the profession that it did not know whether its work did any good. He was Richard Clarke Cabot, sixty-three, a Boston physician who held a chair of clinical medicine and a chair of social ethics at Harvard, and he had brought numbers. The Massachusetts Reformatory at Concord, "probably one of the best institutions of its kind in the country," had been believed to reform 80 per cent of the men sent to it, until Sheldon and Eleanor Glueck traced five hundred of them for five years after release and found 80 per cent of failure. A study of "one of the best known private case work agencies in Boston," soon to be published, showed 88 per cent of failures in a thousand unselected cases. Cabot called the methods of the day a pea-shooter fired at a granite fortress, and said he was not sorry: "Human society would soon be in a hopeless mess if human character were of such a flabby texture that it could be easily molded by whomever thinks he knows how."

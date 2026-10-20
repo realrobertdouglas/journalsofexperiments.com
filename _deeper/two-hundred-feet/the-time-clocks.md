@@ -4,6 +4,9 @@ subtitle: "The week of December 22, 1930, at Boa Vista: the cafeteria line, the 
 parent: two-hundred-feet
 order: 1
 date:   2026-10-20 08:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-hundred-feet-the-time-clocks.mp3
+audio_length: 5212815
+audio_duration: "10:51"
 ---
 
 The entry tells the riot of December 1930 in a paragraph. This piece tells the week, because the riot was the first instrument on the Tapajós that spoke in plain words, and because the two accounts that reached the outside world described two different events. The company's own version survives in the files of the Companhia Ford Industrial do Brasil at the Benson Ford Research Center in Dearborn, read by the historian Greg Grandin for his book of 2009; what follows draws on his reading of them, with the Associated Press report of December 24 beside it.
