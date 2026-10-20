@@ -3,6 +3,7 @@ title:  "The protocol"
 subtitle: "What survives of the inquest held at Stockholm Castle on 5 September 1628, in English: the officers, the builders, and the eight opinions of the experts."
 parent: three-planks
 order: 1
+young: young/three-planks/the-protocol.md
 date:   2026-10-20 17:00:00 +0000
 ---
 
