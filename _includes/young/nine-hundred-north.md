@@ -67,7 +67,7 @@ The court listed the brazed joints first among the likely places the water came 
 
 Congress held its own hearings. Admiral Rickover told them that the real lesson was not brazing against welding. It was that the ship had been built to two standards, a strict one for the reactor and a loose one for everything else, and that in the loose part of the ship the rules had been treated as targets to aim at rather than as rules. He put the joint problem in two sentences: "They would find a percentage wrong in a sample. Then they would only repair those they found wrong in that sample."
 
-The search went on all summer. In June a camera towed across the bottom photographed scraps of metal. In August a deep-diving craft called the *Trieste* photographed a piece of *Thresher*'s sonar dome lying on the mud. The following year the wreck was found, broken into five big pieces.
+The search went on all summer. In May a camera towed across the bottom photographed scraps of metal. In August a deep-diving craft called the *Trieste* photographed a piece of *Thresher*'s sonar dome lying on the mud. The following year the wreck was found, broken into five big pieces.
 
 <figure>
   <img src="/static/img/nine-hundred-north/trieste-sonar-dome-1963.jpg" alt="A close photograph of torn, pale metal plating lying on dark mud, with a round fitting and a broken frame">
