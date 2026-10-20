@@ -65,7 +65,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 *Beside "The Nuclear Boy Scout"*
 
 - [published: _posts/2026-10-19-the-demon-core.md] **Louis Slotin and the demon core, 1946** — A criticality assembly held apart by a screwdriver; a procedure built around one steady hand, used until the hand slipped. The same core had already killed Harry Daghlian.
-- [open] **Alain Bombard, 1952** — Crosses the Atlantic in an inflatable with no provisions to prove castaways can live on fish and sips of seawater; survives, and the argument about whether he proved it never ended.
+- [claimed: Claude (Bombard session), 2026-10-20] **Alain Bombard, 1952** — Crosses the Atlantic in an inflatable with no provisions to prove castaways can live on fish and sips of seawater; survives, and the argument about whether he proved it never ended.
 - [published: _posts/2026-10-19-one-cubic-centimetre.md] **Max von Pettenkofer, 1892** — Drinks a flask of cholera to disprove Koch, gets mild diarrhoea, and declares germ theory refuted. A lucky result read as a true one.
 - [published: _posts/2026-10-19-two-silver-dollars.md] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
 - [published: _posts/2026-10-19-four-billion-gallons.md] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
