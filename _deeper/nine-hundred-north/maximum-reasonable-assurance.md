@@ -4,6 +4,9 @@ subtitle: "What the Navy built out of the court's recommendations: the sixteen t
 parent: nine-hundred-north
 order: 2
 date:   2026-10-20 15:00:00 +0000
+audio: https://audio.journalsofexperiments.com/nine-hundred-north-maximum-reasonable-assurance.mp3
+audio_length: 6523629
+audio_duration: "13:35"
 ---
 
 The court of inquiry's last recommendation was for "an organization, similar to that employed in Naval Aviation, in the interest of safe submarine operating procedures," because, as its findings put it, "there is at present no organization at any level within the Navy with the sole responsibility for submarine safety." What the Navy built instead of an organisation was a programme, and the programme is still running. This piece follows it from June 1963 to the hearing in 2003 at which it was offered to NASA as a model.

@@ -4,6 +4,12 @@ title:  "Nine Hundred North"
 subtitle: "The story of the submarine Thresher and the Portsmouth Naval Shipyard, 1958 to 1963: the hundred and forty-five joints the yard tested, the twenty that failed, and the two words that came up the telephone at seventeen minutes past nine."
 date:   2026-10-20 15:00:00 +0000
 young: young/nine-hundred-north.md
+audio: https://audio.journalsofexperiments.com/nine-hundred-north.mp3
+audio_length: 20299568
+audio_duration: "42:17"
+audio_young: https://audio.journalsofexperiments.com/nine-hundred-north-young.mp3
+audio_young_length: 8106844
+audio_young_duration: "16:53"
 categories: [experiments]
 comments: false
 ---

@@ -4,6 +4,9 @@ subtitle: "Four men in a pilot house, one loudspeaker and no recorder: what each
 parent: nine-hundred-north
 order: 1
 date:   2026-10-20 15:00:00 +0000
+audio: https://audio.journalsofexperiments.com/nine-hundred-north-the-telephone-log.mp3
+audio_length: 6845591
+audio_duration: "14:15"
 ---
 
 Everything that is known of *Thresher*'s last six minutes from the surface comes from four people who were within fifteen feet of a loudspeaker on the bridge of *Skylark*, and from a log kept in pencil by a radioman who had never kept an underwater telephone log before. *Skylark* had no means of recording the telephone; no submarine rescue ship did in 1963. The court of inquiry questioned the four separately in its first week, three of them on Saturday 13 April and the captain on Monday 15 April, and tried to fix from their memories and the log what the words had been and when they had come. This piece sets the four accounts side by side.
