@@ -54,7 +54,7 @@ Letters came from all over the world, and the mayor, who read neither French nor
 
 ## The ban
 
-The National Bank never stopped objecting. In January 1933 the government told the town to stop issuing the notes. The town appealed, and while the appeal went up from court to court, the notes kept circulating. In June 1933 the mayor spoke to a meeting of about 170 mayors who wanted to copy Wörgl. But the appeal did not stop the order, and in September 1933, after thirteen and a half months, the town took the notes out of circulation. It took eight days. Nobody lost any money, because every note was matched by a schilling in the bank.
+The National Bank never stopped objecting. In January 1933 the government told the town to stop issuing the notes. The town appealed, and while the appeal went up from court to court, the notes kept circulating. In June 1933 the mayor spoke to a meeting of about 170 mayors who wanted to copy Wörgl. But the appeal did not stop the order, and in September 1933, after thirteen and a half months, the town took the notes out of circulation. It took eight days. Nobody lost any money, because every note was matched by a schilling in the bank. In October the local newspaper printed the town's closing account of the whole experiment: a profit of 980 schillings, against 950 schillings of costs for printing and the lawyer.
 
 On November 18th 1933 the Administrative Court in Vienna heard the case. So many people wanted to watch that the court limited the visitors to fifty. The court decided that the certificates had done the job of coins or banknotes, and that only the National Bank was allowed to issue those. The experiment was over.
 
