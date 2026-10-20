@@ -87,11 +87,6 @@ The hand swelled. By the time he reached the top it was about twice its normal s
 
 Then he dropped the radio antenna, as the plan required, and from that moment the ground could not hear him at all. He unplugged his hoses and cables, stood up in the gap, said a prayer, and stepped out. The camera on the basket took a picture as he went.
 
-<figure>
-  <img src="/static/img/the-right-glove/the-step-1960.jpg" alt="Looking down from a balloon gondola: a man in a pressure suit and helmet has just stepped off and hangs in the air below the open doorway, with the curve of the earth, white cloud and the dark sky far beneath him">
-  <figcaption>The step, August 16th 1960, from 102,800 feet, photographed by the camera on the basket. US Air Force photograph.</figcaption>
-</figure>
-
 ## The fall
 
 He fell first on his right side, then rolled onto his back and looked up. He said afterwards that it was the most beautiful sight: the bright balloon against the black sky, racing away from him. He could not feel himself falling. There was no wind noise, because there was almost no air, and nothing went past him to show how fast he was going.
