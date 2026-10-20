@@ -33,7 +33,7 @@ Three Russians, a Frenchman, an Italian-Colombian and a Chinese; average age thi
 
 <figure>
   <img src="/static/img/four-million-minutes/crew-may-2011.jpg" alt="Six men in blue Mars500 overalls with name badges posing in a wood-panelled room around a television showing a simulated view of Mars from orbit">
-  <figcaption>The crew in May 2011, in the living room of the habitable module, with the simulated view of Mars on the screen. From the left: Wang Yue, Sukhrob Kamolov, Romain Charles, Diego Urbina (standing), Alexandr Smoleevskiy and Alexey Sitev. ESA, under the ESA Standard Licence, which permits reproduction for educational, editorial or informational purposes with credit.</figcaption>
+  <figcaption>The crew in May 2011, in the living room of the habitable module, with the simulated view of Mars on the screen. From the left: Wang Yue, Sukhrob Kamolov, Romain Charles, Diego Urbina (standing), Alexandr Smoleevskiy and Alexey Sitev. Photo: ©ESA, under the ESA Standard Licence, which permits reproduction for educational, editorial or informational purposes with credit.</figcaption>
 </figure>
 
 Outside the hatch were the teams who read the instruments, and most were Russian; the institute's psychologists, Vadim Gushin, Dmitry Shved and Alla Vinokhodova among them, analysed the words of the crew's messages to the ground. A group under David Dinges and Mathias Basner at the University of Pennsylvania, funded by NASA, supplied the wrist counters and the weekly vigilance tests; German, Italian, French, Norwegian, Czech and Chinese teams supplied the rest. Each team had its own protocol and its own data, and, as the Penn group later noted, "Agreements between the Russian IBMP (who developed and managed the 520-day simulation) and the other international partners supporting science in the simulated mission (e.g., ESA) precluded investigators from complete knowledge about each other's experiments." That sentence matters to what follows.
@@ -78,7 +78,7 @@ The watches also measured the light, and here the design had made its own weathe
 
 <figure>
   <img src="/static/img/four-million-minutes/crew-questionnaires-2010.jpg" alt="Four of the crew at the kitchen table in a wood-panelled module, filling in printed questionnaires with pens, with a video camera on a tripod behind them">
-  <figcaption>The crew at the kitchen table in September 2010, filling in one of the weekly questionnaires, with the control room's camera on its tripod behind them. ESA, under the ESA Standard Licence, which permits reproduction for educational, editorial or informational purposes with credit.</figcaption>
+  <figcaption>The crew at the kitchen table in September 2010, filling in one of the weekly questionnaires, with the control room's camera on its tripod behind them. Photo: ©ESA, under the ESA Standard Licence, which permits reproduction for educational, editorial or informational purposes with credit.</figcaption>
 </figure>
 
 ## What it looked like from inside

@@ -2,7 +2,7 @@ This is the same story as the full entry, told more plainly. The button at the t
 
 <figure>
   <img src="/static/img/four-million-minutes/crew-may-2011.jpg" alt="Six men in blue Mars500 overalls with name badges posing in a wood-panelled room around a television showing a simulated view of Mars from orbit">
-  <figcaption>The crew in May 2011, in the living room of their pretend spaceship, with a picture of Mars on the screen. From the left: Wang Yue, Sukhrob Kamolov, Romain Charles, Diego Urbina (standing), Alexandr Smoleevskiy and Alexey Sitev. ESA, under the ESA Standard Licence.</figcaption>
+  <figcaption>The crew in May 2011, in the living room of their pretend spaceship, with a picture of Mars on the screen. From the left: Wang Yue, Sukhrob Kamolov, Romain Charles, Diego Urbina (standing), Alexandr Smoleevskiy and Alexey Sitev. Photo: ©ESA, under the ESA Standard Licence.</figcaption>
 </figure>
 
 ## The box
@@ -59,7 +59,7 @@ Four hours after the hatch opened, the six took off their watches. Fourteen mont
 
 <figure>
   <img src="/static/img/four-million-minutes/crew-questionnaires-2010.jpg" alt="Four of the crew at the kitchen table in a wood-panelled module, filling in printed questionnaires with pens, with a video camera on a tripod behind them">
-  <figcaption>The crew at the kitchen table in September 2010, filling in one of the weekly questionnaires. The control room's camera is on the tripod behind them. ESA, under the ESA Standard Licence.</figcaption>
+  <figcaption>The crew at the kitchen table in September 2010, filling in one of the weekly questionnaires. The control room's camera is on the tripod behind them. Photo: ©ESA, under the ESA Standard Licence.</figcaption>
 </figure>
 
 First, the whole crew had slowed down. Month by month they moved less and less. By the last quarter of the mission each man spent more than an hour a day less awake and moving than in the first quarter, and about half an hour more each day lying still, and slept about half an hour more each night. Altogether the six slept 673 hours more in the second half of the mission than in the first. They were not ill. They had just gone quiet, like animals in winter. The scientists used the word "torpor."
