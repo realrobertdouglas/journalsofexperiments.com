@@ -14,7 +14,7 @@ below assumes it. This note covers only where the work stopped and what to do ne
   backlog.
 - **Nobody has listened to the twelve's 37 narrations yet.**
 - **Eight more entries are written and waiting in pull requests**, one session each, all pushed to GitHub, none
-  merged, none narrated. In `date` order, which is the merge order:
+  merged; their narrations are rendered (next bullet) but not uploaded. In `date` order, which is the merge order:
 
   | PR | entry | `date` hour | companions | for the owner's judgment |
   |---|---|---|---|---|
@@ -32,9 +32,15 @@ below assumes it. This note covers only where the work stopped and what to do ne
   (sandiegohistory.org, the Wiley and AJE DOIs, nytimes.com, loc.gov). All eight are `MERGEABLE/CLEAN` against
   `main`. Each pull request's description lists its unreachable sources, second-hand quotations and disputed
   numbers; read it before merging. Their pronunciation files are already pushed to journal-audio.
-- **The narrations rendered for #13 to #15 on the evening of 19 October are gone.** The repos were not on this Mac
-  again at 19:40 that night (see "Things learned"); both were cloned afresh, `setup.sh` has not been run, and
-  journal-audio's `out/` is empty.
+- **The eight are narrated, for the owner to listen to before merging.** All 30 files (8 entries, 8 younger texts,
+  14 companions) were rendered from the pull-request branches on the night of 19 October, natively on Apple
+  silicon (see "Things learned"), into journal-audio's `out/`: 299 MB, about ten hours of audio, every
+  `out/render-<slug>.log` ending `exit 0`. They are **not uploaded and have no audio lines**; that follows the
+  merges. The branches are checked out as detached worktrees at `~/Documents/GitHub/journal-review/pr<N>/`
+  (one per pull request; `files.txt` there lists the 30 files), so a text change on a branch can be re-rendered
+  from there with `FORCE=1 ./render-many.sh <file>`. Remove those worktrees (`git worktree remove`) once the
+  eight are merged.
+- **Nobody has listened to any of the eight's narrations yet**, nor to the twelve's.
 - **The backlog** (`_ideas/experiment-ideas.md`): 13 `[published]`, 8 `[claimed]` (the eight pull requests), 9
   `[open]`. None is marked `suggested next`; the wave has ended, so mark two.
 
@@ -45,30 +51,31 @@ below assumes it. This note covers only where the work stopped and what to do ne
    `main` after the merge, and read every figure's credit. `gh pr merge` is refused by the app's auto mode
    ("merge without review"); the owner says "merge it" in chat, or presses Merge on GitHub.
 
-2. **Set up the narration machine** in journal-audio: `./setup.sh` (needs `python3` and `lame`; downloads the
-   350 MB model). Install an Apple-silicon Python first if you can (python.org's installer, or `uv`): with the
-   Intel Homebrew Python the renders run under Rosetta at about 40 minutes an entry (see "Things learned").
-   The wrangler login from September is still in `~/Library/Preferences/.wrangler/`; check with
-   `node_modules/.bin/wrangler whoami` after setup.
+2. **The owner listens to the eight** from journal-audio's `out/` (the entry first, then its younger version and
+   companions), alongside reading the pull request. A mispronunciation goes in the entry's `say-as/<slug>.txt`;
+   a text change goes on the pull request's branch. Re-render only what changed, from the worktree:
+   `FORCE=1 ./render-many.sh ~/Documents/GitHub/journal-review/pr<N>/<file>`.
 
-3. **Narrate the eight**: 30 files (8 entries, 8 younger texts, 14 companions), listed in journal-audio's
-   `lists/2026-10-19-eight-entries.txt` by their paths on `main`. `AGENTS.md` now says the narration is part of
-   the review: render from the pull request's branch before the merge and give the owner the MP3s, then after the
-   merge re-render only what changed and wire the lines. If the owner would rather merge first, render from `main`:
+3. **Log wrangler in**, once, before any upload: `node_modules/.bin/wrangler login` in journal-audio, from the
+   owner's own shell (it opens a browser). Under the `stephen` account `wrangler whoami` says "Not logged in"; the
+   September token there does not refresh.
+
+4. **After the merges, upload and wire.** The merged text is the branch text, so `render-many.sh` on the paths on
+   `main` reports every file "done already" and nothing re-renders unless its text changed after the render; then
+   `wire-audio.py` uploads each finished MP3 and writes its lines:
 
    ```bash
    cd ~/Documents/GitHub/journal-audio
-   xargs ./render-many.sh < lists/2026-10-19-eight-entries.txt                  # skips what is already done
-   xargs /usr/bin/python3 ./wire-audio.py < lists/2026-10-19-eight-entries.txt  # the arm64 Python, not .venv's
+   xargs ./render-many.sh < lists/2026-10-19-eight-entries.txt    # expect thirty "done already"
+   xargs ./wire-audio.py  < lists/2026-10-19-eight-entries.txt    # uploads, writes the audio lines on main
    ```
 
-   Every log `out/render-<slug>.log` should end with `exit 0 <slug>`. Then in the site: `git pull --rebase`,
-   commit the audio lines, push to `main`, wait for the build, and expect `/podcast.xml` to list 91 episodes
-   (61 now). Mark each entry `[published: <path>]` in the backlog.
+   Then in the site: `git pull --rebase`, commit the audio lines, push to `main`, wait for the build, and expect
+   `/podcast.xml` to list 91 episodes (61 now). Mark each entry `[published: <path>]` in the backlog.
 
-4. **Ask the owner to listen**, starting with the twelve. Fix what they report in the entry's `say-as/<slug>.txt`,
-   then `FORCE=1 ./render-many.sh <file>` and `/usr/bin/python3 ./wire-audio.py <file>` for that one file, and
-   commit the new `audio_length` and `audio_duration` lines.
+5. **The twelve's narrations are still unheard.** Fix what the owner reports in the entry's `say-as/<slug>.txt`,
+   then `FORCE=1 ./render-many.sh <file>` and `./wire-audio.py <file>` for that one file, and commit the new
+   `audio_length` and `audio_duration` lines.
 
 ## Then: the rest of the backlog
 
@@ -109,25 +116,31 @@ quotations, British spelling, no rendering by the writing session itself, nothin
 
 ## Things learned the hard way
 
-- **The repos keep disappearing from this Mac.** Neither `~/Documents/GitHub/journalsofexperiments.com` nor
-  `journal-audio` was on the disk on the afternoon of 19 October, and neither was there again at 19:40 that night,
-  twenty minutes after the last pull request was pushed; nothing in `.claude/worktrees/` or journal-audio's `out/`
-  survived either time. Assume nothing local outlives a session: push every `say-as` file and list as soon as it
-  is written, treat `out/` as disposable, and check `ls ~/Documents/GitHub` before trusting a path. The wrangler
-  login in `~/Library/Preferences/.wrangler/` has survived both times.
+- **This Mac has several user accounts, and each has its own `~/Documents/GitHub`.** Sessions have run as
+  `robertdouglas`, `williamdouglas` and `stephen` (the GitHub account is `realrobertdouglas`). The repos "missing"
+  on the afternoon and again on the night of 19 October were almost certainly under another account's home, which
+  is closed (mode 700) to the others; so were the earlier worktrees, renders and the wrangler login. Before cloning
+  afresh, check `whoami` and `ls -ld /Users/*/`. Whatever account you are in: push every `say-as` file and list as
+  soon as it is written, and treat `out/` as that account's. Tonight's clones, worktrees, `.venv`, model and
+  renders are under `stephen`.
 - **Auto mode refuses `gh pr merge`** ("merge without review"), even for a pull request the session has just
   checked line by line. The owner's "merge it" in chat lets it through; so does pressing Merge on GitHub.
 - **The owner reviews by listening.** Render an entry's narration as soon as its pull request is open and hand
   over the MP3s; it is part of the review, not something that waits for the merge (said on 19 October).
-- **The narration toolchain on this Mac runs under Rosetta.** The only Python 3.13 is the Intel Homebrew build
-  (`/usr/local/bin/python3`), so `.venv` and the voice model are Intel too: a full entry takes about 40 minutes to
-  render, not the ten the README promises, and the 37 files took three and a half hours at five at a time. An
-  Apple-silicon Python (python.org's installer, or `uv`) would make `setup.sh` build an arm64 `.venv` and fix it.
-- **Run `wire-audio.py` with `/usr/bin/python3`** (the arm64 system Python; the script needs only the standard
-  library). Under the Intel Python the universal `node` binary runs as Intel and cannot load the arm64 `workerd`
-  that `npm install` put in `node_modules`, so every upload fails with "You installed workerd on another
-  platform". `publish-audio.sh` run from an ordinary shell works either way. The script's output is buffered when
-  it is redirected to a file, so a log that looks empty may be fine: check `git status` in the site instead.
+- **Use an Apple-silicon Python.** Homebrew's Python 3.13 here is the Intel build (`/usr/local/bin/python3`), and
+  a `.venv` made from it renders under Rosetta at about 40 minutes an entry. Under `stephen` there is now a native
+  CPython 3.13.16 at `~/.local/opt/cpython-3.13-arm64/` (the `astral-sh/python-build-standalone` tarball, no
+  installer); `.venv` was made from it before `setup.sh` ran (`~/.local/opt/cpython-3.13-arm64/bin/python3 -m venv
+  .venv`), and a full entry then takes about ten minutes: the 30 files took 58 minutes at five at a time. With a
+  native `.venv` the old "run `wire-audio.py` with `/usr/bin/python3`" workaround is unnecessary (it was the Intel
+  Python starting `node` as Intel, which could not load the arm64 `workerd`); it still does no harm.
+- **macOS `xargs -I` allows 255 bytes per substituted line**, and `render-many.sh` uses it, so a file path longer
+  than that makes it fail at once with "command line cannot be assembled, too long". Keep the worktrees somewhere
+  short (`~/Documents/GitHub/journal-review/pr<N>` is 107 bytes to the longest file).
+- **The model download from GitHub releases stalled once** at 268 of 311 MB; `curl -C -` on the same URL resumed
+  it. `setup.sh` has `set -e`, so a stalled `curl` has to be killed and the script run again (it skips what exists).
+- **`wire-audio.py`'s output is buffered** when redirected to a file, so a log that looks empty may be fine: check
+  `git status` in the site instead.
 - **Review before merging.** The owner chose to have all twelve merged without reading them first. Before
   merging, run the checker on each pull request and read every figure's credit. One photograph was removed from
   Forty-Two because it came from a 2004 journal article credited "courtesy of" its photographer, which is not
