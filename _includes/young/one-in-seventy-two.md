@@ -25,6 +25,11 @@ One of them, T. L. Condron, who worked for the government lender, came closest t
 
 The bridge was built in nineteen months, and the building was a triumph. The piers went down through 140 feet of rushing water, deeper than any before. The towers rose 420 feet above them. The two cables, each as thick as a man's body, were spun from fourteen thousand miles of wire. The bridge opened on July 1st 1940, the third longest suspension bridge in the world.
 
+<figure>
+  <img src="/static/img/one-in-seventy-two/opening-day-1940.jpg" alt="Opening day on the bridge: a line of cars and a crowd of people on the two-lane deck, looking along the cables to the towers">
+  <figcaption>Opening day, July 1st 1940, looking along the deck to the towers. University of Washington Libraries, Special Collections.</figcaption>
+</figure>
+
 But while the men were still pouring the concrete roadway, in May 1940, the deck began to move. In a light wind it rose and fell in slow waves, a few feet high, rolling along the bridge like the swell on the sea. The workmen felt seasick. Drivers crossing it saw the car in front sink out of sight and rise again. People gave the bridge a nickname: Galloping Gertie.
 
 The engineers had half expected this. Another bridge by Moisseiff, in New York, had done the same thing in a small way. So before the bridge opened they fitted two cures. They tied the cables to the deck at the middle with diagonal cables, so the deck could not slide about underneath. And they put big oil-filled shock absorbers at the towers. Neither made any difference.
