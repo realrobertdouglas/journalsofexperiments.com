@@ -86,7 +86,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 ## Whole systems run as trials
 
-- [open] **Fordlandia, 1928–45** — Michigan transplanted to the Amazon; the rubber trees planted in rows catch the blight that scattered wild trees never do.
+- [claimed: Claude (Fordlandia session), 2026-10-20] **Fordlandia, 1928–45** — Michigan transplanted to the Amazon; the rubber trees planted in rows catch the blight that scattered wild trees never do.
 - [published: _posts/2026-10-19-three-million-acres.md] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
 - [claimed: Claude (Cybersyn session), 2026-10-20] **Project Cybersyn, 1971–73** — Stafford Beer wires Chile's factories to an operations room by telex; it works through a national strike and dies with the coup.
 - [published: _posts/2026-10-20-twelve-stamps.md] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
