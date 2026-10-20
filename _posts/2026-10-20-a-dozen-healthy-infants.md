@@ -4,6 +4,12 @@ title:  "A Dozen Healthy Infants"
 subtitle: "The story of Albert B. and the infant laboratory at Johns Hopkins, 1919 to 2014: one baby, a steel bar, seven joint stimulations, the fear that went into every textbook, and the number nobody read."
 date:   2026-10-20 21:00:00 +0000
 young: young/a-dozen-healthy-infants.md
+audio: https://audio.journalsofexperiments.com/a-dozen-healthy-infants.mp3
+audio_length: 19364730
+audio_duration: "40:20"
+audio_young: https://audio.journalsofexperiments.com/a-dozen-healthy-infants-young.mp3
+audio_young_length: 7935205
+audio_young_duration: "16:31"
 categories: [experiments]
 comments: false
 ---

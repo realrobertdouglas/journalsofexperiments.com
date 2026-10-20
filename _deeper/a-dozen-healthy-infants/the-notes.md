@@ -4,6 +4,9 @@ subtitle: "The laboratory notes of the five sessions with Albert, as Watson and 
 parent: a-dozen-healthy-infants
 order: 1
 date:   2026-10-20 21:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-dozen-healthy-infants-the-notes.mp3
+audio_length: 9365202
+audio_duration: "19:30"
 ---
 
 The paper of February 1920 is unusual among famous experiments in printing its own raw record. What follows are the laboratory notes of the five sessions after the baseline, exactly as the *Journal of Experimental Psychology* set them, with the authors' comments between the sessions. The numbered items are the notes; the paragraphs between them are the authors' running commentary in the paper. Nothing has been cut, and the spelling is the original American. The ages are the only dates the paper gives. On the reconstruction in the entry, in which Albert was born on 10 March 1919, the sessions fell on 13 February, 20 February, 25 February, 1 March and 31 March 1920; if he was born a day earlier, each date moves a day earlier too.

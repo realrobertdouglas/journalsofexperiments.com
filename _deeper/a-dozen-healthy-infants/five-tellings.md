@@ -4,6 +4,9 @@ subtitle: "How the bar, the rat, the weight, the crying and the ending changed a
 parent: a-dozen-healthy-infants
 order: 2
 date:   2026-10-20 21:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-dozen-healthy-infants-five-tellings.mp3
+audio_length: 4857625
+audio_duration: "10:07"
 ---
 
 Watson told the Albert story in print at least four times in four years, and Mary Cover Jones told it once more in his journal with his approval. The versions are all public domain and all online, so the drift can be followed detail by detail. None of the changes is large. What matters is that they all run in the same direction.
