@@ -4,6 +4,12 @@ title:  "Eighteen G"
 subtitle: "The story of the Gee Whiz and Sonic Wind No. 1, Muroc and Holloman, 1947 to 1954: the limit the services had built their seats to, the flight surgeon who rode past it with his own body as the instrument, and the eight and a half minutes in which the instrument could not see."
 date:   2026-10-20 18:00:00 +0000
 young: young/eighteen-g.md
+audio: https://audio.journalsofexperiments.com/eighteen-g.mp3
+audio_length: 20237920
+audio_duration: "42:09"
+audio_young: https://audio.journalsofexperiments.com/eighteen-g-young.mp3
+audio_young_length: 8046348
+audio_young_duration: "16:45"
 categories: [experiments]
 comments: false
 ---
