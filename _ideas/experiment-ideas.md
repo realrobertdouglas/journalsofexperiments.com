@@ -44,10 +44,10 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 *Beside "Dive Eighty-Eight"*
 
-- [claimed: Claude (Hunley session), 2026-10-19] **The H. L. Hunley, 1863–64** — A hand-cranked submarine that drowned two crews in trials, including its namesake, then sank the *Housatonic* and never surfaced. A weapon that killed more of its own than the enemy's.
-- [claimed: Claude (R101 session), 2026-10-19] **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
-- [claimed: Claude (Langley session), 2026-10-19] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
-- [claimed: Claude (Sealab session), 2026-10-19] **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
+- [published: _posts/2026-10-19-two-crews.md] **The H. L. Hunley, 1863–64** — A hand-cranked submarine that drowned two crews in trials, including its namesake, then sank the *Housatonic* and never surfaced. A weapon that killed more of its own than the enemy's.
+- [published: _posts/2026-10-19-four-thousand-pads.md] **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
+- [published: _posts/2026-10-19-nine-days.md] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
+- [published: _posts/2026-10-19-six-hundred-feet.md] **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
 - [claimed: Claude (Italia session), 2026-10-19] **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
 
 ## Sealed systems and solitary subjects
@@ -56,7 +56,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 - [open] **Michel Siffre, 1962 and 1972** — A geologist lives in caves without clocks; his body settles into 48-hour days. The subject's own sense of time was the instrument.
 - [open] **Byrd at Advance Base, 1934** — The admiral winters alone in a buried hut and slowly poisons himself on his stove's carbon monoxide while refusing to call for help.
-- [claimed: Claude (Minnesota session), 2026-10-19] **The Minnesota Starvation Experiment, 1944–45** — 36 conscientious objectors half-starved for six months so the Allies could learn to refeed Europe; what it found about the mind under hunger still stands.
+- [published: _posts/2026-10-19-three-menus.md] **The Minnesota Starvation Experiment, 1944–45** — 36 conscientious objectors half-starved for six months so the Allies could learn to refeed Europe; what it found about the mind under hunger still stands.
 - [open] **BIOS-3, Krasnoyarsk, 1972 on** — The Soviet closed ecosystem that mostly worked, as the counterexample to Biosphere 2. The companion piece *Biosphere 1* already gives it a page, so this would go further.
 - [published: _posts/2026-10-19-thirty-inches.md] **Camp Century, 1959–67** — A nuclear reactor under the Greenland ice; the tunnels crushed in a decade, and the waste left behind is now expected to melt out.
 
@@ -64,25 +64,25 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 *Beside "The Nuclear Boy Scout"*
 
-- [claimed: Claude (demon core session), 2026-10-19] **Louis Slotin and the demon core, 1946** — A criticality assembly held apart by a screwdriver; a procedure built around one steady hand, used until the hand slipped. The same core had already killed Harry Daghlian.
+- [published: _posts/2026-10-19-the-demon-core.md] **Louis Slotin and the demon core, 1946** — A criticality assembly held apart by a screwdriver; a procedure built around one steady hand, used until the hand slipped. The same core had already killed Harry Daghlian.
 - [open] **Alain Bombard, 1952** — Crosses the Atlantic in an inflatable with no provisions to prove castaways can live on fish and sips of seawater; survives, and the argument about whether he proved it never ended.
 - [claimed: Claude (Pettenkofer session), 2026-10-19] **Max von Pettenkofer, 1892** — Drinks a flask of cholera to disprove Koch, gets mild diarrhoea, and declares germ theory refuted. A lucky result read as a true one.
 - [claimed: Claude (MacDougall session), 2026-10-19] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
 - [claimed: Claude (Hatfield session), 2026-10-19] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
 - [open] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
-- [claimed: Claude (Glaisher session), 2026-10-19] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
+- [published: _posts/2026-10-19-seven-miles.md] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
 
 ## Results nobody read
 
 *The site's recurring lesson*
 
-- [claimed: Claude (Lind session), 2026-10-19] **James Lind, 1747** — The first controlled trial finds citrus cures scurvy; the Navy acts 48 years later, and Lind himself never quite believed it.
-- [claimed: Claude (Mincome session), 2026-10-19] **Mincome and SIME/DIME, 1970s** — Guaranteed-income trials; the Manitoba data sat boxed for 30 years, and the US one was killed by a divorce finding later shown to be an artefact.
+- [published: _posts/2026-10-19-two-oranges-and-a-lemon.md] **James Lind, 1747** — The first controlled trial finds citrus cures scurvy; the Navy acts 48 years later, and Lind himself never quite believed it.
+- [published: _posts/2026-10-19-eighteen-hundred-boxes.md] **Mincome and SIME/DIME, 1970s** — Guaranteed-income trials; the Manitoba data sat boxed for 30 years, and the US one was killed by a divorce finding later shown to be an artefact.
 - [open] **Cambridge-Somerville, 1939–45** — A mentoring programme for at-risk boys; thirty years on, the boys who got the help had done worse. Joan McCord's follow-up is the whole entry.
 - [claimed: Claude (Carrel session), 2026-10-19] **Carrel's chicken heart, 1912–46** — Cells kept "immortal" for 34 years; after his death nobody could repeat it, and the likeliest reason is that the feed kept adding fresh cells.
 - [open] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
 - [claimed: Claude (Universe 25 session), 2026-10-19] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
-- [claimed: Claude (St. Matthew session), 2026-10-19] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
+- [published: _posts/2026-10-19-forty-two.md] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
 
 ## Whole systems run as trials
 
@@ -90,5 +90,5 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [claimed: Claude (Groundnut session), 2026-10-19] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
 - [open] **Project Cybersyn, 1971–73** — Stafford Beer wires Chile's factories to an operations room by telex; it works through a national strike and dies with the coup.
 - [claimed: Claude (Wörgl session), 2026-10-19] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
-- [claimed: Claude (Starfish session), 2026-10-19] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.
-- [claimed: Claude (Chernobyl session), 2026-10-19] **Chernobyl's rundown test, 1986** — The disaster was itself a safety experiment, run at low power after a grid dispatcher delayed it into the night shift.
+- [published: _posts/2026-10-19-thirty-strings.md] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.
+- [published: _posts/2026-10-19-thirty-six-seconds.md] **Chernobyl's rundown test, 1986** — The disaster was itself a safety experiment, run at low power after a grid dispatcher delayed it into the night shift.
