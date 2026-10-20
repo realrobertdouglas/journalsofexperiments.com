@@ -4,6 +4,9 @@ subtitle: "The engineers' inquest on Lower Otay, February to June 1916: a promot
 parent: four-billion-gallons
 order: 1
 date:   2026-10-19 18:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-billion-gallons-the-hybrid-dam.mp3
+audio_length: 8640022
+audio_duration: "17:59"
 ---
 
 The entry says that the city of San Diego bought one experiment and ran another, and that the second was read in twenty minutes on the afternoon of January 27, 1916. This piece is about the people who read it: the engineers who went over the wreck of the Lower Otay dam that spring and argued, in the pages of *Engineering News* and *Engineering Record*, about what it had been and what it meant. They did not agree on everything. They agreed on the design.

@@ -4,6 +4,12 @@ title:  "Four Billion Gallons"
 subtitle: "The story of a tower beside Morena reservoir and the city of San Diego, 1915 to 1938: the lake that filled, the dam that went, and the test that could not be read either way."
 date:   2026-10-19 18:00:00 +0000
 young: young/four-billion-gallons.md
+audio: https://audio.journalsofexperiments.com/four-billion-gallons.mp3
+audio_length: 19199604
+audio_duration: "39:59"
+audio_young: https://audio.journalsofexperiments.com/four-billion-gallons-young.mp3
+audio_young_length: 7968223
+audio_young_duration: "16:35"
 categories: [experiments]
 comments: false
 ---
