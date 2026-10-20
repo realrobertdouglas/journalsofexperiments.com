@@ -4,6 +4,9 @@ subtitle: "How the Wildlife Survey Section counted rabbits, read the predators a
 parent: a-flying-pin
 order: 1
 date:   2026-10-20 13:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-flying-pin-the-counting.mp3
+audio_length: 5185921
+audio_duration: "10:48"
 ---
 
 The trials of 1950 produced one result that mattered, and it was a negative one: on every site the disease went in, spread a little, and died. A negative result is only worth having if the counting behind it is good, and the counting is the part of the work that Ken Myers was proudest of when he wrote it up in 1954. This piece is about the method.

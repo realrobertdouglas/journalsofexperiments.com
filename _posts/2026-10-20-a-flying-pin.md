@@ -4,6 +4,12 @@ title:  "A Flying Pin"
 subtitle: "The story of CSIRO's myxoma virus and the Murray, 1950 to 1951: the seven liberations that failed through the winter, the mosquito that carried the disease eight hundred miles in a summer, and the three men who injected themselves because the public would not read the laboratory's papers."
 date:   2026-10-20 13:00:00 +0000
 young: young/a-flying-pin.md
+audio: https://audio.journalsofexperiments.com/a-flying-pin.mp3
+audio_length: 20229284
+audio_duration: "42:08"
+audio_young: https://audio.journalsofexperiments.com/a-flying-pin-young.mp3
+audio_young_length: 7229391
+audio_young_duration: "15:03"
 categories: [experiments]
 comments: false
 ---

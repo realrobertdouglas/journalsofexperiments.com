@@ -4,6 +4,9 @@ subtitle: "Australian X disease, 1917 to 1951: the brain fever that came with th
 parent: a-flying-pin
 order: 2
 date:   2026-10-20 13:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-flying-pin-the-other-virus.mp3
+audio_length: 5111815
+audio_duration: "10:38"
 ---
 
 The public of the Murray valley in the summer of 1951 did not invent a connection between two diseases. It noticed one, and got the mechanism wrong. This piece is about the human disease, where it had come from, how the Walter and Eliza Hall Institute pinned it down, and why it turned out to be riding the same mosquito as the rabbits.
