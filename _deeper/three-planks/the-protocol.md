@@ -4,6 +4,12 @@ subtitle: "What survives of the inquest held at Stockholm Castle on 5 September 
 parent: three-planks
 order: 1
 young: young/three-planks/the-protocol.md
+audio: https://audio.journalsofexperiments.com/three-planks-the-protocol.mp3
+audio_length: 8332610
+audio_duration: "17:21"
+audio_young: https://audio.journalsofexperiments.com/three-planks-the-protocol-young.mp3
+audio_young_length: 4834191
+audio_young_duration: "10:04"
 date:   2026-10-20 17:00:00 +0000
 ---
 

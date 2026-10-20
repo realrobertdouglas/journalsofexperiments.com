@@ -4,6 +4,12 @@ title:  "Three Planks"
 subtitle: "The story of the warship Vasa and Stockholm, 1625 to 1628: the thirty men who ran across her deck at the quay, the three planks she heeled before the admiral stopped them, and the inquest that questioned everyone but him."
 date:   2026-10-20 17:00:00 +0000
 young: young/three-planks.md
+audio: https://audio.journalsofexperiments.com/three-planks.mp3
+audio_length: 18124196
+audio_duration: "37:45"
+audio_young: https://audio.journalsofexperiments.com/three-planks-young.mp3
+audio_young_length: 7344975
+audio_young_duration: "15:17"
 categories: [experiments]
 comments: false
 ---

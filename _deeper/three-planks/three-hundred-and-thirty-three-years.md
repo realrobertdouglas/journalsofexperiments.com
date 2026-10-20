@@ -4,6 +4,12 @@ subtitle: "The wreck from 1628 to 1961: the Englishman who stood her on her keel
 parent: three-planks
 order: 2
 young: young/three-planks/three-hundred-and-thirty-three-years.md
+audio: https://audio.journalsofexperiments.com/three-planks-three-hundred-and-thirty-three-years.mp3
+audio_length: 6355825
+audio_duration: "13:14"
+audio_young: https://audio.journalsofexperiments.com/three-planks-three-hundred-and-thirty-three-years-young.mp3
+audio_young_length: 4056639
+audio_young_duration: "8:26"
 date:   2026-10-20 17:00:00 +0000
 ---
 
