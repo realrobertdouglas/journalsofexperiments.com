@@ -8,7 +8,7 @@ He loved Greenland. Greenland is a huge island near the North Pole, and almost a
 
 <figure>
   <img src="/static/img/fifteen-sledges/wegener-portrait.jpg" alt="Head-and-shoulders portrait of a man of about forty-five with short hair, a lined forehead and light eyes, in a dark jacket, white collar and tie, looking slightly past the camera">
-  <figcaption>Alfred Wegener in the late 1920s. Photographer unknown; Bildarchiv Foto Marburg, by way of Wikimedia Commons, public domain.</figcaption>
+  <figcaption>Alfred Wegener in the late 1920s. Photographer unknown; Bildarchiv Foto Marburg, licensed CC BY-SA 4.0, by way of Wikimedia Commons.</figcaption>
 </figure>
 
 ## The plan

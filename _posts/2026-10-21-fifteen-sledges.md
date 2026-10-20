@@ -22,7 +22,7 @@ The main expedition sailed from Copenhagen on 1 April 1930 in the Danish ship *D
 
 <figure>
   <img src="/static/img/fifteen-sledges/wegener-portrait.jpg" alt="Head-and-shoulders portrait of a man of about forty-five with short hair, a lined forehead and light eyes, in a dark jacket, white collar and tie, looking slightly past the camera">
-  <figcaption>Alfred Wegener in the late 1920s. Photographer unknown; Bildarchiv Foto Marburg, Aufnahme-Nr. 426.294, by way of Wikimedia Commons, where it is marked as an anonymous work published before 1931 and in the public domain.</figcaption>
+  <figcaption>Alfred Wegener, probably at Graz, between 1924 and 1930. Photographer unknown; Bildarchiv Foto Marburg, record fm426294, whose reproduction is licensed CC BY-SA 4.0; by way of Wikimedia Commons.</figcaption>
 </figure>
 
 ## What they were trying to find out
