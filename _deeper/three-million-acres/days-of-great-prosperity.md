@@ -4,6 +4,9 @@ subtitle: "What the scheme did to the Southern Province of Tanganyika, 1946 to 1
 parent: three-million-acres
 order: 1
 date:   2026-10-19 17:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-million-acres-days-of-great-prosperity.mp3
+audio_length: 6183975
+audio_duration: "12:52"
 ---
 
 The entry tells the Groundnut Scheme from London and from Kongwa. This piece tells it from the Southern Province of Tanganyika, where the plan meant to put most of its acres and where, for five years, it put most of its money instead. The record comes from the provincial and district reports in the Tanzania National Archives and the Colonial Office files at Kew, read by the historian Matteo Rizzo for an article of 2006, and from the memoir of a colonial officer and the scheme's own last reports as summarised by Stefan Esselborn.

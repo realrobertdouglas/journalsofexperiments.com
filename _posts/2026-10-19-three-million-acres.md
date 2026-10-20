@@ -4,6 +4,12 @@ title:  "Three Million Acres"
 subtitle: "The story of the Groundnut Scheme and Tanganyika, 1946 to 1955: the plan that was to clear three million acres of bush for Britain's margarine, the rain gauge nobody read, and the £36 million written off in a white paper."
 date:   2026-10-19 17:00:00 +0000
 young: young/three-million-acres.md
+audio: https://audio.journalsofexperiments.com/three-million-acres.mp3
+audio_length: 20415346
+audio_duration: "42:31"
+audio_young: https://audio.journalsofexperiments.com/three-million-acres-young.mp3
+audio_young_length: 8799006
+audio_young_duration: "18:19"
 categories: [experiments]
 comments: false
 ---
