@@ -2,7 +2,7 @@ This is the same story as the full entry, told more plainly. The button at the t
 
 <figure>
   <img src="/static/img/one-in-a-hundred-and-ten/tracks-1947.jpg" alt="A Weather Bureau chart of the North Atlantic hurricane tracks of 1947, with track IX running north from the Caribbean across Florida, out to sea and back west into Georgia">
-  <figcaption>The Weather Bureau's map of the hurricanes of 1947. The one marked IX crosses Florida, goes out to sea, and comes back into Georgia. <em>Monthly Weather Review</em>, December 1947.</figcaption>
+  <figcaption>The Weather Bureau's map of the hurricanes of 1947. The one marked IX crosses Florida, goes out to sea, and comes back into Georgia. United States Weather Bureau, <em>Monthly Weather Review</em>, December 1947.</figcaption>
 </figure>
 
 ## The morning of October 13th 1947
@@ -55,7 +55,7 @@ But it was a strange kind of evidence. He had chosen the six hours after the sto
 
 <figure>
   <img src="/static/img/one-in-a-hundred-and-ten/track-october-1947.jpg" alt="A map of Florida, Cuba and the Georgia coast with the hurricane's track of 12 to 16 October 1947 drawn as a solid line with a small loop off the Carolinas, and the track of the storm of 5 to 7 October as a dashed line">
-  <figcaption>The hurricane's path as the Weather Bureau redrew it in 1957 (solid line), and the path of the smaller storm a week earlier (dashed line). <em>Monthly Weather Review</em>, July 1957.</figcaption>
+  <figcaption>The hurricane's path as the Weather Bureau redrew it in 1957 (solid line), and the path of the smaller storm a week earlier (dashed line). United States Weather Bureau, <em>Monthly Weather Review</em>, July 1957.</figcaption>
 </figure>
 
 ## The lawyers
