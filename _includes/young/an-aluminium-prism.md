@@ -48,7 +48,7 @@ Robert W. Wood was an American, a professor of physics at Johns Hopkins Universi
 
 <figure>
   <img src="/static/img/an-aluminium-prism/wood-1927.jpg" alt="A photographic portrait of a lean grey-haired man in a tweed jacket, seated, with one hand on the focusing knob of a small brass microscope on the table beside him">
-  <figcaption>Robert W. Wood in 1927, photographed for the French press. Bibliothèque nationale de France, via Wikimedia Commons; public domain.</figcaption>
+  <figcaption>Robert W. Wood in 1927, in a press photograph of the time. Bibliothèque nationale de France, via Wikimedia Commons; public domain.</figcaption>
 </figure>
 
 He went in September 1904, in the evening, and spent three hours in the dark room with Blondlot and his assistant. He did three things, and each one was a kind of test that nobody at Nancy had ever done. The rule of all three was the same: the person looking at the screen must not know what Wood was doing.

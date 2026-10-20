@@ -22,7 +22,7 @@ The people who confirmed him were mostly at Nancy or connected to it. Augustin C
 
 <figure>
   <img src="/static/img/an-aluminium-prism/wood-1927.jpg" alt="A photographic portrait of a lean grey-haired man in a tweed jacket, seated, with one hand on the focusing knob of a small brass microscope on the table beside him">
-  <figcaption>Robert W. Wood in February 1927, twenty-two years after Nancy, photographed for the Paris press by the Agence Rol. Bibliothèque nationale de France, via Wikimedia Commons; public domain.</figcaption>
+  <figcaption>Robert W. Wood in February 1927, twenty-two years after Nancy: a press photograph from Pacific and Atlantic Photos, by way of the Agence Rol. Bibliothèque nationale de France, via Wikimedia Commons; public domain.</figcaption>
 </figure>
 
 The man who tested them was Robert Williams Wood, born at Concord, Massachusetts, on 2 May 1868. He had taken his degree at Harvard in 1891, studied at Johns Hopkins, Chicago and Berlin, where he had known Heinrich Rubens, taught at Wisconsin, and since 1901 had been professor of experimental physics at Johns Hopkins in Baltimore. He was thirty-six, his subject was light, and he had already tried the experiments once at home and failed, as had Rubens and Otto Lummer in Berlin, John Butler Burke at the Cavendish and John G. McKendrick at Glasgow. None of them had been to Nancy.
