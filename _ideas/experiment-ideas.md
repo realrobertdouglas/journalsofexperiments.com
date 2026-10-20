@@ -96,7 +96,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **The O-rings, 1986** — The temperature data on the table the night before Challenger, and the chart that did not show it. The Rogers Commission report, with the Thiokol memos inside it, is public domain. The American twin of Chernobyl's test.
 - [open] **The Hawthorne lamps, 1924–32** — Output rose whatever they did to the lighting, or so the legend says; the original data, re-analysed in 2011, show something smaller and stranger. Roethlisberger and Dickson (1939): check the renewal record before quoting at length.
 - [open] **Project Cirrus, 1947** — Langmuir and Schaefer seed a hurricane off Georgia with dry ice; it turns and comes ashore at Savannah. The Army Signal Corps' final report and General Electric's records, largely government works. Beside Hatfield.
-- [open] **Mesmer and the Franklin commission, 1784** — The first blinded trial: patients magnetised by a tree that was not, and not by one that was. The commission's report and its 1785 English translation, public domain.
+- [claimed: Claude (Mesmer session), 2026-10-20] **Mesmer and the Franklin commission, 1784** — The first blinded trial: patients magnetised by a tree that was not, and not by one that was. The commission's report and its 1785 English translation, public domain.
 
 ## Whole systems run as trials
 
