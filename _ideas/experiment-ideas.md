@@ -69,7 +69,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-one-cubic-centimetre.md] **Max von Pettenkofer, 1892** — Drinks a flask of cholera to disprove Koch, gets mild diarrhoea, and declares germ theory refuted. A lucky result read as a true one.
 - [published: _posts/2026-10-19-two-silver-dollars.md] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
 - [published: _posts/2026-10-19-four-billion-gallons.md] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
-- [open] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
+- [claimed: Claude (Dolphin house session), 2026-10-20] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
 - [published: _posts/2026-10-19-seven-miles.md] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
 
 ## Results nobody read
