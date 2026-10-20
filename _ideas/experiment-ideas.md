@@ -51,7 +51,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-four-hundred-telegrams.md] **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
 - [claimed: Claude (Apollo 1 session), 2026-10-20] **Apollo 1, 1967** — The "plugs-out" test on the pad, rated non-hazardous, in pure oxygen at 16 pounds per square inch; three men dead in seventeen seconds, in a test that had been run before. NASA's Apollo 204 Review Board report and the Senate hearings are US government works.
 - [claimed: Claude (Thresher session), 2026-10-20] **USS Thresher, 1963** — A deep-dive test off Cape Cod; 129 dead; the silver-brazed joints that had failed their own ultrasonic tests and the ballast-blow valves that iced. The Navy's court of inquiry was declassified in 2020 to 2021: thousands of pages, public domain.
-- [open] **The Vasa, 1628** — The stability test (thirty men running from side to side on the deck) that the admiral stopped after three runs, and the ship that sailed anyway and went over in her first mile. The inquest's transcripts survive; the Vasa Museum has published them.
+- [claimed: Claude (Vasa session), 2026-10-20] **The Vasa, 1628** — The stability test (thirty men running from side to side on the deck) that the admiral stopped after three runs, and the ship that sailed anyway and went over in her first mile. The inquest's transcripts survive; the Vasa Museum has published them.
 
 ## Sealed systems and solitary subjects
 
