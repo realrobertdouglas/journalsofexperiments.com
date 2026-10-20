@@ -4,6 +4,9 @@ subtitle: "High Dive and the sixty-seven dummies, 1953 to 1959: what they record
 parent: the-right-glove
 order: 1
 date:   2026-10-20 19:00:00 +0000
+audio: https://audio.journalsofexperiments.com/the-right-glove-the-dummies.mp3
+audio_length: 5425349
+audio_duration: "11:18"
 ---
 
 The entry says that the Air Force dropped dummies for six years before it dropped a man, and that the dummies spun. This is the record of those drops, from the two reports the laboratory wrote on them, and of what became of the dummies afterwards.

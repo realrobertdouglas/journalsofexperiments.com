@@ -4,6 +4,12 @@ title:  "The Right Glove"
 subtitle: "The story of Project Excelsior and the New Mexico desert, 1958 to 1960: the parachute built to stop a falling man from spinning, the three balloons that carried him up to test it, and the reading he chose not to send down."
 date:   2026-10-20 19:00:00 +0000
 young: young/the-right-glove.md
+audio: https://audio.journalsofexperiments.com/the-right-glove.mp3
+audio_length: 19573610
+audio_duration: "40:46"
+audio_young: https://audio.journalsofexperiments.com/the-right-glove-young.mp3
+audio_young_length: 8246422
+audio_young_duration: "17:10"
 categories: [experiments]
 comments: false
 ---
