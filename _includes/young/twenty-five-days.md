@@ -54,7 +54,7 @@ His memory began to fail. He put the same record on three times in a row, each t
 
 ## Coming out
 
-When the call came on September 14th, a team climbed down to him at the weekend. On the morning of September 17th he began the climb up the shaft. He fainted twice on the way. At the top the police put a hood over his head, because after two months in the dark the daylight could have hurt his eyes, and two friends carried him on their backs across the mountain to a helicopter. He told a reporter that it was good to see the sky again, and that alone at the bottom he had cried.
+When the call came on September 14th, a team climbed down to him at the weekend. On the morning of September 17th he began the climb up the shaft. He fainted twice on the way. At the top the police put a hood over his head to protect his eyes from the daylight, and two friends carried him on their backs across the mountain to a helicopter. He told a reporter that it was good to see the sky again, and that alone at the bottom he had cried.
 
 The newspapers called it a world record: about sixty-two days alone underground. Some of them said he had broken down, and for a while cavers in other countries believed that two months was the most a person could stand alone in a cave. A Yorkshire caver named Geoffrey Workman stayed down for 105 days the next year, knowing the time, and came up fit.
 
@@ -62,7 +62,7 @@ The newspapers called it a world record: about sixty-two days alone underground.
 
 Siffre did not go into a cave alone again for ten years. Instead he sent other people, with the French army paying, because the army wanted to know how long a soldier could be kept awake. In the winter of 1964 he put a furniture maker named Antoine Senni and a midwife named Josiane Laures into two caves near Nice. When Siffre phoned Laures on March 11th 1965 to say she could come up, she thought it was February 25th and said: "It is not true. You must be lying." She had been down for 88 days. Senni stayed 126.
 
-Then something strange appeared. In 1968 a caver named Philippe Englender settled into an almost perfectly regular day of forty-eight hours: thirty-six hours awake, twelve asleep, and he had no idea he was doing it. Nearly everyone Siffre sent down seemed to fall into this two-day day sooner or later. Everyone except Siffre himself. You can read about them in [The speleonauts](/deeper/twenty-five-days/the-speleonauts/#young).
+Then something strange appeared. In 1968 a caver named Philippe Englender settled into an almost perfectly regular day of forty-eight hours: thirty-six hours awake, twelve asleep, and he had no idea he was doing it. Nearly everyone Siffre sent down seemed to fall into this two-day day sooner or later, except Siffre himself. You can read about them in [The speleonauts](/deeper/twenty-five-days/the-speleonauts/#young).
 
 ## Midnight Cave
 
