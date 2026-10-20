@@ -4,6 +4,12 @@ title:  "One Cubic Centimetre"
 subtitle: "The story of Max von Pettenkofer and the cholera bacillus, 1854 to 1901: the glass he drank in Munich on 7 October 1892, and the comparison between Hamburg and Altona that was answering his question while he drank it."
 date:   2026-10-19 20:00:00 +0000
 young: young/one-cubic-centimetre.md
+audio: https://audio.journalsofexperiments.com/one-cubic-centimetre.mp3
+audio_length: 19949172
+audio_duration: "41:33"
+audio_young: https://audio.journalsofexperiments.com/one-cubic-centimetre-young.mp3
+audio_young_length: 7895263
+audio_young_duration: "16:26"
 categories: [experiments]
 comments: false
 ---

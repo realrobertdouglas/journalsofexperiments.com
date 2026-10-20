@@ -4,6 +4,9 @@ subtitle: "The National Bank's letters and the district officer's orders, 21 Jul
 parent: twelve-stamps
 order: 2
 date:   2026-10-20 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twelve-stamps-the-file.mp3
+audio_length: 5862907
+audio_duration: "12:12"
 ---
 
 The Wörgl experiment was ended by paper, and most of the paper survives in the archive of the town's Heimatmuseum, where Gebhard Ottacher read it for a Vienna thesis that became a book in 2007. What follows is the sequence of letters and orders as he gives it, with the passages he quotes. The translations from the German are mine; the dates are his.

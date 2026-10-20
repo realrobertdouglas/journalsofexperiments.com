@@ -4,6 +4,12 @@ title:  "A Million Observations"
 subtitle: "The story of Universe 25, a mouse pen at the National Institute of Mental Health's Animal Center near Poolesville, Maryland, 1968 to 1973: eight mice that became 2,200, the counts that were the instrument, and the parable that got read instead."
 date:   2026-10-19 19:00:00 +0000
 young: young/a-million-observations.md
+audio: https://audio.journalsofexperiments.com/a-million-observations.mp3
+audio_length: 18044728
+audio_duration: "37:35"
+audio_young: https://audio.journalsofexperiments.com/a-million-observations-young.mp3
+audio_young_length: 8162916
+audio_young_duration: "17:00"
 categories: [experiments]
 comments: false
 ---

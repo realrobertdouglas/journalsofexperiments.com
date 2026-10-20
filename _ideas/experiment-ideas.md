@@ -48,7 +48,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-four-thousand-pads.md] **R101, 1930** — Britain's state-built airship, flown to India on a minister's deadline with its full trials skipped; 48 dead at Beauvais. Its privately built twin, R100, had just flown to Canada and back.
 - [published: _posts/2026-10-19-nine-days.md] **Langley's Aerodrome, 1903** — The government-funded, scientist-led flying machine goes into the Potomac twice; nine days after the second time, two bicycle mechanics fly.
 - [published: _posts/2026-10-19-six-hundred-feet.md] **Sealab III, 1969** — The Navy's saturation-diving habitat; aquanaut Berry Cannon dies on the first descent with an empty CO₂ scrubber in his rig. The programme ends there.
-- [claimed: Claude (Italia session), 2026-10-19] **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
+- [published: _posts/2026-10-19-four-hundred-telegrams.md] **The Italia, 1928** — Nobile's airship crashes on the pack ice north of Spitsbergen on the way back from the Pole; the "red tent" survivors, Malmgren's death on the ice, Amundsen lost in the search. A sealer looking for Nobile's party in July 1930 walked over Andrée's camp on White Island without seeing it (Andrée's Story, 1930, p. 199).
 
 ## Sealed systems and solitary subjects
 
@@ -66,8 +66,8 @@ All five have a younger-readers version and narrations of both texts, and their 
 
 - [published: _posts/2026-10-19-the-demon-core.md] **Louis Slotin and the demon core, 1946** — A criticality assembly held apart by a screwdriver; a procedure built around one steady hand, used until the hand slipped. The same core had already killed Harry Daghlian.
 - [open] **Alain Bombard, 1952** — Crosses the Atlantic in an inflatable with no provisions to prove castaways can live on fish and sips of seawater; survives, and the argument about whether he proved it never ended.
-- [claimed: Claude (Pettenkofer session), 2026-10-19] **Max von Pettenkofer, 1892** — Drinks a flask of cholera to disprove Koch, gets mild diarrhoea, and declares germ theory refuted. A lucky result read as a true one.
-- [claimed: Claude (MacDougall session), 2026-10-19] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
+- [published: _posts/2026-10-19-one-cubic-centimetre.md] **Max von Pettenkofer, 1892** — Drinks a flask of cholera to disprove Koch, gets mild diarrhoea, and declares germ theory refuted. A lucky result read as a true one.
+- [published: _posts/2026-10-19-two-silver-dollars.md] **Duncan MacDougall, 1907** — Weighs six dying patients on a balance bed; one gives a number, and "21 grams" outlives all the data.
 - [published: _posts/2026-10-19-four-billion-gallons.md] **Charles Hatfield, 1916** — San Diego hires a rainmaker; the dam breaks; the city refuses to pay because paying would admit it caused the flood.
 - [open] **The dolphin house, 1965** — John Lilly floods a house so Margaret Howe Lovatt can live with a dolphin and teach it English.
 - [published: _posts/2026-10-19-seven-miles.md] **Glaisher and Coxwell, 1862** — The meteorologist James Glaisher takes a balloon to about 9,000 metres over Wolverhampton to read instruments and loses consciousness; Coxwell, hands frozen, opens the valve with his teeth. Glaisher's own reports to the British Association are the record. (Andrée, bumping across the ice on 14 July 1897, wondered if a returning pigeon had "done the same as Glaisher's pigeon.")
@@ -79,9 +79,9 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [published: _posts/2026-10-19-two-oranges-and-a-lemon.md] **James Lind, 1747** — The first controlled trial finds citrus cures scurvy; the Navy acts 48 years later, and Lind himself never quite believed it.
 - [published: _posts/2026-10-19-eighteen-hundred-boxes.md] **Mincome and SIME/DIME, 1970s** — Guaranteed-income trials; the Manitoba data sat boxed for 30 years, and the US one was killed by a divorce finding later shown to be an artefact.
 - [open] **Cambridge-Somerville, 1939–45** — A mentoring programme for at-risk boys; thirty years on, the boys who got the help had done worse. Joan McCord's follow-up is the whole entry.
-- [claimed: Claude (Carrel session), 2026-10-19] **Carrel's chicken heart, 1912–46** — Cells kept "immortal" for 34 years; after his death nobody could repeat it, and the likeliest reason is that the feed kept adding fresh cells.
+- [published: _posts/2026-10-19-chicken-heart.md] **Carrel's chicken heart, 1912–46** — Cells kept "immortal" for 34 years; after his death nobody could repeat it, and the likeliest reason is that the feed kept adding fresh cells.
 - [open] **Kon-Tiki, 1947** — The raft reaches Polynesia and proves the voyage possible; the hypothesis it was built to prove turns out to be wrong.
-- [claimed: Claude (Universe 25 session), 2026-10-19] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
+- [published: _posts/2026-10-19-a-million-observations.md] **Universe 25, 1968–72** — Calhoun's mouse utopia collapses; what he measured and what the public took from it are two different experiments.
 - [published: _posts/2026-10-19-forty-two.md] **St. Matthew Island, 1944–66** — 29 reindeer put ashore become 6,000, then 42. No one set out to test carrying capacity, but nothing has tested it better. *Sixteen Reindeer* tells it in a paragraph; link to that.
 
 ## Whole systems run as trials
@@ -89,6 +89,6 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [open] **Fordlandia, 1928–45** — Michigan transplanted to the Amazon; the rubber trees planted in rows catch the blight that scattered wild trees never do.
 - [published: _posts/2026-10-19-three-million-acres.md] **The Groundnut Scheme, 1947–51** — Britain farms peanuts across Tanganyika without surveying the soil or the rainfall; tens of millions lost.
 - [open] **Project Cybersyn, 1971–73** — Stafford Beer wires Chile's factories to an operations room by telex; it works through a national strike and dies with the coup.
-- [claimed: Claude (Wörgl session), 2026-10-19] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
+- [published: _posts/2026-10-20-twelve-stamps.md] **Wörgl, 1932–33** — An Austrian town issues money that loses value monthly; unemployment falls; the central bank shuts it down. (Close to Captain's Notes territory, so it may be a crossover.)
 - [published: _posts/2026-10-19-thirty-strings.md] **Starfish Prime and West Ford, 1961–63** — A 1.4-megaton test that put out Honolulu's streetlights and crippled a third of the satellites in orbit; half a billion copper needles flown as an artificial ionosphere.
 - [published: _posts/2026-10-19-thirty-six-seconds.md] **Chernobyl's rundown test, 1986** — The disaster was itself a safety experiment, run at low power after a grid dispatcher delayed it into the night shift.

@@ -4,6 +4,9 @@ subtitle: "The commission of 1928 to 1929, its three questions and its answers, 
 parent: four-hundred-telegrams
 order: 3
 date:   2026-10-19 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-hundred-telegrams-the-inquiry.mp3
+audio_length: 5269075
+audio_duration: "10:58"
 ---
 
 The Italian government's commission of inquiry into the loss of the *Italia* was appointed in the autumn of 1928 and reported on 27 February 1929. Its report went to Mussolini on 3 March and was given to the press the same day; the *New York Times* carried it from Rome on the 4th. It was printed the next year, with the technical treatise of its adviser, in the navy's journal *Rivista Marittima* for January 1930 and as a volume of the Ministry of Marine, with the four volumes of evidence left unpublished. That printed text I could not reach; what follows is pieced together from the *Times* of 4 March 1929, from the Italian sentences of the report that have been reproduced since, in my translation, and from the account given in 2019 by Gregg Bendrick and Sergio Alessandrini in *Polar Research*, who read the 1930 edition and give its page numbers.

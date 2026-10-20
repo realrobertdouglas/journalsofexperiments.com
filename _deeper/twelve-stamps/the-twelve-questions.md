@@ -4,6 +4,9 @@ subtitle: "What two Swiss visitors heard in Wörgl's shops in 1933, and what the
 parent: twelve-stamps
 order: 1
 date:   2026-10-20 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twelve-stamps-the-twelve-questions.mp3
+audio_length: 6089875
+audio_duration: "12:41"
 ---
 
 Two Swiss visitors went round Wörgl in 1933 asking questions, and because both wrote down what they were told, the experiment has something few experiments of its size have: the testimony of the people inside it, taken at the time. The entry quotes a little of it. This is the rest.

@@ -4,6 +4,9 @@ subtitle: "How fast the Wörgl money moved: a mayor's guess, an official's count
 parent: twelve-stamps
 order: 3
 date:   2026-10-20 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twelve-stamps-four-hundred-and-sixteen.mp3
+audio_length: 3724635
+audio_duration: "7:45"
 ---
 
 The hypothesis at Wörgl was about speed. Money that cost something to hold, Gesell said, would be spent, and money that was spent would move faster than money that was kept, and the faster movement would do the work that the missing money could not. Of all the claims made in the town in 1932 and 1933, that was the one a town of four thousand people could have tested by counting. This piece follows the number everyone quotes back to where it came from.

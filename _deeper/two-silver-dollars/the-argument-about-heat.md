@@ -4,6 +4,9 @@ subtitle: "Augustus Clarke, Austin O'Malley and MacDougall in American Medicine,
 parent: two-silver-dollars
 order: 2
 date:   2026-10-19 21:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-silver-dollars-the-argument-about-heat.mp3
+audio_length: 7471139
+audio_duration: "15:33"
 ---
 
 MacDougall's paper appeared in *American Medicine* in April 1907. The journal printed four replies and two rejoinders over the next eight months, and between them they contain the only contemporary examination of the experiment by physicians. The exchange is given here in more detail than the entry has room for, because it is where the missing columns of the record were first asked for, and where MacDougall explained why they were missing.

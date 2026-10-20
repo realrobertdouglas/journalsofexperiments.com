@@ -4,6 +4,9 @@ subtitle: "What the newspapers printed in March 1907, in full, and what the lett
 parent: two-silver-dollars
 order: 1
 date:   2026-10-19 21:00:00 +0000
+audio: https://audio.journalsofexperiments.com/two-silver-dollars-the-wire-story.mp3
+audio_length: 4854545
+audio_duration: "10:06"
 ---
 
 The experiment reached the public before it reached print, and it reached the public in a form its author never wrote. The *Boston Sunday Post* had it on 10 March 1907 under "Existence of 'soul' tested by doctors"; the *New York Times* had it on the Monday as a "Special to The New York Times" datelined Boston the day before; and within ten days the wire version was in the weekly papers of the South. What follows is that version as two of them printed it, *The Abbeville Press and Banner* of Abbeville, South Carolina, on 20 March, and *The Horry Herald* of Conway, South Carolina, on 21 March. The two settings differ only in misprints, and where one is garbled the other has been followed. The *Times*'s own opening paragraph is the same text in all but a word or two.

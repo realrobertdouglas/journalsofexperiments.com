@@ -4,6 +4,9 @@ subtitle: "What the public was told about the chicken heart, from the Nobel Priz
 parent: chicken-heart
 order: 2
 date:   2026-10-19 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/chicken-heart-the-birthdays.mp3
+audio_length: 5860229
+audio_duration: "12:12"
 ---
 
 The strain in Alexis Carrel's laboratory had two lives. One was in the *Journal of Experimental Medicine*, where it was a strain of connective tissue cells, counted by passages and measured by the width of a ring. The other was in the newspapers, where it was the chicken heart, and had a birthday. This piece follows the second life, because it is the one most people met, and because it shows what a yearly question with one possible answer does to a fact.

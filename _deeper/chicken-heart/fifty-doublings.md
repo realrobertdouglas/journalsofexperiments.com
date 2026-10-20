@@ -4,6 +4,9 @@ subtitle: "How two men in Philadelphia found that normal cells stop, why the jou
 parent: chicken-heart
 order: 3
 date:   2026-10-19 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/chicken-heart-fifty-doublings.mp3
+audio_length: 4822857
+audio_duration: "10:02"
 ---
 
 The belief that Carrel's strain stood for, that cells taken out of the body can go on dividing for ever, lasted until 1961. What ended it was not a repetition of Carrel's experiment but a different one, designed so that it could fail. This piece is about that experiment, told as far as possible in the words of the man who ran it.

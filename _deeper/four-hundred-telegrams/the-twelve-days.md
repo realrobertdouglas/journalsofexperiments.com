@@ -4,6 +4,9 @@ subtitle: "What Biagi sent from the ice between 25 May and 8 June 1928, what the
 parent: four-hundred-telegrams
 order: 1
 date:   2026-10-19 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-hundred-telegrams-the-twelve-days.mp3
+audio_length: 5962779
+audio_duration: "12:25"
 ---
 
 Nobile kept two rough books on the ice, one of messages received and one of messages sent, and when Lundborg took him off the floe on the night of 23 June 1928 he left his cap and his reindeer boots behind and took the two books. He said afterwards that they held "living and throbbing testimony of our anxieties on the pack, clear documentation of the tormented isolation in which we had been left." What follows is drawn from them as he printed them in 1930, from the account the base ship's captain gave him when he came aboard, and from what the Norwegian correspondent Odd Arnesen saw on the ship. The translations from Nobile's Italian are mine.

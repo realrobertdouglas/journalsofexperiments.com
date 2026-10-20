@@ -4,6 +4,12 @@ title:  "Four Hundred Telegrams"
 subtitle: "The story of the airship Italia and the Arctic, 1928 to 1929: the forecast that promised a following wind, the distress call that a Russian amateur heard before the expedition's own ship did, and the inquiry that found one man to blame."
 date:   2026-10-19 23:00:00 +0000
 young: young/four-hundred-telegrams.md
+audio: https://audio.journalsofexperiments.com/four-hundred-telegrams.mp3
+audio_length: 19042552
+audio_duration: "39:40"
+audio_young: https://audio.journalsofexperiments.com/four-hundred-telegrams-young.mp3
+audio_young_length: 7985315
+audio_young_duration: "16:38"
 categories: [experiments]
 comments: false
 ---

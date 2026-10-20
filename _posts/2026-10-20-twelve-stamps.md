@@ -4,6 +4,12 @@ title:  "Twelve Stamps"
 subtitle: "The story of Wörgl's labour certificates, Tyrol, 1932 to 1933: the money that lost one per cent a month, the speed nobody measured, and the court that read a different instrument."
 date:   2026-10-20 00:00:00 +0000
 young: young/twelve-stamps.md
+audio: https://audio.journalsofexperiments.com/twelve-stamps.mp3
+audio_length: 20171878
+audio_duration: "42:01"
+audio_young: https://audio.journalsofexperiments.com/twelve-stamps-young.mp3
+audio_young_length: 7529489
+audio_young_duration: "15:41"
 categories: [experiments]
 comments: false
 ---

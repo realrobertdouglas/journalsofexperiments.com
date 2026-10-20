@@ -4,6 +4,12 @@ title:  "Two Silver Dollars"
 subtitle: "The story of a cot bed on a Fairbanks scale, Massachusetts, 1901 to 1907: six dying patients, fifteen dogs, the three-quarters of an ounce that became twenty-one grams, and the five readings nobody read."
 date:   2026-10-19 21:00:00 +0000
 young: young/two-silver-dollars.md
+audio: https://audio.journalsofexperiments.com/two-silver-dollars.mp3
+audio_length: 18945392
+audio_duration: "39:28"
+audio_young: https://audio.journalsofexperiments.com/two-silver-dollars-young.mp3
+audio_young_length: 6877275
+audio_young_duration: "14:19"
 categories: [experiments]
 comments: false
 ---

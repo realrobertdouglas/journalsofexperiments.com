@@ -4,6 +4,9 @@ subtitle: "What went into the medium every other day for thirty-four years, what
 parent: chicken-heart
 order: 1
 date:   2026-10-19 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/chicken-heart-the-juice.mp3
+audio_length: 5186301
+audio_duration: "10:48"
 ---
 
 The strain that Alexis Carrel's laboratory kept from 1912 to 1946 was fed on two things: the plasma of young hens, and a clear fluid the laboratory called embryonic juice, made by mincing chick embryos a week old and spinning the pulp. The plasma was the clot the cells lived in. The juice was what made them grow. This piece is about the juice: where it came from, what the people who used it believed it was, and why, since 1965, it has been the likeliest explanation of the thirty-four years.

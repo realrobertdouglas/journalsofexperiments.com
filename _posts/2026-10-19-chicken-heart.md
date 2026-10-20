@@ -4,6 +4,12 @@ title:  "Chicken Heart"
 subtitle: "The story of a strain of cells from a chick embryo's heart at the Rockefeller Institute, New York, 1912 to 1946: fed every other day for thirty-four years, celebrated every January as proof that cells need never die, and the feed that nobody tested."
 date:   2026-10-19 22:00:00 +0000
 young: young/chicken-heart.md
+audio: https://audio.journalsofexperiments.com/chicken-heart.mp3
+audio_length: 19746406
+audio_duration: "41:08"
+audio_young: https://audio.journalsofexperiments.com/chicken-heart-young.mp3
+audio_young_length: 7651217
+audio_young_duration: "15:56"
 categories: [experiments]
 comments: false
 ---

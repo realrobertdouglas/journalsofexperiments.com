@@ -4,6 +4,9 @@ subtitle: "Einar Lundborg's two landings on the floe, 23 and 24 June 1928, as he
 parent: four-hundred-telegrams
 order: 2
 date:   2026-10-19 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-hundred-telegrams-midsummer-eve.mp3
+audio_length: 6378839
+audio_duration: "13:17"
 ---
 
 The Swedish relief expedition reached Spitsbergen in the third week of June 1928 with two ships, the *Quest* and the *Tanja*, two Hansa seaplanes, a three-engined Junkers and one small Fokker fitted with skis, under Captain Tornberg. The Fokker's pilot was Lieutenant Einar Lundborg of the Swedish air force, thirty-two, who had fought in Finland and Estonia and held the Iron Cross from a year in the German army. He wrote his account that winter, and it was published in New York in 1929 as *The Arctic Rescue*. The words below are his, except where Nobile's or Arnesen's are given.

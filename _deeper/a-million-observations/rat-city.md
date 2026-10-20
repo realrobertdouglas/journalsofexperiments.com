@@ -4,6 +4,9 @@ subtitle: "Towson, 1947 to 1949, and a barn at Rockville, 1958 to 1962: a quarte
 parent: a-million-observations
 order: 1
 date:   2026-10-19 19:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-million-observations-rat-city.mp3
+audio_length: 5932045
+audio_duration: "12:21"
 ---
 
 Universe 25 was the twenty-fifth of its kind, and the mice were a late choice. For twenty years before them John Calhoun had worked with rats, and everything the public knew about his mice in 1970 it had learned from his rats in 1962. This piece is about the two rat experiments: the pen in the woods at Towson, Maryland, and the room in a barn at Rockville, where the behavioural sink was made and named.
