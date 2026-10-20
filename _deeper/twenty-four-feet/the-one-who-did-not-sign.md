@@ -4,6 +4,9 @@ subtitle: "Antoine-Laurent de Jussieu, the botanist on the second commission, wh
 parent: twenty-four-feet
 order: 2
 date:   2026-10-20 14:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-four-feet-the-one-who-did-not-sign.mp3
+audio_length: 6321057
+audio_duration: "13:09"
 ---
 
 Fourteen men were appointed in the spring of 1784 to examine animal magnetism as d'Eslon practised it: nine in the commission of the Faculty of Medicine and the Academy of Sciences that Franklin headed, and five in a parallel commission of the Royal Society of Medicine. Thirteen of them signed a report that said the fluid did not exist. The fourteenth published his own. His name was Antoine-Laurent de Jussieu; he was thirty-six, a physician by training and a botanist by vocation, of the family that had run the Jardin du Roi for two generations; five years later his *Genera plantarum* would give botany the natural system of classification it still uses. In 1784 he was the one examiner who refused to say he had seen nothing. The translations from his report are mine.

@@ -4,6 +4,9 @@ subtitle: "The notes in Lavoisier's hand that set out, before the decisive exper
 parent: twenty-four-feet
 order: 3
 date:   2026-10-20 14:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-four-feet-lavoisiers-plan.mp3
+audio_length: 6982865
+audio_duration: "14:32"
 ---
 
 Among Lavoisier's papers, published in the third volume of his collected works in 1865, is a bundle on animal magnetism that the editor says Lavoisier had gathered "with the intention of publishing them". It holds the minister's letter of appointment, two summaries of the doctrine as Mesmer's school and d'Eslon taught it, the declarations of two men who had taken Mesmer's course and seen nothing, Lavoisier's own remarks on how the commission should reason, a plan for one day's experiments at Franklin's house, and a draft summary of the Report. The remarks and the plan are translated here in full, because together they are the design of the first experiment that kept its subjects from knowing what was being done to them, written down before it was run. The translation is mine.

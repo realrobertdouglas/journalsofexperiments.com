@@ -4,6 +4,9 @@ subtitle: "The run of experiments around the tree: Jumelin's hall, a surgeon who
 parent: twenty-four-feet
 order: 4
 date:   2026-10-20 14:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-four-feet-the-other-blindfolds.mp3
+audio_length: 8420762
+audio_duration: "17:32"
 ---
 
 The apricot tree is the experiment everyone remembers, and the Report itself calls it "entirely conclusive". But it sits in the middle of a sequence, and the sequence is the argument. The commissioners said they would not tell the experiments "in the order of time, but shall follow the order of the facts they were intended to elucidate", and the facts run from the smallest sensation of heat to a full convulsion started and stopped on a word. What follows is that run, in the words of the 1785 translation.

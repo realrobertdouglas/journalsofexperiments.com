@@ -4,6 +4,9 @@ subtitle: "The second document the nine commissioners signed on 11 August 1784, 
 parent: twenty-four-feet
 order: 1
 date:   2026-10-20 14:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-four-feet-the-secret-report.mp3
+audio_length: 5371987
+audio_duration: "11:11"
 ---
 
 The Report that the Imprimerie royale printed in August 1784 was not the only thing Bailly wrote for the commission that month. Alexandre Bertrand, who published a history of animal magnetism in France in 1826, put it this way: besides the report "which was spread among the public with great profusion", the united commissioners of the Academy of Sciences and the Faculty of Medicine "made another which was kept secret, and which was addressed to the minister." Bertrand printed it as a note at the end of his book. Burdin and Dubois printed it again in 1841 in their *Histoire académique du magnétisme animal*, with footnotes of their own. It bears the same date as the public Report, Paris, 11 August 1784, and the same nine names. The translation below is mine from the text as Burdin and Dubois give it, which does not differ in substance from Bertrand's; the full French is in the Sources of the entry.

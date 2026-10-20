@@ -4,6 +4,12 @@ title:  "Twenty-Four Feet"
 subtitle: "The story of the king's commissioners and the baquet, Paris and Passy, 1784: a blindfolded boy among the trees of Franklin's orchard, the fluid that was not there, and the cure that outlived the finding by a century."
 date:   2026-10-20 14:00:00 +0000
 young: young/twenty-four-feet.md
+audio: https://audio.journalsofexperiments.com/twenty-four-feet.mp3
+audio_length: 19060972
+audio_duration: "39:42"
+audio_young: https://audio.journalsofexperiments.com/twenty-four-feet-young.mp3
+audio_young_length: 8074968
+audio_young_duration: "16:49"
 categories: [experiments]
 comments: false
 ---
