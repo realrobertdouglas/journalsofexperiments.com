@@ -4,6 +4,9 @@ subtitle: "What the Commission, the House committee, three statisticians and the
 parent: fifty-three-degrees
 order: 2
 date:   2026-10-20 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/fifty-three-degrees-four-readings.mp3
+audio_length: 6630353
+audio_duration: "13:48"
 ---
 
 The entry says that the instrument nobody read on the night of 27 January 1986 was the full set of flights, including the ones that came back clean. That claim has been read four ways since, by people who all had the same twenty-four flights in front of them. This piece sets the readings side by side, because the differences between them are the complication of the story, and the entry could only summarise them.

@@ -4,6 +4,12 @@ title:  "Fifty-Three Degrees"
 subtitle: "The story of the Space Shuttle's booster joints, 1977 to 1988: the seven flights that came back with burned seals, the seventeen that came back clean, and the night the charts on the table showed only the first."
 date:   2026-10-20 23:00:00 +0000
 young: young/fifty-three-degrees.md
+audio: https://audio.journalsofexperiments.com/fifty-three-degrees.mp3
+audio_length: 20304178
+audio_duration: "42:17"
+audio_young: https://audio.journalsofexperiments.com/fifty-three-degrees-young.mp3
+audio_young_length: 6950621
+audio_young_duration: "14:28"
 categories: [experiments]
 comments: false
 ---

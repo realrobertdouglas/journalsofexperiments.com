@@ -4,6 +4,9 @@ subtitle: "The record on the joint, 1973 to January 1986: a test that opened ins
 parent: fifty-three-degrees
 order: 1
 date:   2026-10-20 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/fifty-three-degrees-the-paper-trail.mp3
+audio_length: 10238806
+audio_duration: "21:19"
 ---
 
 The entry says that the joint which failed on 28 January 1986 had been known to rotate since 1977, known to be a single seal since 1982, and known to burn since 1984. This piece sets out what the record shows, in the order the Commission reconstructed it from the files of Marshall and Thiokol, with the dates and the words. It is a history of a warning that was written down at nearly every stage and acted on, in the sense of stopping a flight, at none.
