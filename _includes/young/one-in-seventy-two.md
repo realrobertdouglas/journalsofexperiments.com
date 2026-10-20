@@ -27,7 +27,7 @@ The bridge was built in nineteen months, and the building was a triumph. The pie
 
 <figure>
   <img src="/static/img/one-in-seventy-two/opening-day-1940.jpg" alt="Opening day on the bridge: a line of cars and a crowd of people on the two-lane deck, looking along the cables to the towers">
-  <figcaption>Opening day, July 1st 1940, looking along the deck to the towers. University of Washington Libraries, Special Collections.</figcaption>
+  <figcaption>Opening day, July 1st 1940, looking along the deck to the towers. University of Washington Libraries, Special Collections, by way of the Libraries' Flickr Commons, which states no known copyright restrictions.</figcaption>
 </figure>
 
 But while the men were still pouring the concrete roadway, in May 1940, the deck began to move. In a light wind it rose and fell in slow waves, a few feet high, rolling along the bridge like the swell on the sea. The workmen felt seasick. Drivers crossing it saw the car in front sink out of sight and rise again. People gave the bridge a nickname: Galloping Gertie.
