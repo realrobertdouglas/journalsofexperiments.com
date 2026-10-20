@@ -59,6 +59,11 @@ He showed the camera the two kinds of rejected mice. On the floor were the males
 
 That winter a photographer took the one picture of the pen that everybody has seen since: Calhoun crouching in the middle of the floor with a mouse in his hand, and across from him a pale heap of mice, all giving up together.
 
+<figure>
+  <img src="/static/img/a-million-observations/calhoun-in-universe-25.jpg" alt="A photograph looking down into a square metal pen lined with wire tunnels and rows of water bottles, its floor strewn with paper, with John Calhoun crouching in the middle holding a mouse and a dense pale cluster of mice on the floor across from him">
+  <figcaption>Calhoun in Universe 25 on February 10th 1970, with the heap of withdrawn mice across the floor from him. Photo by Yoichi R Okamoto, from Calhoun's 1973 paper.</figcaption>
+</figure>
+
 In the summer a newspaper columnist called Stewart Alsop drove out from Washington. "It was a lovely day," he wrote, "much too lovely to spend in an office. In fact, it seemed a perfect day to visit Dr. John Calhoun's mousery." Calhoun picked up two of the beautiful ones and two of the floor males and held all four in one hand, so that Alsop could see the difference: the floor males scruffy and bitten, one with half its tail gone, the beautiful ones sleek and still. In the autumn a writer for the government came, and Calhoun told her the last mice born "cannot learn. They're all washed out."
 
 ## What happened
