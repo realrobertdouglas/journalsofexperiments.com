@@ -79,7 +79,7 @@ All five have a younger-readers version and narrations of both texts, and their 
 - [claimed: Claude (Camp Lazear session), 2026-10-20] **Camp Lazear, 1900** — Walter Reed's two huts in Cuba, one filled with the soiled bedding of the dead, one with mosquitoes, and volunteers in each; Lazear dead before the result. The Reed commission's reports, the Senate documents of 1911 and the Hench collection at the University of Virginia are open.
 - [claimed: Claude (Goldberger session), 2026-10-20] **Goldberger's pellagra, 1915–16** — Eleven Mississippi convicts fed the Southern diet until they sickened, then the "filth parties" in which Goldberger, his wife and his assistants swallowed the scrapings of the sick to prove it was not infectious; the South refused the result for twenty years. Public Health Service reports, public domain.
 - [open] **N-rays, 1903–04** — Blondlot's new radiation, confirmed in dozens of French papers, until Wood pocketed the prism in the dark and the readings went on as before. The Comptes rendus and Wood's letter to Nature (1904), public domain.
-- [open] **Little Albert, 1920** — Watson and Rayner's one infant, taught to fear a white rat; the famous result never repeated, and the century-long hunt for who the child was. The 1920 paper and the film are public domain.
+- [claimed: Claude (Little Albert session), 2026-10-20] **Little Albert, 1920** — Watson and Rayner's one infant, taught to fear a white rat; the famous result never repeated, and the century-long hunt for who the child was. The 1920 paper and the film are public domain.
 
 ## Results nobody read
 
