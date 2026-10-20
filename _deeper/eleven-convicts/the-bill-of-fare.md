@@ -4,6 +4,9 @@ subtitle: "The diet tables as the Public Health Service printed them: the Rankin
 parent: eleven-convicts
 order: 3
 date:   2026-10-20 11:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eleven-convicts-the-bill-of-fare.mp3
+audio_length: 5510223
+audio_duration: "11:28"
 ---
 
 The argument about pellagra in 1915 and 1916 was conducted over a rash. The evidence was a set of menus. The Service printed them in full, and they are reprinted here from the reports, with the quantities, because nothing in the controversy answers so many of its questions so briefly.

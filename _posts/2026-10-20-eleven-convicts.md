@@ -4,6 +4,12 @@ title:  "Eleven Convicts"
 subtitle: "The story of the Rankin prison farm and the filth parties, 1914 to 1937: eleven men fed biscuits, grits and syrup until six of them sickened, sixteen volunteers who took into themselves what the sick gave off, and the diet table the South declined to read for twenty years."
 date:   2026-10-20 11:00:00 +0000
 young: young/eleven-convicts.md
+audio: https://audio.journalsofexperiments.com/eleven-convicts.mp3
+audio_length: 20071658
+audio_duration: "41:48"
+audio_young: https://audio.journalsofexperiments.com/eleven-convicts-young.mp3
+audio_young_length: 7999701
+audio_young_duration: "16:39"
 categories: [experiments]
 comments: false
 ---

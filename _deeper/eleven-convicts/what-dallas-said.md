@@ -4,6 +4,9 @@ subtitle: "The Southern Medical Association's symposium on pellagra, 8 to 11 Nov
 parent: eleven-convicts
 order: 2
 date:   2026-10-20 11:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eleven-convicts-what-dallas-said.mp3
+audio_length: 7016655
+audio_duration: "14:36"
 ---
 
 The Southern Medical Association met at Dallas from 8 to 11 November 1915. Goldberger's paper on the orphanages and the asylum, "A Test of Diet in the Prevention of Pellagra," was on the programme, and the Mississippi result was a week old and in every newspaper. The discussion that followed was printed in the association's journal in January 1916, and it is the best record there is of what the physicians who treated pellagra thought when they first heard that a diet had made it. Goldberger was not in the room; Allen W. Freeman of the Public Health Service spoke for the Service. What follows is the discussion in the order the journal printed it, cut for length but not for sense.

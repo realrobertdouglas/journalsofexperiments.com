@@ -4,6 +4,9 @@ subtitle: "Goldberger's own account of the filth parties of April to June 1916: 
 parent: eleven-convicts
 order: 1
 date:   2026-10-20 11:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eleven-convicts-the-seven-experiments.mp3
+audio_length: 6483865
+audio_duration: "13:30"
 ---
 
 Everything here is from the paper Goldberger read to the Southern Medical Association at Atlanta on 16 November 1916 and published in *Public Health Reports* the next day, "The Transmissibility of Pellagra: Experimental Attempts at Transmission to the Human Subject." He wrote it in the flat voice of a laboratory notebook, and the flatness is the point: the doses were measured, the hours were counted, and the people who swallowed the material were named only by initials.
