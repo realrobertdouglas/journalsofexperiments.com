@@ -2,7 +2,7 @@ This is the same story as the full entry, told more plainly. The button at the t
 
 <figure>
   <img src="/static/img/a-flying-pin/wardang-island-1938.jpg" alt="Dozens of rabbits crowded round a small waterhole on bare sandy ground, with hundreds more scattered across the plain behind">
-  <figcaption>Rabbits at a waterhole on Wardang Island, South Australia, in 1938, during the first trials of the virus. National Archives of Australia, A1200, L44186.</figcaption>
+  <figcaption>Rabbits at a waterhole on Wardang Island, South Australia, in 1938, during the first trials of the virus. National Archives of Australia, A1200, L44186; copyright expired.</figcaption>
 </figure>
 
 ## The rabbits
