@@ -4,6 +4,12 @@ title:  "Building Number One"
 subtitle: "The story of Camp Lazear and the United States Army's Yellow Fever Board in Cuba, 1900 to 1901: two huts in a field near Quemados, the fifteen mosquitoes let loose in one of them, and the seven men who slept in the other, in the sheets of the dead, and stayed well."
 date:   2026-10-20 10:00:00 +0000
 young: young/building-number-one.md
+audio: https://audio.journalsofexperiments.com/building-number-one.mp3
+audio_length: 19473778
+audio_duration: "40:34"
+audio_young: https://audio.journalsofexperiments.com/building-number-one-young.mp3
+audio_young_length: 7504349
+audio_young_duration: "15:37"
 categories: [experiments]
 comments: false
 ---

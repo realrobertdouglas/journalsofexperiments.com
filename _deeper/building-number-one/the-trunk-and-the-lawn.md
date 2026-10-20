@@ -4,6 +4,9 @@ subtitle: "The fomites doctrine before Camp Lazear: what the ports did, the two 
 parent: building-number-one
 order: 1
 date:   2026-10-20 10:00:00 +0000
+audio: https://audio.journalsofexperiments.com/building-number-one-the-trunk-and-the-lawn.mp3
+audio_length: 5350883
+audio_duration: "11:08"
 ---
 
 Building No. 1 was built to test a belief, and the belief had a hundred years of law behind it. This piece sets out what the belief was, what it rested on, and what became of it.
