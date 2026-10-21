@@ -4,6 +4,9 @@ subtitle: "What was said about the experiment from 1971 to 2020: the slide show 
 parent: tape-two
 order: 4
 date:   2026-10-21 08:00:00 +0000
+audio: https://audio.journalsofexperiments.com/tape-two-the-argument.mp3
+audio_length: 7785977
+audio_duration: "16:13"
 ---
 
 The Stanford prison experiment was argued about for forty-seven years before anyone read its record. This piece follows the argument in order: the account its authors gave, the people who doubted it from the account alone, and the exchange that followed when the archive was read.

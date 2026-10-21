@@ -4,6 +4,9 @@ subtitle: "What the Zimbardo papers hold and what they do not: 182 boxes at Stan
 parent: tape-two
 order: 3
 date:   2026-10-21 08:00:00 +0000
+audio: https://audio.journalsofexperiments.com/tape-two-the-boxes.mp3
+audio_length: 5919731
+audio_duration: "12:19"
 ---
 
 The record of the Stanford prison experiment is a collection called the Philip G. Zimbardo papers, call number SC0750, in the Department of Special Collections and University Archives of the Stanford University Libraries. The finding aid gives its dates as 1953 to 2017 and its extent as 256 linear feet in 182 boxes, "donated by Philip G. Zimbardo to Stanford University, Special Collections in multiple accessions from 2011-2017". The materials, it says, "consist of Dr. Zimbardo's research and teaching files, professional files and correspondence, audiovisual materials used in the classroom, professional papers and articles, and materials documenting the Stanford Prison Experiment, for which he is perhaps best known." They are arranged in nine series: audiovisual materials; born-digital materials; professional files; publications and writing; research files; the Stanford Prison Experiment, which is Series 6; teaching files; oversized materials; and restricted materials. The boxes are stored off site and must be asked for forty-eight hours ahead. "Boxes 9 and 9A in Series 6 (Stanford Prison Experiment) are restricted to protect participant privacy." Files in Series 9 are closed for seventy-five years from their creation. The copyright is Zimbardo's; permission to examine the papers "is not an authorization to publish."

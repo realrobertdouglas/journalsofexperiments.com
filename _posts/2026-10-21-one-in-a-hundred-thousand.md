@@ -4,8 +4,14 @@ title:  "One in a Hundred Thousand"
 subtitle: "The story of the swine flu programme of 1976: the virus that stopped at Fort Dix in February, the forty million people vaccinated against it by December, and the count of paralysed patients that was read in time."
 date:   2026-10-21 06:00:00 +0000
 young: young/one-in-a-hundred-thousand.md
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-thousand.mp3
+audio_length: 21444094
+audio_duration: "44:40"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/one-in-a-hundred-thousand-young.mp3
+audio_young_length: 7049321
+audio_young_duration: "14:41"
 ---
 
 On the morning of Thursday 16 December 1976, David Sencer, the director of the Center for Disease Control in Atlanta, held a conference call with twenty people from the National Institutes of Health, the Bureau of Biologics and the state health departments. It was his third such call in four days. The subject was a count. Two days earlier his agency had put out a press release saying that 54 cases of Guillain-Barré syndrome, a paralysis that climbs the body from the legs, had been reported from ten states since the start of October, and that 30 of the 54 had received a swine flu shot between one and thirty days before the paralysis began. The callers agreed to recommend a one-month suspension of the National Influenza Immunization Program while the link was investigated. Sencer telephoned his superior, Theodore Cooper, the Assistant Secretary for Health, and found him at lunch in the White House staff mess with James Cavanaugh of the Domestic Council. The Secretary of Health, Education, and Welfare, David Mathews, was at another table. Cooper excused himself and put a call through to Jonas Salk, who was reached in Paris and concurred without enthusiasm. Then the three of them walked down the hall to President Ford, who, in the words of the two men who reconstructed the day for the next Secretary, "heard them out, sighed and agreed."

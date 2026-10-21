@@ -4,8 +4,14 @@ title:  "Five Drops"
 subtitle: "The story of Pasteur's anthrax trial at Pouilly-le-Fort, 1881: fifty sheep in a farmyard near Melun, the day he named for half of them to die, and the notebook that said what was in the syringe."
 date:   2026-10-21 07:00:00 +0000
 young: young/five-drops.md
+audio: https://audio.journalsofexperiments.com/five-drops.mp3
+audio_length: 19793632
+audio_duration: "41:14"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/five-drops-young.mp3
+audio_young_length: 8289228
+audio_young_duration: "17:16"
 ---
 
 <figure>

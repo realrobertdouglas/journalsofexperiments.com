@@ -4,6 +4,9 @@ subtitle: "The hundred experiments of Mars-500 and what they found: the weekly q
 parent: four-million-minutes
 order: 2
 date:   2026-10-21 09:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-million-minutes-the-other-instruments.mp3
+audio_length: 7426019
+audio_duration: "15:28"
 ---
 
 The entry follows one instrument. There were, by the institute's count, between 95 and 106 others, and most of them were run by the crew on each other. This piece sets out what the ones with published results found, grouped by what they measured, so that the wrist counters' record can be read beside them.

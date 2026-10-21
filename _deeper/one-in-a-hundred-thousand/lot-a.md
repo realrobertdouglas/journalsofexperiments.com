@@ -4,6 +4,9 @@ subtitle: "The Pittsburgh clinic of Monday 11 October 1976, hour by hour: 1,242 
 parent: one-in-a-hundred-thousand
 order: 3
 date:   2026-10-21 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-thousand-lot-a.mp3
+audio_length: 5712589
+audio_duration: "11:53"
 ---
 
 The three deaths in Pittsburgh on the eleventh day of the swine flu programme were the first test of the surveillance system the Center for Disease Control had built for it, and the only one it passed to everybody's satisfaction. The CDC's own account of the investigation was published in its *Influenza Surveillance Report* for the 1976 to 1977 season, with a shorter version in the *Morbidity and Mortality Weekly Report* of 22 October 1976. This piece follows the surveillance report's reconstruction, which was written by the Pennsylvania state epidemiologist's office and the programme's staff from the clinic's incident logs, the consent forms, the emergency-room logs of nearby hospitals, interviews with eleven clinic staff, and telephone calls to the next of kin.

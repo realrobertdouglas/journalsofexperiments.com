@@ -4,6 +4,9 @@ subtitle: "Three inquiries and three verdicts, 1963 to 1971: a majority that fou
 parent: seven-hundred-metres
 order: 2
 date:   2026-10-21 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seven-hundred-metres-the-commission-and-the-court.mp3
+audio_length: 9289010
+audio_duration: "19:21"
 ---
 
 The entry says that the courts took until 1971 to decide which of two commissions was right. This piece sets out what the inquiries found and what the courts did with it: the two technical commissions of the winter of 1963, the parliamentary commission of 1964 to 1965 with its two minority reports, and the trial at L'Aquila that ran from 1968 to 1971. The Italian quotations are in my translation.

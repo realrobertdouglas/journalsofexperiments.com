@@ -4,6 +4,9 @@ subtitle: "Ghetti's report of 3 July 1962: a lake at 1:200, fifteen cubic metres
 parent: seven-hundred-metres
 order: 1
 date:   2026-10-21 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seven-hundred-metres-the-model-at-nove.mp3
+audio_length: 9693148
+audio_duration: "20:11"
 ---
 
 The entry says that the number 700 came from a model, and that the model answered the question it was asked. This piece is about the model itself, as its author described it: the report that Augusto Ghetti, director of the Institute of Hydraulics of the University of Padua, signed on 3 July 1962 for SADE, *Esame su modello degli effetti di un'eventuale frana nel lago-serbatoio del Vajont*, "Examination on a model of the effects of a possible landslide in the Vajont reservoir". It is twelve typed pages with two tables and fourteen photographs, and it was, the parliamentary commission's minority wrote, kept "jealously guarded" in Ghetti's offices on SADE's behalf. The quotations are in my translation.

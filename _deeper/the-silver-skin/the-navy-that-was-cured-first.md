@@ -4,6 +4,9 @@ subtitle: "Takaki's two training ships, 1882 to 1884: a cure that worked for a r
 parent: the-silver-skin
 order: 3
 date:   2026-10-21 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/the-silver-skin-the-navy-that-was-cured-first.mp3
+audio_length: 4818089
+audio_duration: "10:02"
 ---
 
 Five years before the chickens at Weltevreden fell ill, the Japanese navy had been cured of beriberi. The cure was a change of ration, the man who made it believed it worked by adding protein, and that belief, which was wrong, was the handle by which Eijkman and the Dutch commission picked the whole result up and set it aside. This piece follows Takaki's own account, given in three lectures at St Thomas's Hospital in London and printed in *The Lancet* in May and June 1906, and Eijkman's reading of it in 1898.

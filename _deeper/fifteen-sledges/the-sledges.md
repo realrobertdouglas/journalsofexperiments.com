@@ -4,6 +4,9 @@ subtitle: "The two propeller sledges from Finland: what Wegener's diary says the
 parent: fifteen-sledges
 order: 1
 date:   2026-10-21 05:00:00 +0000
+audio: https://audio.journalsofexperiments.com/fifteen-sledges-the-sledges.mp3
+audio_length: 8389254
+audio_duration: "17:28"
 ---
 
 The entry says that the station in the middle of Greenland was placed where the motor sledges could reach it and that the motor sledges could not. This piece goes through the record of the machines: what they were, what Wegener wrote about them day by day in the week that decided the autumn of 1930, what the engineer who drove them said in their defence, and what became of them.

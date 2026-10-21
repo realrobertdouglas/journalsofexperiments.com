@@ -4,6 +4,9 @@ subtitle: "How the Indies and Dutch newspapers fought the beriberi question from
 parent: the-silver-skin
 order: 2
 date:   2026-10-21 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/the-silver-skin-the-paper-war.mp3
+audio_length: 6096009
+audio_duration: "12:41"
 ---
 
 The Dutch and Indies press of the 1890s is open on Delpher, the national library's archive, and the beriberi debate can be read in it week by week. What follows is a reading of that debate, in my translation, from the summer of 1896, when a Soerabaja paper announced that Eijkman had found the cure, to the autumn of 1898, when a colonial review said the rice-poison theory should rest in peace.

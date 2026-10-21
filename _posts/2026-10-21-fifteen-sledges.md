@@ -4,8 +4,14 @@ title:  "Fifteen Sledges"
 subtitle: "The story of Alfred Wegener's station Eismitte in the middle of the Greenland ice, 1930 to 1931: the two motor sledges that could not climb the snow, the fifteen dog sledges that went in to make up for them, and the year of readings the station kept all the same."
 date:   2026-10-21 05:00:00 +0000
 young: young/fifteen-sledges.md
+audio: https://audio.journalsofexperiments.com/fifteen-sledges.mp3
+audio_length: 19778474
+audio_duration: "41:12"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/fifteen-sledges-young.mp3
+audio_young_length: 8138134
+audio_young_duration: "16:57"
 ---
 
 On 30 October 1930, at a point on the Greenland ice sheet that the German expedition had named Eismitte, "Ice-Middle", 400 kilometres from the west coast and about 3,000 metres above the sea, the thermometer stood at 54 degrees below zero and three dog sledges came in from the west. They had been forty days on the way. There were twenty dogs left, and the sledges carried no provisions; the last load had been left in the snow ten kilometres short of the station. On one of them was the leader of the expedition, Alfred Wegener, who would be fifty in two days. On another was the meteorologist Fritz Loewe, every one of whose toes was frozen. On the third was a Greenlander of twenty-two from the Uummannaq district named Rasmus Villumsen. The two men who met them, Johannes Georgi and Ernst Sorge, had been living since 5 October in a hole they had dug in the firn, and had expected nobody. They had written in September that if no supplies reached them by 20 October they would leave the station on foot.

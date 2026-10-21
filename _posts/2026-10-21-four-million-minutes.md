@@ -4,8 +4,14 @@ title:  "Four Million Minutes"
 subtitle: "The story of Mars-500, Moscow, 2010 to 2011: six men sealed for 520 days in a pretend spacecraft, a crew that came out well and said so, and the wrist counters that recorded a different flight."
 date:   2026-10-21 09:00:00 +0000
 young: young/four-million-minutes.md
+audio: https://audio.journalsofexperiments.com/four-million-minutes.mp3
+audio_length: 20746164
+audio_duration: "43:13"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/four-million-minutes-young.mp3
+audio_young_length: 7651615
+audio_young_duration: "15:56"
 ---
 
 At two in the afternoon on 4 November 2011, Moscow time, in a building at 76A Khoroshevskoye Shosse that belonged to the Institute of Biomedical Problems, a hatch that had been shut for 520 days was opened from outside. Six men in blue overalls came through it into television lights and the applause of the people who had been watching them. Diego Urbina, who was twenty-eight and had gone in at twenty-seven, said: "On the Mars500 mission we have accomplished on Earth the longest space voyage ever, so that humankind can one day greet a new dawn on a distant but reachable planet." Romain Charles, who was thirty-one going in, said: "after a motionless trip of 520 days, I'm proud to prove, with my international crewmates, that a human journey to the Red Planet is feasible." Then the six were taken to the doctors and their families, and the press was told to come back on 8 November.

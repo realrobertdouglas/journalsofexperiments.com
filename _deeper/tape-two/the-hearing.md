@@ -4,6 +4,9 @@ subtitle: "San Francisco, October 25, 1971: the last witness of a nine-hour day 
 parent: tape-two
 order: 1
 date:   2026-10-21 08:00:00 +0000
+audio: https://audio.journalsofexperiments.com/tape-two-the-hearing.mp3
+audio_length: 6639351
+audio_duration: "13:49"
 ---
 
 The letter is on the letterhead of the Committee on the Judiciary of the House of Representatives, dated October 18, 1971, and signed by its chairman, Emanuel Celler of New York. "Subcommittee No. 3 of this Committee has scheduled a public hearing on prisoners, prison reform, and prisoners' rights in San Francisco on October 25, 1971. This will confirm the invitation to testify at the Subcommittee's hearing which you have received and, I understand, accepted. The hearing is scheduled to begin at 9:30 a.m., in the Ceremonial Courtroom, Federal Building Courthouse, 450 Golden Gate Avenue, San Francisco, California." It went to Philip Zimbardo at Stanford, nine weeks after his prison closed, and it is in the archive of the experiment, in Box 11, Folder 45.

@@ -4,6 +4,9 @@ subtitle: "Eight weeks at China Lake in the summer of 1961: a smoke that turned 
 parent: thirty-one-percent
 order: 1
 date:   2026-10-21 10:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-one-percent-cyclops.mp3
+audio_length: 8135428
+audio_duration: "16:56"
 ---
 
 The entry says that Hurricane Esther was the pilot, and that Project Stormfury was established on the strength of it. This piece is about how the pilot was made, from the Naval Ordnance Test Station's own report, written at China Lake in May 1962 by Pierre Saint-Amand, who ran it, and Graeme Henderson of the station's technical information department.

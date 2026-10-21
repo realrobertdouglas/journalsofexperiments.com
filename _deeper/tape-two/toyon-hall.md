@@ -4,6 +4,9 @@ subtitle: "May 15 and 16, 1971: an undergraduate's weekend prison in a dormitory
 parent: tape-two
 order: 2
 date:   2026-10-21 08:00:00 +0000
+audio: https://audio.journalsofexperiments.com/tape-two-toyon-hall.mp3
+audio_length: 5756917
+audio_duration: "11:59"
 ---
 
 The published accounts of the Stanford prison experiment mention it in an acknowledgment. The 1973 paper thanks "David Jaffe who served as 'warden' and pre-tested some of the variables in the mock prison situation". Zimbardo's slide show, his 1992 film and most of his articles leave it out; *The Lucifer Effect* gives it an endnote. The archive gives it eighty-two pages: "A Simulated Prison, David Jaffe, Social Psychology, Spring, 1971", the report of a student project, with appendices of rules, participants' diaries and a release form, now digitised in Box 9, Folder 60 of the Zimbardo papers. Thibault Le Texier read it in 2017 and made it the first of his seven findings: that in designing the experiment of August, Zimbardo "borrowed several key elements from a student experiment conducted 3 months before".

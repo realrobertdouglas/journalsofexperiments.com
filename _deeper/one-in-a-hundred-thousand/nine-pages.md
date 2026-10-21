@@ -4,6 +4,9 @@ subtitle: "Sencer's action memorandum of 13 March 1976, section by section: seve
 parent: one-in-a-hundred-thousand
 order: 1
 date:   2026-10-21 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-thousand-nine-pages.mp3
+audio_length: 7171607
+audio_duration: "14:56"
 ---
 
 The decision to vaccinate the United States against swine influenza was taken on paper before it was taken anywhere else, and the paper survives: nine typed pages, headed "Swine Influenza--ACTION," addressed from the Assistant Secretary for Health to the Secretary of Health, Education, and Welfare, with the line "Prepared by: CDC, SENCER, 3/13/76" at the foot. It went up through the Office of Management and Budget to the President as Attachment B to his briefing for the meeting of 22 March, and the Gerald R. Ford Presidential Library has scanned that copy from the White House central files. Neustadt and Fineberg, who printed it in their 1978 report, said it was "worth reading in full." This piece follows it in its own order, with the Budget Office's one-page list of doubts, Attachment A, at the end.

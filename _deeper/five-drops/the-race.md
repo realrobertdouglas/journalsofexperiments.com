@@ -4,6 +4,9 @@ subtitle: "Toussaint's sealed note, Pasteur's holiday cut short, and the summer 
 parent: five-drops
 order: 1
 date:   2026-10-21 07:00:00 +0000
+audio: https://audio.journalsofexperiments.com/five-drops-the-race.mp3
+audio_length: 5762101
+audio_duration: "12:00"
 ---
 
 The vaccine used at Pouilly-le-Fort was made with an antiseptic, and the man who had first made an anthrax vaccine with an antiseptic was not at the farm. This piece is about him, and about the ten months before the trial in which his work and Pasteur's ran side by side. Nearly everything in it comes from the *Comptes rendus* of 1880 and 1881 and from Gerald Geison's reading of Pasteur's notebooks and letters; the French is my translation.

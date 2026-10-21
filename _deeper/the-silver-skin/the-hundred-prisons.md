@@ -4,6 +4,9 @@ subtitle: "Vorderman's survey of 1896, prison by prison: the letter that did not
 parent: the-silver-skin
 order: 1
 date:   2026-10-21 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/the-silver-skin-the-hundred-prisons.mp3
+audio_length: 7436949
+audio_duration: "15:29"
 ---
 
 Adolphe Vorderman's report on the prisons of Java and Madura is 142 pages, with sixteen appendices, twelve plates and a folding map, printed at Batavia in 1897 by the society that published the laboratory's journal. It is the document that turned a chicken disease into a government question, and it was designed, by a man who had already guessed the answer, to stop him from finding it where it was not. This piece follows the report's own pages, in my translation.

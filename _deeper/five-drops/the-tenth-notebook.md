@@ -4,6 +4,9 @@ subtitle: "A hundred and fifty notebooks shut in a family cupboard, the three pa
 parent: five-drops
 order: 3
 date:   2026-10-21 07:00:00 +0000
+audio: https://audio.journalsofexperiments.com/five-drops-the-tenth-notebook.mp3
+audio_length: 4875657
+audio_duration: "10:09"
 ---
 
 The account of Pouilly-le-Fort that Pasteur published in June 1881 is six pages long and says nothing about how the vaccine was made. The account he wrote for himself fills three pages of a notebook and says exactly how. This piece is about that notebook: what it is, where it went, who read it, and what they made of it. I could not read it myself; the Bibliothèque nationale's finding aid lists it but shows no digital copy, and Gallica refused an automated reader. What follows rests on Gerald Geison's book of 1995, which reproduces the pages in facsimile and translates them, and on the library's catalogue.

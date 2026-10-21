@@ -4,8 +4,14 @@ title:  "Seven Hundred Metres"
 subtitle: "The story of the Vajont dam and the slope of Monte Toc, 1959 to 1963: a mountain run as an experiment with the water as its control, a model of gravel that gave one number, and the question nobody put to it."
 date:   2026-10-21 03:00:00 +0000
 young: young/seven-hundred-metres.md
+audio: https://audio.journalsofexperiments.com/seven-hundred-metres.mp3
+audio_length: 20370036
+audio_duration: "42:26"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/seven-hundred-metres-young.mp3
+audio_young_length: 8300000
+audio_young_duration: "17:17"
 ---
 
 On 9 October 1963, in the offices of the Italian electricity board in Venice, Alberico Biadene wrote a letter to the engineer in charge of the Vajont dam, Mario Pancini, who was on holiday and about to leave for Wiesbaden. The letter told him to come back. "Returning to the Vajont," Biadene wrote, "I will tell you that in these days the velocities of translation of the landslide have decidedly increased. Yesterday morning they were, for some points, 20 centimetres in twenty-four hours, and this both low down and high up." He listed what he had seen on the mountain the day before: the cracks in the ground, the dips in the road, "the evident leaning of the trees on the slope above the Pozza, the opening of the great fissure that bounds the landslide zone, the moving of points even towards the Pineda that until now had stayed still", and he said that all of it "makes one think the worst". Then he gave the number that the whole affair had come to rest on. "Meanwhile the reservoir is falling a metre a day and this morning should be at level 700. I think of reaching level 695, always with the aim of creating a band of safety for the waves."

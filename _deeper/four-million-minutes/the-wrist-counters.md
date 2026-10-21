@@ -4,6 +4,9 @@ subtitle: "The actigraphs of Mars-500 and their record in full: how the watches 
 parent: four-million-minutes
 order: 1
 date:   2026-10-21 09:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-million-minutes-the-wrist-counters.mp3
+audio_length: 7692125
+audio_duration: "16:01"
 ---
 
 The entry says that six wristwatches recorded a flight that nobody described while it ran. This piece sets out what the watches were, how far they can be trusted, and what they recorded for each man, with the numbers as the Penn group printed them in the *Proceedings of the National Academy of Sciences* in January 2013 and in the appendix to that paper. The crew are the letters the paper gave them, a to f, assigned at random; the paper says nothing about which letter is which man, and neither does this.

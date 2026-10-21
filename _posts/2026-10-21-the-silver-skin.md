@@ -4,8 +4,14 @@ title:  "The Silver Skin"
 subtitle: "The story of Eijkman's chickens and the prisons of Java, 1889 to 1901: the cooked rice from a hospital kitchen that paralysed a laboratory's hens, the hundred prisons that answered the question, and the twelve years in which the right experiment was read through the wrong hypothesis."
 date:   2026-10-21 04:00:00 +0000
 young: young/the-silver-skin.md
+audio: https://audio.journalsofexperiments.com/the-silver-skin.mp3
+audio_length: 19925354
+audio_duration: "41:30"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/the-silver-skin-young.mp3
+audio_young_length: 8199190
+audio_young_duration: "17:04"
 ---
 
 On 10 July 1889, in the grounds of the Great Military Hospital at Weltevreden, the European quarter of Batavia, a strong cock fell ill. It walked unsteadily, then sat back on its hocks, then fell on its side and could not get up. Its comb went blue-red, its neck bent back, its head was drawn in, and its breathing slowed. It was put in a pen by itself and three days later it was dead. It was one of about six chickens that the government's new laboratory kept in a well-built hen-house on its plot, and in February all six had been injected with cultures of bacteria grown from the blood of a man who had just died of beriberi. The laboratory existed to find the microbe of beriberi. A cock with paralysed legs, and then a hen, and then another, looked like what it was looking for.

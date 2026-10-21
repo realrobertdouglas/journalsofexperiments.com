@@ -4,6 +4,9 @@ subtitle: "The sheep vaccinated after Pouilly-le-Fort, counted by Pasteur, by th
 parent: five-drops
 order: 2
 date:   2026-10-21 07:00:00 +0000
+audio: https://audio.journalsofexperiments.com/five-drops-the-ledger.mp3
+audio_length: 4980473
+audio_duration: "10:22"
 ---
 
 Fifty sheep in a yard proved that the vaccine worked on fifty sheep in a yard. Whether it worked on the flocks of France was a different question, answered by a different instrument: the counts that farmers, veterinarians and Pasteur's own laboratory kept over the next two years. This piece follows those counts as Pasteur laid them before the agricultural societies and the Académie, and the failures that his critics laid beside them. The French is my translation.

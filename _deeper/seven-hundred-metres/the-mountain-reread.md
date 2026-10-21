@@ -4,6 +4,9 @@ subtitle: "The Corps of Engineers' report of 1985: clay on the sliding surface, 
 parent: seven-hundred-metres
 order: 3
 date:   2026-10-21 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seven-hundred-metres-the-mountain-reread.mp3
+audio_length: 9357922
+audio_duration: "19:29"
 ---
 
 The entry says that the engineers read the slide for twenty years, and that in 1985 two of them put the filling record beside the rain. This piece is about that report: *The Vaiont Slide, a Geotechnical Analysis Based on New Geologic Observations of the Failure Surface*, by Alfred J. Hendron Jr. of the University of Illinois and Franklin D. Patton of Vancouver, written under contract for the US Army Corps of Engineers and published by its Waterways Experiment Station at Vicksburg in June 1985, in two volumes. It is a United States government work, and the one full account of the Vajont in English.

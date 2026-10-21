@@ -4,6 +4,9 @@ subtitle: "Tina Merlin's articles in L'Unità, 1959 to 1963: the one that was pr
 parent: seven-hundred-metres
 order: 4
 date:   2026-10-21 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seven-hundred-metres-the-correspondent-from-belluno.mp3
+audio_length: 6970613
+audio_duration: "14:31"
 ---
 
 The entry says that the only question anyone put in writing, in four years, that the model could not answer and the mountain did, was asked by a newspaper correspondent in February 1961. This piece is about her and what she wrote. Tina Merlin was born at Trichiana, in the province of Belluno, on 19 August 1926, had been a courier for the partisans in the war, and from 1951 to 1967 was the local correspondent of *L'Unità*, the daily of the Italian Communist Party, for the province. The paper's national edition is online; its Belluno pages, where her dispatches ran, are not, so the articles of 1959 to 1961 are known here from their titles as the parliamentary commission listed them, from the sentences the commission's minority quoted, and from the two headlines the paper reproduced in facsimile on the morning after the disaster. Her dispatch of 10 October 1963 is in the national edition, and is quoted from it. The translations are mine.

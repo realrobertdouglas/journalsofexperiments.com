@@ -4,6 +4,9 @@ subtitle: "Stockpiling, March to June 1976: Alexander's question to the committe
 parent: one-in-a-hundred-thousand
 order: 2
 date:   2026-10-21 06:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-thousand-the-question-nobody-answered.mp3
+audio_length: 6913403
+audio_duration: "14:24"
 ---
 
 There was a second way to run the swine flu programme, and it was proposed four times between March and June 1976 by people inside the circle that made the decision. Make the vaccine, they said, and then wait: put it into people only if the virus showed itself again, in the southern hemisphere's winter or in America's autumn. The proposal was never adopted, never formally rejected, and never answered on its merits in any document Neustadt and Fineberg could find except one staff study of May. This piece gathers what the record holds of it.

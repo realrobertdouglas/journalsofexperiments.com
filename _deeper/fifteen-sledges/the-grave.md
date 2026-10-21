@@ -4,6 +4,9 @@ subtitle: "How Sorge and Weiken read the route west from Eismitte in May 1931: t
 parent: fifteen-sledges
 order: 2
 date:   2026-10-21 05:00:00 +0000
+audio: https://audio.journalsofexperiments.com/fifteen-sledges-the-grave.mp3
+audio_length: 6343297
+audio_duration: "13:12"
 ---
 
 The entry says that the search for Wegener was a reading of the route, and gives the result. This piece gives the reading, in the words of the man who made it. Ernst Sorge's account, "How we found Wegener", was written for the press as "the first authentic account", carried the Akademia agency's world copyright, and appeared in the German papers on 19 August 1931, three months after the event; what follows is my translation from the *Dresdner Neueste Nachrichten*. It is the one part of the story in which the men of Eismitte speak at length in their own words, and it is a careful document, written by a schoolteacher of physics who knew that what he wrote would be read by the dead man's family.

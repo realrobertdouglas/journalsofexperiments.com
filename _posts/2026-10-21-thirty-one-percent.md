@@ -4,8 +4,14 @@ title:  "Thirty-One Percent"
 subtitle: "The story of Project Stormfury, 1961 to 1983: the hurricanes seeded with silver iodide, the wind that fell by a third, and the storms that did the same thing with nobody in the sky."
 date:   2026-10-21 10:00:00 +0000
 young: young/thirty-one-percent.md
+audio: https://audio.journalsofexperiments.com/thirty-one-percent.mp3
+audio_length: 20786096
+audio_duration: "43:18"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/thirty-one-percent-young.mp3
+audio_young_length: 7204635
+audio_young_duration: "15:00"
 ---
 
 At noon Greenwich time on Monday, 18 August 1969, eight in the morning in Puerto Rico, a Navy A-6 Intruder came at Hurricane Debbie from the south-south-west at 33,000 feet, crossed the eye, and flew into the wall of cloud on the far side. The storm was about 650 nautical miles east-north-east of the Naval Station at Roosevelt Roads, farther than anyone had meant to work. Its strongest winds, measured by a Weather Bureau DC-6 at 12,000 feet, were 98 knots. A short way into the wall cloud, at the place where fourteen years of flying into hurricanes said the strongest winds should be, the crew began dropping canisters. There were 208 of them, each holding 190 grammes of silver iodide, and they went out along a line leading straight away from the centre of the storm, over two or three minutes and fourteen to twenty miles. Then the aircraft turned for home. Two hours later another Intruder did the same thing, and two hours after that a third, and a fourth, and a fifth.

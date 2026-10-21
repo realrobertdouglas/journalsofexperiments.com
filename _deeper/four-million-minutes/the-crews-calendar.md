@@ -4,6 +4,9 @@ subtitle: "The 520 days as the six lived them, from the diaries of Romain Charle
 parent: four-million-minutes
 order: 3
 date:   2026-10-21 09:00:00 +0000
+audio: https://audio.journalsofexperiments.com/four-million-minutes-the-crews-calendar.mp3
+audio_length: 6957343
+audio_duration: "14:29"
 ---
 
 The entry follows the instruments. This piece follows the days, in the crew's own words where they wrote them. Romain Charles and Diego Urbina sent nineteen written diaries and fifteen video diaries to ESA between June 2010 and October 2011; the institute posted a bulletin most weeks and answered eighteen questions from each man at the one-year mark. The quotations are theirs.

@@ -4,6 +4,9 @@ subtitle: "The rules that decided which hurricanes could be seeded, the count of
 parent: thirty-one-percent
 order: 2
 date:   2026-10-21 10:00:00 +0000
+audio: https://audio.journalsofexperiments.com/thirty-one-percent-the-years-without-a-storm.mp3
+audio_length: 7346727
+audio_duration: "15:18"
 ---
 
 The entry says that Project Stormfury seeded four hurricanes in twenty-one years and spent most of the rest of the time waiting. This piece is about the waiting: the rules that made a storm eligible, the arithmetic of how many storms those rules allowed, and what the project tried to do about it.
