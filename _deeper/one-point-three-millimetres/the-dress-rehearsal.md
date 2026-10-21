@@ -3,7 +3,10 @@ title:  "The dress rehearsal"
 subtitle: "From the Senate hearing of 10 July 1990 to the pictures of 13 January 1994: the test that was never required, the prescription, a 25-million-dollar settlement, five spacewalks, and two photographs of one galaxy."
 parent: one-point-three-millimetres
 order: 2
-date:   2026-10-21 21:00:00 +0000
+date:   2026-10-21 20:30:00 +0000
+audio: https://audio.journalsofexperiments.com/one-point-three-millimetres-the-dress-rehearsal.mp3
+audio_length: 8828014
+audio_duration: "18:23"
 ---
 
 The entry ends with the mirror corrected and the telescope working. This piece follows the three and a half years between the announcement of the flaw and the first corrected pictures, from the record: the Senate hearing of 10 July 1990, in which the people responsible argued over the test that was not done before anyone knew what had gone wrong; the board's findings; the fix; the settlement; and the servicing mission of December 1993.

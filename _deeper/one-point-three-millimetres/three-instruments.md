@@ -3,7 +3,10 @@ title:  "Three instruments"
 subtitle: "The refractive, reflective and inverse null correctors in Perkin-Elmer's test tower, 1978 to 1990: what each could see, what each said, what the board measured when it took them apart on paper, and the mirror in the crate that was right."
 parent: one-point-three-millimetres
 order: 1
-date:   2026-10-21 21:00:00 +0000
+date:   2026-10-21 20:30:00 +0000
+audio: https://audio.journalsofexperiments.com/one-point-three-millimetres-three-instruments.mp3
+audio_length: 9744042
+audio_duration: "20:17"
 ---
 
 The entry says that two instruments disagreed with the one that was trusted and that their readings were set aside as the fault of the instruments. That is the whole story in a sentence, and it is worth slowing down, because the three devices were not alike, the engineers' ranking of them was not foolish, and the measurements the board made in 1990 were ingenious in a way the entry can only summarise. What follows comes from the board's report of November 1990, its Appendix D on the interferograms and Appendix E on the mirror as built, and from the quality report that George Rodney's office wrote beside it.
