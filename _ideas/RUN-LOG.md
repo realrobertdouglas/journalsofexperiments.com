@@ -111,3 +111,12 @@ One block per entry, appended by the writer that landed it (format in `_ideas/OV
 - Not reached / second hand: the Klinische Wochenschrift of 1929 itself (HathiTrust full view behind Cloudflare, Springer paywalled, archive.org's run stops at 1927), so Unger's letter and the addendum on page 2287 are known only through the newspapers of 10 December 1929 and later summaries; the Berlin tabloid of November 1929 not identified; Forssmann's memoir (1972/1974) in copyright, quoted through Bröer and Meyers; Forssmann 1931, Klein 1930 and Cournand and Ranges 1941 as the Nobel lectures and the DGK archive describe them; Cournand's biographical page, the Mayo, JVS, Thieme and Elsevier pages 403 or bot-walled; three of eight Zeitungsportal pages returned no OCR; numbers that differ (65 or 60 centimetres; atrium or ventricle; 35 or 30 centimetres on the first attempt; Klein's eleven or thirty patients; Berlin or Munich for the 1931 congress; nine, five or seventeen self-catheterisations; American or French captors; death on 1 or 2 June 1979) listed in the colophon
 - Live: https://journalsofexperiments.com/experiments/2026/10/21/sixty-five-centimetres.html
 - Started 08:23, text final 09:09, published 09:27
+
+## The St Francis Dam, 1928: re-opened — 2026-10-21 18:33 UTC
+- The writer started at 09:10 and stopped at about 09:30 on a usage limit. It was more than four hours past its start, so the line is open again (foreman's cycle, step 3).
+- Its draft is on branch `worktree-agent-aff4f34aab8a46fa0`, commit 0e56fc3: `_posts/2026-10-21-three-inches.md` ("Three Inches", about 6,400 words before Sources, colophon written) and three figures in `static/img/three-inches/`. It has not been through the checker.
+- Not yet written: the younger version, and the two companions the entry already links, `on-the-stand` and `six-reports`.
+- The next writer should start from that branch instead of from nothing, and set the date by rule 4 at the push.
+
+## Foreman paused — 2026-10-21 18:33 UTC
+- The first foreman (00:55 to 09:31) stopped its loop after the usage limit. Eleven entries landed, none audio pending; the only failure is the line above. The run continues from another computer.
