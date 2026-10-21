@@ -4,6 +4,9 @@ subtitle: "A home freezer, a rented aeroplane and a snowstorm nobody claimed: ho
 parent: one-in-a-hundred-and-ten
 order: 1
 date:   2026-10-21 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-and-ten-the-cold-box.mp3
+audio_length: 6687385
+audio_duration: "13:55"
 ---
 
 Nobody at the General Electric Research Laboratory set out to make weather. The company's own history of Project Cirrus, written by Barrington Havens in 1952, traces the work back to a request from the Chemical Warfare Service in 1940: Irving Langmuir and Vincent Schaefer were asked to study how gas-mask filters caught smoke, and to make smokes to test them with. They learned how to make particles of extraordinarily uniform size by heating an oil, mixing the vapour with air and quenching it suddenly. When a form letter came round in August 1941 asking whether anyone could make a white screening smoke to cover whole areas against bombing, they tried the same method on a large scale, and the Army used the generators through the war.

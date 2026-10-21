@@ -4,6 +4,12 @@ title:  "One in a Hundred and Ten"
 subtitle: "The story of Project Cirrus and the hurricane of October 1947, 1946 to 1961: a hundred and eighty pounds of dry ice dropped into a storm that was leaving, the turn it made that night, and the experiment that could never have a second hurricane."
 date:   2026-10-21 01:00:00 +0000
 young: young/one-in-a-hundred-and-ten.md
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-and-ten.mp3
+audio_length: 20254652
+audio_duration: "42:11"
+audio_young: https://audio.journalsofexperiments.com/one-in-a-hundred-and-ten-young.mp3
+audio_young_length: 8088232
+audio_young_duration: "16:50"
 categories: [experiments]
 comments: false
 ---

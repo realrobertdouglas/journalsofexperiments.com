@@ -4,6 +4,9 @@ subtitle: "How three Weather Bureau forecasters found the hurricane in 1957, and
 parent: one-in-a-hundred-and-ten
 order: 2
 date:   2026-10-21 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-a-hundred-and-ten-the-log-of-the-lisieux.mp3
+audio_length: 5710125
+audio_duration: "11:53"
 ---
 
 The paper is eight pages long and appeared in the *Monthly Weather Review* for July 1957, ten years after the storm. Its authors were Conrad P. Mook, Eugene W. Hoover and Robert A. Hoover of the Weather Bureau's forecast centre at Washington National Airport; by the time it was printed Mook had moved to an Army ordnance laboratory. Its title promises an analysis of the movement of a hurricane off the east coast between 12 and 14 October 1947, and its first paragraph says why one was needed. The storm had crossed southern Florida and gone out to sea near Miami "on a course which seemed to offer no further threat to the North Atlantic coast of the United States. However, on October 13 the hurricane turned rather sharply to the left, and on October 15 it moved inland near Savannah, Ga." The course it took "as it made its historic turn has been in doubt due to the scarcity of reports received at the time from ships sailing near the storm center." Several reconnaissance aircraft had been near it on the 13th, "but even their reports did not give a complete enough picture," so that Tannehill's standard work on hurricanes showed the path as unknown during the turn.
