@@ -4,6 +4,9 @@ subtitle: "The evening of 14 November 1892 at the Royal Geographical Society: ho
 parent: a-pair-of-oilskin-breeches
 order: 2
 date:   2026-10-21 08:15:00 +0000
+audio: https://audio.journalsofexperiments.com/a-pair-of-oilskin-breeches-the-prophets.mp3
+audio_length: 8856030
+audio_duration: "18:26"
 ---
 
 The entry says that the men who knew the Arctic best told Nansen his plan was madness, and that one of them wrote afterwards to say he had been wrong. This piece gives the evening in full. Nansen read his paper, "How can the North Polar Region be Crossed?", to the Royal Geographical Society in London on 14 November 1892, three weeks after the *Fram* was launched; the paper and the discussion were printed in the first number of *The Geographical Journal* in January 1893, and Nansen reprinted the sharpest objections, with General Greely's, in the first chapter of *Farthest North* in 1897.

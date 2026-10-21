@@ -4,6 +4,12 @@ title:  "A Pair of Oilskin Breeches"
 subtitle: "The story of the Jeannette and the Fram, 1879 to 1896: the ship sent through Bering Strait to find a warm current and an open sea, the floe that carried her wreckage to Greenland in three years, and the ship built to follow it."
 date:   2026-10-21 08:15:00 +0000
 young: young/a-pair-of-oilskin-breeches.md
+audio: https://audio.journalsofexperiments.com/a-pair-of-oilskin-breeches.mp3
+audio_length: 19176576
+audio_duration: "39:56"
+audio_young: https://audio.journalsofexperiments.com/a-pair-of-oilskin-breeches-young.mp3
+audio_young_length: 8247404
+audio_young_duration: "17:10"
 categories: [experiments]
 comments: false
 ---

@@ -4,6 +4,9 @@ subtitle: "What three kayakers found off Julianehaab on 18 June 1884, what Carl 
 parent: a-pair-of-oilskin-breeches
 order: 1
 date:   2026-10-21 08:15:00 +0000
+audio: https://audio.journalsofexperiments.com/a-pair-of-oilskin-breeches-the-list.mp3
+audio_length: 9090838
+audio_duration: "18:56"
 ---
 
 The entry says that the *Jeannette*'s result reached Christiania on a pair of oilskin breeches. This piece goes through the record of the find: what was found, what the people who handled it said, what the people who did not want to believe it said, and the arithmetic Nansen made from it. The documents are Lytzen's letter of 23 June 1884, Captain Wilson's statement and Noros's letter of 20 August 1884, all printed by Charles Wolcott Brooks in San Francisco that September; Lytzen's article in the Danish Geographical Society's journal for 1885, which I have translated; and the first chapter of *Farthest North*.
