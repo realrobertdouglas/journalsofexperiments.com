@@ -4,6 +4,12 @@ title:  "Three-Quarters of a Pint"
 subtitle: "The story of the Lanarkshire milk experiment, 1930 to 1939: twenty thousand children in sixty-seven schools, the teachers who gave the milk to the ones who needed it, and the result that three statisticians could not make say anything for certain."
 date:   2026-10-21 06:30:00 +0000
 young: young/three-quarters-of-a-pint.md
+audio: https://audio.journalsofexperiments.com/three-quarters-of-a-pint.mp3
+audio_length: 19693436
+audio_duration: "41:01"
+audio_young: https://audio.journalsofexperiments.com/three-quarters-of-a-pint-young.mp3
+audio_young_length: 8114152
+audio_young_duration: "16:54"
 categories: [experiments]
 comments: false
 ---

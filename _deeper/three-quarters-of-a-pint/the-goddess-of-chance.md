@@ -4,6 +4,9 @@ subtitle: "Student's nine pages of December 1931, read in order: the four defect
 parent: three-quarters-of-a-pint
 order: 2
 date:   2026-10-21 06:30:00 +0000
+audio: https://audio.journalsofexperiments.com/three-quarters-of-a-pint-the-goddess-of-chance.mp3
+audio_length: 7760491
+audio_duration: "16:09"
 ---
 
 William Sealy Gosset's paper on the Lanarkshire experiment is nine pages of *Biometrika*, volume 23, pages 398 to 406, published in December 1931 under the name he had used since 1908, "Student." It is read today mostly in summary, as the paper that found the fatal mistake, and the summary is right; but the paper is also a model of how to tell a government department that its largest experiment has failed without once raising the voice, and it has a shape worth following from beginning to end.

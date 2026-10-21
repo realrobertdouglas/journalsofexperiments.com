@@ -4,6 +4,9 @@ subtitle: "What Student proposed instead, in 1931, and what became of it: pairs 
 parent: three-quarters-of-a-pint
 order: 3
 date:   2026-10-21 06:30:00 +0000
+audio: https://audio.journalsofexperiments.com/three-quarters-of-a-pint-fifty-pairs-of-twins.mp3
+audio_length: 8125482
+audio_duration: "16:55"
 ---
 
 Student's paper on the Lanarkshire experiment would be remembered if it had stopped at its diagnosis. It did not. "This note would be incomplete without some constructive proposals in case it should be considered necessary to do further work upon the subject," he wrote, and the two pages that follow are a design for the experiment that should have been run, and a second design for one that would have been better and cheaper. Both were taken up, in part, within a few years. This piece gives the proposals as he wrote them, what Ethel Elderton could and could not do with the cards, how the Milk Nutrition Committee ran the experiment again, and how a statistician of our own day reads the whole affair.

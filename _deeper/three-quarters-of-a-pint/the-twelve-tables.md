@@ -4,6 +4,9 @@ subtitle: "What the report's tables say, and what four readers made of the same 
 parent: three-quarters-of-a-pint
 order: 1
 date:   2026-10-21 06:30:00 +0000
+audio: https://audio.journalsofexperiments.com/three-quarters-of-a-pint-the-twelve-tables.mp3
+audio_length: 10759140
+audio_duration: "22:24"
 ---
 
 The Lanarkshire report is twenty pages long and carries twelve tables. Everything written about the experiment in the ninety years since has been worked from those tables, with one exception, Ethel Elderton's paper of 1933, which was worked from the cards. This piece goes through the tables in order and then through the three re-readings, with the figures as each writer gave them. The report's own habit of writing a decimal with a raised point is modernised; its probable errors, the figure after the plus-or-minus sign, are kept, because every argument about the experiment turns on them.
