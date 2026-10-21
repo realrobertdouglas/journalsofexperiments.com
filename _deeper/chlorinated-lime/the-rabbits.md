@@ -4,6 +4,9 @@ subtitle: "Skoda's commission of 1848, forbidden on the professor's protest, and
 parent: chlorinated-lime
 order: 2
 date:   2026-10-21 03:45:00 +0000
+audio: https://audio.journalsofexperiments.com/chlorinated-lime-the-rabbits.mp3
+audio_length: 9524168
+audio_duration: "19:50"
 ---
 
 The entry says that Skoda tried to make the institution read the result and that the Ministry forbade it. This piece tells how, from Skoda's own account to the Imperial Academy of Sciences on 18 October 1849 and from the letter Michaelis wrote from Kiel. The three evenings of 1850 on which the Society of Physicians argued it out are in the companion piece on the forty-one post-mortems. All quotations are translated from the German by the writer of the entry.

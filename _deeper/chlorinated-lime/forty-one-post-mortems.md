@@ -4,6 +4,9 @@ subtitle: "The three evenings of 1850 on which the Society of Physicians of Vien
 parent: chlorinated-lime
 order: 3
 date:   2026-10-21 03:45:00 +0000
+audio: https://audio.journalsofexperiments.com/chlorinated-lime-forty-one-post-mortems.mp3
+audio_length: 8794398
+audio_duration: "18:19"
 ---
 
 Semmelweis spoke in public about his discovery three times, on 15 May, 18 June and 15 July 1850, at the general meetings of the Imperial and Royal Society of Physicians of Vienna, with Rokitansky presiding. He wrote none of it down. The minutes, kept by the Society's secretary Dr Herzfelder and reprinted in Győry's edition of the collected works, are all that survives, and this piece follows them. The entry gives the substance of the first evening and one exchange from the third; the rest is here. All quotations are translated from the German by the writer of the entry.

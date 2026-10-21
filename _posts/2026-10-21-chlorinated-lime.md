@@ -4,6 +4,12 @@ title:  "Chlorinated Lime"
 subtitle: "The story of the two lying-in clinics of the Vienna General Hospital, 1840 to 1865: the women sorted by the day of the week they went into labour, the basin at the door of the labour room that closed the gap, and the thirteen years in which the man who put it there wrote nothing down."
 date:   2026-10-21 03:45:00 +0000
 young: young/chlorinated-lime.md
+audio: https://audio.journalsofexperiments.com/chlorinated-lime.mp3
+audio_length: 20960620
+audio_duration: "43:39"
+audio_young: https://audio.journalsofexperiments.com/chlorinated-lime-young.mp3
+audio_young_length: 8403672
+audio_young_duration: "17:30"
 categories: [experiments]
 comments: false
 ---

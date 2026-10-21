@@ -4,6 +4,9 @@ subtitle: "Every count of the two Vienna clinics from 1784 to 1862, as Semmelwei
 parent: chlorinated-lime
 order: 1
 date:   2026-10-21 03:45:00 +0000
+audio: https://audio.journalsofexperiments.com/chlorinated-lime-the-tables.mp3
+audio_length: 13127238
+audio_duration: "27:20"
 ---
 
 The entry uses the numbers that belong to each passage and says where they come from. This piece sets every count side by side, so that a reader who wants to check can see what each figure is, who gave it, and why the next one differs. All of them were read from the page images of the 1861 book and of the 1905 collected works, because the optical character recognition of the scans garbles tables.
