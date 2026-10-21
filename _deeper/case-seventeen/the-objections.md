@@ -4,6 +4,9 @@ subtitle: "What was said against the Inquiry, 1796 to 1805: a warning from Chest
 parent: case-seventeen
 order: 2
 date:   2026-10-21 05:30:00 +0000
+audio: https://audio.journalsofexperiments.com/case-seventeen-the-objections.mp3
+audio_length: 7875465
+audio_duration: "16:24"
 ---
 
 The entry says that most of what was said against Jenner's book went for the chapter he could not prove and left the boy alone. This piece sets out the objections in the order they were made, with each man's own words, because together they are a fair record of what a careful reader could see from outside the experiment. Four of the five were right about something. None of them was right about the main claim.

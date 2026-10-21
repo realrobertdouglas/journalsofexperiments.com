@@ -4,6 +4,9 @@ subtitle: "The London trials, January to May 1799: two hundred cows in a town da
 parent: case-seventeen
 order: 1
 date:   2026-10-21 05:30:00 +0000
+audio: https://audio.journalsofexperiments.com/case-seventeen-grays-inn-lane.mp3
+audio_length: 6077003
+audio_duration: "12:39"
 ---
 
 The entry says that when Jenner's practice reached London it was carried on by other men, in a building full of the disease it was meant to prevent, and that nobody could afterwards say what the first two thousand Londoners had been given. This piece follows those four months through the letters the men wrote to each other at the time, as John Baron printed them in 1827, and through William Woodville's own published report of May 1799. The quotations from the letters are at second hand through Baron; Woodville's report and George Pearson's evidence to the House of Commons are quoted from the printed originals.
