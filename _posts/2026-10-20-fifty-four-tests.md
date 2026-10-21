@@ -4,6 +4,12 @@ title:  "Fifty-Four Tests"
 subtitle: "The story of command module 012 and Launch Complex 34, 1962 to 1968: the cabin of pure oxygen above sea-level pressure, the list that counted fifty-four of a hundred and four tests as hazardous, and the one that was not on it."
 date:   2026-10-20 16:00:00 +0000
 young: young/fifty-four-tests.md
+audio: https://audio.journalsofexperiments.com/fifty-four-tests.mp3
+audio_length: 20599468
+audio_duration: "42:54"
+audio_young: https://audio.journalsofexperiments.com/fifty-four-tests-young.mp3
+audio_young_length: 8263512
+audio_young_duration: "17:12"
 categories: [experiments]
 comments: false
 ---

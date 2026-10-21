@@ -4,6 +4,9 @@ subtitle: "How pure oxygen came to fill every American spacecraft on the pad, 19
 parent: fifty-four-tests
 order: 1
 date:   2026-10-20 16:00:00 +0000
+audio: https://audio.journalsofexperiments.com/fifty-four-tests-the-atmosphere.mp3
+audio_length: 5695501
+audio_duration: "11:51"
 ---
 
 The entry says that the men in spacecraft 012 sat in pure oxygen at 16.7 pounds per square inch because of a decision nobody thought of as a decision. This piece sets out where that atmosphere came from, as the Review Board's design panel reconstructed it in 1967, what NASA had published about fire in oxygen before the accident, and why, after the fire, the Board and the Senate let the flight atmosphere stand and changed only the pad.

@@ -4,6 +4,9 @@ subtitle: "The two warnings on paper before the fire, 1965 to 1967: a general's 
 parent: fifty-four-tests
 order: 2
 date:   2026-10-20 16:00:00 +0000
+audio: https://audio.journalsofexperiments.com/fifty-four-tests-the-phillips-report.mp3
+audio_length: 5668631
+audio_duration: "11:48"
 ---
 
 The entry says that two warnings about North American Aviation had been written down before the fire and that neither mentioned oxygen. This piece gives them in more detail: what the Phillips team found at Downey in December 1965, what Thomas Baron wrote at the Cape in the winter of 1966, and how both surfaced in the hearings of 1967 and in the Senate's report.
