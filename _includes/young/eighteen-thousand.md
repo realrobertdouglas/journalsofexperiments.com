@@ -30,7 +30,7 @@ On Sunday January 10th 1954 a Comet called G-ALYP took off from Rome for London.
 
 On the island of Elba a sailor heard "a heavy roaring noise like thunder" and saw "a globe of fire rotating as it came down into the sea". A farmer saw two pieces of aeroplane fall, the smaller one on fire. Everyone on board died. Yoke Peter had flown 3,681 hours and had been pumped up 1,290 times.
 
-Nobody knew why. The airline stopped its Comets flying and took them to pieces at London Airport to look. A committee of the airline, the makers and the Air Registration Board, which is the body that says whether an aeroplane is fit to fly, made a list of six things that might have gone wrong: the controls, the structure, the engines, fire, a fault in the wing, and the cabin bursting. They thought fire the most likely, and they changed about sixty things on the aeroplane to guard against fire. They did not think the cabin could have failed from fatigue. The report of the inquiry said why: "They still regarded the 18,000 repeated loadings as removing any doubt about the fatigue life of the cabin."
+Nobody knew why. The airline stopped its Comets flying and took them to pieces at London Airport to look. A committee of the airline, the makers and the Air Registration Board, which is the body that says whether an aeroplane is fit to fly, made a list of six things that might have gone wrong: the controls, the structure, the engines, fire, a fault in the wing, and the cabin bursting. They thought fire the most likely, and they changed many things on the aeroplane to guard against fire. They did not think the cabin could have failed from fatigue. The report of the inquiry said why: "They still regarded the 18,000 repeated loadings as removing any doubt about the fatigue life of the cabin."
 
 ## The peas in the field
 
@@ -78,7 +78,7 @@ The report came out in February 1955. The cause of the Elba accident was "the st
 
 ## What changed
 
-The Comet 1s never carried passengers again. New Comets were built with thicker skin and round windows instead of square ones. And a new rule was made: every new type of pressurised airliner would have to be put in a tank and pumped up and down until it failed, and makers would have to build two aeroplanes for testing, one to be broken by a single huge load and one to be broken slowly by thousands of small ones. Other makers in Britain, Holland and America built tanks of their own within months.
+The Comet 1s never carried passengers again. New Comets were built with thicker skin and round windows instead of square ones. And a new rule was made: every new type of pressurised airliner would have to be put in a tank and pumped up and down until it failed, and makers would have to build two aeroplanes for testing, one to be broken by a single huge load and one to be broken slowly by thousands of small ones. Within weeks other makers in Britain and Holland said they would put their own airliners in tanks too.
 
 ## What it teaches
 
@@ -88,7 +88,7 @@ What does this story teach? A few plain things.
 
 **When everyone agrees, it is still a guess until it is measured.** Everyone believed that if a cabin could stand twice its pressure once, it could stand its pressure ten thousand times. The makers believed it, the research station believed it, the Board believed it, the Americans believed it. It was wrong. Nobody had measured the stress at the corners of the windows until Farnborough put gauges there in 1954. A belief that lots of clever people share is still only a belief.
 
-**"Everything possible" is only everything you can think of.** After Elba, the people in charge changed sixty things on the Comet and said everything humanly possible had been done. But the cause was still unknown, and the piece of wreckage that would have explained it was still on the bottom of the sea. Changing everything you can think of does not fix the thing you have not thought of.
+**"Everything possible" is only everything you can think of.** After Elba, the people in charge changed many things on the Comet and said everything humanly possible had been done. But the cause was still unknown, and the piece of wreckage that would have explained it was still on the bottom of the sea. Changing everything you can think of does not fix the thing you have not thought of.
 
 **The aeroplane is the specimen.** The thing that finally gave the right answer was a whole aeroplane, Yoke Uncle, treated exactly like a working aeroplane, pumped up and down until it broke. Not a section, not a panel, not a calculation. After the Comet, the rule became: break a whole one first.
 
