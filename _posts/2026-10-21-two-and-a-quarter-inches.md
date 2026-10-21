@@ -4,6 +4,12 @@ title:  "Two and a Quarter Inches"
 subtitle: "The story of the Quebec Bridge, 1897 to 1917: the span lengthened and its weight never recounted, the chord that bent from three quarters of an inch to two and a quarter in a week, and the telegram that went to Phoenixville instead of to the bridge."
 date:   2026-10-21 02:30:00 +0000
 young: young/two-and-a-quarter-inches.md
+audio: https://audio.journalsofexperiments.com/two-and-a-quarter-inches.mp3
+audio_length: 19372412
+audio_duration: "40:21"
+audio_young: https://audio.journalsofexperiments.com/two-and-a-quarter-inches-young.mp3
+audio_young_length: 7490535
+audio_young_duration: "15:36"
 categories: [experiments]
 comments: false
 ---

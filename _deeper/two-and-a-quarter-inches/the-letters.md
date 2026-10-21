@@ -4,6 +4,9 @@ subtitle: "The correspondence of August 1907 between the inspector at the bridge
 parent: two-and-a-quarter-inches
 order: 1
 date:   2026-10-21 02:30:00 +0000
+audio: https://audio.journalsofexperiments.com/two-and-a-quarter-inches-the-letters.mp3
+audio_length: 8952984
+audio_duration: "18:38"
 ---
 
 The Royal Commission on the collapse of the Quebec Bridge printed, in the eleventh appendix to its report, the letters and telegrams that passed between Norman McLure, the Quebec Bridge Company's inspector of erection at New Liverpool on the south shore; Theodore Cooper, its consulting engineer, at his office on Broadway in New York; and John Sterling Deans, chief engineer of the Phoenix Bridge Company at Phoenixville, Pennsylvania, in the three weeks before the fall, from the first bent rib on 6 August to the last letter about it on the 27th. They are given here as the report gives them, in the order in which they were written, with the Commission's own connecting sentences where it supplied them. Three short acknowledgements from Deans, of 10, 14 and 23 August, each saying only that a fuller letter would follow, are left out. Chord numbers follow the erection marks: "7-L" is the seventh lower chord of an arm on the left, or Montreal, truss, "R" the Quebec truss; "A" is the anchor arm.

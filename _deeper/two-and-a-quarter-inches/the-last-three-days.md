@@ -4,6 +4,9 @@ subtitle: "The papers of 27 to 29 August 1907: the inspector's letter with the t
 parent: two-and-a-quarter-inches
 order: 2
 date:   2026-10-21 02:30:00 +0000
+audio: https://audio.journalsofexperiments.com/two-and-a-quarter-inches-the-last-three-days.mp3
+audio_length: 6310119
+audio_duration: "13:08"
 ---
 
 The companion piece "[The letters](/deeper/two-and-a-quarter-inches/the-letters/)" gives the correspondence of August 1907 about the first bent ribs. This piece gives the papers of the three days that followed the discovery, on the morning of Tuesday 27 August, that chord A9L of the anchor arm was bending in the body: Norman McLure's letter to Theodore Cooper that evening; Edward Hoare's letter of the Wednesday and his correction of it after the fall; A. H. Birks's letter to Phoenixville, which reached there the day after the bridge fell; and the telegrams of the Thursday. They are given as the Royal Commission printed them in the eleventh appendix to its report, with the two telegrams of 29 August that were read into the evidence by the men who received them.

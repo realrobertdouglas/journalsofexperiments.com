@@ -4,6 +4,9 @@ subtitle: "The fifteen findings of the Royal Commission of 1908, its judgment on
 parent: two-and-a-quarter-inches
 order: 3
 date:   2026-10-21 02:30:00 +0000
+audio: https://audio.journalsofexperiments.com/two-and-a-quarter-inches-the-findings.mp3
+audio_length: 9119066
+audio_duration: "18:59"
 ---
 
 The Royal Commission appointed to inquire into the collapse of the Quebec Bridge, Henry Holgate, John G. G. Kerry and John Galbraith, signed its report at Montreal on 20 February 1908, six months after the fall. The report proper is eleven pages; the evidence and the nineteen appendices fill two volumes. This piece gives the findings as the commissioners wrote them, the passages of the eleventh appendix in which they judged what was done at the bridge in the last three days, the summary of the government's own check of the stresses, and the two answers in which Cooper, in writing from New York, declined to accept that nothing could have been done.
