@@ -4,6 +4,9 @@ subtitle: "The lighting tests period by period, from the tables Snow kept: dates
 parent: twenty-five-watts
 order: 1
 date:   2026-10-21 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-watts-three-winters.mp3
+audio_length: 7105741
+audio_duration: "14:48"
 ---
 
 The numbers below are the ones Masumi Izawa, Michael French and Alan Hedge published in *Human Factors* in October 2011 from the draft reports and appendices that Charles Snow kept and that are now Collection 5167 at Cornell. They are group averages: Snow recorded output five times a day for each group, but no sheet of individual output survives, and for the third test only the average for each period survives. Where Roethlisberger and Dickson's 1939 summary, which was taken from Snow's 1927 magazine article, gives a different figure, it is noted.

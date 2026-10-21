@@ -4,6 +4,12 @@ title:  "Twenty-Five Watts"
 subtitle: "The story of the lighting tests at the Hawthorne Works, Cicero, Illinois, 1924 to 1932: the output that rose whatever was done to the lamps, the effect that went into every textbook, and the data sheets that nobody read for eighty years."
 date:   2026-10-21 00:00:00 +0000
 young: young/twenty-five-watts.md
+audio: https://audio.journalsofexperiments.com/twenty-five-watts.mp3
+audio_length: 20437422
+audio_duration: "42:34"
+audio_young: https://audio.journalsofexperiments.com/twenty-five-watts-young.mp3
+audio_young_length: 7598809
+audio_young_duration: "15:49"
 categories: [experiments]
 comments: false
 ---

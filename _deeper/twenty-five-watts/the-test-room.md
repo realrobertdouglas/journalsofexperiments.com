@@ -4,6 +4,9 @@ subtitle: "Five women, twenty-four periods and five years: what the relay assemb
 parent: twenty-five-watts
 order: 2
 date:   2026-10-21 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-watts-the-test-room.mp3
+audio_length: 5180941
+audio_duration: "10:47"
 ---
 
 Roethlisberger and Dickson describe the first thirteen periods of the relay assembly test room in detail and the rest in summary; Stephen Jones's 1992 table, built from the company's records, gives all twenty-four. The two are combined here. Output figures are the weekly averages per operator that François Geoffroy tabulates from the 1939 book, rounded as he gives them.
