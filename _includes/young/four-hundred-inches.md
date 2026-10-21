@@ -2,7 +2,7 @@ This is the same story as the full entry, told more plainly. The button at the t
 
 ## The plant
 
-Three Mile Island is an island in the Susquehanna River in Pennsylvania, about ten miles from the city of Harrisburg. In 1979 it had two nuclear power plants on it. The newer one, Unit 2, had started making electricity only three months before, on December 30th 1978. It was built by a company called Babcock & Wilcox and run by a company called Metropolitan Edison.
+Three Mile Island is an island in the Susquehanna River in Pennsylvania, about ten miles from Harrisburg. In 1979 it had two nuclear power plants on it. The newer one, Unit 2, had started making electricity only three months before, on December 30th 1978. It was built by a company called Babcock & Wilcox and run by a company called Metropolitan Edison.
 
 A nuclear plant like this one is, at heart, a very large kettle. Uranium fuel in the reactor gives off heat. Water is pumped through the reactor to carry the heat away, and that water is kept under enormous pressure so that it cannot boil, even at nearly 600 degrees Fahrenheit. The hot water boils a separate supply of water into steam, and the steam turns a turbine, and that makes the electricity.
 
