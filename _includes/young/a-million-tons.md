@@ -48,11 +48,11 @@ That evening the government's scientists held a telephone conference. The number
 
 Then the government went into the factories, all of them, and read their records, including the records of batches that had failed and had never been reported. It found that live virus had been showing up at every company. One batch in nine, across the whole industry, had failed its first test. At one company a third of the finished batches had failed. Batches that failed were simply heated for a few more days and tested again until they passed. And the test itself was weak: because the sample was only one thousandth of the batch, a company with small batches tested only a tiny amount, and might miss live virus three times out of ten.
 
-On May 7th the Surgeon General asked the whole country to stop vaccinating until the factories had been checked one by one. The stop lasted a week. New rules were written: bigger samples, two clean tests in a row, every batch reported. Three weeks later a monkey in a laboratory in Utah, injected with one of the Cutter batches, was paralysed, and live virus was found in its spinal cord.
+On May 7th the Surgeon General asked the whole country to stop vaccinating until the factories had been checked one by one. The stop lasted six days. New rules were written: bigger samples, two clean tests in a row, every batch reported. Two weeks later a monkey in a laboratory in Utah, injected with one of the Cutter batches, was paralysed, and live virus was found in its spinal cord.
 
 ## What it looked like from inside
 
-In Idaho, 32,000 children had been given Cutter vaccine, almost all the first- and second-graders in the state. Idaho usually had no polio at all until July. In the spring of 1955 it had 88 cases, and 84 of them were vaccinated children, their brothers and sisters, their parents, and their friends.
+In Idaho, 32,000 children had been given Cutter vaccine, nearly eight out of ten of the first- and second-graders in the state. Idaho usually had almost no polio until July. In the spring of 1955 it had 88 cases, and 84 of them were vaccinated children, their brothers and sisters, their parents, and their friends.
 
 Near Baltimore, a baby girl got one Cutter injection on April 16th. She never became ill. But the live virus was growing inside her, and she passed it on. Twenty-three days later her mother got polio. Two families nearby caught it from them, and two more families caught it from those. Six people in one street got polio in three weeks, from one injection that had made nobody sick.
 
