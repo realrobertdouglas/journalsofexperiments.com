@@ -4,6 +4,9 @@ subtitle: "The seven accounts of the morning of 7 November 1940 that were writte
 parent: one-in-seventy-two
 order: 2
 date:   2026-10-20 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-seventy-two-the-statements.mp3
+audio_length: 21095826
+audio_duration: "43:56"
 ---
 
 Five days after the Tacoma Narrows Bridge fell, L. R. Durkee, the Public Works Administration's project engineer at Seattle, sent Washington the statements of five men who had watched it go. Two more were added later: the contractor's engineer who had filmed the bridge that morning, and the commanding officer of the Coast Guard cutter that passed beneath it an hour before the end. The board that investigated the failure printed all seven as Appendix V of its report. They are given here as the report gives them, in the order the board printed them, with Durkee's covering letter first.

@@ -4,6 +4,12 @@ title:  "One in Seventy-Two"
 subtitle: "The story of the Tacoma Narrows Bridge, 1938 to 1941: the deck that rose and fell from the day it opened, the four months of readings taken to cure it, and the motion the readings never measured."
 date:   2026-10-20 22:00:00 +0000
 young: young/one-in-seventy-two.md
+audio: https://audio.journalsofexperiments.com/one-in-seventy-two.mp3
+audio_length: 19638128
+audio_duration: "40:54"
+audio_young: https://audio.journalsofexperiments.com/one-in-seventy-two-young.mp3
+audio_young_length: 7460955
+audio_young_duration: "15:32"
 categories: [experiments]
 comments: false
 ---

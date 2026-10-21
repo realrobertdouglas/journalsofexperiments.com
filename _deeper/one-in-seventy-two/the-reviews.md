@@ -4,6 +4,9 @@ subtitle: "The papers of the summer of 1938 in which the bridge was designed and
 parent: one-in-seventy-two
 order: 1
 date:   2026-10-20 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/one-in-seventy-two-the-reviews.mp3
+audio_length: 11206476
+audio_duration: "23:20"
 ---
 
 The board that investigated the failure of the Tacoma Narrows Bridge for the Federal Works Agency printed its evidence. Among the appendices to its report of 28 March 1941 are the papers from the two months of 1938 in which Clark Eldridge's design with twenty-five-foot trusses became Leon Moisseiff's with eight-foot girders, and in which three separate reviews looked at the result. This piece sets them out in the order in which they were written. The words are the documents' own, as the report gives them; the sentences between say only who wrote to whom.
