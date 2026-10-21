@@ -3,7 +3,10 @@ title:  "On the stand"
 subtitle: "Mulholland before the coroner's jury, March and April 1928: the leak that was clear as glass, the nineteen dams, the suspicion he would not divulge, and the sentence he closed with."
 parent: three-inches
 order: 1
-date:   2026-10-21 19:00:00 +0000
+date:   2026-10-21 20:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-inches-on-the-stand.mp3
+audio_length: 6490561
+audio_duration: "13:31"
 ---
 
 The entry quotes William Mulholland on the stand. This piece follows him through the transcript. The Los Angeles County coroner, Frank A. Nance, empanelled a jury on 19 March 1928 to inquire into the death of Julia Rising, aged twenty-nine, of Power House No. 2, "et al"; it was sworn in the Hall of Justice at ten in the morning of 21 March, sat until 10 April, and gave its verdict on 12 April. The nine jurors were Irving C. Harris, a consulting engineer, who was foreman; S. C. Lines; Blaine Noice; O. G. Bowen; C. D. Walz; William H. Eaton; H. G. Holabird, an appraiser; R. F. Ware; and Z. N. Nelson. Six of the nine, *Engineering News-Record* noted, were engineers or contractors. The questions came from the coroner, from the jurors, and from the deputy district attorney, E. J. Dennison. The transcript runs to 825 pages in the scan, in two volumes, typed and carbon-copied; the OCR of it is rough, and the words given here are the ones it carries legibly. The witnesses who sat in the same chair before and after him are in the companion piece "[The other witnesses](/deeper/three-inches/the-other-witnesses/)".

@@ -3,7 +3,10 @@ title:  "Six reports"
 subtitle: "The boards that read the wreck, March to June 1928: the Governor's commission, the city council's, the district attorney's, the water board's geologists, the coroner's jury, and the Grunskys with Bailey Willis, who alone looked at the other bank."
 parent: three-inches
 order: 2
-date:   2026-10-21 19:00:00 +0000
+date:   2026-10-21 20:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-inches-six-reports.mp3
+audio_length: 9326976
+audio_duration: "19:25"
 ---
 
 The entry says that half a dozen inquiries were sitting within the week. This piece goes through them in the order they reported, as *Engineering News-Record* abstracted them in the spring of 1928 and as the first of them printed its own report. Six bodies looked at the same canyon. Five found the same cause in the same rock. The sixth looked at the other side.

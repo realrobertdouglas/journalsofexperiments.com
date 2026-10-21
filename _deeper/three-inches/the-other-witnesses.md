@@ -3,7 +3,10 @@ title:  "The other witnesses"
 subtitle: "The assistant, the builders, the rancher, the men who drove past the dam that night, and the commissioner who had left it all to one man: what the rest of the inquest heard, March and April 1928."
 parent: three-inches
 order: 2
-date:   2026-10-21 19:00:00 +0000
+date:   2026-10-21 20:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-inches-the-other-witnesses.mp3
+audio_length: 6072975
+audio_duration: "12:38"
 ---
 
 The entry and the companion piece "[On the stand](/deeper/three-inches/on-the-stand/)" follow Mulholland through the coroner's inquest. Some seventy other witnesses sat in the same chair between 21 March and 10 April 1928. This piece gives the ones the entry leans on, in the order the jury heard them, from the transcript's rough OCR and, where its pages are illegible, from J. David Rogers's reading of the Huntington Library's copy.
