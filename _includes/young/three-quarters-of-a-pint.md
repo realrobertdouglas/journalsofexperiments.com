@@ -4,9 +4,9 @@ This is the same story as the full entry, told more plainly. The button at the t
 
 In February 1930, in the coal and steel towns of Lanarkshire in Scotland, five doctors and seventeen nurses went from school to school weighing and measuring children. They did it for ten school days, in sixty-seven schools, and by the end they had weighed and measured twenty thousand children. Each child stood against a measuring rod in stockinged feet and was measured to the nearest eighth of an inch. Each child stepped on a new weighing machine and was weighed to the nearest ounce. The rules said that the children must take off their boots, empty their pockets, and take off their coats and scarves. Many children were wearing three or four jerseys at once, because it was cold and their houses were cold, and all the jerseys but one had to come off too.
 
-Half of the children were about to get a mug of milk every school morning for four months: three-quarters of a pint, which is a bit more than a modern carton. The other half would get nothing. In June all twenty thousand would be weighed and measured again, and the difference between the two halves would show what milk does for a growing child.
+Half of the children were about to get a mug of milk every school morning for four months: three-quarters of a pint. The other half would get nothing. In June all twenty thousand would be weighed and measured again, and the difference between the two halves would show what milk does for a growing child.
 
-That was the plan. On February 21st 1930 the head teacher of High Blantyre Public School wrote in the school's log book that arrangements had been made to weigh the hundred children in that school who were going to get the milk.
+On February 21st 1930 the head teacher of High Blantyre Public School wrote in the school's log book that arrangements had been made to weigh the hundred children in that school who were going to get the milk.
 
 ## Why milk
 
