@@ -4,6 +4,9 @@ subtitle: "How the Eastland's water ballast worked, who understood it, and why a
 parent: twenty-five-hundred
 order: 2
 date:   2026-10-21 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-hundred-two-hundred-and-fifty-tons.mp3
+audio_length: 6469675
+audio_duration: "13:28"
 ---
 
 Everyone who testified about the Eastland agreed on one thing: that she stood up with water in her double bottom and leaned without it. The disagreement, which ran through the inquest, the federal board and twenty years of litigation, was about what that meant. To the owners, the inspectors and in the end the courts, it meant that she was a safe ship when the water was properly handled, and that on 24 July 1915 it was not. To the naval architects who were asked, it meant that her safety had been left to a valve. The testimony about the valve is the most exact thing in the record, and it is worth following the water through the system.

@@ -4,6 +4,9 @@ subtitle: "The inquiries and twenty years of law that followed the Eastland: the
 parent: twenty-five-hundred
 order: 3
 date:   2026-10-21 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-hundred-grand-rapids.mp3
+audio_length: 7077711
+audio_duration: "14:44"
 ---
 
 The *Marine Review* counted, in the month after the Eastland went over, "four formal and several informal investigations" and complained that "five different and conflicting investigations have been started when one under competent supervision would be entirely sufficient. There is a clash of authority between state, city and federal officials." That was the shipowners' paper talking, but the count was right. The inquiries overlapped, obstructed one another, and between them reached every fact in the record and no verdict that stood. This piece follows them in order.

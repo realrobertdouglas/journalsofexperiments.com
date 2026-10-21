@@ -4,6 +4,9 @@ subtitle: "The paper trail of the Eastland's passenger allowances from 1903 to 1
 parent: twenty-five-hundred
 order: 1
 date:   2026-10-21 23:00:00 +0000
+audio: https://audio.journalsofexperiments.com/twenty-five-hundred-seven-hundred-and-seventy-six.mp3
+audio_length: 7995121
+audio_duration: "16:39"
 ---
 
 The number a passenger steamer might carry was, in 1915, the decision of two men. Section 4450 of the Revised Statutes gave the board of local inspectors, one of hulls and one of boilers, the duty of fixing it at each annual inspection, and gave nobody the right of appeal. "The law places the responsibility for determining the passenger allowances upon the local board," Secretary Redfield told the lieutenant governor of Illinois when he proposed a board of appeal made of mayors; "That would be absolutely illegal." His solicitor added that the statute's purpose had been "to localize the authority where the men were supposed to be best posted and informed as to the conditions." The Eastland's number was fixed by three local boards in twelve years, at Chicago, at Cleveland and at Grand Haven, and the record of what each of them did is the clearest account there is of how the thing was done.
