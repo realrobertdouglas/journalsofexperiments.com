@@ -4,6 +4,9 @@ subtitle: "How the 1954 field trial was designed so that its answer could be bel
 parent: a-million-tons
 order: 1
 date:   2026-10-21 21:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-million-tons-salt-water.mp3
+audio_length: 7921345
+audio_duration: "16:30"
 ---
 
 The number Francis read out at Ann Arbor on 12 April 1955 was believed at once, by almost everyone, and it has not been seriously doubted since. That is rarer than it sounds. Most of the vaccines then in use had been introduced on far thinner evidence; the polio researchers who praised the trial that spring pointed out that the country now knew more about the Salk vaccine than it knew about typhoid vaccine after fifty years of use or tuberculosis vaccine after thirty. The reason it was believed is the design, and the design was not the one the Foundation had wanted.

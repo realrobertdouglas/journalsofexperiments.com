@@ -4,6 +4,9 @@ subtitle: "What the inspectors found in the five plants in May 1955, the arithme
 parent: a-million-tons
 order: 2
 date:   2026-10-21 21:00:00 +0000
+audio: https://audio.journalsofexperiments.com/a-million-tons-laboratory-a.mp3
+audio_length: 7455365
+audio_duration: "15:31"
 ---
 
 The second part of the Public Health Service's technical report of June 1955 is the part nobody quoted in the newspapers. It is forty pages of chemistry, probability and tables, and it is the closest thing there is to an account of why a vaccine that passed its tests could paralyse children. It names no firm. The five manufacturers whose vaccine had been released by the end of April appear in its tables as Laboratories A to E, and a sixth, which had not yet sold anything, as F.
