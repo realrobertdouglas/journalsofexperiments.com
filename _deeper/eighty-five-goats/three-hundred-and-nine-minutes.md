@@ -3,7 +3,10 @@ title:  "Three hundred and nine minutes"
 subtitle: "How a table of stops was calculated from five imaginary parts of the body, what the two Admiralty tables allowed, what Leonard Hill said was wrong with them, and how the model has been corrected ever since."
 parent: eighty-five-goats
 order: 2
-date:   2026-10-21 04:45:00 +0000
+date:   2026-10-21 05:15:00 +0000
+audio: https://audio.journalsofexperiments.com/eighty-five-goats-three-hundred-and-nine-minutes.mp3
+audio_length: 6756719
+audio_duration: "14:04"
 ---
 
 The tables that the Royal Navy issued to its divers in 1907 were calculated, not found. The goats had settled two things: that a body can be taken suddenly to half its absolute pressure, and that the slow parts of a goat are full after about three hours. Everything else in the tables was arithmetic done on a model of the body that nobody had seen, and the paper of 1908 shows the arithmetic in one worked example. This piece follows that example, sets out what the two tables allowed, and gives the case against them that Leonard Hill made in 1912 and the revisions that followed.

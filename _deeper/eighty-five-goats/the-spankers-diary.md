@@ -3,7 +3,10 @@ title:  "The Spanker's diary"
 subtitle: "Eleven days off Bute, 20 to 31 August 1906, dive by dive: the pumps tested against the sea, the gauge tapped, the hawser that fouled Catto in thirty fathoms, and the two descents to 210 feet."
 parent: eighty-five-goats
 order: 1
-date:   2026-10-21 04:45:00 +0000
+date:   2026-10-21 05:15:00 +0000
+audio: https://audio.journalsofexperiments.com/eighty-five-goats-the-spankers-diary.mp3
+audio_length: 9574874
+audio_duration: "19:56"
 ---
 
 The Admiralty's committee on deep diving kept a diary of its sea trials in the Firth of Clyde in August 1906, and printed it in its report of 1907. Boycott, Damant and Haldane reprinted it the following year as the second appendix to their paper in the *Journal of Hygiene*, and Leonard Hill printed most of it again in 1912. This piece follows it day by day, with the times and depths as the diary gives them, and with the chamber trials in London that came first. The committee's own report has not been reached; everything here is from the two reprints.
