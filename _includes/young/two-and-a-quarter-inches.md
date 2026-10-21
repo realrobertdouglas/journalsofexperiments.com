@@ -74,7 +74,7 @@ Cooper did not agree that the bridge could not have been saved. He said that if 
 
 ## After
 
-The Canadian government took over the bridge and had it designed again, by a board of three engineers, with much heavier chords and about twice as much steel. On September 11th 1916 the new middle piece, weighing 5,000 tons, was being lifted into place between the two arms when a steel casting broke and the whole piece fell into the river. A second one was built, and on September 20th 1917 it was lifted into place. Trains were crossing it by 1919, and it still stands. Theodore Cooper retired in 1907. He died in New York in August 1919, aged eighty.
+The Canadian government took over the bridge and had it designed again, wider and heavier, with nearly twice as much steel. On September 11th 1916 the new middle piece, weighing 5,000 tons, was being lifted into place between the two arms when a steel casting broke and the whole piece fell into the river. A second one was built, and on September 20th 1917 it was lifted into place. Trains were crossing it by 1919, and it still stands. Theodore Cooper retired in 1907. He died in New York in August 1919, aged eighty.
 
 ## What it teaches
 
