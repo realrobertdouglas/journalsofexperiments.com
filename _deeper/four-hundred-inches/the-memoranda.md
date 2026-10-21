@@ -4,6 +4,9 @@ subtitle: "The paper trail from Oconee and Davis-Besse to Three Mile Island, 197
 parent: four-hundred-inches
 order: 1
 date:   2026-10-21 04:30:00 +0000
+audio: https://audio.journalsofexperiments.com/four-hundred-inches-the-memoranda.mp3
+audio_length: 10103250
+audio_duration: "21:02"
 ---
 
 The entry says that the accident at Three Mile Island had almost happened before, and that the people who knew it wrote to one another and not to the plant. This piece follows the writing. It is taken from the staff report of the President's Commission's chief counsel, which deposed the engineers and reproduced their memoranda as appendices; from the Senate investigation's chapter on the accidents at other plants; and from the chapter of the NRC Special Inquiry's report on the evaluation of operating experience. The quotations from the memoranda are as the chief counsel's report prints them.

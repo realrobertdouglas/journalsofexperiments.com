@@ -4,8 +4,14 @@ title:  "Four Hundred Inches"
 subtitle: "The story of Three Mile Island Unit 2, 1977 to 1979: a relief valve that stuck open, a light that showed only what the valve had been told to do, a gauge that read four hundred inches, and the two hours and twenty-two minutes in which the men who trusted them throttled the pumps that were saving the core."
 date:   2026-10-21 04:30:00 +0000
 young: young/four-hundred-inches.md
+audio: https://audio.journalsofexperiments.com/four-hundred-inches.mp3
+audio_length: 20217586
+audio_duration: "42:07"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/four-hundred-inches-young.mp3
+audio_young_length: 8351262
+audio_young_duration: "17:23"
 ---
 
 At twenty past five on the morning of Wednesday 28 March 1979, in the control room of the second unit of the Three Mile Island nuclear station, on an island in the Susquehanna River ten miles south of Harrisburg, Pennsylvania, an operator asked the plant computer for five temperatures. The machine typed them out on its utility printer. The surge line into the pressuriser: 514 degrees. The outlet of the electromatic relief valve on top of the pressuriser: 283 degrees. The outlets of the two code safety valves beside it: 211 and 218 degrees. The spray line: 497 degrees.

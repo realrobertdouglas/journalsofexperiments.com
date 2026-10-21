@@ -4,6 +4,9 @@ subtitle: "The five days outside the plant, 29 March to 2 April 1979: a reading 
 parent: four-hundred-inches
 order: 2
 date:   2026-10-21 04:30:00 +0000
+audio: https://audio.journalsofexperiments.com/four-hundred-inches-friday.mp3
+audio_length: 9646852
+audio_duration: "20:05"
 ---
 
 The entry stops at the control room. By Wednesday evening the reactor had been covered again and the damage was done; nothing that happened inside the plant over the next five days made it worse. What happened outside the plant is why the accident is remembered as it is, and the President's Commission, which took most of its testimony on these days, told it in detail. This piece follows the Commission's account from Thursday 29 March to Monday 2 April, with the words of the people involved as the Commission's report gives them.
