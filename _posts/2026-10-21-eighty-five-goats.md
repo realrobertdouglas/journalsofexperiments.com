@@ -4,6 +4,12 @@ title:  "Eighty-Five Goats"
 subtitle: "The story of J. S. Haldane's goats and HMS Spanker, 1905 to 1915: the steel chamber in a Chelsea yard, the rule that the pressure may always be halved, and the diver for whom the only table in use was not enough."
 date:   2026-10-21 05:15:00 +0000
 young: young/eighty-five-goats.md
+audio: https://audio.journalsofexperiments.com/eighty-five-goats.mp3
+audio_length: 18744558
+audio_duration: "39:02"
+audio_young: https://audio.journalsofexperiments.com/eighty-five-goats-young.mp3
+audio_young_length: 8102810
+audio_young_duration: "16:52"
 categories: [experiments]
 comments: false
 ---
