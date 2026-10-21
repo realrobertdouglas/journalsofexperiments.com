@@ -2,10 +2,16 @@
 layout: post
 title:  "Sixty-Five Centimetres"
 subtitle: "The story of Werner Forssmann and a ureteral catheter at Eberswalde, 1929 to 1956: the X-ray plate he walked downstairs to make, the three pages of 5 November, and the eleven years the tube waited for the two men who needed it."
-date:   2026-10-21 09:30:00 +0000
+date:   2026-10-21 09:15:00 +0000
 young: young/sixty-five-centimetres.md
+audio: https://audio.journalsofexperiments.com/sixty-five-centimetres.mp3
+audio_length: 19659256
+audio_duration: "40:57"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/sixty-five-centimetres-young.mp3
+audio_young_length: 7999715
+audio_young_duration: "16:39"
 ---
 
 On Tuesday 5 November 1929 the *Deutsche Reichs-Zeitung*, a daily printed in Bonn, gave the top of its thirteenth page to a report headed "Mit der Sonde im Herzen", with the probe in the heart, and under it: "Sensational experiment of a doctor on himself." The writer began by apologising. What followed, he said, was "a scientifically serious and practically important, unintentionally sensational communication from the medical side," to be found in the newest number of the *Klinische Wochenschrift*. A doctor, Dr Forssmann, assistant in the second surgical department of the Auguste-Viktoria-Heim at Eberswalde, had hit on "the peculiar and amply bold idea" of pushing a soft, long rubber tube, a catheter, from a vein at his own elbow until it came to rest in the right side of his heart. The tube was 65 centimetres long. It had gone in under local anaesthetic through a slit in the vein at the left elbow, up under the collarbone and down the great vein into the heart, and the only things its owner had felt were a lively warmth near the collarbone and a wish to cough. He had checked its shadow on the fluoroscope screen himself. Then he had walked from the operating theatre to the X-ray station with the probe in his heart, climbing stairs on the way.

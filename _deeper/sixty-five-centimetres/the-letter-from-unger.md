@@ -3,7 +3,10 @@ title:  "The letter from Unger"
 subtitle: "Who was first, 1831 to 1956: a probe in a cholera patient's artery, a catheter in Bleichröder's arm in 1912, Klein's eleven in Prague, the addendum on page 2287, and what a photograph is worth."
 parent: sixty-five-centimetres
 order: 2
-date:   2026-10-21 09:30:00 +0000
+date:   2026-10-21 09:15:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-five-centimetres-the-letter-from-unger.mp3
+audio_length: 8788648
+audio_duration: "18:18"
 ---
 
 Within a month of the paper's appearance a Berlin professor had written to say that it had all been done before, and in one sense he was right. This piece sets out what had been done before, in 1831, in 1912 and in the months around Forssmann's own experiment, and what each of the earlier attempts lacked, because the lack is the point of the entry.

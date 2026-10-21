@@ -3,7 +3,10 @@ title:  "The key in the lock"
 subtitle: "Cournand and Richards at Bellevue, 1931 to 1956: ten years of failing to measure the blood going into the lungs, the catheter that got it, and what was done with it in the war and after."
 parent: sixty-five-centimetres
 order: 1
-date:   2026-10-21 09:30:00 +0000
+date:   2026-10-21 09:15:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-five-centimetres-the-key-in-the-lock.mp3
+audio_length: 9028452
+audio_duration: "18:48"
 ---
 
 The entry leaves the catheter in the literature in 1931, with a photograph attached to it and no use. This piece follows the two men who gave it one: what they had been trying to measure for ten years before they picked it up, what they found when they did, and what the Karolinska Institute thought it was rewarding in 1956. Nearly all of it comes from the two Nobel lectures that Dickinson Richards and André Cournand gave in Stockholm on 11 December 1956, the day after the ceremony, and from Göran Liljestrand's speech presenting the prize.
