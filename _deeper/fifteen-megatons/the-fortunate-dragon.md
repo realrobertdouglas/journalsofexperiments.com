@@ -4,6 +4,9 @@ subtitle: "The voyage of the Fukuryu Maru No. 5, January to September 1954: a tu
 parent: fifteen-megatons
 order: 1
 date:   2026-10-21 07:30:00 +0000
+audio: https://audio.journalsofexperiments.com/fifteen-megatons-the-fortunate-dragon.mp3
+audio_length: 9512090
+audio_duration: "19:48"
 ---
 
 The entry leaves the *Fukuryu Maru* No. 5 at the quay in Yaizu at six in the morning of 14 March 1954. This piece follows her from the day she left, through what the Japanese government established about where she was on 1 March, to the arguments in Tokyo and Washington about what had happened to her crew, and to the death of Aikichi Kuboyama in September.

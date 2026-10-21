@@ -4,8 +4,14 @@ title:  "Fifteen Megatons"
 subtitle: "The story of Castle Bravo and the atolls east of Bikini, 1954 to 1957: the six megatons the designers expected, the fifteen they got, and the islands and the fishing boat that were the only instruments downwind."
 date:   2026-10-21 07:30:00 +0000
 young: young/fifteen-megatons.md
+audio: https://audio.journalsofexperiments.com/fifteen-megatons.mp3
+audio_length: 20061484
+audio_duration: "41:47"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/fifteen-megatons-young.mp3
+audio_young_length: 8205528
+audio_young_duration: "17:05"
 ---
 
 At ten to three on the afternoon of Monday 1 March 1954, on Eniwetok Island in Rongerik Atoll, the pen of a recording gamma-ray monitor went off the top of its chart. The instrument belonged to the Atomic Energy Commission's Health and Safety Laboratory in New York. It had been left on the island to record the small amounts of radioactivity expected to drift that way from the proving ground 135 nautical miles to the west, and its scale ran from one hundredth of a milliroentgen an hour to one hundred. The twenty-eight Americans who ran the weather station there had been told to send word to a Mr Breslin, the laboratory's man on the task force command ship, if anything significant happened. At a quarter past three the station's radio operator sent this: "Attention Mr. Breslin, Information Commander, Weather Reporting Element, Provisional. GR 12 MIKE over 100 CHARLIE — Over 100."

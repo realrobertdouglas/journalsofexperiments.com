@@ -4,6 +4,9 @@ subtitle: "How the task force drew where Bravo's dust would fall, 1952 to 1956: 
 parent: fifteen-megatons
 order: 2
 date:   2026-10-21 07:30:00 +0000
+audio: https://audio.journalsofexperiments.com/fifteen-megatons-the-fallout-plot.mp3
+audio_length: 9736146
+audio_duration: "20:16"
 ---
 
 The entry says that the second question Castle asked, where the bomb's debris would go, was answered by a drawing, and that the drawing left out the top of the cloud. This piece is about the drawing: what it was made from, how it was read on the night, what the wind did and did not do, and why, sixty years later, the official reviewers of the test concluded that neither the yield nor a shift of the winds was the cause of what fell on Rongelap.
