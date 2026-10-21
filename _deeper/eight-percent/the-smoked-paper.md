@@ -3,7 +3,10 @@ title:  "The smoked paper"
 subtitle: "The rest of Pfungst's laboratory: the jerk of the head measured on the drum of a kymograph, a millimetre on average and a fifth of a millimetre in von Osten, five sheets of paper on the floor in place of the coloured cloths, and what Pfungst made of mind-readers and telepathy."
 parent: eight-percent
 order: 4
-date:   2026-10-21 21:30:00 +0000
+date:   2026-10-21 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eight-percent-the-smoked-paper.mp3
+audio_length: 6974219
+audio_duration: "14:31"
 ---
 
 The previous piece gave the laboratory experiments in which Pfungst played the horse and read numbers and concepts off his questioners' heads. This one gives the part of Chapter IV in which he stopped relying on his own eyes and had the movements write themselves down, and the experiment that stood in for the coloured cloths. The quotations are from Carl Rahn's English of 1911; the fractions of a millimetre, which the scan's text layer lost, were read from the page images.

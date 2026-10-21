@@ -2,8 +2,14 @@
 layout: post
 title:  "Eight Percent"
 subtitle: "The story of Hans, the horse of Wilhelm von Osten, Berlin, 1904 to 1907: the thirteen who watched the trainer and found no signal, the questioner who was not told the answer, and the fifth of a millimetre the horse had been reading all along."
-date:   2026-10-21 21:30:00 +0000
+date:   2026-10-21 22:00:00 +0000
 young: young/eight-percent.md
+audio: https://audio.journalsofexperiments.com/eight-percent.mp3
+audio_length: 18726118
+audio_duration: "39:00"
+audio_young: https://audio.journalsofexperiments.com/eight-percent-young.mp3
+audio_young_length: 7735889
+audio_young_duration: "16:06"
 categories: [experiments]
 comments: false
 ---

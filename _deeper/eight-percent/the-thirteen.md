@@ -3,7 +3,10 @@ title:  "The thirteen"
 subtitle: "The commission of September 1904: how it came to exist, who sat on it, what its own records say it did on the 11th and 12th, the statement it signed, and what Berlin made of it in the week after."
 parent: eight-percent
 order: 1
-date:   2026-10-21 21:30:00 +0000
+date:   2026-10-21 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eight-percent-the-thirteen.mp3
+audio_length: 9009028
+audio_duration: "18:45"
 ---
 
 The entry says that thirteen men watched Wilhelm von Osten for two days and found no signal, and that three men with a canvas tent and a pack of cards found, a month later, that there had never been anything else. This piece gives the first inquiry in the detail the entry has no room for: how the commission came to exist, who sat on it, what its own record says it did, the words of the statement, and the week of comment that followed. The documents are Stumpf's, printed as Supplements II and III of Pfungst's book, in Carl Rahn's English of 1911; the newspapers are as Karl Krall reprinted them in 1912, translated here.

@@ -3,7 +3,10 @@ title:  "Twenty-five people"
 subtitle: "Pfungst's laboratory, from November 1904: the horse's part played by a man, twenty-three questioners out of twenty-five who jerked their heads at the number they were thinking of, and the subjects who could be taught a new involuntary movement in seven trials without knowing it."
 parent: eight-percent
 order: 3
-date:   2026-10-21 21:30:00 +0000
+date:   2026-10-21 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eight-percent-twenty-five-people.mp3
+audio_length: 6761679
+audio_duration: "14:05"
 ---
 
 The entry says that in the laboratory Pfungst took the horse's part himself, and that twenty-three people out of twenty-five raised their heads at the number they were thinking of. This piece and the next follow Chapter IV of his book, "Laboratory Tests", which is where the case stops being about one horse. The experiments were begun in November 1904 at the Psychological Institute of the University of Berlin, while the tests in the courtyard were still running, and went on after von Osten withdrew the horse; the book was held back for them, and Stumpf thought it had "gained in permanent value" by the wait. Every quotation is from Carl Rahn's English of 1911.

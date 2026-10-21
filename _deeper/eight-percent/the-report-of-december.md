@@ -3,7 +3,10 @@ title:  "The report of 9 December"
 subtitle: "Carl Stumpf's statement of 9 December 1904 on the horse of Mr von Osten, given whole in the English of 1911, with the answer Albert Moll made to it a month later."
 parent: eight-percent
 order: 2
-date:   2026-10-21 21:30:00 +0000
+date:   2026-10-21 22:00:00 +0000
+audio: https://audio.journalsofexperiments.com/eight-percent-the-report-of-december.mp3
+audio_length: 5891931
+audio_duration: "12:16"
 ---
 
 The September commission had answered the question of tricks and referred the question of thinking to what Stumpf called "a purely scientific court". The court was Stumpf himself, with Erich von Hornbostel keeping the record and Oskar Pfungst running the experiments, in a tent in von Osten's courtyard from 13 October to 29 November 1904. Stumpf wrote the result up alone, signed it alone, and gave it to the press on 9 December. The New York Times had it by cable the next day. It is printed as Supplement IV of Pfungst's book, in Carl Rahn's English of 1911, and this is that text entire; the only change is the division into paragraphs, which follows the book.
