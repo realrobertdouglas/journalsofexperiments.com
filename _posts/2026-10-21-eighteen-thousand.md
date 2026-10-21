@@ -4,8 +4,14 @@ title:  "Eighteen Thousand"
 subtitle: "The story of the Comet and the water tank at Farnborough, 1946 to 1955: the length of cabin that stood eighteen thousand pressurisations at Hatfield, the two airliners that broke up after a thousand flights, and what the test had really measured."
 date:   2026-10-21 01:30:00 +0000
 young: young/eighteen-thousand.md
+audio: https://audio.journalsofexperiments.com/eighteen-thousand.mp3
+audio_length: 20222190
+audio_duration: "42:07"
 categories: [experiments]
 comments: false
+audio_young: https://audio.journalsofexperiments.com/eighteen-thousand-young.mp3
+audio_young_length: 8366234
+audio_young_duration: "17:25"
 ---
 
 On the afternoon of Tuesday 2 November 1954, in Church House, Westminster, Sir Hartley Shawcross put a question to the Director of the Royal Aircraft Establishment. Shawcross appeared for the de Havilland Aircraft Company, which had built the Comet, the first jet airliner in the world to carry fare-paying passengers. Two Comets lay on the bed of the Mediterranean. The witness was Sir Arnold Hall, whose staff at Farnborough had spent the summer finding out why. In 1953, Shawcross said, the makers had put a length of the Comet's cabin through 18,000 pressurisations in a tank at Hatfield, which corresponded to 54,000 hours of flying. Would the witness agree that, "that test having been made in 1953, it was not unreasonable for de Havillands to think that the fuselage would have, I do not say a 54,000 hours' life, but a fatigue life considerably in excess of anything that had actually been flown?"

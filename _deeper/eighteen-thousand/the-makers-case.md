@@ -4,6 +4,9 @@ subtitle: "The Comet inquiry's last three weeks, 8 to 24 November 1954: Tye's do
 parent: eighteen-thousand
 order: 2
 date:   2026-10-21 01:30:00 +0000
+audio: https://audio.journalsofexperiments.com/eighteen-thousand-the-makers-case.mp3
+audio_length: 6768019
+audio_duration: "14:05"
 ---
 
 This piece follows "[The Crown's case](/deeper/eighteen-thousand/the-crowns-case/)" and takes the Comet inquiry from its fourth week to its close: the evidence of the Air Registration Board's chief technical officer, the makers' engineers and designer, the Board's new requirements, and the closing speeches. As before, the words of the witnesses and counsel are taken from *Flight*'s weekly reports of the hearings.

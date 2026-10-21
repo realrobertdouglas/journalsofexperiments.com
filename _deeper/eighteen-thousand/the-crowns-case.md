@@ -4,6 +4,9 @@ subtitle: "The Comet inquiry's first three weeks, 19 October to 5 November 1954:
 parent: eighteen-thousand
 order: 1
 date:   2026-10-21 01:30:00 +0000
+audio: https://audio.journalsofexperiments.com/eighteen-thousand-the-crowns-case.mp3
+audio_length: 8479700
+audio_duration: "17:39"
 ---
 
 
