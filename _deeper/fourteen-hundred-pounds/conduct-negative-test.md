@@ -4,6 +4,9 @@ subtitle: "How the test at Macondo was written, 12 to 20 April 2010, and the thr
 parent: fourteen-hundred-pounds
 order: 1
 date:   2026-10-21 02:45:00 +0000
+audio: https://audio.journalsofexperiments.com/fourteen-hundred-pounds-conduct-negative-test.mp3
+audio_length: 8002986
+audio_duration: "16:40"
 ---
 
 The entry tells the story of the negative pressure test on the Deepwater Horizon on 20 April 2010. This piece goes behind it twice: first through the eight days in which BP's engineers wrote, unwrote and rewrote the procedure that reached the rig as two words, and then through the three hours of the test itself, gauge reading by gauge reading, as the Chief Counsel of the President's commission, the BOEMRE panel, BP's own investigators and the federal court each set them down. Where their numbers differ, the differences are given. The sources are those of the entry; the words of the witnesses come at second hand from the reports that quote them, which name the hearing dates.

@@ -4,6 +4,12 @@ title:  "Fourteen Hundred Pounds"
 subtitle: "The story of the Deepwater Horizon at the Macondo well, 2010 to 2016: the test that took the weight off a cemented well and watched for three hours, the gauge that read 1,400 pounds per square inch where it should have read zero, and the explanation that let the night go on."
 date:   2026-10-21 02:45:00 +0000
 young: young/fourteen-hundred-pounds.md
+audio: https://audio.journalsofexperiments.com/fourteen-hundred-pounds.mp3
+audio_length: 19343994
+audio_duration: "40:17"
+audio_young: https://audio.journalsofexperiments.com/fourteen-hundred-pounds-young.mp3
+audio_young_length: 7776805
+audio_young_duration: "16:11"
 categories: [experiments]
 comments: false
 ---

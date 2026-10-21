@@ -4,6 +4,9 @@ subtitle: "The investigations and the courts, 2010 to 2016: BP's report and the 
 parent: fourteen-hundred-pounds
 order: 2
 date:   2026-10-21 02:45:00 +0000
+audio: https://audio.journalsofexperiments.com/fourteen-hundred-pounds-the-reckoning.mp3
+audio_length: 9456794
+audio_duration: "19:41"
 ---
 
 The entry ends with what the negative pressure test taught. This piece follows what was made of it afterwards: four investigations, two corporate guilty pleas, a civil trial, and the cases against the two BP men who had been in the drill shack. It runs from BP's own report in September 2010 to the last sentence in April 2016, and takes the documents in order.
