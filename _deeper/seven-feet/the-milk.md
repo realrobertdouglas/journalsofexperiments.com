@@ -4,6 +4,9 @@ subtitle: "The district surveys and the ban, 12 October to 23 November 1957: a l
 parent: seven-feet
 order: 1
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seven-feet-the-milk.mp3
+audio_length: 8244470
+audio_duration: "17:10"
 ---
 
 The entry [*Seven Feet*](/experiments/2026/10/22/seven-feet.html) tells how Pile No. 1 at Windscale caught fire during a Wigner release in October 1957 and how the fire was put out. This piece follows the other half of the Penney committee's terms of reference, "the measures taken to deal with it and its consequences", out of the works and into the fields.

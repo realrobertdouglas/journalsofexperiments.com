@@ -4,6 +4,9 @@ subtitle: "What was published and what was not, 26 October 1957 to January 1988:
 parent: seven-feet
 order: 2
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/seven-feet-the-white-paper.mp3
+audio_length: 8208196
+audio_duration: "17:05"
 ---
 
 The entry [*Seven Feet*](/experiments/2026/10/22/seven-feet.html) tells how the fire in Pile No. 1 at Windscale started and how the committee under Sir William Penney explained it. This piece follows the report after it left Windscale: who read it, who decided what the public would be told, and when the rest came out.
