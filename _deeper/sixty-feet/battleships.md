@@ -3,7 +3,10 @@ title:  "Battleships"
 subtitle: "How the first closing was made, from Cory's report: the branch railway laid without asking, the quarries, the camp of six tribes under martial law, the brush mattress woven on a barge, the trestle, and the rock that nobody had believed in, August to November 1906."
 parent: sixty-feet
 order: 2
-date:   2026-10-22 01:00:00 +0000
+date:   2026-10-22 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-feet-battleships.mp3
+audio_length: 7894459
+audio_duration: "16:26"
 ---
 
 The entry says that the rock fill, which nobody had proposed, closed the river twice. This piece goes through the preparation and the first closing as Cory set them out for the American Society of Civil Engineers in 1913, with the quantities from his tables; the companion "[Fifteen days](/deeper/sixty-feet/fifteen-days/)" takes the second closing and what the two of them taught. His paper is the only full account by someone in charge.

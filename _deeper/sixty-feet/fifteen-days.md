@@ -3,7 +3,10 @@ title:  "Fifteen days"
 subtitle: "The second closing, 20 December 1906 to 16 March 1907, from Cory's report and Newell's: ninety-foot piles in a quartering current, the trestles torn out three times, the rate of dumping by the day, and what the two closings taught the men who made them and the engineers who argued about it."
 parent: sixty-feet
 order: 3
-date:   2026-10-22 01:00:00 +0000
+date:   2026-10-22 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-feet-fifteen-days.mp3
+audio_length: 6121917
+audio_duration: "12:45"
 ---
 
 The companion "[Battleships](/deeper/sixty-feet/battleships/)" goes through the preparation and the first closing of November 1906. This piece takes the second, after the river had broken through the levee a quarter of a mile south of the new dam on the night of 7 December, and ends with what Cory, Newell of the Reclamation Service, and the engineers who discussed Cory's paper made of it all.

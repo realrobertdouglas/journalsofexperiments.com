@@ -3,7 +3,10 @@ title:  "The New River"
 subtitle: "What the runaway river did in the valley while the engineers fought it at the heading: the overflow of 1906, the levee at Calexico, the waterfall that walked through Mexicali, the forty-three miles of gorge, the sea rising seven inches a day, and the railway climbing out of its way."
 parent: sixty-feet
 order: 4
-date:   2026-10-22 01:00:00 +0000
+date:   2026-10-22 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-feet-the-new-river.mp3
+audio_length: 7789439
+audio_duration: "16:13"
 ---
 
 The entry follows the fight at the lower heading. This piece follows the water once it was through, as the company's engineer reported it, as the valley's own historians told it in 1910, and as the Reclamation Service and the Geological Survey measured it. The valley had two kinds of danger that year, and the second was the opposite of the first.

@@ -3,7 +3,10 @@ title:  "The telegrams"
 subtitle: "What passed between Harriman and Roosevelt from 13 December 1906 to 7 January 1907, what the President told Congress, and what became of the promise to share the burden, 1908 to 1911."
 parent: sixty-feet
 order: 1
-date:   2026-10-22 01:00:00 +0000
+date:   2026-10-22 02:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-feet-the-telegrams.mp3
+audio_length: 9907008
+audio_duration: "20:38"
 ---
 
 The entry gives the two telegrams of 20 December 1906 on which the second closing turned. This piece gives the whole exchange as the President sent it to the Senate three weeks later, with the papers that went with it, and follows the money afterwards through three Congresses. Everything quoted here is from Senate Document 212 of the 59th Congress, second session, unless it says otherwise.
