@@ -4,6 +4,9 @@ subtitle: "How General Electric found out where the rod had been, May 1961 to No
 parent: rod-nine
 order: 3
 date:   2026-10-22 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/rod-nine-twenty-six-and-a-half-inches.mp3
+audio_length: 9266138
+audio_duration: "19:18"
 ---
 
 The entry says that the number which explained the accident was found as a scratch on a steel tube. This piece follows the people who found it, the General Electric Company's SL-1 project at the north end of the Idaho station, from the day they took over the ruined building to the two reports of 1962 in which they said what they could prove and what they could not. The board of investigation had worked from logs and witnesses. General Electric had the reactor.

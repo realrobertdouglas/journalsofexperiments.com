@@ -4,6 +4,9 @@ subtitle: "The rescue and the recovery, 3 to 25 January 1961: a minute at a time
 parent: rod-nine
 order: 2
 date:   2026-10-22 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/rod-nine-sixty-five-seconds.mp3
+audio_length: 9006342
+audio_duration: "18:45"
 ---
 
 The entry gives the night of 3 January in outline. This piece follows the Commission's own "Sequence of Events," which Combustion Engineering printed in full in its interim report, through the six days it took to bring the three men out and the three weeks to bury them, with what the Commission's medical director and its health and safety division wrote afterwards about what they had learned. The site had an emergency plan, and it worked as far as it went. Nobody had planned for this.

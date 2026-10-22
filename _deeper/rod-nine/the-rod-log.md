@@ -4,6 +4,9 @@ subtitle: "What the SL-1's own records said in the two years before 3 January 19
 parent: rod-nine
 order: 1
 date:   2026-10-22 00:00:00 +0000
+audio: https://audio.journalsofexperiments.com/rod-nine-the-rod-log.mp3
+audio_length: 8601976
+audio_duration: "17:55"
 ---
 
 The entry says the reactor had been speaking for months in a language everyone at the plant understood. This piece goes through what it said, as the Atomic Energy Commission's board of investigation and the contractor's own interim report took it from the operating logs, the rod history logs, the night order book and the testimony of the people who kept them. Nothing in it caused the accident on its own. All of it shortened the distance a hand had to travel to cause it.
