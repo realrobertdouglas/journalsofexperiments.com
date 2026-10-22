@@ -3,7 +3,10 @@ title:  "The thermometer"
 subtitle: "Bowers's register of the winter journey, 27 June to 1 August 1911, day by day from Wilson's report, and what Simpson found when he set it beside the readings at Cape Evans: a Barrier 20 to 25 degrees colder than the Sound, and the stream of cold air at its edge."
 parent: three-eggs
 order: 2
-date:   2026-10-22 02:00:00 +0000
+date:   2026-10-22 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-eggs-the-thermometer.mp3
+audio_length: 7742787
+audio_duration: "16:07"
 ---
 
 The entry says that the journey to Cape Crozier carried two instruments, the case for the embryos and the thermometer, and that the thermometer's record was the one that was read. This piece is that record, and what was made of it. The temperatures are Fahrenheit, as the expedition kept them, and the daily readings are those Wilson wrote into his official report, which he says were "taken directly from Bowers' record". What the three men dragged and ate is in [*The ledger*](/deeper/three-eggs/the-ledger/).

@@ -3,7 +3,10 @@ title:  "The ledger"
 subtitle: "What the three men dragged and what they ate: Bowers's list of sledge weights as Cherry-Garrard printed it, the three rations and how they were revised in the tent, the six tins of oil, and the verdicts Scott wrote down for the journey to the Pole."
 parent: three-eggs
 order: 1
-date:   2026-10-22 02:00:00 +0000
+date:   2026-10-22 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-eggs-the-ledger.mp3
+audio_length: 5459513
+audio_duration: "11:22"
 ---
 
 The entry says that the journey to Cape Crozier was made to serve "a good many trial ends" besides the eggs: a ration, a tent, sleeping-bags, crampons and clothing, all to be tested for the journey to the Pole. This piece is the ledger of those trials: what went on the sledges, what the three men ate, and what Scott wrote down about it when they came back. The thermometer's record is in [*The thermometer*](/deeper/three-eggs/the-thermometer/).

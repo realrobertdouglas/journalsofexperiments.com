@@ -3,7 +3,10 @@ title:  "The custodians"
 subtitle: "The three embryos from Cape Evans to Edinburgh: Wilson's plan of 1907 in full, the eggs opened in the hut, the receipt in South Kensington, the embryologist who cut them and died, and Cossar Ewart's report of 1922, which found feathers and scales to be different things from the start."
 parent: three-eggs
 order: 3
-date:   2026-10-22 02:00:00 +0000
+date:   2026-10-22 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-eggs-the-custodians.mp3
+audio_length: 7928449
+audio_duration: "16:30"
 ---
 
 The entry says that three eggs reached the hut on Mount Terror on 20 July 1911, that they were carried into the Natural History Museum in 1913, and that the first report on them was the opposite of what they had been collected to show. This piece follows the embryos through those first eleven years, in the words of the people who had charge of them. The Museum's own report of 1934, and what has been learned since, are in [*Two shillings*](/deeper/three-eggs/two-shillings/).

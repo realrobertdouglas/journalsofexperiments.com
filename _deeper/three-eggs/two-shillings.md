@@ -3,7 +3,10 @@ title:  "Two shillings"
 subtitle: "The Museum's report of September 1934: what Parsons found in the sections, why three embryos of one age could not give a series, what the Adélie eggs said about scales and feathers, and the answers that came afterwards from the rocks of New Zealand and China."
 parent: three-eggs
 order: 4
-date:   2026-10-22 02:00:00 +0000
+date:   2026-10-22 01:00:00 +0000
+audio: https://audio.journalsofexperiments.com/three-eggs-two-shillings.mp3
+audio_length: 6414911
+audio_duration: "13:21"
 ---
 
 The entry says that the Natural History Museum published its report on the three embryos in 1934, in ten pages, price two shillings, and that it found nothing of what the journey had been made to find. [*The custodians*](/deeper/three-eggs/the-custodians/) follows the embryos from Cape Evans to the deaths of the two professors who had them. This piece is about the report itself, and what has been learned since about the two claims the journey rested on.
