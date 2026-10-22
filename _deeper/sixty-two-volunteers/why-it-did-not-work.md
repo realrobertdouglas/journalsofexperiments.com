@@ -4,6 +4,9 @@ subtitle: "The four explanations for the failure at Gallops Island, weighed with
 parent: sixty-two-volunteers
 order: 4
 date:   2026-10-22 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-two-volunteers-why-it-did-not-work.mp3
+audio_length: 6468511
+audio_duration: "13:28"
 ---
 
 A century of people have quoted the Gallops Island result. Almost nobody has tried to explain it. A search of the modern medical literature turns up one historian who describes the experiments accurately and offers no mechanism, and a handful of papers that cite the bulletin in passing. What follows is therefore an assembly rather than a summary: the four explanations that the evidence supports, each with what is known for and against it.

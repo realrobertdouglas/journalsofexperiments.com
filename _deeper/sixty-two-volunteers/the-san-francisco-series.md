@@ -4,6 +4,9 @@ subtitle: "McCoy and Richey at Angel Island, November and December 1918: fifty s
 parent: sixty-two-volunteers
 order: 1
 date:   2026-10-22 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-two-volunteers-the-san-francisco-series.mp3
+audio_length: 5764649
+audio_duration: "12:00"
 ---
 
 The Boston experiments had one obvious weakness, and everyone involved could see it from the start: the volunteers had all been living inside the epidemic. The second series, three thousand miles away, was supposed to be the answer to that. It was run at the same time, on men who had been locked away from the disease.
@@ -74,7 +77,7 @@ And in every case the contact controls — the fifth man in each group of five, 
 
 The San Francisco series mattered to the Boston series immediately, and Rosenau's team used it in their discussion the moment they had to explain themselves:
 
-> It is possible that all our volunteers resisted infection because of a natural or an acquired immunity. If this be true, then we have an indication of a much higher degree of immunity to this disease than is generally assumed. The fact that our colleagues in the San Francisco studies (q. v. p. 53) failed to reproduce the disease in volunteers who had not been exposed in the recent pandemic suggests that the immunity of our volunteers was at least not the sole controlling factor.
+> It is possible that all our volunteers resisted infection because of a natural or an acquired immunity. If this be true, then we have an indication of a much higher degree of immunity to this disease than is generally assumed. The fact that our colleagues in the San Francisco studies ... failed to reproduce the disease in volunteers who had not been exposed in the recent pandemic suggests that the immunity of our volunteers was at least not the sole controlling factor.
 
 That is a fair argument, and it was the best one available in 1919. It is also weaker than it looks. The San Francisco men were susceptible by history, but the number of them actually inoculated with patients' material was twenty-six, not fifty; their material sat for two to six hours in transit, which is longer than most of the Boston material; their donors were a child, an infant, two nurses and an apprentice rather than a ward full of sailors; and all fifty had been given three doses of a vaccine containing five billion Pfeiffer's bacilli, which means that if the bacillus had been the cause, the one group assembled to test it had been vaccinated against it a month before.
 

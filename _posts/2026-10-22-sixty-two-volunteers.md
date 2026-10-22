@@ -4,6 +4,12 @@ title:  "Sixty-Two Volunteers"
 subtitle: "The story of the influenza experiments at Gallops Island, 1918 to 1919: the sixty-two sailors who volunteered to be given influenza and could not be given it, and the gunboat across the harbour that gave it to eight men in ten."
 date:   2026-10-22 03:00:00 +0000
 young: young/sixty-two-volunteers.md
+audio: https://audio.journalsofexperiments.com/sixty-two-volunteers.mp3
+audio_length: 20413620
+audio_duration: "42:31"
+audio_young: https://audio.journalsofexperiments.com/sixty-two-volunteers-young.mp3
+audio_young_length: 8255264
+audio_young_duration: "17:11"
 categories: [experiments]
 comments: false
 ---
@@ -204,5 +210,5 @@ Sixty-eight men put their names down to be given influenza in the worst winter o
   <p><strong>Second hand.</strong> The Navy's Surgeon General's report for 1919 exists in no scan that could be reached; it is quoted from HyperWar's transcription, which prints the original page numbers, and its wording is corroborated sentence by sentence against the <em>Public Health Reports</em> scan. Nicolle and Lebailly (1918) are cited from the footnotes of Bulletin 123 and not read. Smith, Andrewes and Laidlaw (1933) are relayed through Taubenberger and Morens (2007). Tumpey (2007) and Carrat (2008) were read in abstract only, <em>Science</em> and Oxford University Press having refused the full texts. The two Rosenau obituaries of 1946 and 1947 were located but could not be opened, so his biography rests on the NIH chronology and the UNC finding aid, which disagree with NCpedia on whether he moved south in 1935 or 1936 — a detail the entry does not use.</p>
   <p><strong>Not reached.</strong> The Boston dailies of 1918 and 1919 are not in any open newspaper archive, so the local coverage here is wire copy carried by out-of-town papers. Bureau of Medicine and Surgery Bulletin No. 57, cited in 1919 as a separate Navy printing of both series, could not be found. No contemporary source links Currie's death to the experiments, and this entry does not either; the two dates are simply both 23 December 1918.</p>
   <p><strong>Figures.</strong> Two, both pages of Hygienic Laboratory Bulletin No. 123 (1921), a United States government work published before 1930, from the scan on archive.org; each was cropped to remove the scanning service's footer and reduced to 1,600 pixels wide. No photograph of the island, the station or the volunteers could be found with a rights statement good enough for the house rule, so there is none.</p>
-  <p><strong>Decisions under the overnight rules.</strong> The overflow went to three companion pieces rather than being cut, to keep the entry inside the house length. The narration was rendered with the load gate raised (<code>MAX_LOAD=60</code>), because this machine's load average runs far above the gate's ceiling from other accounts' work.</p>
+  <p><strong>Decisions under the overnight rules.</strong> The overflow went to four companion pieces rather than being cut, to keep the entry inside the house length: the San Francisco series, the second Boston winter, the contemporary experiments that did transmit influenza, and the modern explanations of the failure. The narration was rendered with the load gate raised (<code>MAX_LOAD=60</code>), because this machine's load average runs far above the gate's ceiling from other accounts' work.</p>
 </details>

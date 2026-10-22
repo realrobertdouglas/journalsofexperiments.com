@@ -4,6 +4,9 @@ subtitle: "Nicolle and Lebailly in Tunis, September 1918, and Yamanouchi in Japa
 parent: sixty-two-volunteers
 order: 3
 date:   2026-10-22 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-two-volunteers-the-experiments-that-worked.mp3
+audio_length: 5171375
+audio_duration: "10:46"
 ---
 
 The Gallops Island experiments are usually told as a mystery: nobody could transmit influenza, and nobody knows why. That is not quite the shape of 1918. Other people were doing the same experiment in the same months, and some of them were reporting success. The American failure is only strange when you set it beside them, and it is only interpretable when you look at how the subjects differed.

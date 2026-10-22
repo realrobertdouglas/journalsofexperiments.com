@@ -4,6 +4,9 @@ subtitle: "The February and March 1919 experiments at Gallops Island: forty-thre
 parent: sixty-two-volunteers
 order: 2
 date:   2026-10-22 03:00:00 +0000
+audio: https://audio.journalsofexperiments.com/sixty-two-volunteers-the-second-winter.mp3
+audio_length: 5973723
+audio_duration: "12:26"
 ---
 
 The first Boston series ended on 23 December 1918 having produced nothing. Six weeks later the same people went back and did it again, with the design altered to answer the objections their own report had raised.
@@ -28,7 +31,7 @@ So before the second series began, a quarter of the volunteers had sore throats,
 
 Two things.
 
-**The material would be fresher.** The first series had used secretions collected hours earlier, and its discussion had admitted this might be fatal to the result: "In no case, however, did we obtain material during the period of incubation." The second series went as early as it could get. In Experiment VI the secretions were used eight hours after the onset of the donor's symptoms and fifteen minutes after they were collected. In Experiment VIII the material had been recovered within four hours of a man's first symptom.
+**The material would be fresher.** The first series had used secretions collected hours earlier, and its discussion had admitted this might be fatal to the result: "In no case, however, did we obtain material during the period of incubation." The second series went as early as it could get. In Experiment VII the material was taken in the ninth hour after the donor's first symptoms and instilled within fifteen minutes of leaving him. In Experiment VIII it had been recovered within four hours of a man's first symptom.
 
 **They added passage experiments.** If a volunteer seemed to have caught something, his secretions were taken and given to the next group. A disease that can be passed from a man you gave it to, on to a third man, is a living agent; an illness that stops with the first man is a coincidence. Experiments IV, VII and IX were passage experiments.
 
