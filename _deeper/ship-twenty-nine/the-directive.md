@@ -3,7 +3,7 @@ title:  "The directive"
 subtitle: "The telegraphic airworthiness directive of 7 March 1974 and its amendment, the Administrator's explanation, the Safety Board's three further recommendations, and the French Commission's fourth."
 parent: ship-twenty-nine
 order: 6
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-directive.mp3
 audio_length: 6363275
 audio_duration: "13:15"

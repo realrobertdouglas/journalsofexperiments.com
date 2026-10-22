@@ -3,7 +3,7 @@ title:  "The bulletins"
 subtitle: "The documents of 1972 and 1973: the service bulletin before Windsor, the directive drafted and withdrawn, the Safety Board's letter, the Administrator's reply, the three bulletins, and the letters on the floor."
 parent: ship-twenty-nine
 order: 4
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-bulletins.mp3
 audio_length: 7968203
 audio_duration: "16:35"

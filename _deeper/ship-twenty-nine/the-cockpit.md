@@ -3,7 +3,7 @@ title:  "The cockpit"
 subtitle: "American Airlines Flight 96 from the ramp at Detroit to the runway, 12 June 1972, as the crew and the cockpit voice recorder told it to the Safety Board."
 parent: ship-twenty-nine
 order: 2
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-cockpit.mp3
 audio_length: 7223815
 audio_duration: "15:02"

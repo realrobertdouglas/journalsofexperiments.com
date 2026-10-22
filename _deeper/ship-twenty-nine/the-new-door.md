@@ -3,7 +3,7 @@ title:  "The new door"
 subtitle: "What the French Commission measured on the wreckage of TC-JAV's door, and on a new door rigged to match it, at Saclay and Zurich, 1974 and 1975."
 parent: ship-twenty-nine
 order: 5
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-new-door.mp3
 audio_length: 6213705
 audio_duration: "12:56"

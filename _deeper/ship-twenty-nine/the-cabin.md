@@ -3,7 +3,7 @@ title:  "The cabin"
 subtitle: "The other half of Flight 96, 12 June 1972: the eight flight attendants, the fallen floor, the slides, and the Safety Board's list of what the collapse had done to the cables."
 parent: ship-twenty-nine
 order: 3
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-cabin.mp3
 audio_length: 4799235
 audio_duration: "9:59"

@@ -3,7 +3,7 @@ title:  "The door"
 subtitle: "How the DC-10's aft cargo door was meant to lock, part by part, and what the Safety Board's tests at Long Beach found in the summer of 1972."
 parent: ship-twenty-nine
 order: 1
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-door.mp3
 audio_length: 6081601
 audio_duration: "12:40"

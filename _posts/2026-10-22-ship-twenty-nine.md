@@ -2,7 +2,7 @@
 layout: post
 title:  "Ship Twenty-Nine"
 subtitle: "The story of the DC-10's cargo door, 1972 to 1974: the floor that fell in over Windsor and the crew that landed it, the directive that was drafted and withdrawn for a bulletin, and the aircraft whose papers said the fix was done."
-date:   2026-10-22 04:00:00 +0000
+date:   2026-10-22 05:00:00 +0000
 young: young/ship-twenty-nine.md
 audio: https://audio.journalsofexperiments.com/ship-twenty-nine.mp3
 audio_length: 20476396
