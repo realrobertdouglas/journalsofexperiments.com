@@ -4,6 +4,9 @@ subtitle: "The documents of 1972 and 1973: the service bulletin before Windsor, 
 parent: ship-twenty-nine
 order: 4
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-bulletins.mp3
+audio_length: 7968203
+audio_duration: "16:35"
 ---
 
 The entry says that the correction after Windsor went out as a manufacturer's advice instead of a government's order. This piece sets the documents of 1972 and 1973 in order: what each said, who signed it, and what it bound. The companion piece "[The directive](/deeper/ship-twenty-nine/the-directive/)" takes the paper on from March 1974. The Safety Board's letter and the FAA's reply are from the Windsor report; the bulletins' dates and contents are from the airworthiness directive that eventually made them compulsory; the letters on the floor and the Administrator's letter of March 1974 are known here only as the Washington Post reported them, in two articles that Senator Vance Hartke had printed in the Congressional Record on 28 March 1974.

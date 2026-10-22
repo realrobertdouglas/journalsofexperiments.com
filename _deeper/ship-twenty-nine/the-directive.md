@@ -4,6 +4,9 @@ subtitle: "The telegraphic airworthiness directive of 7 March 1974 and its amend
 parent: ship-twenty-nine
 order: 6
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-directive.mp3
+audio_length: 6363275
+audio_duration: "13:15"
 ---
 
 The companion piece "[The bulletins](/deeper/ship-twenty-nine/the-bulletins/)" gives the documents of 1972 and 1973. This one gives what replaced them after Ermenonville: the directive itself as the Federal Register printed it on 2 April 1974, the Administrator's account of why, and the recommendations that followed in Washington and Paris. The directive's text is from the Register and from its 1975 revision; Butterfield's and Basnight's words are as the Washington Post reported them, in the articles that the Senate printed in the Congressional Record on 28 March 1974; the Commission's recommendations are from its report.

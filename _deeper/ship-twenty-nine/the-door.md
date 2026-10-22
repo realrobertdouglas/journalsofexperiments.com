@@ -4,6 +4,9 @@ subtitle: "How the DC-10's aft cargo door was meant to lock, part by part, and w
 parent: ship-twenty-nine
 order: 1
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-door.mp3
+audio_length: 6081601
+audio_duration: "12:40"
 ---
 
 The entry says that the DC-10's cargo door could be apparently closed when it was not closed, and that two inquiries found out how. This piece follows the mechanism part by part, and then the first set of tests, the Safety Board's at the Douglas plant after Windsor. The second set, the French Commission's, is in the companion piece "[The new door](/deeper/ship-twenty-nine/the-new-door/)". Everything quoted here is from the Board's report of February 1973.

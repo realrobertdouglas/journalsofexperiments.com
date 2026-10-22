@@ -4,6 +4,9 @@ subtitle: "American Airlines Flight 96 from the ramp at Detroit to the runway, 1
 parent: ship-twenty-nine
 order: 2
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-cockpit.mp3
+audio_length: 7223815
+audio_duration: "15:02"
 ---
 
 The entry gives the Windsor flight in a page. This piece gives its first half as the National Transportation Safety Board's report of February 1973 does, from the ramp agent's knee to the stop on the runway, with the cockpit voice recorder's transcript where the report has it; the companion piece "[The cabin](/deeper/ship-twenty-nine/the-cabin/)" gives the other half, behind the cockpit door and under the floor. The clock times in the narrative are Eastern Standard Time, as the report uses them; the recorder's times are Greenwich, five hours on, and are given as minutes and seconds past the hour.

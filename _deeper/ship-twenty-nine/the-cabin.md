@@ -4,6 +4,9 @@ subtitle: "The other half of Flight 96, 12 June 1972: the eight flight attendant
 parent: ship-twenty-nine
 order: 3
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-cabin.mp3
+audio_length: 4799235
+audio_duration: "9:59"
 ---
 
 The companion piece "[The cockpit](/deeper/ship-twenty-nine/the-cockpit/)" gives the Windsor flight from the flight deck. This one gives it from behind the cockpit door, as the Safety Board's report of February 1973 reconstructed it from the flight attendants and the passengers, and then from under the floor, where the Board's inspectors listed what the collapse had done to every cable that ran through it. Everything quoted is from the report.

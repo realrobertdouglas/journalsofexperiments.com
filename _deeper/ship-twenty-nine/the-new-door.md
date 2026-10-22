@@ -4,6 +4,9 @@ subtitle: "What the French Commission measured on the wreckage of TC-JAV's door,
 parent: ship-twenty-nine
 order: 5
 date:   2026-10-22 04:00:00 +0000
+audio: https://audio.journalsofexperiments.com/ship-twenty-nine-the-new-door.mp3
+audio_length: 6213705
+audio_duration: "12:56"
 ---
 
 The companion piece "[The door](/deeper/ship-twenty-nine/the-door/)" gives the mechanism and the Safety Board's tests of 1972. This piece gives the second set of tests, the French Commission of Inquiry's, on the door that came down at Saint-Pathus and on a new door that Douglas lent, and the measurements by which the Commission found how fifty pounds had done what 120 had done at Windsor. Everything quoted is from the Commission's report as the British Accidents Investigation Branch translated it in 1976.
