@@ -19,13 +19,13 @@ The Colorado is a river of mud. Every day its water carried enough silt into the
 
 So Rockwood did the only thing he could think of. In late September 1904 he had a dredge cut a new opening from the river to the canal, four miles south of the border, below the choked part. The cut was about sixty feet wide and six to eight feet deep. It took about three weeks. Water came through it, and the valley had water for the winter.
 
-What the cut did not have was a gate. A gate would have let the company decide how much water came in. Rockwood drew plans for one and sent them to Mexico City, because the opening was in Mexico and the Mexican government had to approve any such structure. The approval took more than a year to come.
+What the cut did not have was a gate, which would have let the company decide how much water came in. Rockwood drew plans for one and sent them to Mexico City, because the Mexican government had to approve any such structure. The approval took more than a year to come.
 
 ## Why Rockwood thought it was safe
 
 Rockwood knew a cut without a gate was a risk. He explained later why he took it. The railway had kept a record of the river's height at Yuma every day for twenty-seven years. In those twenty-seven years there had been only three winter floods, and never two in the same winter. The big flood came every summer, when the snow melted in the mountains, and the company meant to close the cut before then with brush and earth, the way it had closed a gap beside its main gate every spring for three years. "It was not probable, then," Rockwood wrote, "in the winter of 1905, that there would be any winter flood to enlarge the cut made by us."
 
-The engineers of the Reclamation Service thought he was wrong. The head of the Service, Frederick Newell, wrote afterwards that the cut was made "much against the advice of the engineers." But the Service had no power to stop it. The cut was in Mexico, on the company's own land.
+The government's engineers thought he was wrong. Frederick Newell, the head of the Reclamation Service, wrote afterwards that the cut was made "much against the advice of the engineers." But the Service had no power to stop it.
 
 ## Five floods
 
