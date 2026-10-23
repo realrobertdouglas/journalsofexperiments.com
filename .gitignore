@@ -5,3 +5,5 @@ _site*
 .obsidian/config
 .obsidian/workspace
 _ideas/overnight/
+node_modules/
+.wrangler/

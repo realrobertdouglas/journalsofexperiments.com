@@ -1,0 +1,30 @@
+{% comment %}Write back (post.html and deeper.html, above the share strip): three buttons, "I'm curious about…",
+"I see a gap…", "I want to know more…", each opening a short note the reader sends to the author. Where the note
+goes is set in _config.yml: `feedback_endpoint` (a POST to the worker in _tools/feedback-worker, which opens a
+GitHub issue labelled reader) or, failing that, `feedback_email` (the reader's own mail app). With neither set,
+or without JavaScript, nothing shows. Script: static/js/write-back.js. Styles: main.css .write-back.{% endcomment %}
+{% if site.feedback_endpoint or site.feedback_email %}
+<section class="write-back" id="js-write-back" hidden
+  data-endpoint="{{ site.feedback_endpoint }}" data-email="{{ site.feedback_email }}"
+  data-title="{{ page.title | escape }}" data-url="{{ site.url }}{{ page.url }}">
+  <p class="write-back__label">Write back</p>
+  <div class="write-back__kinds" role="group" aria-label="Write back to the author">
+    <button type="button" class="write-back__kind" data-kind="curious" aria-pressed="false">I'm curious about…</button>
+    <button type="button" class="write-back__kind" data-kind="gap" aria-pressed="false">I see a gap…</button>
+    <button type="button" class="write-back__kind" data-kind="more" aria-pressed="false">I want to know more…</button>
+  </div>
+  <form class="write-back__form" hidden>
+    <label class="write-back__phrase" for="write-back-text"></label>
+    <textarea id="write-back-text" class="write-back__text" rows="3" maxlength="2000" required></textarea>
+    <blockquote class="write-back__quote" hidden></blockquote>
+    <input class="write-back__hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <div class="write-back__actions">
+      <button type="submit" class="write-back__send">Send</button>
+      <button type="button" class="write-back__cancel">Cancel</button>
+      <span class="write-back__hint">Goes to the author. No name or account needed.</span>
+    </div>
+  </form>
+  <p class="write-back__done" role="status" hidden></p>
+</section>
+<script src="/static/js/write-back.js" defer></script>
+{% endif %}

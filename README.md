@@ -43,6 +43,7 @@ The entry lists its companions under "Go deeper" at the foot of its text; each c
 - `index.html` — the list of entries, newest first. `about.md` — the purpose of the site and the appearance toggle.
 - `_layouts/`, `_includes/`, `static/` — the theme. `static/img/posts/` is where a post's `image:` lives; `static/img/favicon.svg` is the site mark.
 - `search.json` and `static/js/search.js` — the sidebar search; `feed.xml` — RSS.
+- `_includes/write-back.html`, `static/js/write-back.js` and `_tools/feedback-worker/` — the three buttons at the foot of an entry ("I'm curious about…", "I see a gap…", "I want to know more…"); a reader's note goes to the worker, which opens a GitHub issue labelled `reader`, or to the author's mail. Switched on by `feedback_endpoint` / `feedback_email` in `_config.yml`; the worker's README has the deploy steps.
 - Sister sites are linked from the sidebar in `_layouts/default.html`.
 
 ## Local preview
