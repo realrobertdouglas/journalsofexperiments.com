@@ -9,6 +9,9 @@
     succession would open two threads. Settings: wrangler.toml [vars] GITHUB_REPO (owner/name) and ALLOWED_ORIGINS
     (comma-separated; the site's origins, for CORS and to check the entry URL); the secret GITHUB_TOKEN (a
     fine-grained token with Issues read and write on the repo); GITHUB_API only for a stand-in during local tests.
+    Each note is also mailed to the owner (answers are not; their tally lives in the issue): the send_email binding
+    NOTIFY, with Cloudflare Email Routing enabled on the zone, the owner's address verified there and held in the
+    secret NOTIFY_TO, and NOTIFY_FROM an address on the domain. A mail that fails never fails the reader's post.
     Nothing about the reader is kept: no name, no address, no cookie.
 */
 const KINDS = {
@@ -25,7 +28,7 @@ const QUESTION = 'Could this entry improve?';
 const TALLY = /^\*\*Could this entry improve\?\*\* No (\d+) · Partly (\d+) · Yes (\d+)$/m;
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const origin = request.headers.get('Origin') || '';
     const allowed = (env.ALLOWED_ORIGINS || '').split(',').map((s) => s.trim()).filter(Boolean);
     const ok = allowed.includes(origin);
@@ -77,6 +80,8 @@ export default {
     const res = await gh(`/repos/${env.GITHUB_REPO}/issues/${issue.number}/comments`, 'POST', { body });
     if (!res.ok) return json({ error: `github ${res.status}` }, 502, cors);
     const comment = await res.json();
+    ctx.waitUntil(notify(env, { kind, text, quote, young, title, url, issue, comment })
+      .catch((e) => console.error('mail not sent:', e && e.message ? e.message : e)));
     return json({ ok: true, issue: issue.html_url, number: issue.number, comment: comment.html_url }, 200, cors);
   },
 };
@@ -127,6 +132,51 @@ function withTally(body, c, title, url) {
   if (TALLY.test(body || '')) return body.replace(TALLY, line);
   return [`Entry: [${title}](${url})`, '', line, '',
           '_Each note from the entry page is a comment below. No name or address is collected._'].join('\n');
+}
+
+// Mail to the owner on each note. Every mail about one entry carries the same References header, so a mail app
+// threads them the way GitHub does.
+async function notify(env, n) {
+  if (!env.NOTIFY || !env.NOTIFY_TO || !env.NOTIFY_FROM) return;
+  const { EmailMessage } = await import('cloudflare:email');   // loaded here: wrangler 3's local runtime lacks it
+  const site = new URL(n.url).hostname;
+  const counts = tally(n.issue.body);
+  const text = [
+    KINDS[n.kind], '', n.text,
+    ...(n.quote ? ['', `> ${n.quote}`] : []),
+    ...(n.young ? ['', 'Read in the younger readers version.'] : []),
+    '', `Entry: ${n.title}`, n.url,
+    '', `Thread: ${n.issue.html_url}`, `This note: ${n.comment.html_url}`,
+    `${QUESTION} No ${counts.no} · Partly ${counts.partly} · Yes ${counts.yes}`,
+    '', 'Sent from the entry page. No name or address was collected.',
+  ].join('\n');
+  const thread = `<reader-notes-${n.issue.number}@${site}>`;
+  const raw = [
+    `From: Journal of Experiments <${env.NOTIFY_FROM}>`,
+    `To: <${env.NOTIFY_TO}>`,
+    `Subject: ${header(`Reader note: ${n.title}`)}`,
+    `Date: ${new Date().toUTCString().replace(/GMT$/, '+0000')}`,
+    `Message-ID: <note-${crypto.randomUUID()}@${site}>`,
+    `In-Reply-To: ${thread}`,
+    `References: ${thread}`,
+    'MIME-Version: 1.0',
+    'Content-Type: text/plain; charset=utf-8',
+    'Content-Transfer-Encoding: base64',
+    '',
+    base64(text, true),
+  ].join('\r\n');
+  await env.NOTIFY.send(new EmailMessage(env.NOTIFY_FROM, env.NOTIFY_TO, raw));
+}
+
+function header(s) {                           // RFC 2047 once the text leaves plain ASCII
+  return /^[\x20-\x7e]*$/.test(s) ? s : `=?utf-8?B?${base64(s, false)}?=`;
+}
+
+function base64(s, wrap) {
+  let bin = '';
+  for (const b of new TextEncoder().encode(s)) bin += String.fromCharCode(b);
+  const out = btoa(bin);
+  return wrap ? out.replace(/(.{76})/g, '$1\r\n') : out;
 }
 
 function clean(v, max) {

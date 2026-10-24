@@ -30,6 +30,27 @@ From the root of this repo, with `wrangler` signed in to the Cloudflare account 
 Redeploy after editing `worker.js` (step 2). `ALLOWED_ORIGINS` in `wrangler.toml` lists the pages it accepts
 posts from.
 
+## Mail on each note
+
+Every note is also mailed to the owner, through Cloudflare Email Routing on the site's own zone (answers are not
+mailed; their tally sits in the issue). GitHub itself stays silent because the issues are written with the owner's
+token, and GitHub never notifies you of your own activity. Mails about one entry share a References header, so a
+mail app threads them like the issue does. To switch it on:
+
+1. In the Cloudflare dashboard, open the zone, then Email → Email Routing, and enable it (the domain has no mail
+   records, so this only adds Cloudflare's).
+2. Under Destination addresses, add the address the mail should reach, and click the link in the verification
+   mail Cloudflare sends there.
+3. Store that same address as the worker's secret:
+
+       npx -y wrangler@3 secret put NOTIFY_TO --config _tools/feedback-worker/wrangler.toml
+
+4. Redeploy (step 2 above). The `[[send_email]]` binding in `wrangler.toml` and `NOTIFY_FROM` (an address on the
+   domain that receives nothing) are already there.
+
+A mail that fails to send never fails the reader's post; the issue is the record. Without the secret, nothing is
+mailed.
+
 ## Testing it by hand
 
 An answer (the reply names the entry's issue):

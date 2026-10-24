@@ -1,9 +1,11 @@
-# Write back: the Cloudflare Worker that turns a reader's note into a GitHub issue (worker.js; README.md).
+# Improve this entry: the Cloudflare Worker that keeps one GitHub issue per entry from readers' answers and notes,
+# and mails the owner each note (worker.js; README.md).
 name = "journal-write-back"
 main = "worker.js"
 compatibility_date = "2025-07-18"
 
 [vars]
+NOTIFY_FROM = "notes@journalsofexperiments.com"
 GITHUB_REPO = "realrobertdouglas/journalsofexperiments.com"
 # Pages the worker accepts notes from (the Origin header and the entry's url). Add http://localhost:4000 to test locally.
 ALLOWED_ORIGINS = "https://journalsofexperiments.com,https://www.journalsofexperiments.com"
@@ -12,3 +14,9 @@ ALLOWED_ORIGINS = "https://journalsofexperiments.com,https://www.journalsofexper
 
 # Secret, set once with `wrangler secret put GITHUB_TOKEN`: a fine-grained GitHub token for this repo with
 # Issues: Read and write. Never in this file.
+
+# Mail to the owner on each note. Needs Cloudflare Email Routing enabled on the zone, the owner's address verified
+# there as a destination, and the secret NOTIFY_TO holding that address (`wrangler secret put NOTIFY_TO`). The
+# From address is on the domain and receives nothing.
+[[send_email]]
+name = "NOTIFY"
