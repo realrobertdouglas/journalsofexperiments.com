@@ -30,8 +30,7 @@ layout: default
   {% else %}
   <div class="post">{{ content }}</div>
   {% endif %}
-  {% include write-back.html %}
-  {% include share-page.html %}
+  {% include improve-entry.html %}
 </div>
 
 {% assign siblings = site.deeper | where: "parent", page.parent | sort: "order" %}

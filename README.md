@@ -43,7 +43,7 @@ The entry lists its companions under "Go deeper" at the foot of its text; each c
 - `index.html` — the list of entries, newest first. `about.md` — the purpose of the site and the appearance toggle.
 - `_layouts/`, `_includes/`, `static/` — the theme. `static/img/posts/` is where a post's `image:` lives; `static/img/favicon.svg` is the site mark.
 - `search.json` and `static/js/search.js` — the sidebar search; `feed.xml` — RSS.
-- `_includes/write-back.html`, `static/js/write-back.js` and `_tools/feedback-worker/` — the three buttons at the foot of an entry ("I'm curious about…", "I see a gap…", "I want to know more…"); a reader's note goes to the worker, which opens a GitHub issue labelled `reader`, or to the author's mail. Switched on by `feedback_endpoint` / `feedback_email` in `_config.yml`; the worker's README has the deploy steps.
+- `_includes/improve-entry.html`, `static/js/improve-entry.js` and `_tools/feedback-worker/` — the row at the foot of an entry that holds "Could this entry improve?" (No, Partly, Yes) beside Share. No thanks the reader and points at Share; Partly or Yes unfolds three note buttons ("Something is unclear", "Something seems wrong", "Something is missing"), and selecting a passage in the entry raises the same three as a pill, so the note carries the passage. Answers and notes post to the Cloudflare worker, which keeps one GitHub issue per entry (the tally in its body, each note a comment). `feedback_endpoint` in `_config.yml` is the worker's URL; `revised_after_note: YYYY-MM-DD` in an entry's front matter says so above the row.
 - Sister sites are linked from the sidebar in `_layouts/default.html`.
 
 ## Local preview

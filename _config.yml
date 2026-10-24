@@ -31,10 +31,10 @@ share:
 url: "https://journalsofexperiments.com"
 baseurl: ""
 
-# Write back: the three buttons at the foot of an entry (_includes/write-back.html), where a reader's note goes.
-# feedback_endpoint is the URL of the worker in _tools/feedback-worker once deployed (it opens a GitHub issue
-# labelled reader); feedback_email is the author's address, used when there is no endpoint or it fails (the
-# reader's own mail app). With neither set the buttons do not show.
+# Improve this entry: the question and the notes at the foot of an entry (_includes/improve-entry.html).
+# feedback_endpoint is the URL of the worker in _tools/feedback-worker once deployed (it keeps one GitHub issue
+# per entry, labelled reader); without it only Share shows. feedback_email is the author's address, used for a
+# note when the post fails (the reader's own mail app).
 feedback_endpoint: "https://journal-write-back.robert-7ca.workers.dev"
 # feedback_email: "you@example.com"
 
