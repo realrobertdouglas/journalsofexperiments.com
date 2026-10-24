@@ -1,13 +1,13 @@
 {% comment %}Improve this entry (post.html and deeper.html): the row at the foot of an entry, which also holds Share.
-"Could this entry improve?" with No, Partly, Yes. No thanks the reader and points at Share; Partly or Yes unfolds
-"What fell short?" with three buttons, "Something is unclear", "Something seems wrong", "Something is missing",
-each opening a short note. In the entry itself, selecting a passage raises a small pill with the same three
-choices, and that note carries the passage. Answers and notes post to `feedback_endpoint` in _config.yml (the
-worker in _tools/feedback-worker, which keeps one GitHub issue per entry: the tally in its body, each note a
-comment); `feedback_email` is the fallback for a note when the post fails (the reader's own mail app). With no
-endpoint, or without JavaScript, only Share shows. An entry whose front matter carries
-`revised_after_note: YYYY-MM-DD` says so above the row. Script: static/js/improve-entry.js. Styles: main.css
-.improve.{% endcomment %}
+"Could this entry improve?" with No, Partly, Yes. No thanks the reader and points at Share; Partly or Yes opens
+"Something is" with unclear, wrong, missing, each opening a short note. Before an answer the question sits beside
+Share on a wide screen; once answered, the thanks or "Something is" opens between them and Share drops below. In the
+entry itself, selecting a passage raises a small pill with the same three choices, and that note carries the
+passage. Answers and notes post to `feedback_endpoint` in _config.yml (the worker in _tools/feedback-worker, which
+keeps one GitHub issue per entry: the tally in its body, each note a comment, and mails the owner each note);
+`feedback_email` is the fallback for a note when the post fails (the reader's own mail app). With no endpoint, or
+without JavaScript, only Share shows. An entry whose front matter carries `revised_after_note: YYYY-MM-DD` says so
+above the row. Script: static/js/improve-entry.js. Styles: main.css .improve.{% endcomment %}
 <section class="improve" id="js-improve"
   data-endpoint="{{ site.feedback_endpoint }}" data-email="{{ site.feedback_email }}"
   data-title="{{ page.title | escape }}" data-url="{{ site.url }}{{ page.url }}">
@@ -24,32 +24,32 @@ endpoint, or without JavaScript, only Share shows. An entry whose front matter c
         <button type="button" class="improve__answer" data-answer="yes" aria-pressed="false">Yes</button>
       </div>
     </div>
+    <p class="improve__thanks" role="status" hidden></p>
+    <div class="improve__followup" hidden>
+      <div class="improve__line">
+        <span class="improve__what" id="improve-what">Something is</span>
+        <div class="improve__kinds" role="group" aria-labelledby="improve-what">
+          <button type="button" class="improve__kind" data-kind="unclear" aria-pressed="false">unclear</button>
+          <button type="button" class="improve__kind" data-kind="wrong" aria-pressed="false">wrong</button>
+          <button type="button" class="improve__kind" data-kind="missing" aria-pressed="false">missing</button>
+        </div>
+      </div>
+      <form class="improve__form" hidden>
+        <textarea id="improve-text" class="improve__text" rows="2" maxlength="2000" required aria-label="Your note"></textarea>
+        <blockquote class="improve__quote" hidden></blockquote>
+        <input class="improve__hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <div class="improve__actions">
+          <button type="submit" class="improve__send">Send</button>
+          <button type="button" class="improve__cancel">Cancel</button>
+          <span class="improve__hint">No name needed. Or select a passage to flag it in place.</span>
+        </div>
+      </form>
+      <p class="improve__done" role="status" hidden></p>
+    </div>
     {% endif %}
     {% include share-page.html %}
   </div>
   {% if site.feedback_endpoint %}
-  <p class="improve__thanks" role="status" hidden></p>
-  <div class="improve__followup" hidden>
-    <p class="improve__what">What fell short?</p>
-    <div class="improve__kinds" role="group" aria-label="What fell short?">
-      <button type="button" class="improve__kind" data-kind="unclear" aria-pressed="false">Something is unclear</button>
-      <button type="button" class="improve__kind" data-kind="wrong" aria-pressed="false">Something seems wrong</button>
-      <button type="button" class="improve__kind" data-kind="missing" aria-pressed="false">Something is missing</button>
-    </div>
-    <form class="improve__form" hidden>
-      <label class="improve__phrase" for="improve-text"></label>
-      <textarea id="improve-text" class="improve__text" rows="3" maxlength="2000" required></textarea>
-      <blockquote class="improve__quote" hidden></blockquote>
-      <input class="improve__hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
-      <div class="improve__actions">
-        <button type="submit" class="improve__send">Send</button>
-        <button type="button" class="improve__cancel">Cancel</button>
-        <span class="improve__hint">Goes to the author. No name or account needed.</span>
-      </div>
-    </form>
-    <p class="improve__done" role="status" hidden></p>
-    <p class="improve__tip">Or select any passage in the entry to flag it where it stands.</p>
-  </div>
   <template id="js-improve-flag">
     <div class="improve-flag" hidden>
       <span class="improve-flag__label">Flag this</span>

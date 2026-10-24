@@ -1,7 +1,8 @@
 /*  Improve this entry: the row at the foot of an entry (_includes/improve-entry.html). "Could this entry improve?"
     No, Partly, Yes: an answer posts at once to the endpoint named in _config.yml (feedback_endpoint: the worker in
     _tools/feedback-worker, which keeps one GitHub issue per entry). No thanks the reader and points at Share; Partly
-    or Yes unfolds "What fell short?", three buttons that each open a short note. Selecting a passage in the entry
+    or Yes opens "Something is" with unclear, wrong, missing, each opening a short note. Once answered, the row is
+    marked open and Share drops below the thanks or the note buttons. Selecting a passage in the entry
     raises a pill with the same three choices, and that note carries the passage. A note that fails to post goes to
     the reader's mail app when feedback_email is set. sessionStorage keeps two things for this visit only: the
     answer, so a reload does not count it twice, and the number of the entry's issue, sent back with the next post
@@ -18,11 +19,11 @@
   var title = box.getAttribute('data-title') || document.title;
   var url = box.getAttribute('data-url') || location.href;
   var answers = poll.querySelectorAll('.improve__answer');
+  var row = box.querySelector('.improve__row');
   var thanks = box.querySelector('.improve__thanks');
   var share = box.querySelector('.share-page');
   var kinds = followup.querySelectorAll('.improve__kind');
   var form = followup.querySelector('.improve__form');
-  var phrase = form.querySelector('.improve__phrase');
   var text = form.querySelector('.improve__text');
   var quoteEl = form.querySelector('.improve__quote');
   var hp = form.querySelector('.improve__hp');
@@ -32,7 +33,7 @@
 
   var KINDS = {
     unclear: { label: 'Something is unclear', prompt: 'Which sentence lost you, and how you read it.' },
-    wrong:   { label: 'Something seems wrong', prompt: 'What you think it should say, and where you saw it.' },
+    wrong:   { label: 'Something is wrong',    prompt: 'What you think it should say, and where you saw it.' },
     missing: { label: 'Something is missing',  prompt: 'What you expected to find here.' }
   };
   var SENT = 'Sent. Thank you. The author reads every note.';
@@ -62,6 +63,7 @@
 
   /* The question */
   function showAnswer(answer, fresh) {
+    if (row) row.classList.add('is-open');          // Share drops below what opens
     if (answer === 'no') {
       followup.hidden = true;
       thanks.textContent = 'Thank you. Share it with someone who would read it.';
@@ -96,7 +98,7 @@
   function openNote(button) {
     kind = button.getAttribute('data-kind');
     pressOnly(kinds, button);
-    phrase.textContent = KINDS[kind].label;
+    text.setAttribute('aria-label', KINDS[kind].label);
     text.placeholder = KINDS[kind].prompt;
     if (quote) { quoteEl.textContent = '“' + quote + '”'; quoteEl.hidden = false; }
     else { quoteEl.hidden = true; }
