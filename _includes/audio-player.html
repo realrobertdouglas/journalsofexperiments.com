@@ -1,30 +1,39 @@
-{% comment %}Audio player card (post.html, under the subtitle). An entry whose front matter has `audio:` (an MP3 URL),
+{% comment %}Audio player card (post.html, under the subtitle; deeper.html). An entry whose front matter has `audio:` (an MP3 URL),
 `audio_length:` (bytes) and `audio_duration:` ("43:10") gets this card and is listed in /podcast.xml. With
 `audio_young:`, `audio_young_length:` and `audio_young_duration:` as well, the card's Full/Younger pills switch both
 the text and the narration (the reader toggle in _includes/reader-toggle.html follows, and vice versa).
-The card is a custom player over a hidden <audio> element: a play button that becomes a pause button while playing,
-a seek bar, a status line ("Listen · 26:26 left at 1.5×", then "Playing · …" / "Paused · …"), the clock, speed pills and
-the feed. The file addresses carry ?v=<length> so a browser that cached an earlier render fetches the new one (the
+The card is a custom player over a hidden <audio> element: back-ten-seconds, play (a pause button while playing) and
+forward-ten-seconds buttons, a status line ("Listen · 26:26 left at 1.5×", then "Playing · …" / "Paused · …", or
+"Resume · …" when this browser remembers where the reader stopped), the clock, a seek bar, speed pills and the feed.
+The position is kept in this browser as the file plays, so a page that reloads (a phone that put the tab to sleep,
+a pull to refresh) comes back with the clock where it was; the next press of play carries on from there.
+The file addresses carry ?v=<length> so a browser that cached an earlier render fetches the new one (the
 files are served with a one-year immutable cache header). Without JavaScript the native player shows instead and the card stays hidden.
 The files are made with journal-audio/make-audio.py, beside the site repos. Script: static/js/audio-player.js.
 Styles: main.css .audio-card.{% endcomment %}
 {% if page.audio %}
-<div class="audio-card" id="js-audio-player" data-full-src="{{ page.audio }}?v={{ page.audio_length }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}?v={{ page.audio_young_length }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
+<div class="audio-card" id="js-audio-player" data-title="{{ page.title | escape }}" data-full-src="{{ page.audio }}?v={{ page.audio_length }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}?v={{ page.audio_young_length }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
   <audio class="audio-card__native" controls preload="none" src="{{ page.audio }}?v={{ page.audio_length }}"><a href="{{ page.audio }}">Download the audio</a></audio>
   <div class="audio-card__ui" hidden>
     <div class="audio-card__top">
+      <button type="button" class="audio-card__skip" id="js-audio-back" aria-label="Back ten seconds" title="Back 10 seconds">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5V1L7 6l5 5V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8z"/><text x="12" y="15.6" text-anchor="middle" font-size="7" font-weight="700">10</text></svg>
+      </button>
       <button type="button" class="audio-card__play" id="js-audio-play" aria-label="Play the narration">
         <svg class="audio-card__icon audio-card__icon--play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
         <svg class="audio-card__icon audio-card__icon--pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+      </button>
+      <button type="button" class="audio-card__skip" id="js-audio-forward" aria-label="Forward ten seconds" title="Forward 10 seconds">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5V1l5 5-5 5V7a6 6 0 1 0 6 6h2a8 8 0 1 1-8-8z"/><text x="12" y="15.6" text-anchor="middle" font-size="7" font-weight="700">10</text></svg>
       </button>
       <div class="audio-card__main">
         <div class="audio-card__line">
           <span class="audio-card__status" id="js-audio-status" aria-live="polite"></span>
           <span class="audio-card__clock" id="js-audio-clock"></span>
         </div>
-        <input type="range" class="audio-card__seek" id="js-audio-seek" min="0" max="100" step="1" value="0" aria-label="Position in the narration">
       </div>
     </div>
+    <input type="range" class="audio-card__seek" id="js-audio-seek" min="0" max="100" step="1" value="0" aria-label="Position in the narration">
     <div class="audio-card__bottom">
       {% if page.young %}
       <span class="audio-card__group" role="group" aria-label="Version">
