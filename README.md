@@ -1,8 +1,8 @@
-# journalsofexperiments.com
+# journalofexperiments.com
 
 Journal of Experiments: Recounts of other people's experiments and the lessons they learned from them.
 
-Published with GitHub Pages at https://journalsofexperiments.com. The theme is the one douglas.lol uses (Jekyll, the github-pages gem, Roboto Condensed, a light and a dark mode that follows the clock and the device).
+Published with GitHub Pages at https://journalofexperiments.com; HumansTest.com is the short address shown to readers, and journalsofexperiments.com, the first name, redirects (both through Cloudflare). The theme is the one douglas.lol uses (Jekyll, the github-pages gem, Roboto Condensed, a light and a dark mode that follows the clock and the device).
 
 ## Writing an entry
 

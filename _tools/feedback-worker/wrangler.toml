@@ -8,7 +8,7 @@ compatibility_date = "2025-07-18"
 NOTIFY_FROM = "notes@journalsofexperiments.com"
 GITHUB_REPO = "realrobertdouglas/journalsofexperiments.com"
 # Pages the worker accepts notes from (the Origin header and the entry's url). Add http://localhost:4000 to test locally.
-ALLOWED_ORIGINS = "https://journalsofexperiments.com,https://www.journalsofexperiments.com"
+ALLOWED_ORIGINS = "https://journalofexperiments.com,https://www.journalofexperiments.com,https://journalsofexperiments.com,https://www.journalsofexperiments.com"
 
 # GITHUB_API = "http://localhost:8787"   # only for a local test against a stand-in; the default is api.github.com
 

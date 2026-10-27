@@ -39,13 +39,13 @@ def body_before_sources(body):
     return body.split("\n## Sources", 1)[0]
 
 def fetch(url, timeout=12):
-    req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "Mozilla/5.0 (journalsofexperiments.com link check)"})
+    req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "Mozilla/5.0 (journalofexperiments.com link check)"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.status
     except urllib.error.HTTPError as e:
         if e.code in (405, 501):      # HEAD refused: try GET
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (journalsofexperiments.com link check)"})
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (journalofexperiments.com link check)"})
             try:
                 with urllib.request.urlopen(req, timeout=timeout) as r:
                     return r.status
@@ -176,7 +176,7 @@ def check_entry(post_path, links=True):
         say("ok" if len(have) == 3 else "FAIL", f"{key} lines complete ({len(have)} of 3)")
         if len(have) == 3 and links:
             try:
-                req = urllib.request.Request(fm[key], method="HEAD", headers={"User-Agent": "Mozilla/5.0 (journalsofexperiments.com link check)"})
+                req = urllib.request.Request(fm[key], method="HEAD", headers={"User-Agent": "Mozilla/5.0 (journalofexperiments.com link check)"})
                 with urllib.request.urlopen(req, timeout=15) as r:
                     cl = r.headers.get("Content-Length")
                 say("ok" if cl == fm[key + "_length"] else "WARN", f"{key} file is served with the length in the front matter ({cl} vs {fm[key + '_length']})")

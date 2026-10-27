@@ -7,11 +7,14 @@
 .share-pill:hover,.share-pill:focus{border-color:#2f8f4a;text-decoration:none}
 .share-page a.share-pill,.share-page a.share-pill:link,.share-page a.share-pill:visited,.share-page a.share-pill:hover{color:inherit}
 .share-pill svg{width:13px;height:13px;fill:currentColor}
+.share-page .share-short{font-size:13px;color:#888}
 html[data-theme="dark"] .share-pill,html[data-theme="dark"] .share-page a.share-pill:link,html[data-theme="dark"] .share-page a.share-pill:visited{border-color:#34383c;background:#26292d;color:#b8b8b8}
 html[data-theme="dark"] .share-page .share-pill:hover{border-color:#5cc474;color:#e0e0e0}
+html[data-theme="dark"] .share-page .share-short{color:#7d7d7d}
 </style>
 <div class="share-page">
   <span class="share-label">Share</span>
   <a class="share-pill" href="https://x.com/intent/post?text={{ page.title | url_encode }}&amp;url={{ share_url | url_encode }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>Post</a>
   <button type="button" class="share-pill" onclick="var b=this;navigator.clipboard.writeText('{{ share_url }}').then(function(){b.textContent='Copied ✓';setTimeout(function(){b.textContent='Copy link';},1500);});">Copy link</button>
+  {% if site.short_name %}<span class="share-short">or just say <a href="{{ site.short_url }}">{{ site.short_name }}</a></span>{% endif %}
 </div>

@@ -91,6 +91,11 @@ html[data-theme="dark"] a.site-wordmark:hover {
   text-wrap: balance; /* even lines, so a long tagline never strands one word on the last line */
 }
 /* Sister sites (default.html): a hairline under the search box, then two quiet links */
+.sidebar-intro .sidebar-short {   /* the short address under the tagline (_layouts/default.html) */
+  margin: -8px 0 14px;
+  font-size: 12px;
+  color: #999;
+}
 .sidebar-sites {
   margin-top: 22px;
   padding-top: 16px;
@@ -178,6 +183,7 @@ html[data-theme="dark"] .go-deeper__lede { color: #7d7d7d; }
 .reader-toggle__button { font: inherit; font-size: 13px; padding: 0; border: 0; background: none; color: #2d7f43; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
 .reader-toggle__button:hover,
 .reader-toggle__button:focus { color: #2f8f4a; }
+html[data-theme="dark"] .sidebar-short { color: #7d7d7d; }
 html[data-theme="dark"] .reader-toggle { color: #7d7d7d; }
 html[data-theme="dark"] .reader-toggle__button { color: #5cc474; }
 

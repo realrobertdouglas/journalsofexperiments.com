@@ -1,7 +1,8 @@
 # Working on the Journal of Experiments
 
-This is journalsofexperiments.com: recounts of other people's experiments and what they taught. It is a Jekyll
-site built by GitHub Pages from the root of `main` (repo `realrobertdouglas/journalsofexperiments.com`).
+This is journalofexperiments.com: recounts of other people's experiments and what they taught. It is a Jekyll
+site built by GitHub Pages from the root of `main` (repo `realrobertdouglas/journalsofexperiments.com`, the site's
+first name; that domain and HumansTest.com, the short address, redirect to it through Cloudflare).
 `README.md` covers the mechanics of the site. This file covers how the work is done, for whoever picks it up next.
 
 **The backlog of entries to write is `_ideas/experiment-ideas.md`.** Start there. Claim an idea by changing the
