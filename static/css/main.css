@@ -78,6 +78,14 @@ a.site-wordmark:hover {
   letter-spacing: 0.32em;
   text-transform: uppercase;
 }
+.site-wordmark__short {   /* the short address (site.short_name) as the wordmark's third line, in the link green */
+  display: block;
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: #2d7f43;
+}
 html[data-theme="dark"] a.site-wordmark,
 html[data-theme="dark"] a.site-wordmark:link,
 html[data-theme="dark"] a.site-wordmark:visited,
@@ -91,11 +99,6 @@ html[data-theme="dark"] a.site-wordmark:hover {
   text-wrap: balance; /* even lines, so a long tagline never strands one word on the last line */
 }
 /* Sister sites (default.html): a hairline under the search box, then two quiet links */
-.sidebar-intro .sidebar-short {   /* the short address under the tagline (_layouts/default.html) */
-  margin: -8px 0 14px;
-  font-size: 12px;
-  color: #999;
-}
 .sidebar-sites {
   margin-top: 22px;
   padding-top: 16px;
@@ -183,7 +186,7 @@ html[data-theme="dark"] .go-deeper__lede { color: #7d7d7d; }
 .reader-toggle__button { font: inherit; font-size: 13px; padding: 0; border: 0; background: none; color: #2d7f43; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
 .reader-toggle__button:hover,
 .reader-toggle__button:focus { color: #2f8f4a; }
-html[data-theme="dark"] .sidebar-short { color: #7d7d7d; }
+html[data-theme="dark"] .site-wordmark__short { color: #5cc474; }
 html[data-theme="dark"] .reader-toggle { color: #7d7d7d; }
 html[data-theme="dark"] .reader-toggle__button { color: #5cc474; }
 
