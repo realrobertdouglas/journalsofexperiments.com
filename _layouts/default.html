@@ -163,6 +163,10 @@ layout: compress
             {% if site.tagline %}
               <p class="tagline"><a href="/about/">{{ site.tagline }}</a></p>
             {% endif %}
+            {% if site.short_name %}
+              {% comment %}The short address, so readers know there is an easy one to pass on (styles: main.css .sidebar-short){% endcomment %}
+              <p class="sidebar-short">Easy to share: <a href="{{ site.short_url }}">{{ site.short_name }}</a></p>
+            {% endif %}
           </div>
           <div class="search" id="js-search">
             <input type="search" placeholder="Search" aria-label="Search posts" aria-keyshortcuts="/" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="js-search__results" autocomplete="off" class="search__input form-control" id="js-search__input">

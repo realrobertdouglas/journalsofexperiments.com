@@ -56,14 +56,14 @@ mailed.
 An answer (the reply names the entry's issue):
 
     curl -s -X POST https://journal-write-back.robert-7ca.workers.dev \
-      -H 'Origin: https://journalsofexperiments.com' -H 'Content-Type: application/json' \
-      -d '{"type":"answer","answer":"partly","title":"ZZ test entry","url":"https://journalsofexperiments.com/zz-test"}'
+      -H 'Origin: https://journalofexperiments.com' -H 'Content-Type: application/json' \
+      -d '{"type":"answer","answer":"partly","title":"ZZ test entry","url":"https://journalofexperiments.com/zz-test"}'
 
 A note (the reply names the comment):
 
     curl -s -X POST https://journal-write-back.robert-7ca.workers.dev \
-      -H 'Origin: https://journalsofexperiments.com' -H 'Content-Type: application/json' \
-      -d '{"type":"note","kind":"missing","text":"test","title":"ZZ test entry","url":"https://journalsofexperiments.com/zz-test"}'
+      -H 'Origin: https://journalofexperiments.com' -H 'Content-Type: application/json' \
+      -d '{"type":"note","kind":"missing","text":"test","title":"ZZ test entry","url":"https://journalofexperiments.com/zz-test"}'
 
 Close the `Reader notes: ZZ test entry` issue afterwards.
 

@@ -28,7 +28,11 @@ share:
   twitter_username:
   fb_appid: ""
 
-url: "https://journalsofexperiments.com"
+# The site's address. journalsofexperiments.com, its first name, redirects here; HumansTest.com is the short address
+# readers are shown (sidebar and the share row), and redirects here too.
+url: "https://journalofexperiments.com"
+short_name: "HumansTest.com"
+short_url: "https://humanstest.com/"
 baseurl: ""
 
 # Improve this entry: the question and the notes at the foot of an entry (_includes/improve-entry.html).
