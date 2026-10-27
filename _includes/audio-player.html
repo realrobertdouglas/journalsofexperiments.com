@@ -12,7 +12,7 @@ files are served with a one-year immutable cache header). Without JavaScript the
 The files are made with journal-audio/make-audio.py, beside the site repos. Script: static/js/audio-player.js.
 Styles: main.css .audio-card.{% endcomment %}
 {% if page.audio %}
-<div class="audio-card" id="js-audio-player" data-title="{{ page.title | escape }}" data-full-src="{{ page.audio }}?v={{ page.audio_length }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}?v={{ page.audio_young_length }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
+<div class="audio-card" id="js-audio-player" data-title="{{ page.title | escape }}" data-artist="{{ site.title | escape }}{% if site.short_name %} · {{ site.short_name }}{% endif %}" data-full-src="{{ page.audio }}?v={{ page.audio_length }}" data-full-duration="{{ page.audio_duration }}"{% if page.audio_young %} data-young-src="{{ page.audio_young }}?v={{ page.audio_young_length }}" data-young-duration="{{ page.audio_young_duration }}"{% endif %}>
   <audio class="audio-card__native" controls preload="none" src="{{ page.audio }}?v={{ page.audio_length }}"><a href="{{ page.audio }}">Download the audio</a></audio>
   <div class="audio-card__ui" hidden>
     <div class="audio-card__top">

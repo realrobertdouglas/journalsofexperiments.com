@@ -84,7 +84,8 @@ layout: compress
       {% capture share_image %}{{ site.url }}/static/img/posts/{{ page.image }}{% endcapture %}
       <meta content="{{ share_image }}" property="og:image">
     {% endif %}
-    <meta content="{{ site.title }}" property="og:site_name">
+    {% comment %}The site name a chat app shows above a pasted link carries the short address too.{% endcomment %}
+    <meta content="{{ site.title }}{% if site.short_name %} · {{ site.short_name }}{% endif %}" property="og:site_name">
 
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
@@ -153,19 +154,16 @@ layout: compress
           </div>
           <!-- <div class="project-img bordered" style="background-image: url('/static/img/rob.jpeg');"></div> -->
           <div class="sidebar-intro">
-            {% comment %}The wordmark: two lines of type (styles: main.css .site-wordmark){% endcomment %}
+            {% comment %}The wordmark: two lines of type, and the short address as a third line (styles: main.css .site-wordmark){% endcomment %}
             <h1 class="author-name">
               <a href="/" class="site-wordmark">
                 <span class="site-wordmark__main">Journal of</span>
                 <span class="site-wordmark__sub">Experiments</span>
+                {% if site.short_name %}<span class="site-wordmark__short">{{ site.short_name }}</span>{% endif %}
               </a>
             </h1>
             {% if site.tagline %}
               <p class="tagline"><a href="/about/">{{ site.tagline }}</a></p>
-            {% endif %}
-            {% if site.short_name %}
-              {% comment %}The short address, so readers know there is an easy one to pass on (styles: main.css .sidebar-short){% endcomment %}
-              <p class="sidebar-short">Easy to share: <a href="{{ site.short_url }}">{{ site.short_name }}</a></p>
             {% endif %}
           </div>
           <div class="search" id="js-search">

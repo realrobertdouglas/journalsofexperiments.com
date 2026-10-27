@@ -33,6 +33,7 @@
   var ratePills = Array.prototype.slice.call(card.querySelectorAll('[data-rate]'));
   var versionPills = Array.prototype.slice.call(card.querySelectorAll('[data-version]'));
   var title = card.getAttribute('data-title') || document.title;
+  var artist = card.getAttribute('data-artist') || 'Journal of Experiments';   // the lock screen's second line: the site and its short address
   var session = ('mediaSession' in navigator) ? navigator.mediaSession : null;
 
   function parseDuration(text) {           // "39:39" or "1:02:03" -> seconds
@@ -103,7 +104,7 @@
     try {
       session.metadata = new MediaMetadata({
         title: version === 'young' ? title + ' (for younger readers)' : title,
-        artist: 'Journal of Experiments',
+        artist: artist,
         artwork: [{ src: location.origin + '/static/img/podcast-cover.png', sizes: '1400x1400', type: 'image/png' }]
       });
     } catch (e) {}
