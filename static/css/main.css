@@ -517,10 +517,17 @@ html[data-theme="dark"] div.post-content .btn-tags:focus-visible {
 .content .colophon p { margin: .6em 0 0; }
 
 /* Audio card (entries with audio: in their front matter; _includes/audio-player.html, static/js/audio-player.js):
-   a round play button, the status line and clock over a seek bar, then Full/Younger and speed pills and the feed */
+   back and forward ten seconds either side of a round play button, the status line and clock beside them, a seek bar
+   across the card, then Full/Younger and speed pills and the feed */
 .audio-card { margin: 4px 0 4px; max-width: 34em; }
 .audio-card__ui { border: 1px solid #e3e3e3; border-radius: 12px; background: #fafaf8; padding: 10px 12px; }
-.audio-card__top { display: flex; align-items: center; gap: 12px; }
+.audio-card__top { display: flex; align-items: center; gap: 10px; }
+.audio-card__skip { flex: none; width: 34px; height: 34px; padding: 0; border: 1px solid #e3e3e3; border-radius: 50%; background: #f6f6f4; color: #2d7f43; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; transition: border-color .15s, transform .15s; }
+.audio-card__skip:hover,
+.audio-card__skip:focus-visible { border-color: #2f8f4a; }
+.audio-card__skip:active { transform: scale(.94); }
+.audio-card__skip svg { width: 22px; height: 22px; fill: currentColor; }
+.audio-card__skip text { font-family: inherit; }
 .audio-card__play { flex: none; width: 40px; height: 40px; padding: 0; border: 0; border-radius: 50%; background: #2d7f43; color: #fff; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; transition: background .15s, transform .15s, box-shadow .15s; }
 .audio-card__play:hover,
 .audio-card__play:focus-visible { background: #2f8f4a; }
@@ -533,15 +540,17 @@ html[data-theme="dark"] div.post-content .btn-tags:focus-visible {
 .audio-card__play.is-playing .audio-card__icon--play { display: none; }
 .audio-card__play.is-playing .audio-card__icon--pause { display: block; }
 @media (prefers-reduced-motion: reduce) {
-  .audio-card__play { transition: none; }
+  .audio-card__play,
+  .audio-card__skip { transition: none; }
   .audio-card__play:hover,
-  .audio-card__play:active { transform: none; }
+  .audio-card__play:active,
+  .audio-card__skip:active { transform: none; }
 }
 .audio-card__main { flex: 1; min-width: 0; }
-.audio-card__line { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; font-size: 13px; margin-bottom: 7px; }
+.audio-card__line { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 2px 10px; font-size: 13px; }
 .audio-card__status { font-variant-numeric: tabular-nums; }
 .audio-card__clock { color: #777; font-variant-numeric: tabular-nums; white-space: nowrap; font-size: 12px; }
-.audio-card__seek { --seek-fill: #2d7f43; --seek-track: #e3e3e3; -webkit-appearance: none; appearance: none; display: block; width: 100%; height: 4px; margin: 0; border-radius: 2px; background: var(--seek-track); outline: none; cursor: pointer; }
+.audio-card__seek { --seek-fill: #2d7f43; --seek-track: #e3e3e3; -webkit-appearance: none; appearance: none; display: block; width: 100%; height: 4px; margin: 10px 0 0; border-radius: 2px; background: var(--seek-track); outline: none; cursor: pointer; }
 .audio-card__seek::-webkit-slider-thumb { -webkit-appearance: none; width: 14px; height: 14px; border-radius: 50%; background: var(--seek-fill); border: 0; }
 .audio-card__seek::-moz-range-thumb { width: 14px; height: 14px; border-radius: 50%; background: var(--seek-fill); border: 0; }
 .audio-card__seek::-moz-range-track { height: 4px; background: transparent; }
@@ -559,6 +568,9 @@ html[data-theme="dark"] .audio-card__play { background: #5cc474; color: #1b1d1f;
 html[data-theme="dark"] .audio-card__play:hover,
 html[data-theme="dark"] .audio-card__play:focus-visible { background: #6fd186; }
 html[data-theme="dark"] .audio-card__play.is-playing { box-shadow: 0 0 0 4px rgba(92, 196, 116, .22); }
+html[data-theme="dark"] .audio-card__skip { border-color: #34383c; background: #26292d; color: #5cc474; }
+html[data-theme="dark"] .audio-card__skip:hover,
+html[data-theme="dark"] .audio-card__skip:focus-visible { border-color: #5cc474; }
 html[data-theme="dark"] .audio-card__clock { color: #8a8f94; }
 html[data-theme="dark"] .audio-card__seek { --seek-fill: #5cc474; --seek-track: #3a3f44; }
 html[data-theme="dark"] .audio-card__seek:focus-visible { box-shadow: 0 0 0 3px rgba(92, 196, 116, .3); }
